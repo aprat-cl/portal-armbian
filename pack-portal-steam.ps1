@@ -26,6 +26,7 @@ Copy-Item (Join-Path $Src 'install-fex.sh') $Out
 Copy-Item (Join-Path $Src 'setup-games.sh') $Out
 Copy-Item (Join-Path $Src 'portal-game-launch') $Out
 Copy-Item (Join-Path $Src 'diagnose-game.sh') $Out
+Copy-Item (Join-Path $Src 'reset-prefix.sh') $Out
 if (Test-Path (Join-Path $Src 'share\fex-emu')) {
     New-Item -ItemType Directory -Path (Join-Path $Out 'share\fex-emu') -Force | Out-Null
     Copy-Item (Join-Path $Src 'share\fex-emu\*') (Join-Path $Out 'share\fex-emu') -Recurse -Force
