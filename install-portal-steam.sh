@@ -42,24 +42,47 @@ echo "[portal-steam] Installing apt dependencies..."
 export DEBIAN_FRONTEND=noninteractive
 apt-get update
 
-# squashfuse is for FEX later — Noble package is squashfuse (not squashfuse-tools).
-portal_steam_apt_install() {
-	local required=(
-		gamescope jq unzip wget curl ca-certificates libnss3 libsdl2-2.0-0
-		vulkan-tools libxtst6 libxi6 libgbm1 file libgtk-3-0 libdbus-1-3
-		libasound2 libpulse0 libudev1 libusb-1.0-0 libegl1 libdrm2
-		libwayland-client0 libva2 libvulkan1
-	)
-	local optional=(mangohud squashfuse libfuse2 libvpx9 libminizip1 libminizip1t64)
-
-	apt-get install -y --no-install-recommends "${required[@]}"
-
-	local pkg
-	for pkg in "${optional[@]}"; do
-		if apt-get install -y --no-install-recommends "${pkg}"; then
-			continue
+# Noble 24.04 renamed many libs (*t64). Try each alias until one installs.
+portal_steam_apt_install_one() {
+	local pkg ok=0 name
+	for name in "$@"; do
+		if apt-cache show "${name}" >/dev/null 2>&1; then
+			apt-get install -y --no-install-recommends "${name}" && ok=1 && break
 		fi
-		echo "[portal-steam] optional package not available: ${pkg} (OK for native Steam)"
+	done
+	[[ "${ok}" -eq 1 ]]
+}
+
+portal_steam_apt_install() {
+	local -a core=(
+		gamescope jq unzip wget curl ca-certificates libnss3 libsdl2-2.0-0
+		vulkan-tools mesa-vulkan-drivers libxtst6 libxi6 libgbm1 file libvulkan1
+	)
+	local -a optional_groups=(
+		"mangohud"
+		"squashfuse"
+		"libfuse2"
+		"libvpx9"
+		"libminizip1 libminizip1t64"
+		"libgtk-3-0 libgtk-3-0t64"
+		"libdbus-1-3 libdbus-1-3t64"
+		"libasound2 libasound2t64"
+		"libpulse0 libpulse0t64"
+		"libudev1 libudev1t64"
+		"libusb-1.0-0"
+		"libegl1"
+		"libdrm2"
+		"libwayland-client0"
+		"libva2"
+	)
+
+	apt-get install -y --no-install-recommends "${core[@]}"
+
+	local group
+	for group in "${optional_groups[@]}"; do
+		# shellcheck disable=SC2086
+		portal_steam_apt_install_one ${group} || \
+			echo "[portal-steam] optional not installed (OK): ${group%% *}"
 	done
 }
 portal_steam_apt_install
