@@ -91,7 +91,8 @@ portal_steam_install_script setup-games.sh portal-setup-games
 portal_steam_install_script install-proton-stack.sh portal-install-proton-stack
 portal_steam_install_script install-controller-support.sh portal-install-controller
 portal_steam_install_script restore-portal-wayland.sh portal-restore-wayland
-portal_steam_install_script try-portal-x11-gaming.sh portal-try-x11-gaming
+portal_steam_install_script enable-portal-login-choice.sh portal-enable-login-choice
+install -m755 "${SRC}/enable-portal-login-choice.sh" /usr/local/bin/portal-try-x11-gaming
 portal_steam_install_script portal-game-launch portal-game-launch
 portal_steam_install_script diagnose-game.sh portal-diagnose-game
 portal_steam_install_script reset-prefix.sh portal-reset-prefix
@@ -111,5 +112,6 @@ echo "  portal-install-steam       Steam ARM64 beta client"
 echo "  portal-steam --gaming      Big Picture + gamescope"
 echo "  portal-setup-games         FEX + Proton prep"
 echo "  sudo portal-install-proton-stack   Proton env (all games)"
-echo "  sudo portal-try-x11-gaming         Optional X11 (revert: portal-restore-wayland)"
+echo "  sudo portal-enable-login-choice    Pick Wayland or X11 at login (no autologin)"
+echo "  sudo portal-restore-wayland        Autologin + Wayland again"
 echo "  portal-diagnose-game       Debug while game runs"

@@ -52,10 +52,10 @@ cat > /etc/xdg/plasma-workspace/env/99-portal-proton.sh << 'EOF'
 EOF
 chmod 755 /etc/xdg/plasma-workspace/env/99-portal-proton.sh
 
-# Default desktop stays Wayland unless you opt into X11 (see try-portal-x11-gaming.sh).
-echo "[portal-proton] Proton env installed. Desktop session unchanged (still Wayland until you switch)."
-echo "  Switch to X11 (installs xorg + reboot): sudo portal-try-x11-gaming"
-echo "  Revert to Wayland: sudo portal-restore-wayland"
+# Default desktop stays Wayland unless you pick X11 at SDDM login.
+echo "[portal-proton] Proton env installed. Session type unchanged until you pick at login."
+echo "  Pick Wayland/X11 at login: sudo portal-enable-login-choice && sudo systemctl restart sddm"
+echo "  Autologin + Wayland again: sudo portal-restore-wayland"
 
 echo ""
 echo "System stack installed. As ${STEAM_USER}:"

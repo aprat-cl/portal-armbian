@@ -10,9 +10,10 @@ fi
 STEAM_USER="${SUDO_USER:-aprat}"
 mkdir -p /etc/sddm.conf.d /etc/environment.d /etc/xdg/plasma-workspace/env
 
+rm -f /etc/sddm.conf.d/zz-portal-session-choice.conf
+rm -f /etc/sddm.conf.d/zz-portal-gaming-x11.conf
 rm -f /etc/sddm.conf.d/99-portal-gaming-x11.conf
 rm -f /etc/sddm.conf.d/99-portal-x11-remote.conf
-rm -f /etc/sddm.conf.d/zz-portal-gaming-x11.conf
 
 cat >/etc/sddm.conf.d/10-portal-wayland.conf << 'EOF'
 [General]
