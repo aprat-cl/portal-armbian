@@ -1,0 +1,701 @@
+
+
+[2026-06-09 00:41:51] Client version: 1780352834
+[2026-06-09 00:41:51] SteamOSManager: daemon not present
+[2026-06-09 00:41:51] SteamOSManager: failed to connect to OS service
+[2026-06-09 00:41:51] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 00:41:51] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 00:41:51] Set tdp limit enabled: 0
+[2026-06-09 00:41:51] Commit tdp limit update: 0 - 0
+[2026-06-09 00:41:51] Set tdp limit: 0
+[2026-06-09 00:41:51] Commit tdp limit update: 0 - 0
+[2026-06-09 00:41:51] Set CEC enabled: 1
+[2026-06-09 00:41:51] Set CEC wake on resume: 1
+[2026-06-09 00:41:51] Set wifi debug enabled: 0
+[2026-06-09 00:41:51] Set wifi force wpa supplicant: 0
+[2026-06-09 00:41:51] Set wifi power management: 0
+[2026-06-09 00:41:51] Set manual gpu clock enabled: 0
+[2026-06-09 00:41:51] Set manual gpu clock hz: 1000
+[2026-06-09 00:41:51] Set platform performance profile: 
+[2026-06-09 00:41:51] Error: invalid profile: 
+[2026-06-09 00:41:51] Set battery charge limit enabled: 0
+[2026-06-09 00:41:51] Commit charge limit update: 0 - -1
+[2026-06-09 00:41:51] Set battery charge limit: 80
+[2026-06-09 00:41:51] Commit charge limit update: 0 - -1
+[2026-06-09 00:41:51] Set screen reader locale: auto
+[2026-06-09 00:41:51] Error: invalid screen reader locale: auto
+[2026-06-09 00:41:51] Set reload wifi driver on sleep: 0
+[2026-06-09 00:41:51] Set screen reader locale: auto
+[2026-06-09 00:41:51] Error: invalid screen reader locale: auto
+[2026-06-09 00:41:52] Set tdp limit enabled: 0
+[2026-06-09 00:41:52] Commit tdp limit update: 0 - 0
+[2026-06-09 00:41:52] Set tdp limit: 0
+[2026-06-09 00:41:52] Commit tdp limit update: 0 - 0
+[2026-06-09 00:41:52] Set manual gpu clock enabled: 0
+[2026-06-09 00:41:52] Set manual gpu clock hz: 0
+[2026-06-09 00:41:52] Set platform performance profile: 
+[2026-06-09 00:41:52] Error: invalid profile: 
+[2026-06-09 00:41:52] Set screen reader enabled: 0
+[2026-06-09 00:41:52] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 00:41:52] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 00:41:54] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 00:41:54] Error: failed to run steamos-mandatory-update check
+[2026-06-09 00:41:54] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 00:42:24] Set system tracing enabled: 0
+[2026-06-09 00:42:24] Set VRS enabled: 0
+[2026-06-09 00:42:24] Set screen reader rate: 0.500000
+[2026-06-09 00:42:24] Set screen reader pitch: 0.500000
+[2026-06-09 00:42:24] Set screen reader volume: 1.000000
+[2026-06-09 00:42:57] Set streaming active: 0
+[2026-06-09 00:42:58] Set tdp limit enabled: 0
+[2026-06-09 00:42:58] Commit tdp limit update: 0 - 0
+[2026-06-09 00:42:58] Set tdp limit: 0
+[2026-06-09 00:42:58] Commit tdp limit update: 0 - 0
+[2026-06-09 00:42:58] Set manual gpu clock enabled: 0
+[2026-06-09 00:42:58] Set manual gpu clock hz: 0
+[2026-06-09 00:42:58] Set platform performance profile: 
+[2026-06-09 00:42:58] Error: invalid profile: 
+[2026-06-09 00:42:58] Set system tracing enabled: 0
+[2026-06-09 00:42:58] Set VRS enabled: 0
+[2026-06-09 00:42:58] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 00:42:58] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 00:42:58] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 00:42:58] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 00:44:54] Set tdp limit enabled: 0
+[2026-06-09 00:44:54] Commit tdp limit update: 0 - 0
+[2026-06-09 00:44:54] Set tdp limit: 0
+[2026-06-09 00:44:54] Commit tdp limit update: 0 - 0
+[2026-06-09 00:44:54] Set manual gpu clock enabled: 0
+[2026-06-09 00:44:54] Set manual gpu clock hz: 0
+[2026-06-09 00:44:54] Set platform performance profile: 
+[2026-06-09 00:44:54] Error: invalid profile: 
+[2026-06-09 00:44:54] Set system tracing enabled: 0
+[2026-06-09 00:44:54] Set VRS enabled: 0
+[2026-06-09 00:44:54] Set streaming active: 0
+[2026-06-09 00:44:54] Set streaming active: 0
+[2026-06-09 00:44:56] Set streaming active: 0
+
+
+[2026-06-09 00:45:18] Client version: 1780352834
+[2026-06-09 00:45:18] SteamOSManager: daemon not present
+[2026-06-09 00:45:18] SteamOSManager: failed to connect to OS service
+[2026-06-09 00:45:18] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 00:45:18] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 00:45:18] Set tdp limit enabled: 0
+[2026-06-09 00:45:18] Commit tdp limit update: 0 - 0
+[2026-06-09 00:45:18] Set tdp limit: 0
+[2026-06-09 00:45:18] Commit tdp limit update: 0 - 0
+[2026-06-09 00:45:18] Set CEC enabled: 1
+[2026-06-09 00:45:18] Set CEC wake on resume: 1
+[2026-06-09 00:45:18] Set wifi debug enabled: 0
+[2026-06-09 00:45:18] Set wifi force wpa supplicant: 0
+[2026-06-09 00:45:18] Set wifi power management: 0
+[2026-06-09 00:45:18] Set manual gpu clock enabled: 0
+[2026-06-09 00:45:18] Set manual gpu clock hz: 1000
+[2026-06-09 00:45:18] Set platform performance profile: 
+[2026-06-09 00:45:18] Error: invalid profile: 
+[2026-06-09 00:45:18] Set battery charge limit enabled: 0
+[2026-06-09 00:45:18] Commit charge limit update: 0 - -1
+[2026-06-09 00:45:18] Set battery charge limit: 80
+[2026-06-09 00:45:18] Commit charge limit update: 0 - -1
+[2026-06-09 00:45:18] Set screen reader locale: auto
+[2026-06-09 00:45:18] Error: invalid screen reader locale: auto
+[2026-06-09 00:45:18] Set reload wifi driver on sleep: 0
+[2026-06-09 00:45:18] Set screen reader locale: auto
+[2026-06-09 00:45:18] Error: invalid screen reader locale: auto
+[2026-06-09 00:45:29] Set tdp limit enabled: 0
+[2026-06-09 00:45:29] Commit tdp limit update: 0 - 0
+[2026-06-09 00:45:29] Set tdp limit: 0
+[2026-06-09 00:45:29] Commit tdp limit update: 0 - 0
+[2026-06-09 00:45:29] Set manual gpu clock enabled: 0
+[2026-06-09 00:45:29] Set manual gpu clock hz: 0
+[2026-06-09 00:45:29] Set platform performance profile: 
+[2026-06-09 00:45:29] Error: invalid profile: 
+[2026-06-09 00:45:29] Set screen reader enabled: 0
+[2026-06-09 00:45:29] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 00:45:29] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 00:45:31] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 00:45:31] Error: failed to run steamos-mandatory-update check
+[2026-06-09 00:45:31] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 00:45:31] Set system tracing enabled: 0
+[2026-06-09 00:45:31] Set VRS enabled: 0
+[2026-06-09 00:45:31] Set screen reader rate: 0.500000
+[2026-06-09 00:45:31] Set screen reader pitch: 0.500000
+[2026-06-09 00:45:31] Set screen reader volume: 1.000000
+[2026-06-09 00:54:21] Set tdp limit enabled: 0
+[2026-06-09 00:54:21] Commit tdp limit update: 0 - 0
+[2026-06-09 00:54:21] Set tdp limit: 0
+[2026-06-09 00:54:21] Commit tdp limit update: 0 - 0
+[2026-06-09 00:54:21] Set manual gpu clock enabled: 0
+[2026-06-09 00:54:21] Set manual gpu clock hz: 0
+[2026-06-09 00:54:21] Set platform performance profile: 
+[2026-06-09 00:54:21] Error: invalid profile: 
+[2026-06-09 00:54:21] Set system tracing enabled: 0
+[2026-06-09 00:54:21] Set VRS enabled: 0
+[2026-06-09 00:54:51] Set tdp limit enabled: 0
+[2026-06-09 00:54:51] Commit tdp limit update: 0 - 0
+[2026-06-09 00:54:51] Set tdp limit: 0
+[2026-06-09 00:54:51] Commit tdp limit update: 0 - 0
+[2026-06-09 00:54:51] Set manual gpu clock enabled: 0
+[2026-06-09 00:54:51] Set manual gpu clock hz: 0
+[2026-06-09 00:54:51] Set platform performance profile: 
+[2026-06-09 00:54:51] Error: invalid profile: 
+[2026-06-09 00:54:51] Set system tracing enabled: 0
+[2026-06-09 00:54:51] Set VRS enabled: 0
+[2026-06-09 00:58:51] Set tdp limit enabled: 0
+[2026-06-09 00:58:51] Commit tdp limit update: 0 - 0
+[2026-06-09 00:58:51] Set tdp limit: 0
+[2026-06-09 00:58:51] Commit tdp limit update: 0 - 0
+[2026-06-09 00:58:51] Set manual gpu clock enabled: 0
+[2026-06-09 00:58:51] Set manual gpu clock hz: 0
+[2026-06-09 00:58:51] Set platform performance profile: 
+[2026-06-09 00:58:51] Error: invalid profile: 
+[2026-06-09 00:58:51] Set system tracing enabled: 0
+[2026-06-09 00:58:51] Set VRS enabled: 0
+[2026-06-09 00:59:21] Set tdp limit enabled: 0
+[2026-06-09 00:59:21] Commit tdp limit update: 0 - 0
+[2026-06-09 00:59:21] Set tdp limit: 0
+[2026-06-09 00:59:21] Commit tdp limit update: 0 - 0
+[2026-06-09 00:59:21] Set manual gpu clock enabled: 0
+[2026-06-09 00:59:21] Set manual gpu clock hz: 0
+[2026-06-09 00:59:21] Set platform performance profile: 
+[2026-06-09 00:59:21] Error: invalid profile: 
+[2026-06-09 00:59:21] Set system tracing enabled: 0
+[2026-06-09 00:59:21] Set VRS enabled: 0
+[2026-06-09 01:02:21] Set tdp limit enabled: 0
+[2026-06-09 01:02:21] Commit tdp limit update: 0 - 0
+[2026-06-09 01:02:21] Set tdp limit: 0
+[2026-06-09 01:02:21] Commit tdp limit update: 0 - 0
+[2026-06-09 01:02:21] Set manual gpu clock enabled: 0
+[2026-06-09 01:02:21] Set manual gpu clock hz: 0
+[2026-06-09 01:02:21] Set platform performance profile: 
+[2026-06-09 01:02:21] Error: invalid profile: 
+[2026-06-09 01:02:21] Set system tracing enabled: 0
+[2026-06-09 01:02:21] Set VRS enabled: 0
+[2026-06-09 01:02:51] Set tdp limit enabled: 0
+[2026-06-09 01:02:51] Commit tdp limit update: 0 - 0
+[2026-06-09 01:02:51] Set tdp limit: 0
+[2026-06-09 01:02:51] Commit tdp limit update: 0 - 0
+[2026-06-09 01:02:51] Set manual gpu clock enabled: 0
+[2026-06-09 01:02:51] Set manual gpu clock hz: 0
+[2026-06-09 01:02:51] Set platform performance profile: 
+[2026-06-09 01:02:51] Error: invalid profile: 
+[2026-06-09 01:02:51] Set system tracing enabled: 0
+[2026-06-09 01:02:51] Set VRS enabled: 0
+[2026-06-09 01:03:21] Set tdp limit enabled: 0
+[2026-06-09 01:03:21] Commit tdp limit update: 0 - 0
+[2026-06-09 01:03:21] Set tdp limit: 0
+[2026-06-09 01:03:21] Commit tdp limit update: 0 - 0
+[2026-06-09 01:03:21] Set manual gpu clock enabled: 0
+[2026-06-09 01:03:21] Set manual gpu clock hz: 0
+[2026-06-09 01:03:21] Set platform performance profile: 
+[2026-06-09 01:03:21] Error: invalid profile: 
+[2026-06-09 01:03:21] Set system tracing enabled: 0
+[2026-06-09 01:03:21] Set VRS enabled: 0
+[2026-06-09 01:06:21] Set tdp limit enabled: 0
+[2026-06-09 01:06:21] Commit tdp limit update: 0 - 0
+[2026-06-09 01:06:21] Set tdp limit: 0
+[2026-06-09 01:06:21] Commit tdp limit update: 0 - 0
+[2026-06-09 01:06:21] Set manual gpu clock enabled: 0
+[2026-06-09 01:06:21] Set manual gpu clock hz: 0
+[2026-06-09 01:06:21] Set platform performance profile: 
+[2026-06-09 01:06:21] Error: invalid profile: 
+[2026-06-09 01:06:21] Set system tracing enabled: 0
+[2026-06-09 01:06:21] Set VRS enabled: 0
+[2026-06-09 01:06:44] YldGetDesktopSessions: SteamOSManager version predates session management interface
+
+
+[2026-06-09 08:28:45] Client version: 1780352834
+[2026-06-09 08:28:45] SteamOSManager: daemon not present
+[2026-06-09 08:28:45] SteamOSManager: failed to connect to OS service
+[2026-06-09 08:28:45] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 08:28:45] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 08:28:45] Set tdp limit enabled: 0
+[2026-06-09 08:28:45] Commit tdp limit update: 0 - 0
+[2026-06-09 08:28:45] Set tdp limit: 0
+[2026-06-09 08:28:45] Commit tdp limit update: 0 - 0
+[2026-06-09 08:28:45] Set CEC enabled: 1
+[2026-06-09 08:28:45] Set CEC wake on resume: 1
+[2026-06-09 08:28:45] Set wifi debug enabled: 0
+[2026-06-09 08:28:45] Set wifi force wpa supplicant: 0
+[2026-06-09 08:28:45] Set wifi power management: 0
+[2026-06-09 08:28:45] Set manual gpu clock enabled: 0
+[2026-06-09 08:28:45] Set manual gpu clock hz: 1000
+[2026-06-09 08:28:45] Set platform performance profile: 
+[2026-06-09 08:28:45] Error: invalid profile: 
+[2026-06-09 08:28:45] Set battery charge limit enabled: 0
+[2026-06-09 08:28:45] Commit charge limit update: 0 - -1
+[2026-06-09 08:28:45] Set battery charge limit: 80
+[2026-06-09 08:28:45] Commit charge limit update: 0 - -1
+[2026-06-09 08:28:45] Set screen reader locale: auto
+[2026-06-09 08:28:45] Error: invalid screen reader locale: auto
+[2026-06-09 08:28:45] Set reload wifi driver on sleep: 0
+[2026-06-09 08:28:45] Set screen reader locale: auto
+[2026-06-09 08:28:45] Error: invalid screen reader locale: auto
+[2026-06-09 08:28:51] Set tdp limit enabled: 0
+[2026-06-09 08:28:51] Commit tdp limit update: 0 - 0
+[2026-06-09 08:28:51] Set tdp limit: 0
+[2026-06-09 08:28:51] Commit tdp limit update: 0 - 0
+[2026-06-09 08:28:51] Set manual gpu clock enabled: 0
+[2026-06-09 08:28:51] Set manual gpu clock hz: 0
+[2026-06-09 08:28:51] Set platform performance profile: 
+[2026-06-09 08:28:51] Error: invalid profile: 
+[2026-06-09 08:28:51] Set screen reader enabled: 0
+[2026-06-09 08:28:51] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 08:28:51] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 08:28:55] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 08:28:55] Error: failed to run steamos-mandatory-update check
+[2026-06-09 08:28:55] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 08:28:55] Set system tracing enabled: 0
+[2026-06-09 08:28:55] Set VRS enabled: 0
+[2026-06-09 08:28:55] Set screen reader rate: 0.500000
+[2026-06-09 08:28:55] Set screen reader pitch: 0.500000
+[2026-06-09 08:28:55] Set screen reader volume: 1.000000
+
+
+[2026-06-09 09:37:36] Client version: 1780352834
+[2026-06-09 09:37:36] SteamOSManager: daemon not present
+[2026-06-09 09:37:36] SteamOSManager: failed to connect to OS service
+[2026-06-09 09:37:36] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 09:37:36] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 09:37:36] Set tdp limit enabled: 0
+[2026-06-09 09:37:36] Commit tdp limit update: 0 - 0
+[2026-06-09 09:37:36] Set tdp limit: 0
+[2026-06-09 09:37:36] Commit tdp limit update: 0 - 0
+[2026-06-09 09:37:36] Set CEC enabled: 1
+[2026-06-09 09:37:36] Set CEC wake on resume: 1
+[2026-06-09 09:37:36] Set wifi debug enabled: 0
+[2026-06-09 09:37:36] Set wifi force wpa supplicant: 0
+[2026-06-09 09:37:36] Set wifi power management: 0
+[2026-06-09 09:37:36] Set manual gpu clock enabled: 0
+[2026-06-09 09:37:36] Set manual gpu clock hz: 1000
+[2026-06-09 09:37:36] Set platform performance profile: 
+[2026-06-09 09:37:36] Error: invalid profile: 
+[2026-06-09 09:37:36] Set battery charge limit enabled: 0
+[2026-06-09 09:37:36] Commit charge limit update: 0 - -1
+[2026-06-09 09:37:36] Set battery charge limit: 80
+[2026-06-09 09:37:36] Commit charge limit update: 0 - -1
+[2026-06-09 09:37:36] Set screen reader locale: auto
+[2026-06-09 09:37:36] Error: invalid screen reader locale: auto
+[2026-06-09 09:37:36] Set reload wifi driver on sleep: 0
+[2026-06-09 09:37:36] Set screen reader locale: auto
+[2026-06-09 09:37:36] Error: invalid screen reader locale: auto
+[2026-06-09 09:37:38] Set tdp limit enabled: 0
+[2026-06-09 09:37:38] Commit tdp limit update: 0 - 0
+[2026-06-09 09:37:38] Set tdp limit: 0
+[2026-06-09 09:37:38] Commit tdp limit update: 0 - 0
+[2026-06-09 09:37:38] Set manual gpu clock enabled: 0
+[2026-06-09 09:37:38] Set manual gpu clock hz: 0
+[2026-06-09 09:37:38] Set platform performance profile: 
+[2026-06-09 09:37:38] Error: invalid profile: 
+[2026-06-09 09:37:38] Set screen reader enabled: 0
+[2026-06-09 09:37:38] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 09:37:38] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 09:37:40] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 09:37:40] Error: failed to run steamos-mandatory-update check
+[2026-06-09 09:37:40] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 09:37:40] Set system tracing enabled: 0
+[2026-06-09 09:37:40] Set VRS enabled: 0
+[2026-06-09 09:37:40] Set screen reader rate: 0.500000
+[2026-06-09 09:37:40] Set screen reader pitch: 0.500000
+[2026-06-09 09:37:40] Set screen reader volume: 1.000000
+
+
+[2026-06-09 10:05:34] Client version: 1780352834
+[2026-06-09 10:05:34] SteamOSManager: daemon not present
+[2026-06-09 10:05:34] SteamOSManager: failed to connect to OS service
+[2026-06-09 10:05:34] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 10:05:34] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 10:05:34] Set tdp limit enabled: 0
+[2026-06-09 10:05:34] Commit tdp limit update: 0 - 0
+[2026-06-09 10:05:34] Set tdp limit: 0
+[2026-06-09 10:05:34] Commit tdp limit update: 0 - 0
+[2026-06-09 10:05:34] Set CEC enabled: 1
+[2026-06-09 10:05:34] Set CEC wake on resume: 1
+[2026-06-09 10:05:34] Set wifi debug enabled: 0
+[2026-06-09 10:05:34] Set wifi force wpa supplicant: 0
+[2026-06-09 10:05:34] Set wifi power management: 0
+[2026-06-09 10:05:34] Set manual gpu clock enabled: 0
+[2026-06-09 10:05:34] Set manual gpu clock hz: 1000
+[2026-06-09 10:05:34] Set platform performance profile: 
+[2026-06-09 10:05:34] Error: invalid profile: 
+[2026-06-09 10:05:34] Set battery charge limit enabled: 0
+[2026-06-09 10:05:34] Commit charge limit update: 0 - -1
+[2026-06-09 10:05:34] Set battery charge limit: 80
+[2026-06-09 10:05:34] Commit charge limit update: 0 - -1
+[2026-06-09 10:05:34] Set screen reader locale: auto
+[2026-06-09 10:05:34] Error: invalid screen reader locale: auto
+[2026-06-09 10:05:34] Set reload wifi driver on sleep: 0
+[2026-06-09 10:05:34] Set screen reader locale: auto
+[2026-06-09 10:05:34] Error: invalid screen reader locale: auto
+[2026-06-09 10:05:35] Set tdp limit enabled: 0
+[2026-06-09 10:05:35] Commit tdp limit update: 0 - 0
+[2026-06-09 10:05:35] Set tdp limit: 0
+[2026-06-09 10:05:35] Commit tdp limit update: 0 - 0
+[2026-06-09 10:05:35] Set manual gpu clock enabled: 0
+[2026-06-09 10:05:35] Set manual gpu clock hz: 0
+[2026-06-09 10:05:35] Set platform performance profile: 
+[2026-06-09 10:05:35] Error: invalid profile: 
+[2026-06-09 10:05:35] Set screen reader enabled: 0
+[2026-06-09 10:05:35] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 10:05:35] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 10:05:38] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 10:05:38] Error: failed to run steamos-mandatory-update check
+[2026-06-09 10:05:38] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 10:05:38] Set system tracing enabled: 0
+[2026-06-09 10:05:38] Set VRS enabled: 0
+[2026-06-09 10:05:38] Set screen reader rate: 0.500000
+[2026-06-09 10:05:38] Set screen reader pitch: 0.500000
+[2026-06-09 10:05:38] Set screen reader volume: 1.000000
+
+
+[2026-06-09 10:06:42] Client version: 0
+[2026-06-09 10:06:42] SteamOSManager: daemon not present
+[2026-06-09 10:06:42] SteamOSManager: failed to connect to OS service
+[2026-06-09 10:06:42] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 10:06:42] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 10:06:42] Set tdp limit enabled: 0
+[2026-06-09 10:06:42] Commit tdp limit update: 0 - 0
+[2026-06-09 10:06:42] Set tdp limit: 0
+[2026-06-09 10:06:42] Commit tdp limit update: 0 - 0
+[2026-06-09 10:06:42] Set CEC enabled: 1
+[2026-06-09 10:06:42] Set CEC wake on resume: 1
+[2026-06-09 10:06:42] Set wifi debug enabled: 0
+[2026-06-09 10:06:42] Set wifi force wpa supplicant: 0
+[2026-06-09 10:06:42] Set wifi power management: 0
+[2026-06-09 10:06:42] Set manual gpu clock enabled: 0
+[2026-06-09 10:06:42] Set manual gpu clock hz: 1000
+[2026-06-09 10:06:42] Set platform performance profile: 
+[2026-06-09 10:06:42] Error: invalid profile: 
+[2026-06-09 10:06:42] Set battery charge limit enabled: 0
+[2026-06-09 10:06:42] Commit charge limit update: 0 - -1
+[2026-06-09 10:06:42] Set battery charge limit: 80
+[2026-06-09 10:06:42] Commit charge limit update: 0 - -1
+[2026-06-09 10:06:42] Set screen reader locale: auto
+[2026-06-09 10:06:42] Error: invalid screen reader locale: auto
+[2026-06-09 10:06:42] Set reload wifi driver on sleep: 0
+[2026-06-09 10:06:42] Set screen reader locale: auto
+[2026-06-09 10:06:42] Error: invalid screen reader locale: auto
+[2026-06-09 10:06:43] Set tdp limit enabled: 0
+[2026-06-09 10:06:43] Commit tdp limit update: 0 - 0
+[2026-06-09 10:06:43] Set tdp limit: 0
+[2026-06-09 10:06:43] Commit tdp limit update: 0 - 0
+[2026-06-09 10:06:43] Set manual gpu clock enabled: 0
+[2026-06-09 10:06:43] Set manual gpu clock hz: 0
+[2026-06-09 10:06:43] Set platform performance profile: 
+[2026-06-09 10:06:43] Error: invalid profile: 
+[2026-06-09 10:06:43] Set screen reader enabled: 0
+[2026-06-09 10:06:43] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 10:06:43] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 10:06:46] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 10:06:46] Error: failed to run steamos-mandatory-update check
+[2026-06-09 10:06:46] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 10:06:46] Set system tracing enabled: 0
+[2026-06-09 10:06:46] Set VRS enabled: 0
+[2026-06-09 10:06:46] Set screen reader rate: 0.500000
+[2026-06-09 10:06:46] Set screen reader pitch: 0.500000
+[2026-06-09 10:06:46] Set screen reader volume: 1.000000
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] SteamOSManager: daemon not present
+[2026-06-09 10:24:23] SteamOSManager: failed to connect to OS service
+[2026-06-09 10:24:23] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 10:24:23] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 10:24:23] Set tdp limit enabled: 0
+[2026-06-09 10:24:23] Commit tdp limit update: 0 - 0
+[2026-06-09 10:24:23] Set tdp limit: 0
+[2026-06-09 10:24:23] Commit tdp limit update: 0 - 0
+[2026-06-09 10:24:23] Set CEC enabled: 1
+[2026-06-09 10:24:23] Set CEC wake on resume: 1
+[2026-06-09 10:24:23] Set wifi debug enabled: 0
+[2026-06-09 10:24:23] Set wifi force wpa supplicant: 0
+[2026-06-09 10:24:23] Set wifi power management: 0
+[2026-06-09 10:24:23] Set manual gpu clock enabled: 0
+[2026-06-09 10:24:23] Set manual gpu clock hz: 1000
+[2026-06-09 10:24:23] Set platform performance profile: 
+[2026-06-09 10:24:23] Error: invalid profile: 
+[2026-06-09 10:24:23] Set battery charge limit enabled: 0
+[2026-06-09 10:24:23] Commit charge limit update: 0 - -1
+[2026-06-09 10:24:23] Set battery charge limit: 80
+[2026-06-09 10:24:23] Commit charge limit update: 0 - -1
+[2026-06-09 10:24:23] Set screen reader locale: auto
+[2026-06-09 10:24:23] Error: invalid screen reader locale: auto
+[2026-06-09 10:24:23] Set reload wifi driver on sleep: 0
+[2026-06-09 10:24:23] Set screen reader locale: auto
+[2026-06-09 10:24:23] Error: invalid screen reader locale: auto
+[2026-06-09 10:24:24] Set tdp limit enabled: 0
+[2026-06-09 10:24:24] Commit tdp limit update: 0 - 0
+[2026-06-09 10:24:24] Set tdp limit: 0
+[2026-06-09 10:24:24] Commit tdp limit update: 0 - 0
+[2026-06-09 10:24:24] Set manual gpu clock enabled: 0
+[2026-06-09 10:24:24] Set manual gpu clock hz: 0
+[2026-06-09 10:24:24] Set platform performance profile: 
+[2026-06-09 10:24:24] Error: invalid profile: 
+[2026-06-09 10:24:24] Set screen reader enabled: 0
+[2026-06-09 10:24:24] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 10:24:24] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 10:24:26] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 10:24:26] Error: failed to run steamos-mandatory-update check
+[2026-06-09 10:24:26] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 10:24:27] Set system tracing enabled: 0
+[2026-06-09 10:24:27] Set VRS enabled: 0
+[2026-06-09 10:24:27] Set screen reader rate: 0.500000
+[2026-06-09 10:24:27] Set screen reader pitch: 0.500000
+[2026-06-09 10:24:27] Set screen reader volume: 1.000000
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] SteamOSManager: daemon not present
+[2026-06-09 11:22:34] SteamOSManager: failed to connect to OS service
+[2026-06-09 11:22:34] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 11:22:34] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 11:22:34] Set tdp limit enabled: 0
+[2026-06-09 11:22:34] Commit tdp limit update: 0 - 0
+[2026-06-09 11:22:34] Set tdp limit: 0
+[2026-06-09 11:22:34] Commit tdp limit update: 0 - 0
+[2026-06-09 11:22:34] Set CEC enabled: 1
+[2026-06-09 11:22:34] Set CEC wake on resume: 1
+[2026-06-09 11:22:34] Set wifi debug enabled: 0
+[2026-06-09 11:22:34] Set wifi force wpa supplicant: 0
+[2026-06-09 11:22:34] Set wifi power management: 0
+[2026-06-09 11:22:34] Set manual gpu clock enabled: 0
+[2026-06-09 11:22:34] Set manual gpu clock hz: 1000
+[2026-06-09 11:22:34] Set platform performance profile: 
+[2026-06-09 11:22:34] Error: invalid profile: 
+[2026-06-09 11:22:34] Set battery charge limit enabled: 0
+[2026-06-09 11:22:34] Commit charge limit update: 0 - -1
+[2026-06-09 11:22:34] Set battery charge limit: 80
+[2026-06-09 11:22:34] Commit charge limit update: 0 - -1
+[2026-06-09 11:22:34] Set screen reader locale: auto
+[2026-06-09 11:22:34] Error: invalid screen reader locale: auto
+[2026-06-09 11:22:34] Set reload wifi driver on sleep: 0
+[2026-06-09 11:22:34] Set screen reader locale: auto
+[2026-06-09 11:22:34] Error: invalid screen reader locale: auto
+[2026-06-09 11:22:35] Set tdp limit enabled: 0
+[2026-06-09 11:22:35] Commit tdp limit update: 0 - 0
+[2026-06-09 11:22:35] Set tdp limit: 0
+[2026-06-09 11:22:35] Commit tdp limit update: 0 - 0
+[2026-06-09 11:22:35] Set manual gpu clock enabled: 0
+[2026-06-09 11:22:35] Set manual gpu clock hz: 0
+[2026-06-09 11:22:35] Set platform performance profile: 
+[2026-06-09 11:22:35] Error: invalid profile: 
+[2026-06-09 11:22:35] Set screen reader enabled: 0
+[2026-06-09 11:22:35] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 11:22:35] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 11:22:38] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 11:22:38] Error: failed to run steamos-mandatory-update check
+[2026-06-09 11:22:38] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 11:22:38] Set system tracing enabled: 0
+[2026-06-09 11:22:38] Set VRS enabled: 0
+[2026-06-09 11:22:38] Set screen reader rate: 0.500000
+[2026-06-09 11:22:38] Set screen reader pitch: 0.500000
+[2026-06-09 11:22:38] Set screen reader volume: 1.000000
+
+
+[2026-06-09 11:36:05] Client version: 1780352834
+[2026-06-09 11:36:05] SteamOSManager: daemon not present
+[2026-06-09 11:36:05] SteamOSManager: failed to connect to OS service
+[2026-06-09 11:36:05] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 11:36:05] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 11:36:05] Set tdp limit enabled: 0
+[2026-06-09 11:36:05] Commit tdp limit update: 0 - 0
+[2026-06-09 11:36:05] Set tdp limit: 0
+[2026-06-09 11:36:05] Commit tdp limit update: 0 - 0
+[2026-06-09 11:36:05] Set CEC enabled: 1
+[2026-06-09 11:36:05] Set CEC wake on resume: 1
+[2026-06-09 11:36:05] Set CEC control: 1
+[2026-06-09 11:36:05] Set CEC suspend TV: 1
+[2026-06-09 11:36:05] Set CEC suspend device: 1
+[2026-06-09 11:36:05] Set CEC wake TV: 1
+[2026-06-09 11:36:05] Set CEC wake device not supported
+[2026-06-09 11:36:05] Set wifi debug enabled: 0
+[2026-06-09 11:36:05] Set wifi force wpa supplicant: 0
+[2026-06-09 11:36:05] Set wifi power management: 1
+[2026-06-09 11:36:05] Set manual gpu clock enabled: 0
+[2026-06-09 11:36:05] Set manual gpu clock hz: 1000
+[2026-06-09 11:36:05] Set platform performance profile: 
+[2026-06-09 11:36:05] Error: invalid profile: 
+[2026-06-09 11:36:05] Set battery charge limit enabled: 0
+[2026-06-09 11:36:05] Commit charge limit update: 0 - -1
+[2026-06-09 11:36:05] Set battery charge limit: 80
+[2026-06-09 11:36:05] Commit charge limit update: 0 - -1
+[2026-06-09 11:36:05] Set screen reader locale: auto
+[2026-06-09 11:36:05] Error: invalid screen reader locale: auto
+[2026-06-09 11:36:05] Set reload wifi driver on sleep: 0
+
+
+[2026-06-09 11:36:54] Client version: 1780352834
+[2026-06-09 11:36:54] SteamOSManager: daemon not present
+[2026-06-09 11:36:54] SteamOSManager: failed to connect to OS service
+[2026-06-09 11:36:54] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 11:36:54] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 11:36:54] Set tdp limit enabled: 0
+[2026-06-09 11:36:54] Commit tdp limit update: 0 - 0
+[2026-06-09 11:36:54] Set tdp limit: 0
+[2026-06-09 11:36:54] Commit tdp limit update: 0 - 0
+[2026-06-09 11:36:54] Set CEC enabled: 1
+[2026-06-09 11:36:54] Set CEC wake on resume: 1
+[2026-06-09 11:36:54] Set CEC control: 1
+[2026-06-09 11:36:54] Set CEC suspend TV: 1
+[2026-06-09 11:36:54] Set CEC suspend device: 1
+[2026-06-09 11:36:54] Set CEC wake TV: 1
+[2026-06-09 11:36:54] Set CEC wake device not supported
+[2026-06-09 11:36:54] Set wifi debug enabled: 0
+[2026-06-09 11:36:54] Set wifi force wpa supplicant: 0
+[2026-06-09 11:36:54] Set wifi power management: 1
+[2026-06-09 11:36:54] Set manual gpu clock enabled: 0
+[2026-06-09 11:36:54] Set manual gpu clock hz: 1000
+[2026-06-09 11:36:54] Set platform performance profile: 
+[2026-06-09 11:36:54] Error: invalid profile: 
+[2026-06-09 11:36:54] Set battery charge limit enabled: 0
+[2026-06-09 11:36:54] Commit charge limit update: 0 - -1
+[2026-06-09 11:36:54] Set battery charge limit: 80
+[2026-06-09 11:36:54] Commit charge limit update: 0 - -1
+[2026-06-09 11:36:54] Set screen reader locale: auto
+[2026-06-09 11:36:54] Error: invalid screen reader locale: auto
+[2026-06-09 11:36:54] Set reload wifi driver on sleep: 0
+
+
+[2026-06-09 12:06:47] Client version: 1780352834
+[2026-06-09 12:06:47] SteamOSManager: daemon not present
+[2026-06-09 12:06:47] SteamOSManager: failed to connect to OS service
+[2026-06-09 12:06:47] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 12:06:47] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 12:06:47] Set tdp limit enabled: 0
+[2026-06-09 12:06:47] Commit tdp limit update: 0 - 0
+[2026-06-09 12:06:47] Set tdp limit: 0
+[2026-06-09 12:06:47] Commit tdp limit update: 0 - 0
+[2026-06-09 12:06:47] Set CEC enabled: 1
+[2026-06-09 12:06:47] Set CEC wake on resume: 1
+[2026-06-09 12:06:47] Set wifi debug enabled: 0
+[2026-06-09 12:06:47] Set wifi force wpa supplicant: 0
+[2026-06-09 12:06:47] Set wifi power management: 0
+[2026-06-09 12:06:47] Set manual gpu clock enabled: 0
+[2026-06-09 12:06:47] Set manual gpu clock hz: 1000
+[2026-06-09 12:06:47] Set platform performance profile: 
+[2026-06-09 12:06:47] Error: invalid profile: 
+[2026-06-09 12:06:47] Set battery charge limit enabled: 0
+[2026-06-09 12:06:47] Commit charge limit update: 0 - -1
+[2026-06-09 12:06:47] Set battery charge limit: 80
+[2026-06-09 12:06:47] Commit charge limit update: 0 - -1
+[2026-06-09 12:06:47] Set screen reader locale: auto
+[2026-06-09 12:06:47] Error: invalid screen reader locale: auto
+[2026-06-09 12:06:47] Set reload wifi driver on sleep: 0
+[2026-06-09 12:06:47] Set screen reader locale: auto
+[2026-06-09 12:06:47] Error: invalid screen reader locale: auto
+[2026-06-09 12:06:49] Set tdp limit enabled: 0
+[2026-06-09 12:06:49] Commit tdp limit update: 0 - 0
+[2026-06-09 12:06:49] Set tdp limit: 0
+[2026-06-09 12:06:49] Commit tdp limit update: 0 - 0
+[2026-06-09 12:06:49] Set manual gpu clock enabled: 0
+[2026-06-09 12:06:49] Set manual gpu clock hz: 0
+[2026-06-09 12:06:49] Set platform performance profile: 
+[2026-06-09 12:06:49] Error: invalid profile: 
+[2026-06-09 12:06:49] Set screen reader enabled: 0
+[2026-06-09 12:06:49] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 12:06:49] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 12:06:51] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 12:06:51] Error: failed to run steamos-mandatory-update check
+[2026-06-09 12:06:51] YldGetDesktopSessions: SteamOSManager version predates session management interface
+[2026-06-09 12:06:51] Set system tracing enabled: 0
+[2026-06-09 12:06:51] Set VRS enabled: 0
+[2026-06-09 12:06:51] Set screen reader rate: 0.500000
+[2026-06-09 12:06:51] Set screen reader pitch: 0.500000
+[2026-06-09 12:06:51] Set screen reader volume: 1.000000
+
+
+[2026-06-09 12:43:33] Client version: 1780352834
+[2026-06-09 12:43:33] SteamOSManager: daemon not present
+[2026-06-09 12:43:33] SteamOSManager: failed to connect to OS service
+[2026-06-09 12:43:33] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 12:43:33] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 12:43:33] Set tdp limit enabled: 0
+[2026-06-09 12:43:33] Commit tdp limit update: 0 - 0
+[2026-06-09 12:43:33] Set tdp limit: 0
+[2026-06-09 12:43:33] Commit tdp limit update: 0 - 0
+[2026-06-09 12:43:33] Set CEC enabled: 1
+[2026-06-09 12:43:33] Set CEC wake on resume: 1
+[2026-06-09 12:43:33] Set wifi debug enabled: 0
+[2026-06-09 12:43:33] Set wifi force wpa supplicant: 0
+[2026-06-09 12:43:33] Set wifi power management: 0
+[2026-06-09 12:43:33] Set manual gpu clock enabled: 0
+[2026-06-09 12:43:33] Set manual gpu clock hz: 1000
+[2026-06-09 12:43:33] Set platform performance profile: 
+[2026-06-09 12:43:33] Error: invalid profile: 
+[2026-06-09 12:43:33] Set battery charge limit enabled: 0
+[2026-06-09 12:43:33] Commit charge limit update: 0 - -1
+[2026-06-09 12:43:33] Set battery charge limit: 80
+[2026-06-09 12:43:33] Commit charge limit update: 0 - -1
+[2026-06-09 12:43:33] Set screen reader locale: auto
+[2026-06-09 12:43:33] Error: invalid screen reader locale: auto
+[2026-06-09 12:43:33] Set reload wifi driver on sleep: 0
+[2026-06-09 12:43:33] Set screen reader locale: auto
+[2026-06-09 12:43:33] Error: invalid screen reader locale: auto
+[2026-06-09 12:43:35] Set tdp limit enabled: 0
+[2026-06-09 12:43:35] Commit tdp limit update: 0 - 0
+[2026-06-09 12:43:35] Set tdp limit: 0
+[2026-06-09 12:43:35] Commit tdp limit update: 0 - 0
+[2026-06-09 12:43:35] Set manual gpu clock enabled: 0
+[2026-06-09 12:43:35] Set manual gpu clock hz: 0
+[2026-06-09 12:43:35] Set platform performance profile: 
+[2026-06-09 12:43:35] Error: invalid profile: 
+[2026-06-09 12:43:35] Set screen reader enabled: 0
+[2026-06-09 12:43:35] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 12:43:35] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 12:43:38] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 12:43:38] Error: failed to run steamos-mandatory-update check
+[2026-06-09 12:43:38] Set system tracing enabled: 0
+[2026-06-09 12:43:38] Set VRS enabled: 0
+[2026-06-09 12:43:38] Set screen reader rate: 0.500000
+[2026-06-09 12:43:38] Set screen reader pitch: 0.500000
+[2026-06-09 12:43:38] Set screen reader volume: 1.000000
+[2026-06-09 12:43:38] YldGetDesktopSessions: SteamOSManager version predates session management interface
+
+
+[2026-06-09 12:49:41] Client version: 1780352834
+[2026-06-09 12:49:41] SteamOSManager: daemon not present
+[2026-06-09 12:49:41] SteamOSManager: failed to connect to OS service
+[2026-06-09 12:49:41] Error: failed to initialize SteamOS telemetry service
+[2026-06-09 12:49:41] Status LED brightness control disabled: STEAM_ENABLE_STATUS_LED_BRIGHTNESS is unset
+[2026-06-09 12:49:41] Set tdp limit enabled: 0
+[2026-06-09 12:49:41] Commit tdp limit update: 0 - 0
+[2026-06-09 12:49:41] Set tdp limit: 0
+[2026-06-09 12:49:41] Commit tdp limit update: 0 - 0
+[2026-06-09 12:49:41] Set CEC enabled: 1
+[2026-06-09 12:49:41] Set CEC wake on resume: 1
+[2026-06-09 12:49:41] Set wifi debug enabled: 0
+[2026-06-09 12:49:41] Set wifi force wpa supplicant: 0
+[2026-06-09 12:49:41] Set wifi power management: 0
+[2026-06-09 12:49:41] Set manual gpu clock enabled: 0
+[2026-06-09 12:49:41] Set manual gpu clock hz: 1000
+[2026-06-09 12:49:41] Set platform performance profile: 
+[2026-06-09 12:49:41] Error: invalid profile: 
+[2026-06-09 12:49:41] Set battery charge limit enabled: 0
+[2026-06-09 12:49:41] Commit charge limit update: 0 - -1
+[2026-06-09 12:49:41] Set battery charge limit: 80
+[2026-06-09 12:49:41] Commit charge limit update: 0 - -1
+[2026-06-09 12:49:41] Set screen reader locale: auto
+[2026-06-09 12:49:41] Error: invalid screen reader locale: auto
+[2026-06-09 12:49:41] Set reload wifi driver on sleep: 0
+[2026-06-09 12:49:41] Set screen reader locale: auto
+[2026-06-09 12:49:41] Error: invalid screen reader locale: auto
+[2026-06-09 12:49:43] Set tdp limit enabled: 0
+[2026-06-09 12:49:43] Commit tdp limit update: 0 - 0
+[2026-06-09 12:49:43] Set tdp limit: 0
+[2026-06-09 12:49:43] Commit tdp limit update: 0 - 0
+[2026-06-09 12:49:43] Set manual gpu clock enabled: 0
+[2026-06-09 12:49:43] Set manual gpu clock hz: 0
+[2026-06-09 12:49:43] Set platform performance profile: 
+[2026-06-09 12:49:43] Error: invalid profile: 
+[2026-06-09 12:49:43] Set screen reader enabled: 0
+[2026-06-09 12:49:43] YldSetAtomUpdateProxyConfig: set atomupd proxy: enabled: 0, address: :0
+[2026-06-09 12:49:43] Error: YldSetAtomUpdateProxyConfig: failed to set atomupd proxy: :0
+[2026-06-09 12:49:46] jupiter-initial-firmware-update check returned: 127
+[2026-06-09 12:49:46] Error: failed to run steamos-mandatory-update check
+[2026-06-09 12:49:46] Set system tracing enabled: 0
+[2026-06-09 12:49:46] Set VRS enabled: 0
+[2026-06-09 12:49:46] Set screen reader rate: 0.500000
+[2026-06-09 12:49:46] Set screen reader pitch: 0.500000
+[2026-06-09 12:49:46] Set screen reader volume: 1.000000
+[2026-06-09 12:49:46] YldGetDesktopSessions: SteamOSManager version predates session management interface

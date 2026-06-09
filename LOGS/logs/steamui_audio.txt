@@ -1,0 +1,371 @@
+
+
+[2026-06-09 00:41:51] Client version: 1780352834
+[2026-06-09 00:41:51] Initialized CSystemAudioController: 1
+[2026-06-09 00:41:51] CSystemAudioController handle volume keys: 0
+[2026-06-09 00:41:51] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 00:41:52] AudioSinkAvailabilityChanged: 1
+[2026-06-09 00:41:52] SinkAdded: 48
+[2026-06-09 00:41:52] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 00:41:52] SinkVolumeChanged: 48,1 -> 0.490005
+[2026-06-09 00:41:52] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 00:41:55] SinkAdded: 48
+[2026-06-09 00:41:55] SinkAdded: 48
+[2026-06-09 00:42:10] SinkAdded: 48
+[2026-06-09 00:42:15] SinkAdded: 48
+[2026-06-09 00:42:33] SupportsMonoDownmix: 1
+[2026-06-09 00:42:33] GetMonoDownmix: 0
+[2026-06-09 00:42:33] SupportsUseBluetoothForMic: 1
+[2026-06-09 00:42:33] GetUseBluetoothForMic: 1
+[2026-06-09 00:42:34] SinkAdded: 48
+[2026-06-09 00:42:45] SinkAdded: 48
+[2026-06-09 00:42:50] SinkAdded: 48
+[2026-06-09 00:42:52] SinkAdded: 48
+[2026-06-09 00:44:31] SinkAdded: 48
+[2026-06-09 00:44:35] SinkAdded: 48
+[2026-06-09 00:44:45] SinkAdded: 48
+[2026-06-09 00:44:50] SinkAdded: 48
+[2026-06-09 00:44:52] SinkAdded: 48
+[2026-06-09 00:44:55] SinkAdded: 48
+[2026-06-09 00:45:00] SinkAdded: 48
+[2026-06-09 00:45:04] SinkAdded: 48
+[2026-06-09 00:45:14] SinkAdded: 48
+
+
+[2026-06-09 00:45:18] Client version: 1780352834
+[2026-06-09 00:45:18] Initialized CSystemAudioController: 1
+[2026-06-09 00:45:18] CSystemAudioController handle volume keys: 0
+[2026-06-09 00:45:18] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 00:45:29] AudioSinkAvailabilityChanged: 1
+[2026-06-09 00:45:29] SinkAdded: 48
+[2026-06-09 00:45:29] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 00:45:29] SinkVolumeChanged: 48,1 -> 0.490005
+[2026-06-09 00:45:29] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 00:45:32] SinkAdded: 48
+[2026-06-09 00:45:34] SupportsMonoDownmix: 1
+[2026-06-09 00:45:34] GetMonoDownmix: 0
+[2026-06-09 00:45:34] SupportsUseBluetoothForMic: 1
+[2026-06-09 00:45:34] GetUseBluetoothForMic: 1
+[2026-06-09 00:46:11] SinkAdded: 48
+[2026-06-09 00:46:16] SinkAdded: 48
+[2026-06-09 00:46:36] SinkAdded: 48
+[2026-06-09 00:46:46] SinkAdded: 48
+[2026-06-09 00:46:51] SinkAdded: 48
+[2026-06-09 00:48:15] SinkAdded: 48
+[2026-06-09 00:48:16] SinkAdded: 48
+[2026-06-09 00:48:21] SinkAdded: 48
+[2026-06-09 00:50:33] SinkAdded: 48
+[2026-06-09 00:50:34] SinkAdded: 48
+[2026-06-09 00:50:36] SinkAdded: 48
+[2026-06-09 00:50:37] SinkAdded: 48
+[2026-06-09 00:50:38] SinkAdded: 48
+[2026-06-09 00:53:35] SinkAdded: 48
+[2026-06-09 00:53:44] SinkAdded: 48
+[2026-06-09 00:53:49] SinkAdded: 48
+[2026-06-09 00:55:45] SinkAdded: 48
+[2026-06-09 00:55:55] SinkAdded: 48
+[2026-06-09 00:56:00] SinkAdded: 48
+[2026-06-09 01:03:55] SinkAdded: 48
+[2026-06-09 01:04:09] SinkAdded: 48
+[2026-06-09 01:04:14] SinkAdded: 48
+[2026-06-09 01:06:12] SinkAdded: 48
+[2026-06-09 01:06:28] SinkAdded: 48
+[2026-06-09 01:06:33] SinkAdded: 48
+[2026-06-09 01:06:45] SinkAdded: 48
+[2026-06-09 01:06:54] SinkAdded: 48
+[2026-06-09 01:07:00] SinkAdded: 48
+[2026-06-09 01:07:03] SinkAdded: 48
+[2026-06-09 01:07:28] SinkAdded: 48
+[2026-06-09 01:07:33] SinkAdded: 48
+[2026-06-09 01:07:42] SinkAdded: 48
+[2026-06-09 01:07:52] SinkAdded: 48
+[2026-06-09 01:07:57] SinkAdded: 48
+[2026-06-09 01:09:10] SinkAdded: 48
+[2026-06-09 01:09:11] SinkAdded: 48
+[2026-06-09 01:09:16] SinkAdded: 48
+
+
+[2026-06-09 08:28:45] Client version: 1780352834
+[2026-06-09 08:28:45] Initialized CSystemAudioController: 1
+[2026-06-09 08:28:45] CSystemAudioController handle volume keys: 0
+[2026-06-09 08:28:45] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 08:28:51] AudioSinkAvailabilityChanged: 1
+[2026-06-09 08:28:51] SinkAdded: 48
+[2026-06-09 08:28:51] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 08:28:51] SinkVolumeChanged: 48,1 -> 1.000000
+[2026-06-09 08:28:51] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 08:28:56] SinkAdded: 48
+[2026-06-09 08:28:56] SinkAdded: 48
+[2026-06-09 08:28:58] SupportsMonoDownmix: 1
+[2026-06-09 08:28:58] GetMonoDownmix: 0
+[2026-06-09 08:28:58] SupportsUseBluetoothForMic: 1
+[2026-06-09 08:28:58] GetUseBluetoothForMic: 1
+[2026-06-09 08:30:10] SinkAdded: 48
+[2026-06-09 08:30:15] SinkAdded: 48
+[2026-06-09 08:30:30] SinkAdded: 48
+[2026-06-09 08:30:55] SinkAdded: 48
+[2026-06-09 08:31:00] SinkAdded: 48
+[2026-06-09 08:33:31] SinkAdded: 48
+[2026-06-09 08:33:47] SinkAdded: 48
+[2026-06-09 08:33:53] SinkAdded: 48
+[2026-06-09 08:34:41] SinkAdded: 48
+[2026-06-09 08:34:51] SinkAdded: 48
+[2026-06-09 08:34:56] SinkAdded: 48
+[2026-06-09 08:35:08] SinkAdded: 48
+[2026-06-09 08:35:19] SinkAdded: 48
+[2026-06-09 08:35:23] SinkAdded: 48
+[2026-06-09 08:35:34] SinkAdded: 48
+[2026-06-09 08:35:35] SinkAdded: 48
+[2026-06-09 08:35:55] SinkAdded: 48
+[2026-06-09 08:36:00] SinkAdded: 48
+[2026-06-09 08:36:05] SinkAdded: 48
+[2026-06-09 08:36:14] SinkAdded: 48
+[2026-06-09 08:36:19] SinkAdded: 48
+[2026-06-09 08:36:43] SinkVolumeChanged: 1049227,1 -> 1.000000
+[2026-06-09 08:36:43] SinkVolumeChanged: 1049274,0 -> 1.000000
+[2026-06-09 08:36:43] SinkAdded: 48
+[2026-06-09 08:36:43] SinkRemoved: 1049227
+[2026-06-09 08:36:43] SinkRemoved: 1049274
+[2026-06-09 08:36:44] SinkVolumeChanged: 1049348,1 -> 1.000000
+[2026-06-09 08:36:44] SinkAdded: 48
+[2026-06-09 08:36:44] SinkAdded: 1049348
+
+
+[2026-06-09 09:37:36] Client version: 1780352834
+[2026-06-09 09:37:36] Initialized CSystemAudioController: 1
+[2026-06-09 09:37:36] CSystemAudioController handle volume keys: 0
+[2026-06-09 09:37:36] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 09:37:38] AudioSinkAvailabilityChanged: 1
+[2026-06-09 09:37:38] SinkAdded: 48
+[2026-06-09 09:37:38] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 09:37:38] SinkVolumeChanged: 48,1 -> 1.000000
+[2026-06-09 09:37:38] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 09:37:41] SinkAdded: 48
+[2026-06-09 09:37:42] SinkAdded: 48
+[2026-06-09 09:37:44] SupportsMonoDownmix: 1
+[2026-06-09 09:37:44] GetMonoDownmix: 0
+[2026-06-09 09:37:44] SupportsUseBluetoothForMic: 1
+[2026-06-09 09:37:44] GetUseBluetoothForMic: 1
+[2026-06-09 09:38:33] SinkVolumeChanged: 1049582,1 -> 1.000000
+[2026-06-09 09:38:34] SinkVolumeChanged: 1049629,0 -> 1.000000
+[2026-06-09 09:38:34] SinkVolumeChanged: 1049703,1 -> 1.000000
+[2026-06-09 09:38:34] SinkAdded: 48
+[2026-06-09 09:38:34] SinkRemoved: 1049582
+[2026-06-09 09:38:34] SinkRemoved: 1049629
+[2026-06-09 09:38:34] SinkAdded: 1049703
+
+
+[2026-06-09 10:05:34] Client version: 1780352834
+[2026-06-09 10:05:34] Initialized CSystemAudioController: 1
+[2026-06-09 10:05:34] CSystemAudioController handle volume keys: 0
+[2026-06-09 10:05:34] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 10:05:35] AudioSinkAvailabilityChanged: 1
+[2026-06-09 10:05:35] SinkAdded: 48
+[2026-06-09 10:05:35] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 10:05:35] SinkVolumeChanged: 48,1 -> 1.000000
+[2026-06-09 10:05:35] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 10:05:39] SinkAdded: 48
+[2026-06-09 10:05:39] SinkAdded: 48
+[2026-06-09 10:05:41] SupportsMonoDownmix: 1
+[2026-06-09 10:05:41] GetMonoDownmix: 0
+[2026-06-09 10:05:41] SupportsUseBluetoothForMic: 1
+[2026-06-09 10:05:41] GetUseBluetoothForMic: 1
+
+
+[2026-06-09 10:06:42] Client version: 0
+[2026-06-09 10:06:42] Initialized CSystemAudioController: 1
+[2026-06-09 10:06:42] CSystemAudioController handle volume keys: 0
+[2026-06-09 10:06:42] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 10:06:43] AudioSinkAvailabilityChanged: 1
+[2026-06-09 10:06:43] SinkAdded: 48
+[2026-06-09 10:06:43] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 10:06:43] SinkVolumeChanged: 48,1 -> 1.000000
+[2026-06-09 10:06:43] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 10:06:47] SinkAdded: 48
+[2026-06-09 10:06:48] SinkAdded: 48
+[2026-06-09 10:06:50] SupportsMonoDownmix: 1
+[2026-06-09 10:06:50] GetMonoDownmix: 0
+[2026-06-09 10:06:50] SupportsUseBluetoothForMic: 1
+[2026-06-09 10:06:50] GetUseBluetoothForMic: 1
+[2026-06-09 10:07:13] SinkAdded: 48
+[2026-06-09 10:07:18] SinkAdded: 48
+[2026-06-09 10:07:21] SinkAdded: 48
+[2026-06-09 10:07:46] SinkAdded: 48
+[2026-06-09 10:07:51] SinkAdded: 48
+[2026-06-09 10:08:05] SinkAdded: 48
+[2026-06-09 10:08:51] SinkVolumeChanged: 1049887,1 -> 1.000000
+[2026-06-09 10:08:51] SinkVolumeChanged: 1049936,0 -> 1.000000
+[2026-06-09 10:08:51] SinkAdded: 48
+[2026-06-09 10:08:51] SinkRemoved: 1049887
+[2026-06-09 10:08:51] SinkRemoved: 1049936
+[2026-06-09 10:08:51] SinkVolumeChanged: 1050010,1 -> 1.000000
+[2026-06-09 10:08:51] SinkAdded: 48
+[2026-06-09 10:08:51] SinkAdded: 1050010
+[2026-06-09 10:11:06] SinkAdded: 48
+[2026-06-09 10:11:06] SinkRemoved: 1050010
+[2026-06-09 10:11:11] SinkAdded: 48
+[2026-06-09 10:22:43] SinkAdded: 48
+[2026-06-09 10:22:44] SinkAdded: 48
+[2026-06-09 10:22:49] SinkAdded: 48
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] Initialized CSystemAudioController: 1
+[2026-06-09 10:24:23] CSystemAudioController handle volume keys: 0
+[2026-06-09 10:24:23] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 10:24:24] AudioSinkAvailabilityChanged: 1
+[2026-06-09 10:24:24] SinkAdded: 48
+[2026-06-09 10:24:24] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 10:24:24] SinkVolumeChanged: 48,1 -> 1.000000
+[2026-06-09 10:24:24] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 10:24:27] SinkAdded: 48
+[2026-06-09 10:24:28] SinkAdded: 48
+[2026-06-09 10:24:30] SupportsMonoDownmix: 1
+[2026-06-09 10:24:30] GetMonoDownmix: 0
+[2026-06-09 10:24:30] SupportsUseBluetoothForMic: 1
+[2026-06-09 10:24:30] GetUseBluetoothForMic: 1
+[2026-06-09 10:25:15] SinkVolumeChanged: 1050256,1 -> 1.000000
+[2026-06-09 10:25:15] SinkVolumeChanged: 1050303,0 -> 1.000000
+[2026-06-09 10:25:15] SinkAdded: 48
+[2026-06-09 10:25:15] SinkRemoved: 1050256
+[2026-06-09 10:25:15] SinkRemoved: 1050303
+[2026-06-09 10:25:15] SinkAdded: 48
+[2026-06-09 10:25:16] SinkVolumeChanged: 1050377,1 -> 1.000000
+[2026-06-09 10:25:16] SinkAdded: 1050377
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] Initialized CSystemAudioController: 1
+[2026-06-09 11:22:34] CSystemAudioController handle volume keys: 0
+[2026-06-09 11:22:34] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 11:22:35] AudioSinkAvailabilityChanged: 1
+[2026-06-09 11:22:35] SinkAdded: 48
+[2026-06-09 11:22:35] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 11:22:35] SinkVolumeChanged: 48,1 -> 1.000000
+[2026-06-09 11:22:35] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 11:22:38] SinkAdded: 48
+[2026-06-09 11:22:39] SinkAdded: 48
+[2026-06-09 11:22:41] SupportsMonoDownmix: 1
+[2026-06-09 11:22:41] GetMonoDownmix: 0
+[2026-06-09 11:22:41] SupportsUseBluetoothForMic: 1
+[2026-06-09 11:22:41] GetUseBluetoothForMic: 1
+[2026-06-09 11:23:03] SinkAdded: 48
+[2026-06-09 11:23:06] SinkAdded: 48
+[2026-06-09 11:23:36] SinkAdded: 48
+[2026-06-09 11:23:41] SinkAdded: 48
+[2026-06-09 11:24:15] SinkAdded: 48
+[2026-06-09 11:24:26] SinkAdded: 48
+[2026-06-09 11:24:31] SinkAdded: 48
+[2026-06-09 11:25:34] SinkAdded: 48
+[2026-06-09 11:26:03] SinkAdded: 48
+[2026-06-09 11:26:08] SinkAdded: 48
+[2026-06-09 11:26:11] SinkVolumeChanged: 1050643,0 -> 1.000000
+[2026-06-09 11:26:12] SinkVolumeChanged: 1050717,1 -> 1.000000
+[2026-06-09 11:26:12] SinkAdded: 48
+[2026-06-09 11:26:12] SinkRemoved: 1050643
+[2026-06-09 11:26:12] SinkAdded: 1050717
+
+
+[2026-06-09 11:36:05] Client version: 1780352834
+[2026-06-09 11:36:05] Initialized CSystemAudioController: 1
+[2026-06-09 11:36:05] CSystemAudioController handle volume keys: 0
+[2026-06-09 11:36:05] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-06-09 11:36:54] Client version: 1780352834
+[2026-06-09 11:36:54] Initialized CSystemAudioController: 1
+[2026-06-09 11:36:54] CSystemAudioController handle volume keys: 0
+[2026-06-09 11:36:54] CSystemAudioController handle echo cancel load: 0
+
+
+[2026-06-09 12:06:47] Client version: 1780352834
+[2026-06-09 12:06:47] Initialized CSystemAudioController: 1
+[2026-06-09 12:06:47] CSystemAudioController handle volume keys: 0
+[2026-06-09 12:06:47] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 12:06:48] AudioSinkAvailabilityChanged: 1
+[2026-06-09 12:06:48] SinkAdded: 48
+[2026-06-09 12:06:48] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 12:06:48] SinkVolumeChanged: 48,1 -> 1.000000
+[2026-06-09 12:06:48] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 12:06:52] SinkAdded: 48
+[2026-06-09 12:06:52] SinkAdded: 48
+[2026-06-09 12:06:54] SupportsMonoDownmix: 1
+[2026-06-09 12:06:54] GetMonoDownmix: 0
+[2026-06-09 12:06:55] SupportsUseBluetoothForMic: 1
+[2026-06-09 12:06:55] GetUseBluetoothForMic: 1
+[2026-06-09 12:07:19] SinkAdded: 48
+[2026-06-09 12:07:21] SinkAdded: 48
+[2026-06-09 12:07:31] SinkAdded: 48
+[2026-06-09 12:07:38] SinkAdded: 48
+[2026-06-09 12:08:16] SinkVolumeChanged: 1050904,0 -> 1.000000
+[2026-06-09 12:08:17] SinkAdded: 48
+[2026-06-09 12:08:17] SinkRemoved: 1050904
+[2026-06-09 12:08:17] SinkVolumeChanged: 1050978,1 -> 1.000000
+[2026-06-09 12:08:17] SinkAdded: 48
+[2026-06-09 12:08:17] SinkAdded: 1050978
+[2026-06-09 12:08:50] SinkAdded: 48
+[2026-06-09 12:08:50] SinkRemoved: 1050978
+[2026-06-09 12:08:55] SinkAdded: 48
+[2026-06-09 12:09:04] SinkAdded: 48
+[2026-06-09 12:09:18] SinkAdded: 48
+[2026-06-09 12:09:23] SinkAdded: 48
+[2026-06-09 12:09:25] SinkVolumeChanged: 1051009,1 -> 1.000000
+[2026-06-09 12:09:25] SinkVolumeChanged: 1051056,0 -> 1.000000
+[2026-06-09 12:09:26] SinkRemoved: 1051009
+[2026-06-09 12:09:26] SinkRemoved: 1051056
+[2026-06-09 12:09:26] SinkVolumeChanged: 1051130,1 -> 1.000000
+[2026-06-09 12:09:26] SinkAdded: 48
+[2026-06-09 12:09:26] SinkAdded: 1051130
+
+
+[2026-06-09 12:43:33] Client version: 1780352834
+[2026-06-09 12:43:33] Initialized CSystemAudioController: 1
+[2026-06-09 12:43:33] CSystemAudioController handle volume keys: 0
+[2026-06-09 12:43:33] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 12:43:34] AudioSinkAvailabilityChanged: 1
+[2026-06-09 12:43:34] SinkAdded: 48
+[2026-06-09 12:43:34] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 12:43:34] SinkVolumeChanged: 48,1 -> 1.000000
+[2026-06-09 12:43:34] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 12:43:39] SinkAdded: 48
+[2026-06-09 12:43:40] SinkAdded: 48
+[2026-06-09 12:43:42] SupportsMonoDownmix: 1
+[2026-06-09 12:43:43] GetMonoDownmix: 0
+[2026-06-09 12:43:43] SupportsUseBluetoothForMic: 1
+[2026-06-09 12:43:43] GetUseBluetoothForMic: 1
+[2026-06-09 12:44:08] SinkAdded: 48
+[2026-06-09 12:44:13] SinkAdded: 48
+[2026-06-09 12:45:52] SinkAdded: 48
+[2026-06-09 12:46:12] SinkVolumeChanged: 1051618,1 -> 1.000000
+[2026-06-09 12:46:13] SinkVolumeChanged: 1051665,0 -> 1.000000
+[2026-06-09 12:46:13] SinkAdded: 48
+[2026-06-09 12:46:13] SinkRemoved: 1051618
+[2026-06-09 12:46:13] SinkRemoved: 1051665
+[2026-06-09 12:46:13] SinkAdded: 48
+[2026-06-09 12:46:13] SinkVolumeChanged: 1051739,1 -> 1.000000
+[2026-06-09 12:46:13] SinkAdded: 1051739
+
+
+[2026-06-09 12:49:41] Client version: 1780352834
+[2026-06-09 12:49:41] Initialized CSystemAudioController: 1
+[2026-06-09 12:49:41] CSystemAudioController handle volume keys: 0
+[2026-06-09 12:49:41] CSystemAudioController handle echo cancel load: 0
+[2026-06-09 12:49:43] AudioSinkAvailabilityChanged: 1
+[2026-06-09 12:49:43] SinkAdded: 48
+[2026-06-09 12:49:43] SinkVolumeChanged: 48,1 -> 0.270004
+[2026-06-09 12:49:43] SinkVolumeChanged: 48,1 -> 1.000000
+[2026-06-09 12:49:43] SinkVolumeChanged: 48,0 -> 1.000000
+[2026-06-09 12:49:47] SinkAdded: 48
+[2026-06-09 12:49:48] SinkAdded: 48
+[2026-06-09 12:49:50] SupportsMonoDownmix: 1
+[2026-06-09 12:49:50] GetMonoDownmix: 0
+[2026-06-09 12:49:50] SupportsUseBluetoothForMic: 1
+[2026-06-09 12:49:50] GetUseBluetoothForMic: 1
+[2026-06-09 12:50:12] SinkVolumeChanged: 1051825,1 -> 1.000000
+[2026-06-09 12:50:13] SinkAdded: 48
+[2026-06-09 12:50:13] SinkRemoved: 1051825
+[2026-06-09 12:50:13] SinkVolumeChanged: 1051868,0 -> 1.000000
+[2026-06-09 12:50:13] SinkRemoved: 1051868
+[2026-06-09 12:50:13] SinkAdded: 48
+[2026-06-09 12:50:13] SinkVolumeChanged: 1051942,1 -> 1.000000
+[2026-06-09 12:50:14] SinkAdded: 1051942

@@ -1,0 +1,204 @@
+
+
+[2026-06-09 00:42:24] Client version: 1780352834
+[2026-06-09 00:42:24] Generated client id: 2139718466372664030
+[2026-06-09 00:42:24] Listening for IPv4 broadcast on: 27036
+[2026-06-09 00:42:24] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 00:42:25] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 00:42:25] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 00:42:25] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:42:25] Connecting to remote: 0x4d 192.168.0.21:27036
+[2026-06-09 00:42:25] Connected to remote client: 0x4d
+[2026-06-09 00:42:25] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:42:25] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 00:42:25] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 00:42:27] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:42:29] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:42:45] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:42:51] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:42:57] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:42:58] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 00:43:02] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:43:20] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:44:54] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:44:55] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 00:44:57] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+
+
+[2026-06-09 00:45:32] Client version: 1780352834
+[2026-06-09 00:45:32] Loaded client id: 2139718466372664030
+[2026-06-09 00:45:32] Listening for IPv4 broadcast on: 27036
+[2026-06-09 00:45:32] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 00:45:32] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 00:45:32] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 00:45:32] Connecting to remote: 0x31 192.168.0.21:27036
+[2026-06-09 00:45:32] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:45:32] Connected to remote client: 0x31
+[2026-06-09 00:45:33] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 00:45:35] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:45:44] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 00:46:00] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 01:13:07] Client 1142718289800582697 (Bastard) disconnected: disconnecting all
+
+
+[2026-06-09 08:28:56] Client version: 1780352834
+[2026-06-09 08:28:56] Loaded client id: 2139718466372664030
+[2026-06-09 08:28:56] Listening for IPv4 broadcast on: 27036
+[2026-06-09 08:28:56] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 08:28:56] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 08:28:56] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 08:37:36] Connecting to remote: 0x101 192.168.0.21:27036
+[2026-06-09 08:37:36] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 08:37:36] Connected to remote client: 0x101
+[2026-06-09 08:37:37] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 08:37:37] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 08:37:40] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 08:37:50] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.77:27036
+[2026-06-09 08:37:55] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 08:38:05] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 08:38:06] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 08:38:08] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 08:38:25] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+
+
+[2026-06-09 09:37:41] Client version: 1780352834
+[2026-06-09 09:37:41] Loaded client id: 2139718466372664030
+[2026-06-09 09:37:41] Listening for IPv4 broadcast on: 27036
+[2026-06-09 09:37:41] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 09:37:41] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 09:37:41] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 09:37:41] Connecting to remote: 0x2d 192.168.0.21:27036
+[2026-06-09 09:37:41] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 09:37:41] Connected to remote client: 0x2d
+[2026-06-09 09:37:41] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 09:37:41] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 09:37:42] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 09:37:43] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 09:38:02] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 09:38:05] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+
+
+[2026-06-09 10:05:39] Client version: 1780352834
+[2026-06-09 10:05:39] Loaded client id: 2139718466372664030
+[2026-06-09 10:05:39] Listening for IPv4 broadcast on: 27036
+[2026-06-09 10:05:39] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 10:05:39] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 10:05:39] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 10:05:39] Connecting to remote: 0x41 192.168.0.21:27036
+[2026-06-09 10:05:39] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:05:39] Connected to remote client: 0x41
+[2026-06-09 10:05:39] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:05:39] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 10:05:39] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 10:05:42] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:05:42] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:06:00] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:06:03] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:06:33] Client 1142718289800582697 (Bastard) disconnected: disconnecting all
+
+
+[2026-06-09 10:06:47] Client version: 0
+[2026-06-09 10:06:47] Loaded client id: 2139718466372664030
+[2026-06-09 10:06:47] Listening for IPv4 broadcast on: 27036
+[2026-06-09 10:06:47] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 10:06:47] Connecting to remote: 0x2d 192.168.0.21:27036
+[2026-06-09 10:06:47] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:06:47] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 10:06:47] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 10:06:47] Connected to remote client: 0x2d
+[2026-06-09 10:06:47] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 10:06:48] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 10:06:51] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:06:51] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:07:13] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:07:13] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:24:03] Client 1142718289800582697 (Bastard) disconnected: disconnecting all
+
+
+[2026-06-09 10:24:28] Client version: 0
+[2026-06-09 10:24:28] Loaded client id: 2139718466372664030
+[2026-06-09 10:24:28] Listening for IPv4 broadcast on: 27036
+[2026-06-09 10:24:28] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 10:24:28] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 10:24:28] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 10:24:28] Connecting to remote: 0x45 192.168.0.21:27036
+[2026-06-09 10:24:28] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:24:28] Connected to remote client: 0x45
+[2026-06-09 10:24:28] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 10:24:28] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:24:28] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 10:24:31] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:24:33] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:24:46] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 10:24:52] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+
+
+[2026-06-09 11:22:38] Client version: 0
+[2026-06-09 11:22:38] Loaded client id: 2139718466372664030
+[2026-06-09 11:22:38] Listening for IPv4 broadcast on: 27036
+[2026-06-09 11:22:38] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 11:22:38] Connecting to remote: 0x2d 192.168.0.21:27036
+[2026-06-09 11:22:38] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 11:22:38] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 11:22:38] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 11:22:38] Connected to remote client: 0x2d
+[2026-06-09 11:22:39] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 11:22:39] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 11:22:39] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 11:22:42] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 11:22:43] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 11:23:02] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 11:23:06] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+
+
+[2026-06-09 12:06:52] Client version: 1780352834
+[2026-06-09 12:06:52] Loaded client id: 2139718466372664030
+[2026-06-09 12:06:52] Listening for IPv4 broadcast on: 27036
+[2026-06-09 12:06:52] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 12:06:52] Connecting to remote: 0x2d 192.168.0.21:27036
+[2026-06-09 12:06:52] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:06:52] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 12:06:52] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 12:06:52] Connected to remote client: 0x2d
+[2026-06-09 12:06:52] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:06:52] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 12:06:53] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 12:06:55] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:06:56] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:07:11] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:07:11] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+
+
+[2026-06-09 12:43:39] Client version: 1780352834
+[2026-06-09 12:43:39] Loaded client id: 2139718466372664030
+[2026-06-09 12:43:39] Listening for IPv4 broadcast on: 27036
+[2026-06-09 12:43:39] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 12:43:39] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 12:43:39] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 12:43:39] Connecting to remote: 0x2d 192.168.0.21:27036
+[2026-06-09 12:43:39] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:43:39] Connected to remote client: 0x2d
+[2026-06-09 12:43:39] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 12:43:39] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:43:39] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 12:43:43] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:43:44] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:44:06] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:44:06] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+
+
+[2026-06-09 12:49:47] Client version: 1780352834
+[2026-06-09 12:49:47] Loaded client id: 2139718466372664030
+[2026-06-09 12:49:47] Listening for IPv4 broadcast on: 27036
+[2026-06-09 12:49:47] Listening for connections on: 0.0.0.0:27036
+[2026-06-09 12:49:47] Connecting to remote: 0x2d 192.168.0.21:27036
+[2026-06-09 12:49:47] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:49:47] SoftAP: CRemoteClientSoftAP settings updated, enabled = 0, hotspot = 0, ssid = ""
+[2026-06-09 12:49:47] SoftAP: Error: can't connect to softapmanager.
+[2026-06-09 12:49:47] Connected to remote client: 0x2d
+[2026-06-09 12:49:47] Client 1142718289800582697 (Bastard) connected via direct connection
+[2026-06-09 12:49:47] Received broadcast message from client 1142718289800582697 (Bastard): 1142718289800582697:27036
+[2026-06-09 12:49:51] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:49:52] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:50:09] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036
+[2026-06-09 12:50:17] Received broadcast message from client 1142718289800582697 (Bastard): 192.168.0.21:27036

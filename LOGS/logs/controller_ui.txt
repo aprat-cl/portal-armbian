@@ -1,0 +1,648 @@
+
+
+[2026-06-09 00:41:53] Client version: 1780352834
+[2026-06-09 00:41:53] Controller 0 connected, configuring it now...
+[2026-06-09 00:41:53] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 00:41:53] Warming Config Cache 769
+[2026-06-09 00:41:53] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:41:53] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:41:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:41:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:41:54] Warming Config Cache 769
+[2026-06-09 00:41:54] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:41:54] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:41:54] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:41:54] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 00:41:54] Adding preview config for appid: 443510
+[2026-06-09 00:41:54] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 00:42:31] Controller 0 connected, configuring it now...
+[2026-06-09 00:42:31] We thought 0 was already a connected controller?
+[2026-06-09 00:42:31] Controller 0 disconnected
+[2026-06-09 00:42:31] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 00:42:31] Warming Config Cache 769
+[2026-06-09 00:42:31] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:31] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:52] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:52] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:42:52] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:43:10] Loading config for appid: 233860
+[2026-06-09 00:43:10] Loaded Config for Last Resort Path for App ID 233860, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 00:43:10] Loaded Config for Last Resort Path for App ID 233860, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 00:43:10] Loaded Config for Last Resort Path for App ID 233860, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 00:43:16] Loading config for appid: 678960
+[2026-06-09 00:43:16] Loaded Config for Local Selection Path for App ID 678960, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 00:43:16] Loaded Config for Local Selection Path for App ID 678960, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 00:43:16] Loaded Config for Local Selection Path for App ID 678960, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 00:44:11] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2026-06-09 00:44:11] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+
+
+[2026-06-09 00:45:18] Client version: 1780352834
+[2026-06-09 00:45:18] Controller 0 connected, configuring it now...
+[2026-06-09 00:45:18] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 00:45:18] Warming Config Cache 769
+[2026-06-09 00:45:18] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:18] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:18] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:18] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:31] Warming Config Cache 769
+[2026-06-09 00:45:31] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:31] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:31] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 00:45:32] Adding preview config for appid: 443510
+[2026-06-09 00:45:32] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 00:45:33] Controller 0 connected, configuring it now...
+[2026-06-09 00:45:33] We thought 0 was already a connected controller?
+[2026-06-09 00:45:33] Controller 0 disconnected
+[2026-06-09 00:45:33] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 00:45:33] Warming Config Cache 769
+[2026-06-09 00:45:33] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:33] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:33] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:33] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:33] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:33] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:33] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:33] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:34] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:34] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:34] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 00:45:55] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2026-06-09 00:45:55] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 00:46:09] Loaded Config for Last Resort Path for App ID 4185400, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 00:46:35] Warming Config Cache 4185400
+[2026-06-09 00:46:35] Loaded Config for Last Resort Path for App ID 4185400, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 00:53:39] Loaded Config for Last Resort Path for App ID 4628740, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 00:55:44] Warming Config Cache 4628740
+[2026-06-09 00:55:44] Loaded Config for Last Resort Path for App ID 4628740, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 00:56:19] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 01:06:12] Warming Config Cache 1121560
+[2026-06-09 01:06:12] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 01:06:12] Warming Config Cache 3658110
+[2026-06-09 01:06:12] Loaded Config for Last Resort Path for App ID 3658110, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 01:06:12] Warming Config Cache 1628350
+[2026-06-09 01:06:12] Loaded Config for Last Resort Path for App ID 1628350, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 01:06:12] Warming Config Cache 228980
+[2026-06-09 01:06:12] Loaded Config for Last Resort Path for App ID 228980, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 01:06:44] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_ClientUI, AppID 769
+[2026-06-09 01:06:44] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 01:06:44] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 01:06:44] Loading config for appid: 413080
+[2026-06-09 01:06:44] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 01:06:44] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 01:06:44] Set OSK active 1 and appid 769
+[2026-06-09 01:06:44] OnFocusWindowChanged On Screen Keyboard Forcing to window type: KB ActionSet, AppID 769
+[2026-06-09 01:06:44] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 01:07:02] Set OSK active 0 and appid 769
+[2026-06-09 01:07:02] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 01:07:20] Removing all edited configs
+[2026-06-09 01:07:20] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2026-06-09 01:07:20] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 01:07:20] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 01:07:20] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 01:07:21] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+
+
+[2026-06-09 08:28:45] Client version: 1780352834
+[2026-06-09 08:28:45] Controller 0 connected, configuring it now...
+[2026-06-09 08:28:45] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 08:28:45] Warming Config Cache 769
+[2026-06-09 08:28:45] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:45] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:45] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:45] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:54] Warming Config Cache 769
+[2026-06-09 08:28:54] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:54] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:54] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:55] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 08:28:55] Adding preview config for appid: 443510
+[2026-06-09 08:28:55] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 08:28:57] Controller 0 connected, configuring it now...
+[2026-06-09 08:28:57] We thought 0 was already a connected controller?
+[2026-06-09 08:28:57] Controller 0 disconnected
+[2026-06-09 08:28:57] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 08:28:57] Warming Config Cache 769
+[2026-06-09 08:28:57] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:57] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:57] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:57] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:57] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:57] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:57] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:28:57] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:29:03] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:29:03] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:29:03] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:29:17] Loading config for appid: 1121560
+[2026-06-09 08:29:17] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:29:17] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:29:17] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:29:28] Set OSK active 1 and appid 769
+[2026-06-09 08:29:28] OnFocusWindowChanged On Screen Keyboard Forcing to window type: KB ActionSet, AppID 769
+[2026-06-09 08:29:28] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:29:33] Set OSK active 0 and appid 769
+[2026-06-09 08:29:33] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:29:34] Warming Config Cache 1121560
+[2026-06-09 08:29:34] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:29:34] Warming Config Cache 1121560
+[2026-06-09 08:29:34] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:29:42] Set OSK active 1 and appid 769
+[2026-06-09 08:29:42] OnFocusWindowChanged On Screen Keyboard Forcing to window type: KB ActionSet, AppID 769
+[2026-06-09 08:29:42] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:29:44] Set OSK active 0 and appid 769
+[2026-06-09 08:29:44] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 08:29:44] Warming Config Cache 1121560
+[2026-06-09 08:29:44] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:29:44] Warming Config Cache 1121560
+[2026-06-09 08:29:44] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:32:15] Warming Config Cache 1121560
+[2026-06-09 08:32:15] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:32:16] Warming Config Cache 1121560
+[2026-06-09 08:32:16] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:32:19] OnFocusWindowChanged to game window type: AppID 1121560, 1121560
+[2026-06-09 08:32:19] Loaded Config for Local Selection Path for App ID 1121560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:34:31] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2026-06-09 08:34:31] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 08:34:44] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:35:06] Warming Config Cache 3405340
+[2026-06-09 08:35:06] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:35:06] Warming Config Cache 1070560
+[2026-06-09 08:35:06] Loaded Config for Last Resort Path for App ID 1070560, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 08:35:12] Warming Config Cache 3405340
+[2026-06-09 08:35:12] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:35:35] Warming Config Cache 1391110
+[2026-06-09 08:35:35] Loaded Config for Last Resort Path for App ID 1391110, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 08:35:58] Warming Config Cache 3405340
+[2026-06-09 08:35:58] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:36:24] Warming Config Cache 3405340
+[2026-06-09 08:36:24] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:36:24] Warming Config Cache 3405340
+[2026-06-09 08:36:24] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:36:28] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 08:36:28] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 08:36:29] Loading config for appid: 3405340
+[2026-06-09 08:36:29] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+
+
+[2026-06-09 09:37:38] Client version: 1780352834
+[2026-06-09 09:37:38] Controller 0 connected, configuring it now...
+[2026-06-09 09:37:39] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 09:37:39] Warming Config Cache 769
+[2026-06-09 09:37:39] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:39] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:39] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:39] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:40] Warming Config Cache 769
+[2026-06-09 09:37:40] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:40] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:40] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 09:37:41] Adding preview config for appid: 443510
+[2026-06-09 09:37:41] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 09:37:42] Controller 0 connected, configuring it now...
+[2026-06-09 09:37:42] We thought 0 was already a connected controller?
+[2026-06-09 09:37:42] Controller 0 disconnected
+[2026-06-09 09:37:42] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 09:37:42] Warming Config Cache 769
+[2026-06-09 09:37:42] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:42] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:42] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:42] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:42] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:42] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:42] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:43] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 09:37:50] Loading config for appid: 3405340
+[2026-06-09 09:37:50] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 09:37:50] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 09:37:50] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 09:38:24] Warming Config Cache 3405340
+[2026-06-09 09:38:24] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 09:38:24] Warming Config Cache 3405340
+[2026-06-09 09:38:24] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 09:38:28] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 09:38:28] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+
+
+[2026-06-09 10:05:36] Client version: 1780352834
+[2026-06-09 10:05:36] Controller 0 connected, configuring it now...
+[2026-06-09 10:05:36] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 10:05:36] Warming Config Cache 769
+[2026-06-09 10:05:36] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:36] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:37] Warming Config Cache 769
+[2026-06-09 10:05:37] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:37] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:37] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:38] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 10:05:38] Adding preview config for appid: 443510
+[2026-06-09 10:05:38] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 10:05:40] Controller 0 connected, configuring it now...
+[2026-06-09 10:05:40] We thought 0 was already a connected controller?
+[2026-06-09 10:05:40] Controller 0 disconnected
+[2026-06-09 10:05:40] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 10:05:40] Warming Config Cache 769
+[2026-06-09 10:05:40] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:40] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:05:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+
+
+[2026-06-09 10:06:44] Client version: 0
+[2026-06-09 10:06:44] Controller 0 connected, configuring it now...
+[2026-06-09 10:06:45] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 10:06:45] Warming Config Cache 769
+[2026-06-09 10:06:45] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:45] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:45] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:45] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:46] Warming Config Cache 769
+[2026-06-09 10:06:46] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:46] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:46] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:46] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 10:06:47] Adding preview config for appid: 443510
+[2026-06-09 10:06:47] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 10:06:48] Controller 0 connected, configuring it now...
+[2026-06-09 10:06:48] We thought 0 was already a connected controller?
+[2026-06-09 10:06:48] Controller 0 disconnected
+[2026-06-09 10:06:48] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 10:06:48] Warming Config Cache 769
+[2026-06-09 10:06:48] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:48] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:49] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:58] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:58] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:06:58] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:08:40] Loading config for appid: 3405340
+[2026-06-09 10:08:40] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:08:40] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:08:40] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:08:44] Warming Config Cache 3405340
+[2026-06-09 10:08:44] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:08:44] Warming Config Cache 3405340
+[2026-06-09 10:08:44] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:08:44] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 10:08:44] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:11:11] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2026-06-09 10:11:11] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+
+
+[2026-06-09 10:24:25] Client version: 0
+[2026-06-09 10:24:25] Controller 0 connected, configuring it now...
+[2026-06-09 10:24:25] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 10:24:25] Warming Config Cache 769
+[2026-06-09 10:24:25] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:25] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:25] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:25] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:26] Warming Config Cache 769
+[2026-06-09 10:24:26] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:26] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:26] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:26] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 10:24:27] Adding preview config for appid: 443510
+[2026-06-09 10:24:27] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 10:24:29] Controller 0 connected, configuring it now...
+[2026-06-09 10:24:29] We thought 0 was already a connected controller?
+[2026-06-09 10:24:29] Controller 0 disconnected
+[2026-06-09 10:24:29] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 10:24:29] Warming Config Cache 769
+[2026-06-09 10:24:29] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:29] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:29] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:29] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:29] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:29] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:29] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:29] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:35] Loading config for appid: 3405340
+[2026-06-09 10:24:35] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:24:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:24:36] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:24:36] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:24:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 10:25:08] Warming Config Cache 3405340
+[2026-06-09 10:25:08] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:25:08] Warming Config Cache 3405340
+[2026-06-09 10:25:08] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 10:25:11] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 10:25:11] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+
+
+[2026-06-09 11:22:36] Client version: 0
+[2026-06-09 11:22:36] Controller 0 connected, configuring it now...
+[2026-06-09 11:22:36] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 11:22:36] Warming Config Cache 769
+[2026-06-09 11:22:36] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:36] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:37] Warming Config Cache 769
+[2026-06-09 11:22:37] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:37] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:37] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:38] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 11:22:38] Adding preview config for appid: 443510
+[2026-06-09 11:22:38] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 11:22:39] Controller 0 connected, configuring it now...
+[2026-06-09 11:22:39] We thought 0 was already a connected controller?
+[2026-06-09 11:22:39] Controller 0 disconnected
+[2026-06-09 11:22:39] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 11:22:39] Warming Config Cache 769
+[2026-06-09 11:22:39] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:39] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:39] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:39] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:39] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:39] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:39] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:22:47] Loading config for appid: 3405340
+[2026-06-09 11:22:47] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 11:22:47] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 11:22:47] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 11:22:52] Warming Config Cache 1628350
+[2026-06-09 11:22:52] Loaded Config for Last Resort Path for App ID 1628350, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 11:23:00] Warming Config Cache 4185400
+[2026-06-09 11:23:00] Loaded Config for Last Resort Path for App ID 4185400, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 11:23:25] Warming Config Cache 4183110
+[2026-06-09 11:23:25] Loaded Config for Last Resort Path for App ID 4183110, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 11:24:15] Warming Config Cache 1493710
+[2026-06-09 11:24:15] Loaded Config for Last Resort Path for App ID 1493710, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_wasd.vdf
+[2026-06-09 11:24:15] Warming Config Cache 3405340
+[2026-06-09 11:24:15] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 11:24:17] Warming Config Cache 3405340
+[2026-06-09 11:24:17] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 11:24:17] Warming Config Cache 3405340
+[2026-06-09 11:24:17] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 11:24:21] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 11:24:21] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 11:25:36] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_ClientUI, AppID 769
+[2026-06-09 11:25:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 11:25:52] Warming Config Cache 3405340
+[2026-06-09 11:25:52] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 11:25:52] Warming Config Cache 3405340
+[2026-06-09 11:25:52] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 11:25:56] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 11:25:56] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+
+
+[2026-06-09 12:06:49] Client version: 1780352834
+[2026-06-09 12:06:49] Controller 0 connected, configuring it now...
+[2026-06-09 12:06:50] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 12:06:50] Warming Config Cache 769
+[2026-06-09 12:06:50] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:50] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:50] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:50] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:51] Warming Config Cache 769
+[2026-06-09 12:06:51] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:51] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:51] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:51] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 12:06:52] Adding preview config for appid: 443510
+[2026-06-09 12:06:52] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 12:06:53] Controller 0 connected, configuring it now...
+[2026-06-09 12:06:53] We thought 0 was already a connected controller?
+[2026-06-09 12:06:53] Controller 0 disconnected
+[2026-06-09 12:06:53] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 12:06:53] Warming Config Cache 769
+[2026-06-09 12:06:53] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:53] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:06:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:07:06] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2026-06-09 12:07:06] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 12:07:16] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:08:04] Warming Config Cache 3405340
+[2026-06-09 12:08:04] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:08:05] Warming Config Cache 3405340
+[2026-06-09 12:08:05] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:08:07] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 12:08:07] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:08:07] Loading config for appid: 3405340
+[2026-06-09 12:08:07] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:08:55] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2026-06-09 12:08:55] Loaded Config for Local Selection Path for App ID 413080, Controller 0: controller_base/empty.vdf
+[2026-06-09 12:09:19] Warming Config Cache 3405340
+[2026-06-09 12:09:19] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:09:19] Warming Config Cache 3405340
+[2026-06-09 12:09:19] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:09:20] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 12:09:20] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+
+
+[2026-06-09 12:43:35] Client version: 1780352834
+[2026-06-09 12:43:35] Controller 0 connected, configuring it now...
+[2026-06-09 12:43:36] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 12:43:36] Warming Config Cache 769
+[2026-06-09 12:43:36] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:36] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:36] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:37] Warming Config Cache 769
+[2026-06-09 12:43:37] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:37] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:37] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:38] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 12:43:38] Adding preview config for appid: 443510
+[2026-06-09 12:43:38] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 12:43:40] Controller 0 connected, configuring it now...
+[2026-06-09 12:43:40] We thought 0 was already a connected controller?
+[2026-06-09 12:43:40] Controller 0 disconnected
+[2026-06-09 12:43:40] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 12:43:40] Warming Config Cache 769
+[2026-06-09 12:43:40] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:40] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:40] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:41] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:43:49] Loading config for appid: 3405340
+[2026-06-09 12:43:49] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:43:49] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:43:49] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:46:03] Warming Config Cache 3405340
+[2026-06-09 12:46:03] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:46:03] Warming Config Cache 3405340
+[2026-06-09 12:46:03] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:46:07] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 12:46:07] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+
+
+[2026-06-09 12:49:43] Client version: 1780352834
+[2026-06-09 12:49:43] Controller 0 connected, configuring it now...
+[2026-06-09 12:49:44] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: Awaiting_Logon
+  Capabilities: 00000000001003ff
+  Firmware Version: 0
+[2026-06-09 12:49:44] Warming Config Cache 769
+[2026-06-09 12:49:44] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:44] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:44] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:44] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:45] Warming Config Cache 769
+[2026-06-09 12:49:45] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:45] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:45] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:46] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 12:49:47] Adding preview config for appid: 443510
+[2026-06-09 12:49:47] Loaded Config for Last Resort Path for App ID 443510, Controller 0: /home/aprat/games/steam//controller_base/chord.vdf
+[2026-06-09 12:49:48] Controller 0 connected, configuring it now...
+[2026-06-09 12:49:48] We thought 0 was already a connected controller?
+[2026-06-09 12:49:48] Controller 0 disconnected
+[2026-06-09 12:49:48] !! Controller 0 attributes:
+  Type: 30
+  ProductID: 12289
+  Serial: 2020-3001-3483bc0
+  Capabilities: 00000000001803ff
+  Firmware Version: 0
+[2026-06-09 12:49:48] Warming Config Cache 769
+[2026-06-09 12:49:48] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:48] Loaded Config for Local Selection Path for App ID 769, Controller 4294967295: controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:49] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/aprat/games/steam//controller_base/basicui_gamepad.vdf
+[2026-06-09 12:49:58] Loading config for appid: 3405340
+[2026-06-09 12:49:58] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:49:58] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:49:58] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:50:03] Warming Config Cache 3405340
+[2026-06-09 12:50:03] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:50:03] Warming Config Cache 3405340
+[2026-06-09 12:50:03] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf
+[2026-06-09 12:50:04] OnFocusWindowChanged to game window type: AppID 3405340, 3405340
+[2026-06-09 12:50:04] Loaded Config for Local Selection Path for App ID 3405340, Controller 0: /home/aprat/games/steam//controller_base/templates/controller_generic_gamepad_joystick.vdf

@@ -1,0 +1,426 @@
+
+
+[2026-06-08 23:52:53] Client version: 0
+[2026-06-08 23:52:53] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-exitsteam'
+[2026-06-08 23:52:53] Using update UI: console
+[2026-06-08 23:52:54] Create window
+[2026-06-08 23:52:54] Set percent complete: 0
+[2026-06-08 23:52:54] Set percent complete: -1
+[2026-06-08 23:52:54] Set status message: Verifying installation...
+[2026-06-08 23:52:54] Set percent complete: 0
+[2026-06-08 23:52:54] Set status message: Downloading Update...
+[2026-06-08 23:52:54] Set status message: Checking for available update...
+[2026-06-08 23:52:54] Set percent complete: -1
+[2026-06-08 23:52:55] Set status message: Downloading update (32,330 of 654,227 KB)...
+[2026-06-08 23:52:55] Set percent complete: 4
+[2026-06-08 23:52:55] Set status message: Downloading update (46,029 of 654,227 KB)...
+[2026-06-08 23:52:55] Set percent complete: 7
+[2026-06-08 23:52:55] Set status message: Downloading update (57,053 of 654,227 KB)...
+[2026-06-08 23:52:55] Set percent complete: 8
+[2026-06-08 23:52:55] Show window
+[2026-06-08 23:52:56] Set status message: Downloading update (68,639 of 654,227 KB)...
+[2026-06-08 23:52:56] Set percent complete: 10
+[2026-06-08 23:52:56] Set status message: Downloading update (78,574 of 654,227 KB)...
+[2026-06-08 23:52:56] Set percent complete: 12
+[2026-06-08 23:52:56] Set status message: Downloading update (86,879 of 654,227 KB)...
+[2026-06-08 23:52:56] Set percent complete: 13
+[2026-06-08 23:52:57] Set status message: Downloading update (103,199 of 654,227 KB)...
+[2026-06-08 23:52:57] Set percent complete: 15
+[2026-06-08 23:52:57] Set status message: Downloading update (115,166 of 654,227 KB)...
+[2026-06-08 23:52:57] Set percent complete: 17
+[2026-06-08 23:52:57] Set status message: Downloading update (127,161 of 654,227 KB)...
+[2026-06-08 23:52:57] Set percent complete: 19
+[2026-06-08 23:52:57] Set status message: Downloading update (139,321 of 654,227 KB)...
+[2026-06-08 23:52:57] Set percent complete: 21
+[2026-06-08 23:52:58] Set status message: Downloading update (149,767 of 654,227 KB)...
+[2026-06-08 23:52:58] Set percent complete: 22
+[2026-06-08 23:52:58] Set status message: Downloading update (160,159 of 654,227 KB)...
+[2026-06-08 23:52:58] Set percent complete: 24
+[2026-06-08 23:52:58] Set status message: Downloading update (174,111 of 654,227 KB)...
+[2026-06-08 23:52:58] Set percent complete: 26
+[2026-06-08 23:52:58] Set status message: Downloading update (183,144 of 654,227 KB)...
+[2026-06-08 23:52:58] Set percent complete: 27
+[2026-06-08 23:52:59] Set status message: Downloading update (201,044 of 654,227 KB)...
+[2026-06-08 23:52:59] Set percent complete: 30
+[2026-06-08 23:52:59] Set status message: Downloading update (213,188 of 654,227 KB)...
+[2026-06-08 23:52:59] Set percent complete: 32
+[2026-06-08 23:52:59] Set status message: Downloading update (223,856 of 654,227 KB)...
+[2026-06-08 23:52:59] Set percent complete: 34
+[2026-06-08 23:53:00] Set status message: Downloading update (236,320 of 654,227 KB)...
+[2026-06-08 23:53:00] Set percent complete: 36
+[2026-06-08 23:53:00] Set status message: Downloading update (247,776 of 654,227 KB)...
+[2026-06-08 23:53:00] Set percent complete: 37
+[2026-06-08 23:53:00] Set status message: Downloading update (261,088 of 654,227 KB)...
+[2026-06-08 23:53:00] Set percent complete: 39
+[2026-06-08 23:53:00] Set status message: Downloading update (273,241 of 654,227 KB)...
+[2026-06-08 23:53:00] Set percent complete: 41
+[2026-06-08 23:53:01] Set status message: Downloading update (286,569 of 654,227 KB)...
+[2026-06-08 23:53:01] Set percent complete: 43
+[2026-06-08 23:53:01] Set status message: Downloading update (294,825 of 654,227 KB)...
+[2026-06-08 23:53:01] Set percent complete: 45
+[2026-06-08 23:53:01] Set status message: Downloading update (299,097 of 654,227 KB)...
+[2026-06-08 23:53:01] Set percent complete: 45
+[2026-06-08 23:53:01] Set status message: Downloading update (305,321 of 654,227 KB)...
+[2026-06-08 23:53:01] Set percent complete: 46
+[2026-06-08 23:53:02] Set status message: Downloading update (317,385 of 654,227 KB)...
+[2026-06-08 23:53:02] Set percent complete: 48
+[2026-06-08 23:53:02] Set status message: Downloading update (329,102 of 654,227 KB)...
+[2026-06-08 23:53:02] Set percent complete: 50
+[2026-06-08 23:53:02] Set status message: Downloading update (339,534 of 654,227 KB)...
+[2026-06-08 23:53:02] Set percent complete: 51
+[2026-06-08 23:53:02] Set status message: Downloading update (349,270 of 654,227 KB)...
+[2026-06-08 23:53:02] Set percent complete: 53
+[2026-06-08 23:53:03] Set status message: Downloading update (360,106 of 654,227 KB)...
+[2026-06-08 23:53:03] Set percent complete: 55
+[2026-06-08 23:53:03] Set status message: Downloading update (371,850 of 654,227 KB)...
+[2026-06-08 23:53:03] Set percent complete: 56
+[2026-06-08 23:53:03] Set status message: Downloading update (381,642 of 654,227 KB)...
+[2026-06-08 23:53:03] Set percent complete: 58
+[2026-06-08 23:53:03] Set status message: Downloading update (394,528 of 654,227 KB)...
+[2026-06-08 23:53:03] Set percent complete: 60
+[2026-06-08 23:53:04] Set status message: Downloading update (408,431 of 654,227 KB)...
+[2026-06-08 23:53:04] Set percent complete: 62
+[2026-06-08 23:53:04] Set status message: Downloading update (419,087 of 654,227 KB)...
+[2026-06-08 23:53:04] Set percent complete: 64
+[2026-06-08 23:53:04] Set status message: Downloading update (430,735 of 654,227 KB)...
+[2026-06-08 23:53:04] Set percent complete: 65
+[2026-06-08 23:53:05] Set status message: Downloading update (437,449 of 654,227 KB)...
+[2026-06-08 23:53:05] Set percent complete: 66
+[2026-06-08 23:53:05] Set status message: Downloading update (453,064 of 654,227 KB)...
+[2026-06-08 23:53:05] Set percent complete: 69
+[2026-06-08 23:53:05] Set status message: Downloading update (468,821 of 654,227 KB)...
+[2026-06-08 23:53:05] Set percent complete: 71
+[2026-06-08 23:53:05] Set status message: Downloading update (480,836 of 654,227 KB)...
+[2026-06-08 23:53:05] Set percent complete: 73
+[2026-06-08 23:53:06] Set status message: Downloading update (489,169 of 654,227 KB)...
+[2026-06-08 23:53:06] Set percent complete: 74
+[2026-06-08 23:53:06] Set status message: Downloading update (496,769 of 654,227 KB)...
+[2026-06-08 23:53:06] Set percent complete: 75
+[2026-06-08 23:53:06] Set status message: Downloading update (507,953 of 654,227 KB)...
+[2026-06-08 23:53:06] Set percent complete: 77
+[2026-06-08 23:53:06] Set status message: Downloading update (518,817 of 654,227 KB)...
+[2026-06-08 23:53:06] Set percent complete: 79
+[2026-06-08 23:53:07] Set status message: Downloading update (530,097 of 654,227 KB)...
+[2026-06-08 23:53:07] Set percent complete: 81
+[2026-06-08 23:53:07] Set status message: Downloading update (538,992 of 654,227 KB)...
+[2026-06-08 23:53:07] Set percent complete: 82
+[2026-06-08 23:53:07] Set status message: Downloading update (548,240 of 654,227 KB)...
+[2026-06-08 23:53:07] Set percent complete: 83
+[2026-06-08 23:53:07] Set status message: Downloading update (557,743 of 654,227 KB)...
+[2026-06-08 23:53:07] Set percent complete: 85
+[2026-06-08 23:53:08] Set status message: Downloading update (567,373 of 654,227 KB)...
+[2026-06-08 23:53:08] Set percent complete: 86
+[2026-06-08 23:53:08] Set status message: Downloading update (576,832 of 654,227 KB)...
+[2026-06-08 23:53:08] Set percent complete: 88
+[2026-06-08 23:53:08] Set status message: Downloading update (585,200 of 654,227 KB)...
+[2026-06-08 23:53:08] Set percent complete: 89
+[2026-06-08 23:53:09] Set status message: Downloading update (591,664 of 654,227 KB)...
+[2026-06-08 23:53:09] Set percent complete: 90
+[2026-06-08 23:53:09] Set status message: Downloading update (602,249 of 654,227 KB)...
+[2026-06-08 23:53:09] Set percent complete: 92
+[2026-06-08 23:53:09] Set status message: Downloading update (613,240 of 654,227 KB)...
+[2026-06-08 23:53:09] Set percent complete: 93
+[2026-06-08 23:53:09] Set status message: Downloading update (624,319 of 654,227 KB)...
+[2026-06-08 23:53:09] Set percent complete: 95
+[2026-06-08 23:53:10] Set status message: Downloading update (634,424 of 654,227 KB)...
+[2026-06-08 23:53:10] Set percent complete: 96
+[2026-06-08 23:53:10] Set status message: Downloading update (642,357 of 654,227 KB)...
+[2026-06-08 23:53:10] Set percent complete: 98
+[2026-06-08 23:53:10] Set status message: Downloading update (650,524 of 654,227 KB)...
+[2026-06-08 23:53:10] Set percent complete: 99
+[2026-06-08 23:53:11] Set status message: Downloading update (654,227 of 654,227 KB)...
+[2026-06-08 23:53:11] Set percent complete: 100
+[2026-06-08 23:53:11] Set status message: Download Complete.
+[2026-06-08 23:53:11] Set percent complete: -1
+[2026-06-08 23:53:11] Set status message: Extracting package...
+[2026-06-08 23:53:55] Set status message: Installing update...
+[2026-06-08 23:54:02] ProcessNextMessage: socket disconnected
+[2026-06-08 23:54:02] No more messages are expected - exiting
+
+
+[2026-06-09 00:06:30] Client version: 0
+[2026-06-09 00:06:30] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-exitsteam'
+[2026-06-09 00:06:30] Using update UI: console
+[2026-06-09 00:06:30] Create window
+[2026-06-09 00:06:30] Set percent complete: 0
+[2026-06-09 00:06:30] Set percent complete: -1
+[2026-06-09 00:06:30] Set status message: Verifying installation...
+[2026-06-09 00:06:30] ProcessNextMessage: socket disconnected
+[2026-06-09 00:06:30] No more messages are expected - exiting
+
+
+[2026-06-09 00:12:24] Client version: 0
+[2026-06-09 00:12:24] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 00:12:24] Using update UI: console
+[2026-06-09 00:12:24] Create window
+[2026-06-09 00:12:24] Destroy window
+[2026-06-09 00:12:24] Fatal error: Failed to load steamui.so
+[2026-06-09 00:12:24] ProcessNextMessage: socket disconnected
+[2026-06-09 00:12:24] No more messages are expected - exiting
+
+
+[2026-06-09 00:21:23] Client version: 0
+[2026-06-09 00:21:23] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-exitsteam'
+[2026-06-09 00:21:23] Using update UI: console
+[2026-06-09 00:21:23] Create window
+[2026-06-09 00:21:23] Set percent complete: 0
+[2026-06-09 00:21:23] Set status message: Checking for available updates...
+[2026-06-09 00:21:23] Set percent complete: -1
+[2026-06-09 00:21:23] Set percent complete: -1
+[2026-06-09 00:21:23] Set status message: Verifying installation...
+[2026-06-09 00:21:25] Show window
+[2026-06-09 00:21:25] Set percent complete: 0
+[2026-06-09 00:21:25] Set status message: Downloading update...
+[2026-06-09 00:21:25] Set status message: Checking for available updates...
+[2026-06-09 00:21:25] Set percent complete: -1
+[2026-06-09 00:21:25] Set status message: Download complete.
+[2026-06-09 00:21:25] Set percent complete: -1
+[2026-06-09 00:21:26] Set status message: Extracting package...
+[2026-06-09 00:22:15] Set status message: Installing update...
+[2026-06-09 00:22:22] ProcessNextMessage: socket disconnected
+[2026-06-09 00:22:22] No more messages are expected - exiting
+
+
+[2026-06-09 00:23:49] Client version: 0
+[2026-06-09 00:23:49] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 00:23:49] Using update UI: console
+[2026-06-09 00:23:49] Create window
+[2026-06-09 00:23:49] Destroy window
+[2026-06-09 00:23:49] Fatal error: Failed to load steamui.so
+[2026-06-09 00:23:49] ProcessNextMessage: socket disconnected
+[2026-06-09 00:23:49] No more messages are expected - exiting
+
+
+[2026-06-09 00:24:58] Client version: 0
+[2026-06-09 00:24:58] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-exitsteam'
+[2026-06-09 00:24:58] Using update UI: console
+[2026-06-09 00:24:58] Create window
+[2026-06-09 00:24:58] Set percent complete: 0
+[2026-06-09 00:24:58] Set status message: Checking for available updates...
+[2026-06-09 00:24:58] Set percent complete: -1
+[2026-06-09 00:24:58] Set percent complete: -1
+[2026-06-09 00:24:58] Set status message: Verifying installation...
+[2026-06-09 00:25:00] Set percent complete: 0
+[2026-06-09 00:25:00] Set status message: Downloading update...
+[2026-06-09 00:25:00] Set status message: Checking for available updates...
+[2026-06-09 00:25:00] Set percent complete: -1
+[2026-06-09 00:25:00] Show window
+[2026-06-09 00:25:00] Set status message: Download complete.
+[2026-06-09 00:25:00] Set percent complete: -1
+[2026-06-09 00:25:00] Set status message: Extracting package...
+[2026-06-09 00:25:44] Set status message: Installing update...
+[2026-06-09 00:25:50] ProcessNextMessage: socket disconnected
+[2026-06-09 00:25:50] No more messages are expected - exiting
+
+
+[2026-06-09 00:26:29] Client version: 0
+[2026-06-09 00:26:29] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 00:26:29] Using update UI: console
+[2026-06-09 00:26:29] Create window
+[2026-06-09 00:26:29] Destroy window
+[2026-06-09 00:26:29] Fatal error: Failed to load steamui.so
+
+
+[2026-06-09 00:41:51] Client version: 0
+[2026-06-09 00:41:51] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 00:41:51] Using update UI: console
+[2026-06-09 00:41:51] Create window
+[2026-06-09 00:41:51] Destroy window
+[2026-06-09 00:41:51] ProcessNextMessage: socket disconnected
+[2026-06-09 00:41:51] No more messages are expected - exiting
+
+
+[2026-06-09 00:45:18] Client version: 0
+[2026-06-09 00:45:18] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 00:45:18] Using update UI: console
+[2026-06-09 00:45:18] Create window
+[2026-06-09 00:45:18] Destroy window
+[2026-06-09 00:45:18] ProcessNextMessage: socket disconnected
+[2026-06-09 00:45:18] No more messages are expected - exiting
+
+
+[2026-06-09 01:19:39] Client version: 0
+[2026-06-09 01:19:39] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 01:19:39] Using update UI: glx
+[2026-06-09 01:19:39] Create window
+[2026-06-09 01:19:39] ProcessNextMessage: socket disconnected
+[2026-06-09 01:19:39] No more messages are expected - exiting
+
+
+[2026-06-09 01:22:13] Client version: 0
+[2026-06-09 01:22:13] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 01:22:13] Using update UI: glx
+[2026-06-09 01:22:13] Create window
+[2026-06-09 01:22:13] ProcessNextMessage: socket disconnected
+[2026-06-09 01:22:13] No more messages are expected - exiting
+
+
+[2026-06-09 08:28:45] Client version: 0
+[2026-06-09 08:28:45] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 08:28:45] Using update UI: glx
+[2026-06-09 08:28:45] Create window
+[2026-06-09 08:28:45] Destroy window
+
+
+[2026-06-09 09:24:57] Client version: 0
+[2026-06-09 09:24:57] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-exitsteam'
+[2026-06-09 09:24:57] Using update UI: xwin
+[2026-06-09 09:24:57] Create window
+[2026-06-09 09:24:57] Set percent complete: 0
+[2026-06-09 09:24:57] Set status message: Checking for available updates...
+[2026-06-09 09:24:57] Set percent complete: -1
+[2026-06-09 09:24:58] Set percent complete: -1
+[2026-06-09 09:24:58] Set status message: Verifying installation...
+[2026-06-09 09:24:59] Show window
+[2026-06-09 09:25:21] Set percent complete: 0
+[2026-06-09 09:25:21] Set status message: Downloading update...
+[2026-06-09 09:25:21] Set status message: Checking for available updates...
+[2026-06-09 09:25:21] Set percent complete: -1
+[2026-06-09 09:25:21] Set status message: Download complete.
+[2026-06-09 09:25:21] Set percent complete: -1
+[2026-06-09 09:25:27] Set status message: Extracting package...
+[2026-06-09 09:26:05] Set status message: Installing update...
+[2026-06-09 09:26:13] Set status message: Cleaning up...
+[2026-06-09 09:26:13] Set status message: Update complete, launching Steam...
+[2026-06-09 09:26:13] ProcessNextMessage: socket disconnected
+[2026-06-09 09:26:13] No more messages are expected - exiting
+
+
+[2026-06-09 09:37:36] Client version: 0
+[2026-06-09 09:37:36] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 09:37:36] Using update UI: glx
+[2026-06-09 09:37:36] Create window
+[2026-06-09 09:37:36] ProcessNextMessage: socket disconnected
+[2026-06-09 09:37:36] No more messages are expected - exiting
+
+
+[2026-06-09 10:05:34] Client version: 0
+[2026-06-09 10:05:34] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 10:05:34] Using update UI: glx
+[2026-06-09 10:05:34] Create window
+[2026-06-09 10:05:34] ProcessNextMessage: socket disconnected
+[2026-06-09 10:05:34] No more messages are expected - exiting
+
+
+[2026-06-09 10:06:42] Client version: 0
+[2026-06-09 10:06:42] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 10:06:42] Using update UI: glx
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 10:24:23] Using update UI: glx
+[2026-06-09 10:24:23] ProcessNextMessage: socket disconnected
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 11:22:34] Using update UI: glx
+[2026-06-09 11:22:34] ProcessNextMessage: socket disconnected
+
+
+[2026-06-09 11:33:49] Client version: 0
+[2026-06-09 11:33:49] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-exitsteam'
+[2026-06-09 11:33:49] Using update UI: xwin
+[2026-06-09 11:33:49] Create window
+[2026-06-09 11:33:49] Set percent complete: 0
+[2026-06-09 11:33:49] Set status message: Checking for available updates...
+[2026-06-09 11:33:49] Set percent complete: -1
+[2026-06-09 11:33:50] Set status message: Download complete.
+[2026-06-09 11:33:50] Set percent complete: -1
+[2026-06-09 11:33:50] Set status message: Installing update...
+[2026-06-09 11:33:51] Show window
+[2026-06-09 11:33:53] Set status message: Extracting package...
+[2026-06-09 11:34:09] Set status message: Installing update...
+[2026-06-09 11:34:09] ProcessNextMessage: socket disconnected
+[2026-06-09 11:34:09] No more messages are expected - exiting
+
+
+[2026-06-09 11:36:05] Client version: 0
+[2026-06-09 11:36:05] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 11:36:05] Using update UI: glx
+[2026-06-09 11:36:05] Create window
+[2026-06-09 11:36:05] ProcessNextMessage: socket disconnected
+[2026-06-09 11:36:05] No more messages are expected - exiting
+
+
+[2026-06-09 11:36:47] Client version: 0
+[2026-06-09 11:36:47] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 11:36:47] Using update UI: glx
+[2026-06-09 11:36:47] ProcessNextMessage: socket disconnected
+
+
+[2026-06-09 11:36:54] Client version: 0
+[2026-06-09 11:36:54] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 11:36:54] Using update UI: glx
+[2026-06-09 11:36:54] ProcessNextMessage: socket disconnected
+
+
+[2026-06-09 11:40:51] Client version: 0
+[2026-06-09 11:40:51] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-exitsteam'
+[2026-06-09 11:40:51] Using update UI: xwin
+[2026-06-09 11:40:51] Create window
+[2026-06-09 11:40:51] Set percent complete: 0
+[2026-06-09 11:40:51] Set status message: Checking for available updates...
+[2026-06-09 11:40:51] Set percent complete: -1
+[2026-06-09 11:40:51] Set percent complete: -1
+[2026-06-09 11:40:51] Set status message: Verifying installation...
+[2026-06-09 11:40:53] Show window
+[2026-06-09 11:41:16] Set percent complete: 0
+[2026-06-09 11:41:16] Set status message: Downloading update...
+[2026-06-09 11:41:16] Set status message: Checking for available updates...
+[2026-06-09 11:41:16] Set percent complete: -1
+[2026-06-09 11:41:16] Set status message: Download complete.
+[2026-06-09 11:41:16] Set percent complete: -1
+[2026-06-09 11:41:16] Set status message: Extracting package...
+[2026-06-09 11:42:18] Set status message: Installing update...
+[2026-06-09 11:42:24] Set status message: Cleaning up...
+[2026-06-09 11:42:24] Set status message: Update complete, launching Steam...
+[2026-06-09 11:42:24] ProcessNextMessage: socket disconnected
+[2026-06-09 11:42:24] No more messages are expected - exiting
+
+
+[2026-06-09 12:03:08] Client version: 0
+[2026-06-09 12:03:08] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-exitsteam'
+[2026-06-09 12:03:08] Using update UI: xwin
+[2026-06-09 12:03:08] Create window
+[2026-06-09 12:03:08] Set percent complete: 0
+[2026-06-09 12:03:08] Set percent complete: -1
+[2026-06-09 12:03:08] Set status message: Verifying installation...
+[2026-06-09 12:03:08] Set percent complete: 0
+[2026-06-09 12:03:08] Set status message: Downloading update...
+[2026-06-09 12:03:08] Set status message: Checking for available updates...
+[2026-06-09 12:03:08] Set percent complete: -1
+[2026-06-09 12:03:09] Set status message: Download complete.
+[2026-06-09 12:03:09] Set percent complete: -1
+[2026-06-09 12:03:09] Set status message: Extracting package...
+[2026-06-09 12:03:10] Show window
+[2026-06-09 12:03:50] Set status message: Installing update...
+[2026-06-09 12:03:57] Set status message: Cleaning up...
+[2026-06-09 12:03:57] Set status message: Update complete, launching Steam...
+[2026-06-09 12:03:58] ProcessNextMessage: socket disconnected
+[2026-06-09 12:03:58] No more messages are expected - exiting
+
+
+[2026-06-09 12:06:47] Client version: 0
+[2026-06-09 12:06:47] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 12:06:47] Using update UI: glx
+[2026-06-09 12:06:47] Create window
+[2026-06-09 12:06:47] ProcessNextMessage: socket disconnected
+[2026-06-09 12:06:47] No more messages are expected - exiting
+
+
+[2026-06-09 12:43:33] Client version: 0
+[2026-06-09 12:43:33] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 12:43:33] Using update UI: glx
+[2026-06-09 12:43:33] Create window
+[2026-06-09 12:43:33] ProcessNextMessage: socket disconnected
+[2026-06-09 12:43:33] No more messages are expected - exiting
+
+
+[2026-06-09 12:49:41] Client version: 0
+[2026-06-09 12:49:41] Process started with command-line: '/home/aprat/games/steam/steamrtarm64/steam' '-child-update-ui' '-child-update-ui-socket' '8' '-steamdeck' '-steamos3' '-noverifyfiles' '-nobootstrapupdate' '-skipinitialbootstrap' '-norepairfiles' '-noshaders' '-gamepadui'
+[2026-06-09 12:49:41] Using update UI: glx
+[2026-06-09 12:49:41] Create window
+[2026-06-09 12:49:41] ProcessNextMessage: socket disconnected
+[2026-06-09 12:49:41] No more messages are expected - exiting

@@ -1,0 +1,330 @@
+
+
+[2026-06-09 00:41:51] Client version: no bootstrapper found
+[2026-06-09 00:41:51] Running query: 1 - GpuTopology
+[2026-06-09 00:41:51] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 00:41:51] Exit code: 0
+[2026-06-09 00:41:51] Saving response to: /tmp/steammkEnAN - 102 bytes
+
+
+[2026-06-09 00:45:19] Client version: no bootstrapper found
+[2026-06-09 00:45:19] Running query: 1 - GpuTopology
+[2026-06-09 00:45:19] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 00:45:19] Exit code: 0
+[2026-06-09 00:45:19] Saving response to: /tmp/steamcPFPPb - 102 bytes
+
+
+[2026-06-09 08:28:46] Client version: no bootstrapper found
+[2026-06-09 08:28:46] Running query: 1 - GpuTopology
+[2026-06-09 08:28:46] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 08:28:46] Exit code: 0
+[2026-06-09 08:28:46] Saving response to: /tmp/steamahJIBc - 102 bytes
+
+
+[2026-06-09 09:37:36] Client version: no bootstrapper found
+[2026-06-09 09:37:36] Running query: 1 - GpuTopology
+[2026-06-09 09:37:36] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 09:37:36] Exit code: 0
+[2026-06-09 09:37:36] Saving response to: /tmp/steamMiBFEI - 102 bytes
+
+
+[2026-06-09 10:05:34] Client version: no bootstrapper found
+[2026-06-09 10:05:34] Running query: 1 - GpuTopology
+[2026-06-09 10:05:34] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 10:05:34] Exit code: 0
+[2026-06-09 10:05:34] Saving response to: /tmp/steamLFfBke - 102 bytes
+
+
+[2026-06-09 10:06:42] Client version: no bootstrapper found
+[2026-06-09 10:06:42] Running query: 1 - GpuTopology
+[2026-06-09 10:06:42] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 10:06:42] Exit code: 0
+[2026-06-09 10:06:42] Saving response to: /tmp/steamjmMeOd - 102 bytes
+
+
+[2026-06-09 10:24:23] Client version: no bootstrapper found
+[2026-06-09 10:24:23] Running query: 1 - GpuTopology
+[2026-06-09 10:24:23] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 10:24:23] Exit code: 0
+[2026-06-09 10:24:23] Saving response to: /tmp/steamCkhIaE - 102 bytes
+
+
+[2026-06-09 11:22:34] Client version: no bootstrapper found
+[2026-06-09 11:22:34] Running query: 1 - GpuTopology
+[2026-06-09 11:22:34] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 11:22:34] Exit code: 0
+[2026-06-09 11:22:34] Saving response to: /tmp/steamoIAJFI - 102 bytes
+
+
+[2026-06-09 12:06:47] Client version: no bootstrapper found
+[2026-06-09 12:06:47] Running query: 1 - GpuTopology
+[2026-06-09 12:06:47] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 12:06:47] Exit code: 0
+[2026-06-09 12:06:47] Saving response to: /tmp/steamHinOHB - 102 bytes
+
+
+[2026-06-09 12:43:33] Client version: no bootstrapper found
+[2026-06-09 12:43:33] Running query: 1 - GpuTopology
+[2026-06-09 12:43:33] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 12:43:33] Exit code: 0
+[2026-06-09 12:43:33] Saving response to: /tmp/steamoNgjFh - 102 bytes
+
+
+[2026-06-09 12:49:41] Client version: no bootstrapper found
+[2026-06-09 12:49:41] Running query: 1 - GpuTopology
+[2026-06-09 12:49:41] Response: gpu_topology {
+  gpus {
+    id: 1
+    name: "Turnip Adreno (TM) 740"
+    vram_size_bytes: 9006603264
+    driver_id: k_EGpuDriverId_MesaTurnip
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  gpus {
+    id: 2
+    name: "llvmpipe (LLVM 21.1.8, 128 bits)"
+    vram_size_bytes: 12008804352
+    driver_id: k_EGpuDriverId_MesaLLVMPipe
+    driver_version_major: 26
+    driver_version_minor: 0
+    driver_version_patch: 3
+    luid: 0
+  }
+  default_gpu_id: 1
+}
+
+[2026-06-09 12:49:41] Exit code: 0
+[2026-06-09 12:49:41] Saving response to: /tmp/steamJBbKmH - 102 bytes

@@ -1,0 +1,76 @@
+
+
+[2026-06-09 00:41:52] Client version: 1780352834
+[2026-06-09 00:41:52] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 00:41:52] Initialized system display manager: X11
+[2026-06-09 00:42:24] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 00:45:19] Client version: 1780352834
+[2026-06-09 00:45:19] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 00:45:19] Initialized system display manager: X11
+[2026-06-09 00:45:31] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 08:28:47] Client version: 1780352834
+[2026-06-09 08:28:47] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 08:28:47] Initialized system display manager: X11
+[2026-06-09 08:28:55] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 09:37:37] Client version: 1780352834
+[2026-06-09 09:37:37] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 09:37:37] Initialized system display manager: X11
+[2026-06-09 09:37:40] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 10:05:34] Client version: 1780352834
+[2026-06-09 10:05:34] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 10:05:34] Initialized system display manager: X11
+[2026-06-09 10:05:38] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 10:06:43] Client version: 0
+[2026-06-09 10:06:43] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 10:06:43] Initialized system display manager: X11
+[2026-06-09 10:06:46] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 10:24:23] Initialized system display manager: X11
+[2026-06-09 10:24:27] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 11:22:34] Initialized system display manager: X11
+[2026-06-09 11:22:38] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 11:36:06] Client version: 1780352834
+[2026-06-09 11:36:06] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 11:36:06] Initialized system display manager: X11
+
+
+[2026-06-09 11:36:55] Client version: 1780352834
+[2026-06-09 11:36:55] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 11:36:55] Initialized system display manager: X11
+
+
+[2026-06-09 12:06:48] Client version: 1780352834
+[2026-06-09 12:06:48] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 12:06:48] Initialized system display manager: X11
+[2026-06-09 12:06:51] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 12:43:34] Client version: 1780352834
+[2026-06-09 12:43:34] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 12:43:34] Initialized system display manager: X11
+[2026-06-09 12:43:38] SetGameResolutionGlobal: Default
+
+
+[2026-06-09 12:49:42] Client version: 1780352834
+[2026-06-09 12:49:42] DisplayManagerInit: skipping wayland init, system doesn't have a valid context
+[2026-06-09 12:49:42] Initialized system display manager: X11
+[2026-06-09 12:49:46] SetGameResolutionGlobal: Default

@@ -1,0 +1,479 @@
+
+
+[2026-06-09 00:41:51] Client version: 1780352834
+[2026-06-09 00:41:51] Started webhelper process 19964
+[2026-06-09 00:41:51] CreateBrowser id:2384091125 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 00:41:52] CreateResponse: id:2384091125 handle:65536
+[2026-06-09 00:41:52] BrowserReady: handle:65536
+[2026-06-09 00:41:54] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:41:54] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:41:54] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 00:41:54] BrowserReady: handle:131073
+[2026-06-09 00:42:31] CreateMainWindow: UIMode: -1
+[2026-06-09 00:42:31] CreateMainWindow: creating shared JS context
+[2026-06-09 00:42:31] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 00:42:31] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:42:31] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:42:31] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:42:31] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:42:31] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:42:31] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:44:11] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:44:11] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:44:11] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:44:11] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:44:11] PopupHTMLWindow: idx:393221 handle:65536
+[2026-06-09 00:44:11] BrowserReady: handle:393221
+[2026-06-09 00:44:11] PopupHTMLWindow: idx:524289 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:524289
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:589828 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:589828
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:655363 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:655363
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:720898 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:720898
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:786439 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:786439
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:851976 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:851976
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:917513 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:917513
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:983050 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:983050
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:1048587 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:1048587
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:1114124 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:1114124
+[2026-06-09 00:44:12] PopupHTMLWindow: idx:1179661 handle:65536
+[2026-06-09 00:44:12] BrowserReady: handle:1179661
+[2026-06-09 00:44:34] PopupHTMLWindow: idx:1245198 handle:65536
+[2026-06-09 00:44:34] BrowserReady: handle:1245198
+
+
+[2026-06-09 00:45:18] Client version: 1780352834
+[2026-06-09 00:45:18] Started webhelper process 21158
+[2026-06-09 00:45:18] Restart webhelper process, counter 2
+[2026-06-09 00:45:18] Shutting down webhelper process 21158
+[2026-06-09 00:45:18] Started webhelper process 21273
+[2026-06-09 00:45:18] CreateBrowser id:1975588435 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 00:45:29] CreateResponse: id:1975588435 handle:65536
+[2026-06-09 00:45:29] BrowserReady: handle:65536
+[2026-06-09 00:45:31] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:45:31] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:45:31] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 00:45:31] BrowserReady: handle:131073
+[2026-06-09 00:45:33] CreateMainWindow: UIMode: -1
+[2026-06-09 00:45:33] CreateMainWindow: creating shared JS context
+[2026-06-09 00:45:33] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 00:45:33] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:45:33] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:45:33] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:45:33] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:45:33] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:45:33] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:45:54] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:45:54] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:45:54] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 00:45:54] GetDesiredSteamUIWindows: finish
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:393221 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:393221
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:524292 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:524292
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:589827 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:589827
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:655362 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:655362
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:720902 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:720902
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:786439 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:786439
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:851976 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:851976
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:917513 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:917513
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:983050 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:983050
+[2026-06-09 00:45:55] PopupHTMLWindow: idx:1048587 handle:65536
+[2026-06-09 00:45:55] BrowserReady: handle:1048587
+[2026-06-09 00:45:56] PopupHTMLWindow: idx:1114124 handle:65536
+[2026-06-09 00:45:56] BrowserReady: handle:1114124
+[2026-06-09 00:45:56] PopupHTMLWindow: idx:1179661 handle:65536
+[2026-06-09 00:45:56] BrowserReady: handle:1179661
+[2026-06-09 00:46:35] PopupHTMLWindow: idx:1245198 handle:65536
+[2026-06-09 00:46:35] BrowserReady: handle:1245198
+[2026-06-09 00:55:44] PopupHTMLWindow: idx:1310734 handle:65536
+[2026-06-09 00:55:44] BrowserReady: handle:1310734
+[2026-06-09 01:03:54] PopupHTMLWindow: idx:1376270 handle:65536
+[2026-06-09 01:03:54] BrowserReady: handle:1376270
+[2026-06-09 01:06:11] PopupHTMLWindow: idx:1441807 handle:65536
+[2026-06-09 01:06:11] BrowserReady: handle:1441807
+[2026-06-09 01:06:11] PopupHTMLWindow: idx:1507344 handle:65536
+[2026-06-09 01:06:11] BrowserReady: handle:1507344
+[2026-06-09 01:06:12] PopupHTMLWindow: idx:1572881 handle:65536
+[2026-06-09 01:06:12] BrowserReady: handle:1572881
+[2026-06-09 01:06:17] PopupHTMLWindow: idx:1638418 handle:65536
+[2026-06-09 01:06:17] BrowserReady: handle:1638418
+[2026-06-09 01:06:44] GetDesiredSteamUIWindows: starting processing of 2 windows
+[2026-06-09 01:06:44] GetDesiredSteamUIWindows: finish
+[2026-06-09 01:06:44] GetDesiredSteamUIWindows: starting processing of 2 windows
+[2026-06-09 01:06:44] GetDesiredSteamUIWindows: finish
+[2026-06-09 01:06:44] PopupHTMLWindow: idx:1703954 handle:65536
+[2026-06-09 01:06:44] BrowserReady: handle:1703954
+[2026-06-09 01:07:20] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 01:07:20] GetDesiredSteamUIWindows: finish
+[2026-06-09 01:07:20] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 01:07:20] GetDesiredSteamUIWindows: finish
+[2026-06-09 01:13:07] PopupHTMLWindow: idx:1769490 handle:65536
+[2026-06-09 01:13:07] BrowserReady: handle:1769490
+[2026-06-09 01:13:07] Shutting down webhelper process 21273
+
+
+[2026-06-09 08:28:45] Client version: 1780352834
+[2026-06-09 08:28:45] Started webhelper process 7213
+[2026-06-09 08:28:45] CreateBrowser id:1298574499 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 08:28:51] CreateResponse: id:1298574499 handle:65536
+[2026-06-09 08:28:51] BrowserReady: handle:65536
+[2026-06-09 08:28:54] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:28:54] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:28:54] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 08:28:54] BrowserReady: handle:131073
+[2026-06-09 08:28:57] CreateMainWindow: UIMode: -1
+[2026-06-09 08:28:57] CreateMainWindow: creating shared JS context
+[2026-06-09 08:28:57] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 08:28:57] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:28:57] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:28:57] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:28:57] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:28:57] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:28:57] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:29:34] CreateMainWindow: UIMode: 4
+[2026-06-09 08:29:34] CreateMainWindow: creating shared JS context
+[2026-06-09 08:29:34] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 08:29:34] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:29:34] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:29:34] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:29:34] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:29:34] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:29:34] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:29:44] CreateMainWindow: UIMode: 4
+[2026-06-09 08:29:44] CreateMainWindow: creating shared JS context
+[2026-06-09 08:29:44] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 08:29:44] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:29:44] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:29:44] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:29:44] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:29:44] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:29:44] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:33:34] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:33:34] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:33:34] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 08:33:34] GetDesiredSteamUIWindows: finish
+[2026-06-09 08:33:34] PopupHTMLWindow: idx:393221 handle:65536
+[2026-06-09 08:33:34] BrowserReady: handle:393221
+[2026-06-09 08:33:35] PopupHTMLWindow: idx:524292 handle:65536
+[2026-06-09 08:33:35] BrowserReady: handle:524292
+[2026-06-09 08:33:35] PopupHTMLWindow: idx:589827 handle:65536
+[2026-06-09 08:33:35] BrowserReady: handle:589827
+[2026-06-09 08:33:35] PopupHTMLWindow: idx:655362 handle:65536
+[2026-06-09 08:33:35] BrowserReady: handle:655362
+[2026-06-09 08:33:35] PopupHTMLWindow: idx:720902 handle:65536
+[2026-06-09 08:33:35] BrowserReady: handle:720902
+[2026-06-09 08:33:35] PopupHTMLWindow: idx:786439 handle:65536
+[2026-06-09 08:33:35] BrowserReady: handle:786439
+[2026-06-09 08:33:35] PopupHTMLWindow: idx:851976 handle:65536
+[2026-06-09 08:33:35] BrowserReady: handle:851976
+[2026-06-09 08:33:35] PopupHTMLWindow: idx:917513 handle:65536
+[2026-06-09 08:33:35] BrowserReady: handle:917513
+[2026-06-09 08:33:35] PopupHTMLWindow: idx:983050 handle:65536
+[2026-06-09 08:33:35] BrowserReady: handle:983050
+[2026-06-09 08:33:35] PopupHTMLWindow: idx:1048587 handle:65536
+[2026-06-09 08:33:35] BrowserReady: handle:1048587
+[2026-06-09 08:33:36] PopupHTMLWindow: idx:1114124 handle:65536
+[2026-06-09 08:33:36] BrowserReady: handle:1114124
+[2026-06-09 08:33:36] PopupHTMLWindow: idx:1179661 handle:65536
+[2026-06-09 08:33:36] BrowserReady: handle:1179661
+[2026-06-09 08:35:06] PopupHTMLWindow: idx:1245198 handle:65536
+[2026-06-09 08:35:06] BrowserReady: handle:1245198
+[2026-06-09 08:35:06] PopupHTMLWindow: idx:1310735 handle:65536
+[2026-06-09 08:35:06] BrowserReady: handle:1310735
+[2026-06-09 08:35:20] PopupHTMLWindow: idx:1376271 handle:65536
+[2026-06-09 08:35:20] BrowserReady: handle:1376271
+[2026-06-09 08:35:35] PopupHTMLWindow: idx:1441806 handle:65536
+[2026-06-09 08:35:35] BrowserReady: handle:1441806
+[2026-06-09 08:36:02] PopupHTMLWindow: idx:1507343 handle:65536
+[2026-06-09 08:36:02] BrowserReady: handle:1507343
+[2026-06-09 08:36:14] PopupHTMLWindow: idx:1572879 handle:65536
+[2026-06-09 08:36:14] BrowserReady: handle:1572879
+
+
+[2026-06-09 09:37:36] Client version: 1780352834
+[2026-06-09 09:37:36] Started webhelper process 12525
+[2026-06-09 09:37:36] CreateBrowser id:98718483 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 09:37:38] CreateResponse: id:98718483 handle:65536
+[2026-06-09 09:37:38] BrowserReady: handle:65536
+[2026-06-09 09:37:39] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 09:37:39] GetDesiredSteamUIWindows: finish
+[2026-06-09 09:37:40] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 09:37:40] BrowserReady: handle:131073
+[2026-06-09 09:37:42] CreateMainWindow: UIMode: -1
+[2026-06-09 09:37:42] CreateMainWindow: creating shared JS context
+[2026-06-09 09:37:42] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 09:37:42] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 09:37:42] GetDesiredSteamUIWindows: finish
+[2026-06-09 09:37:42] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 09:37:42] GetDesiredSteamUIWindows: finish
+[2026-06-09 09:37:42] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 09:37:42] GetDesiredSteamUIWindows: finish
+
+
+[2026-06-09 10:05:34] Client version: 1780352834
+[2026-06-09 10:05:34] Started webhelper process 13972
+[2026-06-09 10:05:34] CreateBrowser id:3063065528 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 10:05:35] CreateResponse: id:3063065528 handle:65536
+[2026-06-09 10:05:35] BrowserReady: handle:65536
+[2026-06-09 10:05:37] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:05:37] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:05:37] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 10:05:37] BrowserReady: handle:131073
+[2026-06-09 10:05:40] CreateMainWindow: UIMode: -1
+[2026-06-09 10:05:40] CreateMainWindow: creating shared JS context
+[2026-06-09 10:05:40] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 10:05:40] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:05:40] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:05:40] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:05:40] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:05:40] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:05:40] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:06:33] Shutting down webhelper process 13972
+
+
+[2026-06-09 10:06:42] Client version: 0
+[2026-06-09 10:06:42] Started webhelper process 14927
+[2026-06-09 10:06:42] CreateBrowser id:1695688934 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 10:06:43] CreateResponse: id:1695688934 handle:65536
+[2026-06-09 10:06:43] BrowserReady: handle:65536
+[2026-06-09 10:06:45] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:06:45] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:06:46] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 10:06:46] BrowserReady: handle:131073
+[2026-06-09 10:06:48] CreateMainWindow: UIMode: -1
+[2026-06-09 10:06:48] CreateMainWindow: creating shared JS context
+[2026-06-09 10:06:48] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 10:06:48] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:06:48] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:06:48] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:06:48] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:06:48] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:06:48] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:10:24] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:10:24] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:10:24] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:10:24] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:10:24] PopupHTMLWindow: idx:393217 handle:65536
+[2026-06-09 10:10:24] BrowserReady: handle:393217
+[2026-06-09 10:10:25] PopupHTMLWindow: idx:524294 handle:65536
+[2026-06-09 10:10:25] BrowserReady: handle:524294
+[2026-06-09 10:10:25] PopupHTMLWindow: idx:589831 handle:65536
+[2026-06-09 10:10:25] BrowserReady: handle:589831
+[2026-06-09 10:10:25] PopupHTMLWindow: idx:655368 handle:65536
+[2026-06-09 10:10:25] BrowserReady: handle:655368
+[2026-06-09 10:10:25] PopupHTMLWindow: idx:720905 handle:65536
+[2026-06-09 10:10:25] BrowserReady: handle:720905
+[2026-06-09 10:10:25] PopupHTMLWindow: idx:786442 handle:65536
+[2026-06-09 10:10:25] BrowserReady: handle:786442
+[2026-06-09 10:10:26] PopupHTMLWindow: idx:851979 handle:65536
+[2026-06-09 10:10:26] BrowserReady: handle:851979
+[2026-06-09 10:10:26] PopupHTMLWindow: idx:917516 handle:65536
+[2026-06-09 10:10:26] BrowserReady: handle:917516
+[2026-06-09 10:10:26] PopupHTMLWindow: idx:983053 handle:65536
+[2026-06-09 10:10:26] BrowserReady: handle:983053
+[2026-06-09 10:10:26] PopupHTMLWindow: idx:1048590 handle:65536
+[2026-06-09 10:10:26] BrowserReady: handle:1048590
+[2026-06-09 10:10:26] PopupHTMLWindow: idx:1114127 handle:65536
+[2026-06-09 10:10:26] BrowserReady: handle:1114127
+[2026-06-09 10:10:26] PopupHTMLWindow: idx:1179664 handle:65536
+[2026-06-09 10:10:26] BrowserReady: handle:1179664
+[2026-06-09 10:23:37] CreateMainWindow: UIMode: -1
+[2026-06-09 10:23:37] CreateMainWindow: creating shared JS context
+[2026-06-09 10:23:37] CreateMainWindow: ensure desktopui window
+[2026-06-09 10:23:37] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:23:37] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:23:37] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:23:37] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:23:37] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:23:37] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:23:56] CreateMainWindow: UIMode: -1
+[2026-06-09 10:23:56] CreateMainWindow: creating shared JS context
+[2026-06-09 10:23:56] CreateMainWindow: ensure desktopui window
+[2026-06-09 10:23:56] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:23:56] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:23:56] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:23:56] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:23:56] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:23:56] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:24:03] PopupHTMLWindow: idx:1245201 handle:65536
+[2026-06-09 10:24:03] BrowserReady: handle:1245201
+[2026-06-09 10:24:03] Shutting down webhelper process 14927
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] Started webhelper process 17707
+[2026-06-09 10:24:23] CreateBrowser id:2155449813 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 10:24:24] CreateResponse: id:2155449813 handle:65536
+[2026-06-09 10:24:24] BrowserReady: handle:65536
+[2026-06-09 10:24:26] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:24:26] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:24:26] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 10:24:26] BrowserReady: handle:131073
+[2026-06-09 10:24:29] CreateMainWindow: UIMode: -1
+[2026-06-09 10:24:29] CreateMainWindow: creating shared JS context
+[2026-06-09 10:24:29] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 10:24:29] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:24:29] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:24:29] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:24:29] GetDesiredSteamUIWindows: finish
+[2026-06-09 10:24:29] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 10:24:29] GetDesiredSteamUIWindows: finish
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] Started webhelper process 19541
+[2026-06-09 11:22:34] CreateBrowser id:2163851256 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 11:22:35] CreateResponse: id:2163851256 handle:65536
+[2026-06-09 11:22:35] BrowserReady: handle:65536
+[2026-06-09 11:22:37] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 11:22:37] GetDesiredSteamUIWindows: finish
+[2026-06-09 11:22:37] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 11:22:37] BrowserReady: handle:131073
+[2026-06-09 11:22:39] CreateMainWindow: UIMode: -1
+[2026-06-09 11:22:39] CreateMainWindow: creating shared JS context
+[2026-06-09 11:22:39] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 11:22:39] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 11:22:39] GetDesiredSteamUIWindows: finish
+[2026-06-09 11:22:39] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 11:22:39] GetDesiredSteamUIWindows: finish
+[2026-06-09 11:22:39] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 11:22:39] GetDesiredSteamUIWindows: finish
+[2026-06-09 11:25:31] CreateMainWindow: UIMode: 4
+[2026-06-09 11:25:31] CreateMainWindow: creating shared JS context
+[2026-06-09 11:25:31] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 11:25:31] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 11:25:31] GetDesiredSteamUIWindows: finish
+[2026-06-09 11:25:31] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 11:25:31] GetDesiredSteamUIWindows: finish
+[2026-06-09 11:25:31] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 11:25:31] GetDesiredSteamUIWindows: finish
+
+
+[2026-06-09 11:36:05] Client version: 1780352834
+[2026-06-09 11:36:05] Started webhelper process 22266
+[2026-06-09 11:36:05] Restart webhelper process, counter 2
+[2026-06-09 11:36:05] Shutting down webhelper process 22266
+[2026-06-09 11:36:05] Started webhelper process 22361
+[2026-06-09 11:36:05] Restart webhelper process, counter 2
+[2026-06-09 11:36:05] Shutting down webhelper process 22361
+[2026-06-09 11:36:05] Started webhelper process 22366
+[2026-06-09 11:36:05] Restart webhelper process, counter 2
+[2026-06-09 11:36:05] Shutting down webhelper process 22366
+[2026-06-09 11:36:05] Started webhelper process 22369
+
+
+[2026-06-09 11:36:54] Client version: 1780352834
+[2026-06-09 11:36:54] Started webhelper process 22487
+[2026-06-09 11:36:54] Restart webhelper process, counter 2
+[2026-06-09 11:36:54] Shutting down webhelper process 22487
+[2026-06-09 11:36:54] Started webhelper process 22582
+
+
+[2026-06-09 12:06:47] Client version: 1780352834
+[2026-06-09 12:06:47] Started webhelper process 24316
+[2026-06-09 12:06:47] CreateBrowser id:2353192696 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 12:06:49] CreateResponse: id:2353192696 handle:65536
+[2026-06-09 12:06:49] BrowserReady: handle:65536
+[2026-06-09 12:06:50] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:06:50] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:06:51] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 12:06:51] BrowserReady: handle:131073
+[2026-06-09 12:06:53] CreateMainWindow: UIMode: -1
+[2026-06-09 12:06:53] CreateMainWindow: creating shared JS context
+[2026-06-09 12:06:53] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 12:06:53] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:06:53] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:06:53] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:06:53] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:06:53] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:06:53] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:07:06] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:07:06] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:07:06] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:07:06] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:07:06] PopupHTMLWindow: idx:393221 handle:65536
+[2026-06-09 12:07:06] BrowserReady: handle:393221
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:524292 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:524292
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:589827 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:589827
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:655362 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:655362
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:720902 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:720902
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:786439 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:786439
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:851976 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:851976
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:917513 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:917513
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:983050 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:983050
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:1048587 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:1048587
+[2026-06-09 12:07:07] PopupHTMLWindow: idx:1114124 handle:65536
+[2026-06-09 12:07:07] BrowserReady: handle:1114124
+[2026-06-09 12:07:08] PopupHTMLWindow: idx:1179661 handle:65536
+[2026-06-09 12:07:08] BrowserReady: handle:1179661
+[2026-06-09 12:07:19] PopupHTMLWindow: idx:1245198 handle:65536
+[2026-06-09 12:07:19] BrowserReady: handle:1245198
+[2026-06-09 12:07:49] PopupHTMLWindow: idx:1310734 handle:65536
+[2026-06-09 12:07:49] BrowserReady: handle:1310734
+[2026-06-09 12:08:56] PopupHTMLWindow: idx:1376270 handle:65536
+[2026-06-09 12:08:56] BrowserReady: handle:1376270
+
+
+[2026-06-09 12:43:33] Client version: 1780352834
+[2026-06-09 12:43:33] Started webhelper process 29218
+[2026-06-09 12:43:33] CreateBrowser id:442637270 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 12:43:35] CreateResponse: id:442637270 handle:65536
+[2026-06-09 12:43:35] BrowserReady: handle:65536
+[2026-06-09 12:43:37] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:43:37] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:43:37] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 12:43:37] BrowserReady: handle:131073
+[2026-06-09 12:43:40] CreateMainWindow: UIMode: -1
+[2026-06-09 12:43:40] CreateMainWindow: creating shared JS context
+[2026-06-09 12:43:40] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 12:43:40] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:43:40] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:43:40] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:43:40] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:43:40] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:43:40] GetDesiredSteamUIWindows: finish
+
+
+[2026-06-09 12:49:41] Client version: 1780352834
+[2026-06-09 12:49:41] Started webhelper process 30494
+[2026-06-09 12:49:41] CreateBrowser id:3181418828 type:12 flags:0 (-2147483648, -2147483648) 0x0
+[2026-06-09 12:49:43] CreateResponse: id:3181418828 handle:65536
+[2026-06-09 12:49:43] BrowserReady: handle:65536
+[2026-06-09 12:49:45] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:49:45] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:49:45] PopupHTMLWindow: idx:131073 handle:65536
+[2026-06-09 12:49:45] BrowserReady: handle:131073
+[2026-06-09 12:49:48] CreateMainWindow: UIMode: -1
+[2026-06-09 12:49:48] CreateMainWindow: creating shared JS context
+[2026-06-09 12:49:48] CreateMainWindow: ensure gamepadui window exists
+[2026-06-09 12:49:48] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:49:48] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:49:48] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:49:48] GetDesiredSteamUIWindows: finish
+[2026-06-09 12:49:48] GetDesiredSteamUIWindows: starting processing of 1 windows
+[2026-06-09 12:49:48] GetDesiredSteamUIWindows: finish

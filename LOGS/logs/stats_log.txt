@@ -1,0 +1,201 @@
+
+
+[2026-06-09 00:42:33] Client version: 1780352834
+[2026-06-09 00:42:33] [AppID 678960] Schema not found on disk
+[2026-06-09 00:42:34] [AppID 678960] CAPIJobRequestUserStats - updated schema from server
+[2026-06-09 00:42:34] [AppID 1649240] Schema not found on disk
+[2026-06-09 00:42:34] [AppID 1649240] CAPIJobRequestUserStats - updated schema from server
+[2026-06-09 00:43:00] [AppID 1121560] Schema not found on disk
+[2026-06-09 00:43:00] [AppID 1121560] CAPIJobRequestUserStats - updated schema from server
+[2026-06-09 00:43:09] [AppID 1284190] Schema not found on disk
+[2026-06-09 00:43:10] [AppID 1284190] CAPIJobRequestUserStats - updated schema from server
+[2026-06-09 00:43:10] [AppID 233860] Schema not found on disk
+[2026-06-09 00:43:10] [AppID 233860] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 00:43:10] [AppID 233860] Schema not found on disk
+[2026-06-09 00:43:10] [AppID 275850] Schema not found on disk
+[2026-06-09 00:43:10] [AppID 275850] CAPIJobRequestUserStats - updated schema from server
+[2026-06-09 00:43:12] [AppID 3405340] Schema not found on disk
+[2026-06-09 00:43:13] [AppID 3405340] CAPIJobRequestUserStats - updated schema from server
+[2026-06-09 00:43:47] [AppID 948740] Schema not found on disk
+[2026-06-09 00:43:47] [AppID 948740] CAPIJobRequestUserStats - updated schema from server
+[2026-06-09 00:44:18] [AppID 678960] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 00:44:18] [AppID 49520] Schema not found on disk
+[2026-06-09 00:44:18] [AppID 49520] CAPIJobRequestUserStats - updated schema from server
+[2026-06-09 00:44:18] [AppID 49520] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2026-06-09 00:45:34] Client version: 1780352834
+[2026-06-09 00:45:34] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 00:45:34] [AppID 1121560] Loading stats from disk...
+[2026-06-09 00:45:34] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 00:45:35] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 00:45:35] [AppID 1284190] Loaded schema from disk.
+[2026-06-09 00:45:35] [AppID 1284190] Loading stats from disk...
+[2026-06-09 00:45:35] [AppID 1284190] Loading stats from disk...success
+[2026-06-09 00:45:35] [AppID 1284190] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 00:46:00] [AppID 49520] Loaded schema from disk.
+[2026-06-09 00:46:00] [AppID 49520] Loading stats from disk...
+[2026-06-09 00:46:00] [AppID 49520] Loading stats from disk...success
+[2026-06-09 00:46:00] [AppID 49520] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 00:46:09] [AppID 4185400] Schema not found on disk
+[2026-06-09 00:46:09] [AppID 4185400] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 00:53:39] [AppID 4628740] Schema not found on disk
+[2026-06-09 00:53:40] [AppID 4628740] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 00:54:17] [AppID 4628740] Schema not found on disk
+[2026-06-09 00:54:18] [AppID 49520] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 00:54:20] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 00:54:21] [AppID 4185400] Schema not found on disk
+[2026-06-09 00:54:21] [AppID 4185400] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 00:54:31] [AppID 4628740] Schema not found on disk
+[2026-06-09 00:54:31] [AppID 4185400] Schema not found on disk
+[2026-06-09 00:56:17] [AppID 4628740] Schema not found on disk
+[2026-06-09 00:56:18] [AppID 49520] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 00:56:19] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 01:06:11] [AppID 1628350] Schema not found on disk
+[2026-06-09 01:06:11] [AppID 1628350] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 01:06:12] [AppID 3658110] Schema not found on disk
+[2026-06-09 01:06:12] [AppID 3658110] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 01:06:12] [AppID 228980] Schema not found on disk
+[2026-06-09 01:06:13] [AppID 228980] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 01:06:44] [AppID 413080] Schema not found on disk
+[2026-06-09 01:06:45] [AppID 413080] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 01:07:06] [AppID 413080] Schema not found on disk
+[2026-06-09 01:07:12] [AppID 413080] Schema not found on disk
+
+
+[2026-06-09 08:28:59] Client version: 1780352834
+[2026-06-09 08:28:59] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 08:28:59] [AppID 1121560] Loading stats from disk...
+[2026-06-09 08:28:59] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 08:28:59] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 08:28:59] [AppID 678960] Loaded schema from disk.
+[2026-06-09 08:28:59] [AppID 678960] Loading stats from disk...
+[2026-06-09 08:28:59] [AppID 678960] Loading stats from disk...success
+[2026-06-09 08:29:00] [AppID 678960] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 08:29:34] [AppID 1121560] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-06-09 08:29:44] [AppID 1121560] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-06-09 08:32:15] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 08:34:23] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 08:34:23] [AppID 49520] Loaded schema from disk.
+[2026-06-09 08:34:23] [AppID 49520] Loading stats from disk...
+[2026-06-09 08:34:23] [AppID 49520] Loading stats from disk...success
+[2026-06-09 08:34:23] [AppID 49520] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 08:34:30] [AppID 1121560] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-06-09 08:34:31] [AppID 1628350] Schema not found on disk
+[2026-06-09 08:34:31] [AppID 1628350] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 08:34:32] [AppID 1628350] Schema not found on disk
+[2026-06-09 08:34:44] [AppID 3405340] Loaded schema from disk.
+[2026-06-09 08:34:44] [AppID 3405340] Loading stats from disk...
+[2026-06-09 08:34:44] [AppID 3405340] Loading stats from disk...success
+[2026-06-09 08:34:44] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 08:35:07] [AppID 1070560] Schema not found on disk
+[2026-06-09 08:35:08] [AppID 1070560] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 08:35:35] [AppID 1391110] Schema not found on disk
+[2026-06-09 08:35:36] [AppID 1391110] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 08:36:23] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2026-06-09 09:37:45] Client version: 1780352834
+[2026-06-09 09:37:45] [AppID 3405340] Loaded schema from disk.
+[2026-06-09 09:37:45] [AppID 3405340] Loading stats from disk...
+[2026-06-09 09:37:45] [AppID 3405340] Loading stats from disk...success
+[2026-06-09 09:37:45] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 09:37:45] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 09:37:45] [AppID 1121560] Loading stats from disk...
+[2026-06-09 09:37:45] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 09:37:46] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2026-06-09 10:05:42] Client version: 1780352834
+[2026-06-09 10:05:42] [AppID 3405340] Loaded schema from disk.
+[2026-06-09 10:05:42] [AppID 3405340] Loading stats from disk...
+[2026-06-09 10:05:42] [AppID 3405340] Loading stats from disk...success
+[2026-06-09 10:05:42] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 10:05:42] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 10:05:42] [AppID 1121560] Loading stats from disk...
+[2026-06-09 10:05:42] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 10:05:43] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2026-06-09 10:06:50] Client version: 0
+[2026-06-09 10:06:50] [AppID 3405340] Loaded schema from disk.
+[2026-06-09 10:06:50] [AppID 3405340] Loading stats from disk...
+[2026-06-09 10:06:50] [AppID 3405340] Loading stats from disk...success
+[2026-06-09 10:06:51] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 10:06:51] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 10:06:51] [AppID 1121560] Loading stats from disk...
+[2026-06-09 10:06:51] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 10:06:51] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 10:08:34] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 10:08:34] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 10:11:06] [AppID 3405340] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-06-09 10:24:31] Client version: 0
+[2026-06-09 10:24:31] [AppID 3405340] Loaded schema from disk.
+[2026-06-09 10:24:31] [AppID 3405340] Loading stats from disk...
+[2026-06-09 10:24:31] [AppID 3405340] Loading stats from disk...success
+[2026-06-09 10:24:31] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 10:24:31] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 10:24:31] [AppID 1121560] Loading stats from disk...
+[2026-06-09 10:24:31] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 10:24:31] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2026-06-09 11:22:42] Client version: 0
+[2026-06-09 11:22:42] [AppID 3405340] Loaded schema from disk.
+[2026-06-09 11:22:42] [AppID 3405340] Loading stats from disk...
+[2026-06-09 11:22:42] [AppID 3405340] Loading stats from disk...success
+[2026-06-09 11:22:42] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 11:22:42] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 11:22:42] [AppID 1121560] Loading stats from disk...
+[2026-06-09 11:22:42] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 11:22:42] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 11:23:24] [AppID 4183110] Schema not found on disk
+[2026-06-09 11:23:25] [AppID 4183110] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 11:24:14] [AppID 1493710] Schema not found on disk
+[2026-06-09 11:24:14] [AppID 1493710] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2026-06-09 11:24:16] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 11:25:31] [AppID 3405340] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-06-09 11:25:52] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2026-06-09 12:06:55] Client version: 1780352834
+[2026-06-09 12:06:55] [AppID 3405340] Loaded schema from disk.
+[2026-06-09 12:06:55] [AppID 3405340] Loading stats from disk...
+[2026-06-09 12:06:55] [AppID 3405340] Loading stats from disk...success
+[2026-06-09 12:06:56] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 12:06:56] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 12:06:56] [AppID 1121560] Loading stats from disk...
+[2026-06-09 12:06:56] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 12:06:56] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 12:07:13] [AppID 49520] Loaded schema from disk.
+[2026-06-09 12:07:13] [AppID 49520] Loading stats from disk...
+[2026-06-09 12:07:13] [AppID 49520] Loading stats from disk...success
+[2026-06-09 12:07:14] [AppID 49520] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 12:08:04] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 12:08:50] [AppID 3405340] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-06-09 12:09:18] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2026-06-09 12:43:43] Client version: 1780352834
+[2026-06-09 12:43:43] [AppID 3405340] Loaded schema from disk.
+[2026-06-09 12:43:43] [AppID 3405340] Loading stats from disk...
+[2026-06-09 12:43:43] [AppID 3405340] Loading stats from disk...success
+[2026-06-09 12:43:44] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 12:43:44] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 12:43:44] [AppID 1121560] Loading stats from disk...
+[2026-06-09 12:43:44] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 12:43:44] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 12:46:02] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2026-06-09 12:49:51] Client version: 1780352834
+[2026-06-09 12:49:51] [AppID 3405340] Loaded schema from disk.
+[2026-06-09 12:49:51] [AppID 3405340] Loading stats from disk...
+[2026-06-09 12:49:51] [AppID 3405340] Loading stats from disk...success
+[2026-06-09 12:49:52] [AppID 3405340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-06-09 12:49:52] [AppID 1121560] Loaded schema from disk.
+[2026-06-09 12:49:52] [AppID 1121560] Loading stats from disk...
+[2026-06-09 12:49:52] [AppID 1121560] Loading stats from disk...success
+[2026-06-09 12:49:52] [AppID 1121560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date

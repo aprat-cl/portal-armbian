@@ -1,0 +1,117 @@
+
+
+[2026-06-09 00:41:52] Client version: 1780352834
+[2026-06-09 00:41:52] Initializing system dock manager: linux
+[2026-06-09 00:42:02] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 00:42:02] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 00:42:02] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 00:42:02] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 00:42:02] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 00:45:19] Client version: 1780352834
+[2026-06-09 00:45:19] Initializing system dock manager: linux
+[2026-06-09 00:45:29] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 00:45:29] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 00:45:29] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 00:45:29] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 00:45:29] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 08:28:47] Client version: 1780352834
+[2026-06-09 08:28:47] Initializing system dock manager: linux
+[2026-06-09 08:28:57] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 08:28:57] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 08:28:57] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 08:28:57] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 08:28:57] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 09:37:37] Client version: 1780352834
+[2026-06-09 09:37:37] Initializing system dock manager: linux
+[2026-06-09 09:37:47] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 09:37:47] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 09:37:47] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 09:37:47] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 09:37:47] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 10:05:34] Client version: 1780352834
+[2026-06-09 10:05:34] Initializing system dock manager: linux
+[2026-06-09 10:05:45] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 10:05:45] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 10:05:45] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 10:05:45] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 10:05:45] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 10:06:43] Client version: 0
+[2026-06-09 10:06:43] Initializing system dock manager: linux
+[2026-06-09 10:06:53] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 10:06:53] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 10:06:53] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 10:06:53] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 10:06:53] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] Initializing system dock manager: linux
+[2026-06-09 10:24:33] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 10:24:33] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 10:24:33] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 10:24:33] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 10:24:33] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] Initializing system dock manager: linux
+[2026-06-09 11:22:44] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 11:22:44] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 11:22:44] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 11:22:44] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 11:22:44] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 11:36:06] Client version: 1780352834
+[2026-06-09 11:36:06] Initializing system dock manager: linux
+[2026-06-09 11:36:16] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 11:36:16] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 11:36:16] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 11:36:16] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 11:36:16] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 11:36:55] Client version: 1780352834
+[2026-06-09 11:36:55] Initializing system dock manager: linux
+[2026-06-09 11:37:05] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 11:37:05] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 11:37:05] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 11:37:05] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 11:37:05] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 12:06:48] Client version: 1780352834
+[2026-06-09 12:06:48] Initializing system dock manager: linux
+[2026-06-09 12:06:58] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 12:06:58] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 12:06:58] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 12:06:58] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 12:06:58] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 12:43:34] Client version: 1780352834
+[2026-06-09 12:43:34] Initializing system dock manager: linux
+[2026-06-09 12:43:44] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 12:43:44] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 12:43:44] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 12:43:44] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 12:43:44] Error: YldFirmwareCheckForUpdate: failed to check for update
+
+
+[2026-06-09 12:49:42] Client version: 1780352834
+[2026-06-09 12:49:42] Initializing system dock manager: linux
+[2026-06-09 12:49:52] YldFirmwareCheckForUpdate: check requested
+[2026-06-09 12:49:52] YldFirmwareCheckForUpdate: starting check
+[2026-06-09 12:49:52] YldFirmwareCheckForUpdateInternal: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/jupiter-dock-updater --check' returned: 127
+[2026-06-09 12:49:52] Error: YldFirmwareCheckForUpdateInternal: update check error: 127
+[2026-06-09 12:49:52] Error: YldFirmwareCheckForUpdate: failed to check for update

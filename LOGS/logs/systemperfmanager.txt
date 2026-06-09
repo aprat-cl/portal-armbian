@@ -1,0 +1,646 @@
+
+
+[2026-06-09 00:41:52] Client version: 1780352834
+[2026-06-09 00:41:52] Using mangoapp: 0
+[2026-06-09 00:41:52] Using mangoapp presets: 0
+[2026-06-09 00:41:52] Using mangoapp horizontal: 0
+[2026-06-09 00:41:52] Using mangoapp atom workaround: 1
+[2026-06-09 00:41:52] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 00:41:52] Dynamic FPS limiter: 0
+[2026-06-09 00:41:52] Manual refresh rate control: 0 0 0
+[2026-06-09 00:41:52] NIS support: 0
+[2026-06-09 00:41:52] VRR support: 0
+[2026-06-09 00:41:52] Dynamic refresh in steam support: 0
+[2026-06-09 00:41:52] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 00:41:52] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 00:41:52] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 00:41:52] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 00:41:52] Initialized system perf manager
+[2026-06-09 00:41:52] UpdateSettings: gameid: 769
+[2026-06-09 00:41:52] Set graphics profiling enabled: 0
+[2026-06-09 00:41:52] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 00:41:52] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 00:41:52] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 00:41:52] Set show perf overlay over steam: 0
+[2026-06-09 00:41:52] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 00:41:52] Set HDR on SDR tonemap operator: 1
+[2026-06-09 00:41:52] Set SDR to HDR brightness: 0.292000
+[2026-06-09 00:41:52] Set VRR enabled: 0
+[2026-06-09 00:41:52] Set use dynamic refresh in steam: 0
+[2026-06-09 00:41:52] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 00:41:52] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 00:41:52] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 00:41:52] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 00:41:52] Set gpu manual MHz: 200
+[2026-06-09 00:41:52] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 00:41:52] Set FPS limit enabled: 0
+[2026-06-09 00:41:52] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 00:41:52] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 00:41:52] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 00:41:52] Skipping TDP setting as it is externally managed
+[2026-06-09 00:41:52] Set TDP limit: 15
+[2026-06-09 00:41:52] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 00:41:52] Set CPU Governor: 1
+[2026-06-09 00:41:52] Set CPU Governor manual MHz: 1500
+[2026-06-09 00:41:52] Set scaling filter: 1
+[2026-06-09 00:41:52] Set scaling mode: 1
+[2026-06-09 00:41:52] Set FSR sharpness: 5
+[2026-06-09 00:41:52] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 00:41:52] Set low latency mode: 0
+
+
+[2026-06-09 00:45:19] Client version: 1780352834
+[2026-06-09 00:45:19] Using mangoapp: 0
+[2026-06-09 00:45:19] Using mangoapp presets: 0
+[2026-06-09 00:45:19] Using mangoapp horizontal: 0
+[2026-06-09 00:45:19] Using mangoapp atom workaround: 1
+[2026-06-09 00:45:19] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 00:45:19] Dynamic FPS limiter: 0
+[2026-06-09 00:45:19] Manual refresh rate control: 0 0 0
+[2026-06-09 00:45:19] NIS support: 0
+[2026-06-09 00:45:19] VRR support: 0
+[2026-06-09 00:45:19] Dynamic refresh in steam support: 0
+[2026-06-09 00:45:19] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 00:45:19] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 00:45:19] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 00:45:19] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 00:45:19] Initialized system perf manager
+[2026-06-09 00:45:19] UpdateSettings: gameid: 769
+[2026-06-09 00:45:19] Set graphics profiling enabled: 0
+[2026-06-09 00:45:19] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 00:45:19] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 00:45:19] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 00:45:19] Set show perf overlay over steam: 0
+[2026-06-09 00:45:19] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 00:45:19] Set HDR on SDR tonemap operator: 1
+[2026-06-09 00:45:19] Set SDR to HDR brightness: 0.292000
+[2026-06-09 00:45:19] Set VRR enabled: 0
+[2026-06-09 00:45:19] Set use dynamic refresh in steam: 0
+[2026-06-09 00:45:19] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 00:45:19] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 00:45:19] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 00:45:19] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 00:45:19] Set gpu manual MHz: 200
+[2026-06-09 00:45:19] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 00:45:19] Set FPS limit enabled: 0
+[2026-06-09 00:45:19] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 00:45:19] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 00:45:19] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 00:45:19] Skipping TDP setting as it is externally managed
+[2026-06-09 00:45:19] Set TDP limit: 15
+[2026-06-09 00:45:19] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 00:45:19] Set CPU Governor: 1
+[2026-06-09 00:45:19] Set CPU Governor manual MHz: 1500
+[2026-06-09 00:45:19] Set scaling filter: 1
+[2026-06-09 00:45:19] Set scaling mode: 1
+[2026-06-09 00:45:19] Set FSR sharpness: 5
+[2026-06-09 00:45:19] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 00:45:19] Set low latency mode: 0
+
+
+[2026-06-09 08:28:47] Client version: 1780352834
+[2026-06-09 08:28:47] Using mangoapp: 0
+[2026-06-09 08:28:47] Using mangoapp presets: 0
+[2026-06-09 08:28:47] Using mangoapp horizontal: 0
+[2026-06-09 08:28:47] Using mangoapp atom workaround: 1
+[2026-06-09 08:28:47] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 08:28:47] Dynamic FPS limiter: 0
+[2026-06-09 08:28:47] Manual refresh rate control: 0 0 0
+[2026-06-09 08:28:47] NIS support: 0
+[2026-06-09 08:28:47] VRR support: 0
+[2026-06-09 08:28:47] Dynamic refresh in steam support: 0
+[2026-06-09 08:28:47] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 08:28:47] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 08:28:47] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 08:28:47] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 08:28:47] Initialized system perf manager
+[2026-06-09 08:28:47] UpdateSettings: gameid: 769
+[2026-06-09 08:28:47] Set graphics profiling enabled: 0
+[2026-06-09 08:28:47] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 08:28:47] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 08:28:48] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 08:28:48] Set show perf overlay over steam: 0
+[2026-06-09 08:28:48] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 08:28:48] Set HDR on SDR tonemap operator: 1
+[2026-06-09 08:28:48] Set SDR to HDR brightness: 0.292000
+[2026-06-09 08:28:48] Set VRR enabled: 0
+[2026-06-09 08:28:48] Set use dynamic refresh in steam: 0
+[2026-06-09 08:28:48] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 08:28:48] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 08:28:48] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 08:28:48] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 08:28:48] Set gpu manual MHz: 200
+[2026-06-09 08:28:48] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 08:28:48] Set FPS limit enabled: 0
+[2026-06-09 08:28:48] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 08:28:48] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 08:28:48] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 08:28:48] Skipping TDP setting as it is externally managed
+[2026-06-09 08:28:48] Set TDP limit: 15
+[2026-06-09 08:28:48] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 08:28:48] Set CPU Governor: 1
+[2026-06-09 08:28:48] Set CPU Governor manual MHz: 1500
+[2026-06-09 08:28:48] Set scaling filter: 1
+[2026-06-09 08:28:48] Set scaling mode: 1
+[2026-06-09 08:28:48] Set FSR sharpness: 5
+[2026-06-09 08:28:48] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 08:28:48] Set low latency mode: 0
+[2026-06-09 08:32:19] UpdateCurrentGame: setting current gameid: 1121560
+[2026-06-09 08:36:28] UpdateCurrentGame: setting current gameid: 3405340
+
+
+[2026-06-09 09:37:37] Client version: 1780352834
+[2026-06-09 09:37:37] Using mangoapp: 0
+[2026-06-09 09:37:37] Using mangoapp presets: 0
+[2026-06-09 09:37:37] Using mangoapp horizontal: 0
+[2026-06-09 09:37:37] Using mangoapp atom workaround: 1
+[2026-06-09 09:37:37] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 09:37:37] Dynamic FPS limiter: 0
+[2026-06-09 09:37:37] Manual refresh rate control: 0 0 0
+[2026-06-09 09:37:37] NIS support: 0
+[2026-06-09 09:37:37] VRR support: 0
+[2026-06-09 09:37:37] Dynamic refresh in steam support: 0
+[2026-06-09 09:37:37] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 09:37:37] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 09:37:37] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 09:37:37] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 09:37:37] Initialized system perf manager
+[2026-06-09 09:37:37] UpdateSettings: gameid: 769
+[2026-06-09 09:37:37] Set graphics profiling enabled: 0
+[2026-06-09 09:37:37] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 09:37:37] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 09:37:37] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 09:37:37] Set show perf overlay over steam: 0
+[2026-06-09 09:37:37] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 09:37:37] Set HDR on SDR tonemap operator: 1
+[2026-06-09 09:37:37] Set SDR to HDR brightness: 0.292000
+[2026-06-09 09:37:37] Set VRR enabled: 0
+[2026-06-09 09:37:37] Set use dynamic refresh in steam: 0
+[2026-06-09 09:37:37] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 09:37:37] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 09:37:37] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 09:37:37] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 09:37:37] Set gpu manual MHz: 200
+[2026-06-09 09:37:37] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 09:37:37] Set FPS limit enabled: 0
+[2026-06-09 09:37:37] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 09:37:37] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 09:37:37] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 09:37:37] Skipping TDP setting as it is externally managed
+[2026-06-09 09:37:37] Set TDP limit: 15
+[2026-06-09 09:37:37] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 09:37:37] Set CPU Governor: 1
+[2026-06-09 09:37:37] Set CPU Governor manual MHz: 1500
+[2026-06-09 09:37:37] Set scaling filter: 1
+[2026-06-09 09:37:37] Set scaling mode: 1
+[2026-06-09 09:37:37] Set FSR sharpness: 5
+[2026-06-09 09:37:37] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 09:37:37] Set low latency mode: 0
+[2026-06-09 09:38:28] UpdateCurrentGame: setting current gameid: 3405340
+
+
+[2026-06-09 10:05:34] Client version: 1780352834
+[2026-06-09 10:05:34] Using mangoapp: 0
+[2026-06-09 10:05:34] Using mangoapp presets: 0
+[2026-06-09 10:05:34] Using mangoapp horizontal: 0
+[2026-06-09 10:05:34] Using mangoapp atom workaround: 1
+[2026-06-09 10:05:34] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 10:05:34] Dynamic FPS limiter: 0
+[2026-06-09 10:05:34] Manual refresh rate control: 0 0 0
+[2026-06-09 10:05:34] NIS support: 0
+[2026-06-09 10:05:34] VRR support: 0
+[2026-06-09 10:05:34] Dynamic refresh in steam support: 0
+[2026-06-09 10:05:34] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 10:05:34] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 10:05:34] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 10:05:34] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 10:05:34] Initialized system perf manager
+[2026-06-09 10:05:34] UpdateSettings: gameid: 769
+[2026-06-09 10:05:34] Set graphics profiling enabled: 0
+[2026-06-09 10:05:34] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 10:05:34] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 10:05:35] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 10:05:35] Set show perf overlay over steam: 0
+[2026-06-09 10:05:35] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 10:05:35] Set HDR on SDR tonemap operator: 1
+[2026-06-09 10:05:35] Set SDR to HDR brightness: 0.292000
+[2026-06-09 10:05:35] Set VRR enabled: 0
+[2026-06-09 10:05:35] Set use dynamic refresh in steam: 0
+[2026-06-09 10:05:35] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 10:05:35] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 10:05:35] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 10:05:35] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 10:05:35] Set gpu manual MHz: 200
+[2026-06-09 10:05:35] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 10:05:35] Set FPS limit enabled: 0
+[2026-06-09 10:05:35] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 10:05:35] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 10:05:35] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 10:05:35] Skipping TDP setting as it is externally managed
+[2026-06-09 10:05:35] Set TDP limit: 15
+[2026-06-09 10:05:35] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 10:05:35] Set CPU Governor: 1
+[2026-06-09 10:05:35] Set CPU Governor manual MHz: 1500
+[2026-06-09 10:05:35] Set scaling filter: 1
+[2026-06-09 10:05:35] Set scaling mode: 1
+[2026-06-09 10:05:35] Set FSR sharpness: 5
+[2026-06-09 10:05:35] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 10:05:35] Set low latency mode: 0
+
+
+[2026-06-09 10:06:43] Client version: 0
+[2026-06-09 10:06:43] Using mangoapp: 0
+[2026-06-09 10:06:43] Using mangoapp presets: 0
+[2026-06-09 10:06:43] Using mangoapp horizontal: 0
+[2026-06-09 10:06:43] Using mangoapp atom workaround: 1
+[2026-06-09 10:06:43] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 10:06:43] Dynamic FPS limiter: 0
+[2026-06-09 10:06:43] Manual refresh rate control: 0 0 0
+[2026-06-09 10:06:43] NIS support: 0
+[2026-06-09 10:06:43] VRR support: 0
+[2026-06-09 10:06:43] Dynamic refresh in steam support: 0
+[2026-06-09 10:06:43] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 10:06:43] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 10:06:43] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 10:06:43] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 10:06:43] Initialized system perf manager
+[2026-06-09 10:06:43] UpdateSettings: gameid: 769
+[2026-06-09 10:06:43] Set graphics profiling enabled: 0
+[2026-06-09 10:06:43] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 10:06:43] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 10:06:43] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 10:06:43] Set show perf overlay over steam: 0
+[2026-06-09 10:06:43] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 10:06:43] Set HDR on SDR tonemap operator: 1
+[2026-06-09 10:06:43] Set SDR to HDR brightness: 0.292000
+[2026-06-09 10:06:43] Set VRR enabled: 0
+[2026-06-09 10:06:43] Set use dynamic refresh in steam: 0
+[2026-06-09 10:06:43] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 10:06:43] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 10:06:43] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 10:06:43] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 10:06:43] Set gpu manual MHz: 200
+[2026-06-09 10:06:43] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 10:06:43] Set FPS limit enabled: 0
+[2026-06-09 10:06:43] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 10:06:43] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 10:06:43] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 10:06:43] Skipping TDP setting as it is externally managed
+[2026-06-09 10:06:43] Set TDP limit: 15
+[2026-06-09 10:06:43] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 10:06:43] Set CPU Governor: 1
+[2026-06-09 10:06:43] Set CPU Governor manual MHz: 1500
+[2026-06-09 10:06:43] Set scaling filter: 1
+[2026-06-09 10:06:43] Set scaling mode: 1
+[2026-06-09 10:06:43] Set FSR sharpness: 5
+[2026-06-09 10:06:43] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 10:06:43] Set low latency mode: 0
+[2026-06-09 10:08:44] UpdateCurrentGame: setting current gameid: 3405340
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] Using mangoapp: 0
+[2026-06-09 10:24:23] Using mangoapp presets: 0
+[2026-06-09 10:24:23] Using mangoapp horizontal: 0
+[2026-06-09 10:24:23] Using mangoapp atom workaround: 1
+[2026-06-09 10:24:23] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 10:24:23] Dynamic FPS limiter: 0
+[2026-06-09 10:24:23] Manual refresh rate control: 0 0 0
+[2026-06-09 10:24:23] NIS support: 0
+[2026-06-09 10:24:23] VRR support: 0
+[2026-06-09 10:24:23] Dynamic refresh in steam support: 0
+[2026-06-09 10:24:23] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 10:24:23] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 10:24:23] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 10:24:23] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 10:24:23] Initialized system perf manager
+[2026-06-09 10:24:23] UpdateSettings: gameid: 769
+[2026-06-09 10:24:23] Set graphics profiling enabled: 0
+[2026-06-09 10:24:23] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 10:24:23] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 10:24:23] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 10:24:23] Set show perf overlay over steam: 0
+[2026-06-09 10:24:23] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 10:24:23] Set HDR on SDR tonemap operator: 1
+[2026-06-09 10:24:23] Set SDR to HDR brightness: 0.292000
+[2026-06-09 10:24:23] Set VRR enabled: 0
+[2026-06-09 10:24:23] Set use dynamic refresh in steam: 0
+[2026-06-09 10:24:23] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 10:24:23] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 10:24:23] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 10:24:23] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 10:24:23] Set gpu manual MHz: 200
+[2026-06-09 10:24:23] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 10:24:23] Set FPS limit enabled: 0
+[2026-06-09 10:24:23] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 10:24:23] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 10:24:23] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 10:24:23] Skipping TDP setting as it is externally managed
+[2026-06-09 10:24:23] Set TDP limit: 15
+[2026-06-09 10:24:23] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 10:24:23] Set CPU Governor: 1
+[2026-06-09 10:24:23] Set CPU Governor manual MHz: 1500
+[2026-06-09 10:24:23] Set scaling filter: 1
+[2026-06-09 10:24:23] Set scaling mode: 1
+[2026-06-09 10:24:23] Set FSR sharpness: 5
+[2026-06-09 10:24:23] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 10:24:23] Set low latency mode: 0
+[2026-06-09 10:25:11] UpdateCurrentGame: setting current gameid: 3405340
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] Using mangoapp: 0
+[2026-06-09 11:22:34] Using mangoapp presets: 0
+[2026-06-09 11:22:34] Using mangoapp horizontal: 0
+[2026-06-09 11:22:34] Using mangoapp atom workaround: 1
+[2026-06-09 11:22:34] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 11:22:34] Dynamic FPS limiter: 0
+[2026-06-09 11:22:34] Manual refresh rate control: 0 0 0
+[2026-06-09 11:22:34] NIS support: 0
+[2026-06-09 11:22:34] VRR support: 0
+[2026-06-09 11:22:34] Dynamic refresh in steam support: 0
+[2026-06-09 11:22:34] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 11:22:34] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 11:22:34] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 11:22:34] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 11:22:34] Initialized system perf manager
+[2026-06-09 11:22:34] UpdateSettings: gameid: 769
+[2026-06-09 11:22:34] Set graphics profiling enabled: 0
+[2026-06-09 11:22:34] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 11:22:34] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 11:22:34] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 11:22:34] Set show perf overlay over steam: 0
+[2026-06-09 11:22:34] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 11:22:34] Set HDR on SDR tonemap operator: 1
+[2026-06-09 11:22:34] Set SDR to HDR brightness: 0.292000
+[2026-06-09 11:22:34] Set VRR enabled: 0
+[2026-06-09 11:22:34] Set use dynamic refresh in steam: 0
+[2026-06-09 11:22:34] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 11:22:34] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 11:22:34] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 11:22:34] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 11:22:34] Set gpu manual MHz: 200
+[2026-06-09 11:22:34] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 11:22:34] Set FPS limit enabled: 0
+[2026-06-09 11:22:34] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 11:22:34] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 11:22:34] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 11:22:34] Skipping TDP setting as it is externally managed
+[2026-06-09 11:22:34] Set TDP limit: 15
+[2026-06-09 11:22:34] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 11:22:34] Set CPU Governor: 1
+[2026-06-09 11:22:34] Set CPU Governor manual MHz: 1500
+[2026-06-09 11:22:34] Set scaling filter: 1
+[2026-06-09 11:22:34] Set scaling mode: 1
+[2026-06-09 11:22:34] Set FSR sharpness: 5
+[2026-06-09 11:22:34] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 11:22:34] Set low latency mode: 0
+[2026-06-09 11:24:21] UpdateCurrentGame: setting current gameid: 3405340
+
+
+[2026-06-09 11:36:06] Client version: 1780352834
+[2026-06-09 11:36:06] Using mangoapp: 0
+[2026-06-09 11:36:06] Using mangoapp presets: 0
+[2026-06-09 11:36:06] Using mangoapp horizontal: 0
+[2026-06-09 11:36:06] Using mangoapp atom workaround: 1
+[2026-06-09 11:36:06] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 11:36:06] Dynamic FPS limiter: 0
+[2026-06-09 11:36:06] Manual refresh rate control: 0 0 0
+[2026-06-09 11:36:06] NIS support: 0
+[2026-06-09 11:36:06] VRR support: 0
+[2026-06-09 11:36:06] Dynamic refresh in steam support: 0
+[2026-06-09 11:36:06] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 11:36:06] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 11:36:06] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 11:36:06] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 11:36:06] Initialized system perf manager
+[2026-06-09 11:36:06] UpdateSettings: gameid: 769
+[2026-06-09 11:36:06] Set graphics profiling enabled: 0
+[2026-06-09 11:36:06] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 11:36:06] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 11:36:06] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 11:36:06] Set show perf overlay over steam: 0
+[2026-06-09 11:36:06] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 11:36:06] Set HDR on SDR tonemap operator: 1
+[2026-06-09 11:36:06] Set SDR to HDR brightness: 0.292000
+[2026-06-09 11:36:06] Set VRR enabled: 0
+[2026-06-09 11:36:06] Set use dynamic refresh in steam: 0
+[2026-06-09 11:36:06] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 11:36:06] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 11:36:06] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 11:36:06] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 11:36:06] Set gpu manual MHz: 200
+[2026-06-09 11:36:06] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 11:36:06] Set FPS limit enabled: 0
+[2026-06-09 11:36:06] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 11:36:06] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 11:36:06] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 11:36:06] Skipping TDP setting as it is externally managed
+[2026-06-09 11:36:06] Set TDP limit: 15
+[2026-06-09 11:36:06] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 11:36:06] Set CPU Governor: 1
+[2026-06-09 11:36:06] Set CPU Governor manual MHz: 1500
+[2026-06-09 11:36:06] Set scaling filter: 1
+[2026-06-09 11:36:06] Set scaling mode: 1
+[2026-06-09 11:36:06] Set FSR sharpness: 5
+[2026-06-09 11:36:06] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 11:36:06] Set low latency mode: 0
+
+
+[2026-06-09 11:36:55] Client version: 1780352834
+[2026-06-09 11:36:55] Using mangoapp: 0
+[2026-06-09 11:36:55] Using mangoapp presets: 0
+[2026-06-09 11:36:55] Using mangoapp horizontal: 0
+[2026-06-09 11:36:55] Using mangoapp atom workaround: 1
+[2026-06-09 11:36:55] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 11:36:55] Dynamic FPS limiter: 0
+[2026-06-09 11:36:55] Manual refresh rate control: 0 0 0
+[2026-06-09 11:36:55] NIS support: 0
+[2026-06-09 11:36:55] VRR support: 0
+[2026-06-09 11:36:55] Dynamic refresh in steam support: 0
+[2026-06-09 11:36:55] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 11:36:55] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 11:36:55] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 11:36:55] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 11:36:55] Initialized system perf manager
+[2026-06-09 11:36:55] UpdateSettings: gameid: 769
+[2026-06-09 11:36:55] Set graphics profiling enabled: 0
+[2026-06-09 11:36:55] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 11:36:55] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 11:36:55] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 11:36:55] Set show perf overlay over steam: 0
+[2026-06-09 11:36:55] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 11:36:55] Set HDR on SDR tonemap operator: 1
+[2026-06-09 11:36:55] Set SDR to HDR brightness: 0.292000
+[2026-06-09 11:36:55] Set VRR enabled: 0
+[2026-06-09 11:36:55] Set use dynamic refresh in steam: 0
+[2026-06-09 11:36:55] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 11:36:55] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 11:36:55] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 11:36:55] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 11:36:55] Set gpu manual MHz: 200
+[2026-06-09 11:36:55] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 11:36:55] Set FPS limit enabled: 0
+[2026-06-09 11:36:55] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 11:36:55] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 11:36:55] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 11:36:55] Skipping TDP setting as it is externally managed
+[2026-06-09 11:36:55] Set TDP limit: 15
+[2026-06-09 11:36:55] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 11:36:55] Set CPU Governor: 1
+[2026-06-09 11:36:55] Set CPU Governor manual MHz: 1500
+[2026-06-09 11:36:55] Set scaling filter: 1
+[2026-06-09 11:36:55] Set scaling mode: 1
+[2026-06-09 11:36:55] Set FSR sharpness: 5
+[2026-06-09 11:36:55] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 11:36:55] Set low latency mode: 0
+
+
+[2026-06-09 12:06:48] Client version: 1780352834
+[2026-06-09 12:06:48] Using mangoapp: 0
+[2026-06-09 12:06:48] Using mangoapp presets: 0
+[2026-06-09 12:06:48] Using mangoapp horizontal: 0
+[2026-06-09 12:06:48] Using mangoapp atom workaround: 1
+[2026-06-09 12:06:48] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 12:06:48] Dynamic FPS limiter: 0
+[2026-06-09 12:06:48] Manual refresh rate control: 0 0 0
+[2026-06-09 12:06:48] NIS support: 0
+[2026-06-09 12:06:48] VRR support: 0
+[2026-06-09 12:06:48] Dynamic refresh in steam support: 0
+[2026-06-09 12:06:48] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 12:06:48] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 12:06:48] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 12:06:48] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 12:06:48] Initialized system perf manager
+[2026-06-09 12:06:48] UpdateSettings: gameid: 769
+[2026-06-09 12:06:48] Set graphics profiling enabled: 0
+[2026-06-09 12:06:48] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 12:06:48] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 12:06:48] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 12:06:48] Set show perf overlay over steam: 0
+[2026-06-09 12:06:48] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 12:06:48] Set HDR on SDR tonemap operator: 1
+[2026-06-09 12:06:48] Set SDR to HDR brightness: 0.292000
+[2026-06-09 12:06:48] Set VRR enabled: 0
+[2026-06-09 12:06:48] Set use dynamic refresh in steam: 0
+[2026-06-09 12:06:48] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 12:06:48] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 12:06:48] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 12:06:48] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 12:06:48] Set gpu manual MHz: 200
+[2026-06-09 12:06:48] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 12:06:48] Set FPS limit enabled: 0
+[2026-06-09 12:06:48] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 12:06:48] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 12:06:48] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 12:06:48] Skipping TDP setting as it is externally managed
+[2026-06-09 12:06:48] Set TDP limit: 15
+[2026-06-09 12:06:48] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 12:06:48] Set CPU Governor: 1
+[2026-06-09 12:06:48] Set CPU Governor manual MHz: 1500
+[2026-06-09 12:06:48] Set scaling filter: 1
+[2026-06-09 12:06:48] Set scaling mode: 1
+[2026-06-09 12:06:48] Set FSR sharpness: 5
+[2026-06-09 12:06:48] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 12:06:48] Set low latency mode: 0
+[2026-06-09 12:08:07] UpdateCurrentGame: setting current gameid: 3405340
+
+
+[2026-06-09 12:43:34] Client version: 1780352834
+[2026-06-09 12:43:34] Using mangoapp: 0
+[2026-06-09 12:43:34] Using mangoapp presets: 0
+[2026-06-09 12:43:34] Using mangoapp horizontal: 0
+[2026-06-09 12:43:34] Using mangoapp atom workaround: 1
+[2026-06-09 12:43:34] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 12:43:34] Dynamic FPS limiter: 0
+[2026-06-09 12:43:34] Manual refresh rate control: 0 0 0
+[2026-06-09 12:43:34] NIS support: 0
+[2026-06-09 12:43:34] VRR support: 0
+[2026-06-09 12:43:34] Dynamic refresh in steam support: 0
+[2026-06-09 12:43:34] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 12:43:34] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 12:43:34] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 12:43:34] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 12:43:34] Initialized system perf manager
+[2026-06-09 12:43:34] UpdateSettings: gameid: 769
+[2026-06-09 12:43:34] Set graphics profiling enabled: 0
+[2026-06-09 12:43:34] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 12:43:34] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 12:43:34] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 12:43:34] Set show perf overlay over steam: 0
+[2026-06-09 12:43:34] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 12:43:34] Set HDR on SDR tonemap operator: 1
+[2026-06-09 12:43:34] Set SDR to HDR brightness: 0.292000
+[2026-06-09 12:43:34] Set VRR enabled: 0
+[2026-06-09 12:43:34] Set use dynamic refresh in steam: 0
+[2026-06-09 12:43:34] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 12:43:34] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 12:43:34] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 12:43:34] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 12:43:34] Set gpu manual MHz: 200
+[2026-06-09 12:43:34] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 12:43:34] Set FPS limit enabled: 0
+[2026-06-09 12:43:34] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 12:43:34] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 12:43:34] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 12:43:34] Skipping TDP setting as it is externally managed
+[2026-06-09 12:43:34] Set TDP limit: 15
+[2026-06-09 12:43:34] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 12:43:34] Set CPU Governor: 1
+[2026-06-09 12:43:34] Set CPU Governor manual MHz: 1500
+[2026-06-09 12:43:34] Set scaling filter: 1
+[2026-06-09 12:43:34] Set scaling mode: 1
+[2026-06-09 12:43:34] Set FSR sharpness: 5
+[2026-06-09 12:43:34] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 12:43:34] Set low latency mode: 0
+[2026-06-09 12:46:07] UpdateCurrentGame: setting current gameid: 3405340
+
+
+[2026-06-09 12:49:42] Client version: 1780352834
+[2026-06-09 12:49:42] Using mangoapp: 0
+[2026-06-09 12:49:42] Using mangoapp presets: 0
+[2026-06-09 12:49:42] Using mangoapp horizontal: 0
+[2026-06-09 12:49:42] Using mangoapp atom workaround: 1
+[2026-06-09 12:49:42] Using config: /home/aprat/games/steam/config/mangohud.conf
+[2026-06-09 12:49:42] Dynamic FPS limiter: 0
+[2026-06-09 12:49:42] Manual refresh rate control: 0 0 0
+[2026-06-09 12:49:42] NIS support: 0
+[2026-06-09 12:49:42] VRR support: 0
+[2026-06-09 12:49:42] Dynamic refresh in steam support: 0
+[2026-06-09 12:49:42] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 0
+[2026-06-09 12:49:42] PopulateFPSLimitOptionsForRefreshRate: hz: 60 external: 1
+[2026-06-09 12:49:42] UpdateCurrentGame: setting current gameid: 769
+[2026-06-09 12:49:42] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-06-09 12:49:42] Initialized system perf manager
+[2026-06-09 12:49:42] UpdateSettings: gameid: 769
+[2026-06-09 12:49:42] Set graphics profiling enabled: 0
+[2026-06-09 12:49:42] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 12:49:42] Error: OnSystemDisplayStateChanged: no primary display
+[2026-06-09 12:49:42] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 12:49:42] Set show perf overlay over steam: 0
+[2026-06-09 12:49:42] ThreadedMangoAppAtomWorkaround: bHideMango: 1
+[2026-06-09 12:49:42] Set HDR on SDR tonemap operator: 1
+[2026-06-09 12:49:42] Set SDR to HDR brightness: 0.292000
+[2026-06-09 12:49:42] Set VRR enabled: 0
+[2026-06-09 12:49:42] Set use dynamic refresh in steam: 0
+[2026-06-09 12:49:42] Display manual refresh rate external: 0 Hz: 60
+[2026-06-09 12:49:42] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 12:49:42] Display manual refresh rate external: 1 Hz: 60
+[2026-06-09 12:49:42] Error: YieldingUpdateRefreshRateManualHz: unavailable
+[2026-06-09 12:49:42] Set gpu manual MHz: 200
+[2026-06-09 12:49:42] Error: YieldingUpdateGPUPerformanceManualMhz: perf mode must be manual: 0
+[2026-06-09 12:49:42] Set FPS limit enabled: 0
+[2026-06-09 12:49:42] Set FPS limit: 60 external: 1 index: 2
+[2026-06-09 12:49:42] Set FPS limit: 60 external: 0 index: 2
+[2026-06-09 12:49:42] Set TDP limit enabled: 0 - restore 15
+[2026-06-09 12:49:42] Skipping TDP setting as it is externally managed
+[2026-06-09 12:49:42] Set TDP limit: 15
+[2026-06-09 12:49:42] Error: YieldingUpdateTDPLimit: TDP limiting is disabled
+[2026-06-09 12:49:42] Set CPU Governor: 1
+[2026-06-09 12:49:42] Set CPU Governor manual MHz: 1500
+[2026-06-09 12:49:42] Set scaling filter: 1
+[2026-06-09 12:49:42] Set scaling mode: 1
+[2026-06-09 12:49:42] Set FSR sharpness: 5
+[2026-06-09 12:49:42] Skipping FSR sharpness change as the current filter is 1, updating config only
+[2026-06-09 12:49:42] Set low latency mode: 0
+[2026-06-09 12:50:04] UpdateCurrentGame: setting current gameid: 3405340

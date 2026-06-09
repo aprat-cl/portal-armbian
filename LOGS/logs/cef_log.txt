@@ -1,0 +1,423 @@
+[19964:19964:0609/004151.768840:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[19964:19964:0609/004151.773425:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[19964:19964:0609/004151.774937:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[19964:19964:0609/004151.775825:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[19964:19964:0609/004152.108692:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20042:20042:0609/004152.148590:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[19964:19964:0609/004152.163218:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[19964:19964:0609/004152.599797:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[19964:19964:0609/004153.700090:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[19964:19964:0609/004154.135406:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[19964:19964:0609/004154.637791:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[20309:20309:0609/004154.892556:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[19964:19964:0609/004231.542348:INFO:CONSOLE(1)] "Error reporting was initialized after being disabled, possibly dropping errors.", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[19964:19964:0609/004301.008423:INFO:CONSOLE(1)] "Missing config element # application_config", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[19964:19964:0609/004309.890942:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004309.892115:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004309.893383:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004309.893811:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004311.318222:INFO:CONSOLE(1)] "Missing config element # application_config", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[19964:19964:0609/004311.318300:INFO:CONSOLE(1)] "Missing config element # application_config", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[19964:19964:0609/004328.123873:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004328.689689:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004330.017493:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004331.107078:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004347.441208:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004351.660574:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004406.067336:INFO:CONSOLE(2)] "Unable to preventDefault inside passive event listener invocation.", source: https://steamloopback.host/libraries/libraries~00299a408.js (2)
+[19964:19964:0609/004517.468752:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3626, .bad_value = 29360166, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.469241:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3628, .bad_value = 29360171, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.469598:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3630, .bad_value = 29360175, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.469951:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3632, .bad_value = 29360179, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.470402:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3634, .bad_value = 29360183, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.470776:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3636, .bad_value = 29360187, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.471155:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3638, .bad_value = 29360191, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.471475:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3640, .bad_value = 29360195, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.471762:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3642, .bad_value = 29360199, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.472741:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3644, .bad_value = 29360203, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.473851:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3646, .bad_value = 29360207, .minor_opcode = 0, .major_opcode = 25}
+[19964:19964:0609/004517.474790:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3648, .bad_value = 29360211, .minor_opcode = 0, .major_opcode = 25}
+[21158:21158:0609/004519.313599:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[21158:21158:0609/004519.317782:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[21158:21158:0609/004519.318538:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[21158:21158:0609/004519.319264:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[19964:19964:0609/004519.401243:WARNING:process_singleton_posix.cc(665)] Not handling interprocess notification as browser is shutting down
+[21158:21158:0609/004519.401331:ERROR:process_singleton_posix.cc(338)] Failed to create /home/aprat/games/steam/config/htmlcache/SingletonLock: File exists (17)
+[19964:19964:0609/004519.401573:WARNING:process_singleton_posix.cc(665)] Not handling interprocess notification as browser is shutting down
+[21158:21158:0609/004519.401632:ERROR:chrome_main_delegate.cc(593)] Failed to create a ProcessSingleton for your profile directory. This means that running multiple instances would start multiple browser processes rather than opening a new window in the existing process. Aborting now to avoid profile corruption.
+[21158:21158:0609/004519.401764:ERROR:main_runner.cc(292)] ContentMainRun failed with exit code 21
+[21158:21158:0609/004519.438315:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[21158:21158:0609/004519.438359:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[21158:21158:0609/004519.438382:WARNING:task_impl.cc(46)] No task runner for threadId 0
+[19964:19964:0609/004522.515375:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21273:21273:0609/004529.319116:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[21273:21273:0609/004529.322745:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[21273:21273:0609/004529.323551:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[21273:21273:0609/004529.324261:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[21273:21273:0609/004529.616231:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21273:21273:0609/004529.659998:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[21324:21324:0609/004529.664987:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[21273:21273:0609/004529.896426:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[21273:21273:0609/004530.874246:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[21273:21273:0609/004531.465526:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[21273:21273:0609/004531.924900:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[21501:21501:0609/004532.031439:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[21273:21273:0609/004547.923164:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[21501:24013:0609/005555.540162:WARNING:sync_reader.cc(175)] ASR: No room in socket buffer.: Broken pipe (32)
+[21273:21273:0609/011308.214666:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11032, .bad_value = 29360166, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.216815:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11034, .bad_value = 29360171, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.217554:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11036, .bad_value = 29360175, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.218399:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11038, .bad_value = 29360179, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.218872:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11040, .bad_value = 29360183, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.219234:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11042, .bad_value = 29360187, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.219633:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11044, .bad_value = 29360191, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.219968:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11046, .bad_value = 29360195, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.220255:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11048, .bad_value = 29360199, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.220534:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11050, .bad_value = 29360203, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.220813:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11052, .bad_value = 29360207, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.221111:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11054, .bad_value = 29360211, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.221524:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11056, .bad_value = 29360229, .minor_opcode = 0, .major_opcode = 25}
+[21273:21273:0609/011308.221783:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 11058, .bad_value = 29360245, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/082848.021596:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[7213:7213:0609/082848.048126:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[7213:7213:0609/082848.081899:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[7213:7213:0609/082848.100271:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[7367:7367:0609/082850.054047:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[7213:7213:0609/082850.272541:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7213:7213:0609/082850.705447:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[7213:7213:0609/082851.390317:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[7213:7213:0609/082854.043014:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[7213:7213:0609/082854.685272:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[7213:7213:0609/082855.739510:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[7536:7536:0609/082855.968235:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[7536:9151:0609/083518.861393:WARNING:sync_reader.cc(175)] ASR: No room in socket buffer.: Broken pipe (32)
+[7536:9356:0609/083614.821824:WARNING:sync_reader.cc(175)] ASR: No room in socket buffer.: Broken pipe (32)
+[7213:7213:0609/083929.259736:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7079, .bad_value = 44040230, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.260411:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7081, .bad_value = 44040235, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.261350:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7083, .bad_value = 44040239, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.261849:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7085, .bad_value = 44040243, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.262425:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7087, .bad_value = 44040247, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.263002:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7089, .bad_value = 44040251, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.263706:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7091, .bad_value = 44040255, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.264274:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7093, .bad_value = 44040259, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.264827:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7095, .bad_value = 44040263, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.265439:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7097, .bad_value = 44040267, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.266009:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7099, .bad_value = 44040271, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083929.266546:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7101, .bad_value = 44040275, .minor_opcode = 0, .major_opcode = 25}
+[7213:7213:0609/083934.266386:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[12525:12525:0609/093737.226733:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[12525:12525:0609/093737.237047:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[12525:12525:0609/093737.239825:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[12525:12525:0609/093737.242276:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[12525:12525:0609/093737.738509:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12633:12633:0609/093737.768436:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[12525:12525:0609/093737.811563:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[12525:12525:0609/093738.152603:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[12525:12525:0609/093739.641468:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[12525:12525:0609/093740.241288:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[12525:12525:0609/093741.097452:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[12838:12838:0609/093741.350401:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[12525:12525:0609/100452.343201:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 1482, .bad_value = 39845894, .minor_opcode = 0, .major_opcode = 4}
+[12525:12525:0609/100452.427396:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 1502, .bad_value = 39845893, .minor_opcode = 0, .major_opcode = 25}
+[12525:12525:0609/100457.438215:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[13972:13972:0609/100534.786491:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[13972:13972:0609/100534.793559:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[13972:13972:0609/100534.795107:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[13972:13972:0609/100534.796663:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[13972:13972:0609/100535.185757:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14071:14071:0609/100535.242629:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[13972:13972:0609/100535.256064:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[13972:13972:0609/100535.645020:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[13972:13972:0609/100537.146509:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[13972:13972:0609/100537.588337:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[13972:13972:0609/100538.612758:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[14282:14282:0609/100538.790041:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[13972:13972:0609/100550.063440:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[14282:14293:0609/100551.905433:WARNING:sync_reader.cc(175)] ASR: No room in socket buffer.: Broken pipe (32)
+[13972:13972:0609/100624.403742:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[13972:13972:0609/100634.554613:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 2481, .bad_value = 29360134, .minor_opcode = 0, .major_opcode = 4}
+[13972:13972:0609/100634.572991:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 2483, .bad_value = 29360133, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/100642.993478:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[14927:14927:0609/100642.998529:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[14927:14927:0609/100642.999909:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[14927:14927:0609/100643.001276:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[14927:14927:0609/100643.357533:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15002:15002:0609/100643.416542:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[14927:14927:0609/100643.430544:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[14927:14927:0609/100643.971913:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[14927:14927:0609/100645.566045:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[14927:14927:0609/100646.065374:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[14927:14927:0609/100647.072246:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[15248:15248:0609/100647.358115:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[14927:14927:0609/100656.690229:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[14927:14927:0609/101024.617222:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3066, .bad_value = 29360150, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/101024.619225:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3068, .bad_value = 29360152, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/101024.634235:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3090, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.635102:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3092, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.635341:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3093, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.635562:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3094, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.635783:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3096, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.635896:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3097, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.636170:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3098, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.636297:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3100, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.636496:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3101, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.636661:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3102, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.637088:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3104, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.637150:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 3105, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101024.714529:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 3106, .bad_value = 29360154, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/101024.727930:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=8704
+[14927:14927:0609/101024.727994:WARNING:gpu_process_host.cc(1436)] The GPU process has crashed 1 time(s)
+[14927:14927:0609/101024.920571:WARNING:gpu_process_host.cc(1024)] Reinitialized the GPU process after a crash. The reported initialization time was 185 ms
+[14927:14927:0609/101040.923350:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4043, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101040.923530:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4045, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101040.923552:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4046, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101040.959808:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4060, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101040.959922:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4062, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101040.959936:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4063, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101040.996569:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4076, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101040.996844:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4078, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101040.996926:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4079, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101041.058244:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4092, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101041.058523:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4094, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101041.058599:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4095, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101041.063237:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4108, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101041.063405:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4110, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101041.063454:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4111, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101041.207329:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4124, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101041.207597:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4126, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101041.207661:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4127, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101046.928845:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4187, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101046.928972:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4189, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101046.928994:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4190, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.028602:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4203, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.030641:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4205, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.030815:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4206, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.285799:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4219, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.285942:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4221, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.286129:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4222, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.353652:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4235, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.353814:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4237, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.353839:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4238, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.425956:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4251, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.426141:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4253, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101047.426167:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4254, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101048.157409:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4267, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101048.157535:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4269, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/101048.157550:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4270, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.067852:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4330, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.068016:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4332, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.068043:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4333, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.082897:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4346, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.083019:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4348, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.083117:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4349, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.152577:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4363, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.152673:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4365, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.152687:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4366, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.240230:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4379, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.240690:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4381, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102340.240927:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4382, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.053372:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4446, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.053774:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4448, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.053969:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4449, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.159198:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4462, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.159353:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4464, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.159375:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4465, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.168197:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4478, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.168324:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4480, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.168346:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4481, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.190907:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4494, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.191036:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4496, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.191053:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4497, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.346973:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4510, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.348195:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4512, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.348315:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4513, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.370527:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4526, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.371004:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4528, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.371079:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4529, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.875428:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4542, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.875709:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4544, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.875783:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4545, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.918824:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4558, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.919126:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4560, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102357.919171:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4561, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102358.841529:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4586, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102358.841747:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4588, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102358.841818:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4589, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102358.971739:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4602, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102358.971841:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4604, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102358.971855:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4605, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.728198:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4624, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.728307:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4626, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.728393:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4627, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.770740:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4640, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.771393:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4642, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.771584:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4643, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.787905:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4656, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.788175:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4658, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.788265:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4659, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.861838:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4676, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.863508:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4678, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.863725:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4679, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.975098:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4696, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.975297:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4698, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.975350:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4699, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.987066:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4712, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.987229:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4714, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102400.987286:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4715, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102401.092202:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4728, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102401.092303:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4730, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102401.092317:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4731, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102401.454156:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4767, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102401.454264:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4769, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102401.454320:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4770, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102401.588417:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4787, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102401.588619:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4789, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102401.588746:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4790, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.359406:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4804, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.359633:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4806, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.359704:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4807, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.362373:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4820, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.362417:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4822, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.362432:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4823, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.847600:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4850, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.847784:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4852, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.847835:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4853, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.858403:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4866, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.858587:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4868, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102402.858652:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4869, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.039785:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4940, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.040464:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4942, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.040538:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4943, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.044163:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4961, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.044304:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4963, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.044394:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4964, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.052108:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4990, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.052540:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4992, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.052584:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 4993, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.259552:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5016, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.259639:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5018, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.259661:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5019, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.260994:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5033, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.261047:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5035, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.261066:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5036, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.263731:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5050, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.263809:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5052, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.263832:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5053, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.298014:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5067, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.298560:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5069, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102403.298647:WARNING:connection.cc(56)] X error received.  Request: ChangeWindowAttributesRequest, Error: WindowError{.sequence = 5070, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 2}
+[14927:14927:0609/102404.272679:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5092, .bad_value = 29360217, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.272919:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5094, .bad_value = 29360167, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.273184:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5096, .bad_value = 29360213, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.273392:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5098, .bad_value = 29360209, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.273661:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5100, .bad_value = 29360205, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.273870:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5102, .bad_value = 29360201, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.274076:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5104, .bad_value = 29360197, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.274287:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5106, .bad_value = 29360193, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.274495:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5108, .bad_value = 29360189, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.275013:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5110, .bad_value = 29360185, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.275274:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5112, .bad_value = 29360181, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.275597:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5114, .bad_value = 29360177, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.276064:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5116, .bad_value = 29360173, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.276664:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5120, .bad_value = 29360151, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.276948:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5122, .bad_value = 29360155, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.277163:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 5124, .bad_value = 29360153, .minor_opcode = 0, .major_opcode = 4}
+[14927:14927:0609/102404.289893:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5126, .bad_value = 29360166, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.290511:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5128, .bad_value = 29360171, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.291398:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5132, .bad_value = 29360175, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.292091:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5134, .bad_value = 29360179, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.292613:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5136, .bad_value = 29360183, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.293091:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5138, .bad_value = 29360187, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.293549:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5140, .bad_value = 29360191, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.294358:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5142, .bad_value = 29360195, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.295026:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5144, .bad_value = 29360199, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.295751:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5146, .bad_value = 29360203, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.296857:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5148, .bad_value = 29360207, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.297308:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5150, .bad_value = 29360211, .minor_opcode = 0, .major_opcode = 25}
+[14927:14927:0609/102404.297794:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5152, .bad_value = 29360215, .minor_opcode = 0, .major_opcode = 25}
+[17707:17707:0609/102423.542393:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[17707:17707:0609/102423.550592:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[17707:17707:0609/102423.552190:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[17707:17707:0609/102423.553584:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[17707:17707:0609/102423.915135:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17782:17782:0609/102423.950345:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[17707:17707:0609/102423.988978:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[17707:17707:0609/102424.458473:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[17707:17707:0609/102425.825165:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[17707:17707:0609/102426.408285:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[17707:17707:0609/102427.404501:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[18012:18012:0609/102427.652362:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[17707:17707:0609/102824.955041:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 1655, .bad_value = 29360134, .minor_opcode = 0, .major_opcode = 4}
+[17707:17707:0609/102825.035361:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 1669, .bad_value = 29360133, .minor_opcode = 0, .major_opcode = 25}
+[17707:17707:0609/102830.079316:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19541:19541:0609/112234.584816:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[19541:19541:0609/112234.591427:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[19541:19541:0609/112234.592862:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[19541:19541:0609/112234.594204:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[19541:19541:0609/112234.959426:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19621:19621:0609/112235.017916:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[19541:19541:0609/112235.026407:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[19541:19541:0609/112235.473548:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[19541:19541:0609/112236.968545:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[19541:19541:0609/112237.568207:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[19541:19541:0609/112238.515849:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[19856:19856:0609/112238.704238:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[19856:19864:0609/112253.733899:WARNING:sync_reader.cc(175)] ASR: No room in socket buffer.: Broken pipe (32)
+[19541:19541:0609/113136.291035:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 1927, .bad_value = 29360134, .minor_opcode = 0, .major_opcode = 4}
+[19541:19541:0609/113136.368643:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 1947, .bad_value = 29360133, .minor_opcode = 0, .major_opcode = 25}
+[19541:19541:0609/113141.425526:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[24316:24316:0609/120648.181443:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[24316:24316:0609/120648.190090:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[24316:24316:0609/120648.195269:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[24316:24316:0609/120648.197868:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[24316:24316:0609/120648.630499:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24412:24412:0609/120648.679917:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[24316:24316:0609/120648.704047:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[24316:24316:0609/120649.058753:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[24316:24316:0609/120650.494745:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[24316:24316:0609/120651.076193:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[24316:24316:0609/120651.923138:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[24627:24627:0609/120652.116186:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[24316:24316:0609/120713.241108:INFO:CONSOLE(0)] "Uncaught (in promise) AbortError: The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22", source: https://store.steampowered.com/ (0)
+[24316:24316:0609/120713.241289:INFO:CONSOLE(0)] "Uncaught (in promise) AbortError: The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22", source: https://store.steampowered.com/ (0)
+[24627:24722:0609/120721.701111:WARNING:sync_reader.cc(175)] ASR: No room in socket buffer.: Broken pipe (32)
+[24316:24316:0609/122046.376242:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5064, .bad_value = 18874401, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.378209:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5066, .bad_value = 18874406, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.378800:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5068, .bad_value = 18874410, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.379411:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5070, .bad_value = 18874414, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.380142:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5072, .bad_value = 18874418, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.380749:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5074, .bad_value = 18874422, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.381293:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5076, .bad_value = 18874426, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.382080:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5078, .bad_value = 18874430, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.382601:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5080, .bad_value = 18874434, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.383420:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5082, .bad_value = 18874438, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.384120:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5084, .bad_value = 18874442, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122046.384975:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 5086, .bad_value = 18874446, .minor_opcode = 0, .major_opcode = 25}
+[24316:24316:0609/122051.405476:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[29218:29218:0609/124334.078818:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[29218:29218:0609/124334.083136:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[29218:29218:0609/124334.090979:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[29218:29218:0609/124334.093187:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[29218:29218:0609/124334.604872:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29336:29336:0609/124334.642558:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[29218:29218:0609/124334.732458:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[29218:29218:0609/124335.054344:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[29218:29218:0609/124336.877696:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[29218:29218:0609/124337.660352:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[29218:29218:0609/124338.809928:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[29540:29540:0609/124339.198949:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[29218:29218:0609/124801.562642:WARNING:connection.cc(56)] X error received.  Request: DestroyWindowRequest, Error: WindowError{.sequence = 1103, .bad_value = 29360134, .minor_opcode = 0, .major_opcode = 4}
+[29218:29218:0609/124801.699426:WARNING:connection.cc(56)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 1117, .bad_value = 29360133, .minor_opcode = 0, .major_opcode = 25}
+[29218:29218:0609/124806.715431:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30494:30494:0609/124942.145951:WARNING:chrome_main_delegate.cc(748)] This is Chrome version 126.0.6478.183 (not a warning)
+[30494:30494:0609/124942.150385:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: browser
+[30494:30494:0609/124942.155121:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[30494:30494:0609/124942.157142:WARNING:task_impl.cc(31)] No task runner for threadId 0
+[30494:30494:0609/124942.628002:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30584:30584:0609/124942.707134:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility
+[30494:30494:0609/124942.751423:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[30494:30494:0609/124943.272481:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[30494:30494:0609/124945.243071:INFO:CONSOLE(1)] "failed to query current OS branch", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=a0eaefd4b8652036f849 (1)
+[30494:30494:0609/124945.832999:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+[30494:30494:0609/124946.840880:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[30823:30823:0609/124947.259298:INFO:crash_reporting.cc(238)] Crash reporting enabled for process: utility

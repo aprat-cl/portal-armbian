@@ -1,0 +1,311 @@
+
+
+[2026-06-09 00:41:52] Client version: 1780352834
+[2026-06-09 00:41:52] Shader manager disabled by commandline
+[2026-06-09 00:42:31] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 00:42:31] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 00:42:31] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 00:42:31] Error: YieldingRunTestProgram: process exit code 127:  '/home/aprat/games/steam/steamapps/common/Proton 11.0 (ARM64)'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe
+[2026-06-09 00:42:31] Unknown shader cache type, ignoring.
+[2026-06-09 00:42:31] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 00:42:31] Error: YieldingRunTestProgram: process exit code 127:  '/home/aprat/games/steam/steamapps/common/Proton 11.0 (ARM64)'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 00:42:31] Unknown shader cache type, ignoring.
+[2026-06-09 00:42:32] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 00:42:46] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 00:42:46] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 00:42:46] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 00:42:46] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 00:42:50] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 00:42:50] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 00:42:50] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 00:42:50] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+
+
+[2026-06-09 00:45:19] Client version: 1780352834
+[2026-06-09 00:45:19] Shader manager disabled by commandline
+[2026-06-09 00:45:33] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 00:45:33] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 00:45:33] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 00:45:33] Error: YieldingRunTestProgram: process exit code 127:  '/home/aprat/games/steam/steamapps/common/Proton 11.0 (ARM64)'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe
+[2026-06-09 00:45:33] Unknown shader cache type, ignoring.
+[2026-06-09 00:45:33] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 00:45:33] Error: YieldingRunTestProgram: process exit code 127:  '/home/aprat/games/steam/steamapps/common/Proton 11.0 (ARM64)'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 00:45:33] Unknown shader cache type, ignoring.
+[2026-06-09 00:45:34] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 00:45:37] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 00:45:37] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 00:45:37] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 00:45:38] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 00:45:41] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 00:45:41] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 00:45:41] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 00:45:41] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 01:06:11] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 01:06:11] Attempting to find current bucket (compat tool: 'proton_10'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 01:06:11] Error: YieldingRunTestProgram: process exit code 126:  '/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/aprat/games/steam/steamapps/common/Proton 10.0'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe
+[2026-06-09 01:06:11] Unknown shader cache type, ignoring.
+[2026-06-09 01:06:12] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 01:06:12] Attempting to find current bucket (compat tool: 'proton_10'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 01:06:12] Error: YieldingRunTestProgram: process exit code 126:  '/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/aprat/games/steam/steamapps/common/Proton 10.0'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 01:06:12] Unknown shader cache type, ignoring.
+
+
+[2026-06-09 08:28:47] Client version: 1780352834
+[2026-06-09 08:28:47] Shader manager disabled by commandline
+[2026-06-09 08:28:47] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 08:28:57] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 08:28:57] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 08:28:57] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 08:28:57] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 08:29:56] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 08:29:56] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 08:29:56] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 08:29:56] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 08:30:00] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/steamapps/common/Proton 11.0 (ARM64)'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 08:30:00] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 08:30:00] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.163cf7f04aa4df27/steamapprun_pipeline_cache.bfb75924bc4d3fde.1.foz
+[2026-06-09 08:30:00] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.163cf7f04aa4df27/steamapp_pipeline_cache.foz
+[2026-06-09 08:30:01] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 08:30:45] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 08:30:45] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 08:30:47] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 08:30:47] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 08:30:53] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 08:30:53] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 08:30:53] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 08:30:53] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+
+
+[2026-06-09 09:37:37] Client version: 1780352834
+[2026-06-09 09:37:37] Shader manager disabled by commandline
+[2026-06-09 09:37:37] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 09:37:42] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 09:37:42] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 09:37:42] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 09:37:42] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 09:37:48] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 09:37:48] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 09:37:48] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 09:37:49] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 09:37:53] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 09:37:53] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 09:37:53] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 09:37:53] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 09:37:54] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 09:37:57] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 09:37:57] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 09:37:57] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 09:37:58] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 09:38:02] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 09:38:02] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 09:38:02] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 09:38:02] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+
+
+[2026-06-09 10:05:34] Client version: 1780352834
+[2026-06-09 10:05:34] Shader manager disabled by commandline
+[2026-06-09 10:05:34] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 10:05:40] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 10:05:40] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 10:05:40] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 10:05:40] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 10:05:45] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 10:05:45] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 10:05:45] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 10:05:46] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 10:05:50] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 10:05:50] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 10:05:50] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 10:05:50] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 10:05:51] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 10:05:54] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 10:05:54] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 10:05:54] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 10:05:55] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 10:05:58] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 10:05:58] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 10:05:58] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 10:05:58] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+
+
+[2026-06-09 10:06:43] Client version: 0
+[2026-06-09 10:06:43] Shader manager disabled by commandline
+[2026-06-09 10:06:43] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 10:06:48] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 10:06:48] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 10:06:48] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 10:06:48] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 10:06:53] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 10:06:53] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 10:06:53] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 10:06:54] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 10:06:58] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 10:06:58] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 10:06:58] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 10:06:58] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 10:06:59] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 10:07:02] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 10:07:02] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 10:07:02] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 10:07:03] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 10:07:07] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 10:07:07] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 10:07:07] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 10:07:07] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] Shader manager disabled by commandline
+[2026-06-09 10:24:23] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 10:24:28] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 10:24:28] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 10:24:28] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 10:24:28] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 10:24:34] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 10:24:34] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 10:24:34] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 10:24:34] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 10:24:39] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 10:24:39] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 10:24:39] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 10:24:39] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 10:24:39] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 10:24:43] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 10:24:43] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 10:24:43] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 10:24:43] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 10:24:47] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 10:24:47] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 10:24:47] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 10:24:47] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] Shader manager disabled by commandline
+[2026-06-09 11:22:34] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 11:22:39] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 11:22:39] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 11:22:39] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 11:22:39] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 11:22:45] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 11:22:45] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 11:22:45] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 11:22:45] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 11:22:50] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 11:22:50] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 11:22:50] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 11:22:50] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 11:22:50] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 11:22:54] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 11:22:54] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 11:22:54] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 11:22:55] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 11:22:59] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 11:22:59] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 11:22:59] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 11:22:59] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 11:24:14] CGetCompatToolBucketJob for proton_experimental starting.
+[2026-06-09 11:24:14] Attempting to find current bucket (compat tool: 'proton_experimental'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 11:24:15] CGetCompatToolBucketJob for proton_experimental starting.
+[2026-06-09 11:24:15] CGetCompatToolBucketJob for proton_experimental starting.
+[2026-06-09 11:25:04] Error: YieldingRunTestProgram: process exit code 252:  '/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_4'/_v2-entry-point --verb=run -- '/home/aprat/games/steam/steamapps/common/Proton - Experimental'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe
+[2026-06-09 11:25:04] Unknown shader cache type, ignoring.
+[2026-06-09 11:25:05] Attempting to find current bucket (compat tool: 'proton_experimental'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 11:25:20] Error: YieldingRunTestProgram: process exit code 252:  '/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_4'/_v2-entry-point --verb=run -- '/home/aprat/games/steam/steamapps/common/Proton - Experimental'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 11:25:20] Unknown shader cache type, ignoring.
+
+
+[2026-06-09 11:36:06] Client version: 1780352834
+[2026-06-09 11:36:06] Shader manager disabled by commandline
+[2026-06-09 11:36:06] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 11:36:06] Compat tool 1493710 at build ID 23472889 has computed cached buckets: none
+
+
+[2026-06-09 11:36:55] Client version: 1780352834
+[2026-06-09 11:36:55] Shader manager disabled by commandline
+[2026-06-09 11:36:55] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 11:36:55] Compat tool 1493710 at build ID 23472889 has computed cached buckets: none
+
+
+[2026-06-09 12:06:48] Client version: 1780352834
+[2026-06-09 12:06:48] Shader manager disabled by commandline
+[2026-06-09 12:06:48] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 12:06:48] Compat tool 1493710 at build ID 23472889 has computed cached buckets: none
+[2026-06-09 12:06:53] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 12:06:53] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 12:06:53] CGetCompatToolBucketJob for proton_experimental starting.
+[2026-06-09 12:06:53] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 12:06:53] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 12:07:06] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 12:07:06] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 12:07:06] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 12:07:06] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 12:07:11] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 12:07:11] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 12:07:11] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 12:07:11] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 12:07:12] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 12:07:16] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 12:07:16] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 12:07:16] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 12:07:17] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 12:07:21] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 12:07:21] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 12:07:21] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 12:07:21] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+
+
+[2026-06-09 12:43:34] Client version: 1780352834
+[2026-06-09 12:43:34] Shader manager disabled by commandline
+[2026-06-09 12:43:34] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 12:43:34] Compat tool 1493710 at build ID 23472889 has computed cached buckets: none
+[2026-06-09 12:43:40] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 12:43:40] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 12:43:40] CGetCompatToolBucketJob for proton_experimental starting.
+[2026-06-09 12:43:40] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 12:43:40] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 12:43:51] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 12:43:51] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 12:43:51] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 12:43:52] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 12:43:57] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 12:43:57] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 12:43:57] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 12:43:57] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 12:43:58] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 12:44:03] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 12:44:03] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 12:44:03] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 12:44:04] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 12:44:09] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 12:44:09] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 12:44:09] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 12:44:09] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+
+
+[2026-06-09 12:49:42] Client version: 1780352834
+[2026-06-09 12:49:42] Shader manager disabled by commandline
+[2026-06-09 12:49:42] Compat tool 3658110 at build ID 21617411 has computed cached buckets: none
+[2026-06-09 12:49:42] Compat tool 1493710 at build ID 23472889 has computed cached buckets: none
+[2026-06-09 12:49:48] CGetCompatToolBucketJob for proton11_arm64 starting.
+[2026-06-09 12:49:48] CGetCompatToolBucketJob for proton-cachyos-11.0-20260521-slr-arm64 starting.
+[2026-06-09 12:49:48] CGetCompatToolBucketJob for proton_experimental starting.
+[2026-06-09 12:49:48] CGetCompatToolBucketJob for proton_10 starting.
+[2026-06-09 12:49:48] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 12:49:55] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 12:49:55] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 12:49:55] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 12:49:55] Attempting to find current bucket (compat tool: 'proton11_arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 12:50:02] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 12:50:02] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 12:50:02] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 12:50:02] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz
+[2026-06-09 12:50:02] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64
+[2026-06-09 12:50:08] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6.
+[2026-06-09 12:50:08] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapprun_pipeline_cache.670a89d9576192e4.1.foz
+[2026-06-09 12:50:08] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d11_64/fozpipelinesv6/steamapprun_pipeline_cache.eb3c3503f5dca012/steamapp_pipeline_cache.foz
+[2026-06-09 12:50:09] Attempting to find current bucket (compat tool: 'proton-cachyos-11.0-20260521-slr-arm64'); temporary dir: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64
+[2026-06-09 12:50:15] Error: YieldingRunTestProgram: process exit code 1:  '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton run  /home/aprat/games/steam/steamrtarm64/../bin/d3ddriverquery64.exe -d3d12
+[2026-06-09 12:50:15] Finding FOZ pipeline cache files for archive version 6, base directory: /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6.
+[2026-06-09 12:50:15] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapprun_pipeline_cache.2b9da37272869e5d.1.foz
+[2026-06-09 12:50:15] Processing FOZ cache file at /home/aprat/games/steam/shader_cache_temp_dir_d3d12_64/fozpipelinesv6/steamapprun_pipeline_cache.0e7a96f046813ac4/steamapp_pipeline_cache.foz

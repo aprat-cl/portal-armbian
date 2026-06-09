@@ -1,0 +1,181 @@
+
+
+[2026-06-09 00:41:54] Client version: 1780352834
+[2026-06-09 00:41:54] [ None ] SetLoginState: WaitingForCredentials - OK
+[2026-06-09 00:41:55] [ WaitingForCredentials ] UI Request: connect
+[2026-06-09 00:42:24] [ WaitingForCredentials ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 00:42:24] [ WaitingForServerResponse ] Starting login
+[2026-06-09 00:42:24] [ WaitingForServerResponse ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 00:42:24] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 00:42:24] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 00:42:24] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 00:42:24] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 00:42:24] [ WaitingForLibraryReady ] Resolve login request: OK - Success
+[2026-06-09 00:42:24] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 00:42:25] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=0,I=0,CM=0
+[2026-06-09 00:42:26] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=1,R=0,C=0,I=0,CM=0
+[2026-06-09 00:42:30] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 00:42:30] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 00:42:31] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 00:42:31] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 00:42:31] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 00:45:31] Client version: 1780352834
+[2026-06-09 00:45:31] [ None ] Starting login
+[2026-06-09 00:45:31] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 00:45:31] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 00:45:31] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 00:45:32] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 00:45:32] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 00:45:32] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 00:45:32] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 00:45:33] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 00:45:33] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 00:45:33] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 00:45:33] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 00:45:33] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 08:28:55] Client version: 1780352834
+[2026-06-09 08:28:55] [ None ] Starting login
+[2026-06-09 08:28:55] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 08:28:55] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 08:28:55] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 08:28:56] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 08:28:56] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 08:28:56] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 08:28:56] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 08:28:56] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 08:28:56] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 08:28:56] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 08:28:57] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 08:28:57] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 09:37:40] Client version: 1780352834
+[2026-06-09 09:37:40] [ None ] Starting login
+[2026-06-09 09:37:40] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 09:37:40] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 09:37:40] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 09:37:41] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 09:37:41] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 09:37:41] [ WaitingForLibraryReady ] Received post-logon callback: L=1,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 09:37:41] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 09:37:41] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 09:37:41] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 09:37:42] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 09:37:42] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 09:37:42] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 10:05:38] Client version: 1780352834
+[2026-06-09 10:05:38] [ None ] Starting login
+[2026-06-09 10:05:38] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 10:05:38] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 10:05:38] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 10:05:39] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 10:05:39] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 10:05:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 10:05:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 10:05:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 10:05:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 10:05:40] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 10:05:40] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 10:05:40] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 10:06:46] Client version: 0
+[2026-06-09 10:06:46] [ None ] Starting login
+[2026-06-09 10:06:46] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 10:06:46] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 10:06:46] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 10:06:47] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 10:06:47] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 10:06:47] [ WaitingForLibraryReady ] Received post-logon callback: L=1,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 10:06:47] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 10:06:48] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 10:06:48] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 10:06:48] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 10:06:48] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 10:06:48] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 10:24:26] Client version: 0
+[2026-06-09 10:24:26] [ None ] Starting login
+[2026-06-09 10:24:26] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 10:24:27] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 10:24:27] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 10:24:28] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 10:24:28] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 10:24:28] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 10:24:28] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 10:24:28] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 10:24:28] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 10:24:28] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 10:24:29] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 10:24:29] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 11:22:38] Client version: 0
+[2026-06-09 11:22:38] [ None ] Starting login
+[2026-06-09 11:22:38] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 11:22:38] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 11:22:38] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 11:22:38] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 11:22:38] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 11:22:38] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 11:22:38] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 11:22:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 11:22:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 11:22:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 11:22:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 11:22:39] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 12:06:51] Client version: 1780352834
+[2026-06-09 12:06:51] [ None ] Starting login
+[2026-06-09 12:06:51] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 12:06:51] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 12:06:51] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 12:06:52] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 12:06:52] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 12:06:52] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 12:06:52] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 12:06:52] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 12:06:52] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 12:06:53] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 12:06:53] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 12:06:53] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 12:43:38] Client version: 1780352834
+[2026-06-09 12:43:38] [ None ] Starting login
+[2026-06-09 12:43:38] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 12:43:38] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 12:43:38] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 12:43:39] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 12:43:39] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 12:43:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 12:43:39] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 12:43:40] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 12:43:40] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 12:43:40] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 12:43:40] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 12:43:40] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2026-06-09 12:49:46] Client version: 1780352834
+[2026-06-09 12:49:46] [ None ] Starting login
+[2026-06-09 12:49:46] [ None ] SetLoginState: WaitingForNetwork - OK
+[2026-06-09 12:49:46] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2026-06-09 12:49:46] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2026-06-09 12:49:47] [ WaitingForServerResponse ] Received logon success response
+[2026-06-09 12:49:47] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2026-06-09 12:49:47] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=1,A=1,R=0,C=1,I=0,CM=0
+[2026-06-09 12:49:47] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=1,I=0,CM=0
+[2026-06-09 12:49:48] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 12:49:48] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=1,C=0,I=0,CM=0
+[2026-06-09 12:49:48] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=1
+[2026-06-09 12:49:48] [ WaitingForLibraryReady ] Received post-logon callback: L=0,P=0,A=0,R=0,C=0,I=0,CM=0
+[2026-06-09 12:49:48] [ WaitingForLibraryReady ] SetLoginState: Success - OK

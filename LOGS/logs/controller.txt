@@ -1,0 +1,1168 @@
+
+
+[2026-06-09 00:41:53] Client version: 1780352834
+[2026-06-09 00:41:53] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 00:41:53]   Manufacturer: 
+[2026-06-09 00:41:53]   Product:      AYN Odin2 Gamepad
+[2026-06-09 00:41:53]   Release:      1
+[2026-06-09 00:41:53]   Interface:    -1
+
+[2026-06-09 00:41:53] !! Steam controller device opened for index 0.
+[2026-06-09 00:41:53] Steam Controller reserving XInput slot 0
+[2026-06-09 00:41:53] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 00:41:53] Controller PollState Changed from 0 to 1
+[2026-06-09 00:41:53] Add to Config Cache Request 0 769
+[2026-06-09 00:41:53] Controller 0 mapping uses xinput : false
+[2026-06-09 00:41:53] Add to Config Cache Request 4294967295 769
+[2026-06-09 00:41:53] Add to Config Cache Request 0 769
+[2026-06-09 00:41:53] Controller 0 mapping uses xinput : false
+[2026-06-09 00:41:53] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 00:41:53] Add to Config Cache Request 0 769
+[2026-06-09 00:41:53] Controller 0 mapping uses xinput : false
+[2026-06-09 00:41:53] Controller 0 mapping uses xinput : false
+[2026-06-09 00:41:53] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:41:53] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:41:53] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:41:53] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 00:41:53] Controller PollState Changed from 1 to 2
+[2026-06-09 00:41:53] Touchscreen DefaultMode 4
+[2026-06-09 00:41:54] Add to Config Cache Request 0 769
+[2026-06-09 00:41:54] Controller 0 mapping uses xinput : false
+[2026-06-09 00:41:54] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:41:54] Add to Config Cache Request 4294967295 769
+[2026-06-09 00:41:54] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 00:41:54] Add to Config Cache Request 0 769
+[2026-06-09 00:41:54] Controller 0 mapping uses xinput : false
+[2026-06-09 00:41:54] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:24] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 00:42:24] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 00:42:31] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 00:42:31] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 00:42:31] BYieldingMarkControllerConfigsInUse
+[2026-06-09 00:42:31] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 00:42:31] ConfigSet - failed to find config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 00:42:31] ConfigSet - failed to find config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 00:42:31] Set Account Config Sets 0 0 0
+[2026-06-09 00:42:31] CClientJobFetchPersonalizationFileID - Writing out initial AutoCloud value
+[2026-06-09 00:42:31] Saving personalization
+[2026-06-09 00:42:31] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 00:42:31] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 00:42:31] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 00:42:31] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 00:42:31] Set Account Config Sets 0 0 0
+[2026-06-09 00:42:31] Set Account Config Sets 0 0 0
+[2026-06-09 00:42:31] Set Account Config Sets 0 0 0
+[2026-06-09 00:42:31] Add to Config Cache Request 0 769
+[2026-06-09 00:42:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:31] Add to Config Cache Request 4294967295 769
+[2026-06-09 00:42:31] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 00:42:31] Add to Config Cache Request 0 769
+[2026-06-09 00:42:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:31] Add to Config Cache Request 0 769
+[2026-06-09 00:42:31] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:42:31] Add to Config Cache Request 0 769
+[2026-06-09 00:42:31] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:42:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:31] Add to Config Cache Request 0 769
+[2026-06-09 00:42:31] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:42:31] Add to Config Cache Request 0 769
+[2026-06-09 00:42:31] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:42:31] Add to Config Cache Request 0 769
+[2026-06-09 00:42:31] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:42:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:31] Add to Config Cache Request 0 769
+[2026-06-09 00:42:31] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:42:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:33] Opted-in Controller Mask for AppId 678960: 100f
+[2026-06-09 00:42:33] Opted-in Controller Mask for AppId 1649240: 100f
+[2026-06-09 00:42:52] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 00:42:52] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 00:42:52] Set Account Config Sets 0 0 0
+[2026-06-09 00:42:52] Set Account Config Sets 0 0 0
+[2026-06-09 00:42:52] Add to Config Cache Request 0 769
+[2026-06-09 00:42:52] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:42:52] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:52] Add to Config Cache Request 0 769
+[2026-06-09 00:42:52] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:42:52] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:42:52] Add to Config Cache Request 0 769
+[2026-06-09 00:42:52] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:42:52] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:43:00] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 00:43:09] Opted-in Controller Mask for AppId 1284190: 100f
+[2026-06-09 00:43:10] Opted-in Controller Mask for AppId 233860: 100f
+[2026-06-09 00:43:10] Opted-in Controller Mask for AppId 275850: ffff
+[2026-06-09 00:43:12] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 00:43:47] Opted-in Controller Mask for AppId 948740: ffff
+[2026-06-09 00:44:11] Opted-in Controller Mask for AppId 413080: 100f
+[2026-06-09 00:44:18] Opted-in Controller Mask for AppId 49520: 100f
+
+
+[2026-06-09 00:45:20] Client version: 1780352834
+[2026-06-09 00:45:20] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 00:45:20]   Manufacturer: 
+[2026-06-09 00:45:20]   Product:      AYN Odin2 Gamepad
+[2026-06-09 00:45:20]   Release:      1
+[2026-06-09 00:45:20]   Interface:    -1
+
+[2026-06-09 00:45:20] !! Steam controller device opened for index 0.
+[2026-06-09 00:45:20] Steam Controller reserving XInput slot 0
+[2026-06-09 00:45:20] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 00:45:21] Controller PollState Changed from 0 to 1
+[2026-06-09 00:45:21] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 00:45:29] Add to Config Cache Request 0 769
+[2026-06-09 00:45:29] Controller 0 mapping uses xinput : false
+[2026-06-09 00:45:29] Add to Config Cache Request 4294967295 769
+[2026-06-09 00:45:29] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 00:45:29] Add to Config Cache Request 0 769
+[2026-06-09 00:45:29] Controller 0 mapping uses xinput : false
+[2026-06-09 00:45:29] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:29] Add to Config Cache Request 0 769
+[2026-06-09 00:45:29] Controller 0 mapping uses xinput : false
+[2026-06-09 00:45:29] Controller 0 mapping uses xinput : false
+[2026-06-09 00:45:29] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:45:29] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:29] Controller PollState Changed from 1 to 2
+[2026-06-09 00:45:29] Touchscreen DefaultMode 4
+[2026-06-09 00:45:31] Add to Config Cache Request 0 769
+[2026-06-09 00:45:31] Controller 0 mapping uses xinput : false
+[2026-06-09 00:45:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:31] Add to Config Cache Request 4294967295 769
+[2026-06-09 00:45:31] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 00:45:31] Add to Config Cache Request 0 769
+[2026-06-09 00:45:31] Controller 0 mapping uses xinput : false
+[2026-06-09 00:45:31] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:31] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 00:45:32] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 00:45:33] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 00:45:33] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 00:45:33] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 00:45:33] BYieldingMarkControllerConfigsInUse
+[2026-06-09 00:45:33] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 00:45:33] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 00:45:33] Set Account Config Sets 0 0 0
+[2026-06-09 00:45:33] Set Account Config Sets 0 0 0
+[2026-06-09 00:45:33] Set Account Config Sets 0 0 0
+[2026-06-09 00:45:33] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 00:45:33] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 00:45:33] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 00:45:33] Add to Config Cache Request 0 769
+[2026-06-09 00:45:33] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:33] Add to Config Cache Request 4294967295 769
+[2026-06-09 00:45:33] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 00:45:33] Add to Config Cache Request 0 769
+[2026-06-09 00:45:33] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:33] Add to Config Cache Request 0 769
+[2026-06-09 00:45:33] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:45:33] Add to Config Cache Request 0 769
+[2026-06-09 00:45:33] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:45:33] Add to Config Cache Request 0 769
+[2026-06-09 00:45:33] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:45:33] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:33] Add to Config Cache Request 0 769
+[2026-06-09 00:45:33] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:45:33] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:33] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:33] Add to Config Cache Request 0 769
+[2026-06-09 00:45:33] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:45:33] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:33] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:34] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 00:45:34] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 00:45:34] Set Account Config Sets 0 0 0
+[2026-06-09 00:45:34] Set Account Config Sets 0 0 0
+[2026-06-09 00:45:34] Add to Config Cache Request 0 769
+[2026-06-09 00:45:34] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:45:34] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:34] Add to Config Cache Request 0 769
+[2026-06-09 00:45:34] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:45:34] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:34] Add to Config Cache Request 0 769
+[2026-06-09 00:45:34] Queueing activation for controller: 0 app: 769
+[2026-06-09 00:45:34] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 00:45:34] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 00:45:34] Opted-in Controller Mask for AppId 1284190: 100f
+[2026-06-09 00:45:55] Opted-in Controller Mask for AppId 413080: 100f
+[2026-06-09 00:46:00] Opted-in Controller Mask for AppId 49520: 100f
+[2026-06-09 00:46:09] Opted-in Controller Mask for AppId 4185400: 100f
+[2026-06-09 00:46:35] Add to Config Cache Request 0 4185400
+[2026-06-09 00:53:39] Opted-in Controller Mask for AppId 4628740: 100f
+[2026-06-09 00:55:44] Add to Config Cache Request 0 4628740
+[2026-06-09 01:00:19] Controller PollState Changed from 2 to 1
+[2026-06-09 01:06:11] Opted-in Controller Mask for AppId 1628350: 100f
+[2026-06-09 01:06:12] Add to Config Cache Request 0 1121560
+[2026-06-09 01:06:12] Opted-in Controller Mask for AppId 3658110: 100f
+[2026-06-09 01:06:12] Add to Config Cache Request 0 3658110
+[2026-06-09 01:06:12] Add to Config Cache Request 0 1628350
+[2026-06-09 01:06:12] Opted-in Controller Mask for AppId 228980: 100f
+[2026-06-09 01:06:12] Add to Config Cache Request 0 228980
+[2026-06-09 01:06:44] Add to Config Cache Request 0 769
+[2026-06-09 01:06:44] Queueing activation for controller: 0 app: 769
+[2026-06-09 01:06:44] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 01:06:44] Add to Config Cache Request 0 769
+[2026-06-09 01:06:44] Queueing activation for controller: 0 app: 769
+[2026-06-09 01:06:44] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 01:07:02] Add to Config Cache Request 0 769
+[2026-06-09 01:07:02] Queueing activation for controller: 0 app: 769
+[2026-06-09 01:07:02] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 01:07:20] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 01:07:20] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 01:07:20] Set Account Config Sets 0 0 0
+[2026-06-09 01:07:20] Set Account Config Sets 0 0 0
+[2026-06-09 01:13:08] Exiting workitem thread
+
+
+[2026-06-09 08:28:49] Client version: 1780352834
+[2026-06-09 08:28:49] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 08:28:49]   Manufacturer: 
+[2026-06-09 08:28:49]   Product:      AYN Odin2 Gamepad
+[2026-06-09 08:28:49]   Release:      1
+[2026-06-09 08:28:49]   Interface:    -1
+
+[2026-06-09 08:28:49] !! Steam controller device opened for index 0.
+[2026-06-09 08:28:49] Steam Controller reserving XInput slot 0
+[2026-06-09 08:28:49] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 08:28:49] Controller PollState Changed from 0 to 1
+[2026-06-09 08:28:49] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 08:28:51] Add to Config Cache Request 0 769
+[2026-06-09 08:28:51] Controller 0 mapping uses xinput : false
+[2026-06-09 08:28:51] Add to Config Cache Request 4294967295 769
+[2026-06-09 08:28:51] Add to Config Cache Request 0 769
+[2026-06-09 08:28:51] Controller 0 mapping uses xinput : false
+[2026-06-09 08:28:51] Add to Config Cache Request 0 769
+[2026-06-09 08:28:51] Controller 0 mapping uses xinput : false
+[2026-06-09 08:28:51] Controller 0 mapping uses xinput : false
+[2026-06-09 08:28:51] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:28:51] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 08:28:51] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:51] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:51] Controller PollState Changed from 1 to 2
+[2026-06-09 08:28:51] Touchscreen DefaultMode 4
+[2026-06-09 08:28:54] Add to Config Cache Request 0 769
+[2026-06-09 08:28:54] Controller 0 mapping uses xinput : false
+[2026-06-09 08:28:54] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:54] Add to Config Cache Request 4294967295 769
+[2026-06-09 08:28:54] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 08:28:54] Add to Config Cache Request 0 769
+[2026-06-09 08:28:54] Controller 0 mapping uses xinput : false
+[2026-06-09 08:28:54] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:55] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 08:28:55] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 08:28:57] BYieldingMarkControllerConfigsInUse
+[2026-06-09 08:28:57] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 08:28:57] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 08:28:57] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 08:28:57] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 08:28:57] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 08:28:57] Set Account Config Sets 0 0 0
+[2026-06-09 08:28:57] Set Account Config Sets 0 0 0
+[2026-06-09 08:28:57] Set Account Config Sets 0 0 0
+[2026-06-09 08:28:57] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 08:28:57] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 08:28:57] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 08:28:57] Add to Config Cache Request 0 769
+[2026-06-09 08:28:57] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:57] Add to Config Cache Request 4294967295 769
+[2026-06-09 08:28:57] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 08:28:57] Add to Config Cache Request 0 769
+[2026-06-09 08:28:57] Add to Config Cache Request 0 769
+[2026-06-09 08:28:57] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:28:57] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:57] Add to Config Cache Request 0 769
+[2026-06-09 08:28:57] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:28:57] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:57] Add to Config Cache Request 0 769
+[2026-06-09 08:28:57] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:28:57] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:57] Add to Config Cache Request 0 769
+[2026-06-09 08:28:57] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:28:57] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:57] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:57] Add to Config Cache Request 0 769
+[2026-06-09 08:28:57] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:28:57] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:28:59] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 08:28:59] Opted-in Controller Mask for AppId 678960: 100f
+[2026-06-09 08:29:03] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 08:29:03] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 08:29:03] Set Account Config Sets 0 0 0
+[2026-06-09 08:29:03] Set Account Config Sets 0 0 0
+[2026-06-09 08:29:03] Add to Config Cache Request 0 769
+[2026-06-09 08:29:03] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:29:03] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:29:03] Add to Config Cache Request 0 769
+[2026-06-09 08:29:03] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:29:03] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:29:03] Add to Config Cache Request 0 769
+[2026-06-09 08:29:03] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:29:03] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:29:28] Add to Config Cache Request 0 769
+[2026-06-09 08:29:28] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:29:28] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:29:33] Add to Config Cache Request 0 769
+[2026-06-09 08:29:33] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:29:33] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:29:34] Add to Config Cache Request 0 1121560
+[2026-06-09 08:29:34] Add to Config Cache Request 0 1121560
+[2026-06-09 08:29:34] Controller 0 mapping uses xinput : false
+[2026-06-09 08:29:34] HID: Add to Config Cache - full cache hit 0 1121560
+[2026-06-09 08:29:34] Deleting cache entry 3
+[2026-06-09 08:29:34] Deleting cache entry 2
+[2026-06-09 08:29:42] Add to Config Cache Request 0 769
+[2026-06-09 08:29:42] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:29:42] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:29:44] Add to Config Cache Request 0 769
+[2026-06-09 08:29:44] Queueing activation for controller: 0 app: 769
+[2026-06-09 08:29:44] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 08:29:44] Add to Config Cache Request 0 1121560
+[2026-06-09 08:29:44] Add to Config Cache Request 0 1121560
+[2026-06-09 08:29:44] Controller 0 mapping uses xinput : false
+[2026-06-09 08:29:44] HID: Add to Config Cache - full cache hit 0 1121560
+[2026-06-09 08:29:44] Deleting cache entry 3
+[2026-06-09 08:29:44] Deleting cache entry 2
+[2026-06-09 08:30:00] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 08:32:15] Add to Config Cache Request 0 1121560
+[2026-06-09 08:32:16] Add to Config Cache Request 0 1121560
+[2026-06-09 08:32:16] Controller 0 mapping uses xinput : false
+[2026-06-09 08:32:16] HID: Add to Config Cache - full cache hit 0 1121560
+[2026-06-09 08:32:19] Add to Config Cache Request 0 1121560
+[2026-06-09 08:32:19] Controller 0 mapping uses xinput : false
+[2026-06-09 08:32:19] Controller 0 mapping uses xinput : false
+[2026-06-09 08:32:19] Queueing activation for controller: 0 app: 1121560
+[2026-06-09 08:32:19] HID: Add to Config Cache - full cache hit 0 1121560
+[2026-06-09 08:32:19] Touchscreen DefaultMode 1
+[2026-06-09 08:34:23] Opted-in Controller Mask for AppId 49520: 100f
+[2026-06-09 08:34:30] Deleting cache entry 3
+[2026-06-09 08:34:30] Deleting cache entry 2
+[2026-06-09 08:34:31] Opted-in Controller Mask for AppId 1628350: 100f
+[2026-06-09 08:34:31] Opted-in Controller Mask for AppId 413080: 100f
+[2026-06-09 08:34:44] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 08:35:07] Add to Config Cache Request 0 3405340
+[2026-06-09 08:35:07] Opted-in Controller Mask for AppId 1070560: 100f
+[2026-06-09 08:35:07] Add to Config Cache Request 0 1070560
+[2026-06-09 08:35:12] Add to Config Cache Request 0 3405340
+[2026-06-09 08:35:12] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 08:35:26] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 08:35:33] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 08:35:35] Opted-in Controller Mask for AppId 1391110: 100f
+[2026-06-09 08:35:36] Add to Config Cache Request 0 1391110
+[2026-06-09 08:35:50] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 08:35:58] Add to Config Cache Request 0 3405340
+[2026-06-09 08:35:58] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 08:36:24] Add to Config Cache Request 0 3405340
+[2026-06-09 08:36:24] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 08:36:24] Add to Config Cache Request 0 3405340
+[2026-06-09 08:36:24] Controller 0 mapping uses xinput : false
+[2026-06-09 08:36:24] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 08:36:28] Add to Config Cache Request 0 3405340
+[2026-06-09 08:36:28] Controller 0 mapping uses xinput : false
+[2026-06-09 08:36:28] Controller 0 mapping uses xinput : false
+[2026-06-09 08:36:28] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 08:36:28] HID: Add to Config Cache - full cache hit 0 3405340
+
+
+[2026-06-09 09:37:38] Client version: 1780352834
+[2026-06-09 09:37:38] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 09:37:38]   Manufacturer: 
+[2026-06-09 09:37:38]   Product:      AYN Odin2 Gamepad
+[2026-06-09 09:37:38]   Release:      1
+[2026-06-09 09:37:38]   Interface:    -1
+
+[2026-06-09 09:37:38] !! Steam controller device opened for index 0.
+[2026-06-09 09:37:38] Steam Controller reserving XInput slot 0
+[2026-06-09 09:37:38] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 09:37:39] Controller PollState Changed from 0 to 1
+[2026-06-09 09:37:39] Add to Config Cache Request 0 769
+[2026-06-09 09:37:39] Controller 0 mapping uses xinput : false
+[2026-06-09 09:37:39] Add to Config Cache Request 4294967295 769
+[2026-06-09 09:37:39] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 09:37:39] Add to Config Cache Request 0 769
+[2026-06-09 09:37:39] Controller 0 mapping uses xinput : false
+[2026-06-09 09:37:39] Add to Config Cache Request 0 769
+[2026-06-09 09:37:39] Controller 0 mapping uses xinput : false
+[2026-06-09 09:37:39] Controller 0 mapping uses xinput : false
+[2026-06-09 09:37:39] Queueing activation for controller: 0 app: 769
+[2026-06-09 09:37:39] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:39] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:39] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 09:37:39] Controller PollState Changed from 1 to 2
+[2026-06-09 09:37:39] Touchscreen DefaultMode 4
+[2026-06-09 09:37:40] Add to Config Cache Request 0 769
+[2026-06-09 09:37:40] Controller 0 mapping uses xinput : false
+[2026-06-09 09:37:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:40] Add to Config Cache Request 4294967295 769
+[2026-06-09 09:37:40] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 09:37:40] Add to Config Cache Request 0 769
+[2026-06-09 09:37:40] Controller 0 mapping uses xinput : false
+[2026-06-09 09:37:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:41] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 09:37:41] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 09:37:42] BYieldingMarkControllerConfigsInUse
+[2026-06-09 09:37:42] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 09:37:42] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 09:37:42] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 09:37:42] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 09:37:42] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 09:37:42] Set Account Config Sets 0 0 0
+[2026-06-09 09:37:42] Set Account Config Sets 0 0 0
+[2026-06-09 09:37:42] Set Account Config Sets 0 0 0
+[2026-06-09 09:37:42] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 09:37:42] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 09:37:42] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 09:37:43] Add to Config Cache Request 0 769
+[2026-06-09 09:37:43] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:43] Add to Config Cache Request 4294967295 769
+[2026-06-09 09:37:43] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 09:37:43] Add to Config Cache Request 0 769
+[2026-06-09 09:37:43] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:43] Add to Config Cache Request 0 769
+[2026-06-09 09:37:43] Queueing activation for controller: 0 app: 769
+[2026-06-09 09:37:43] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:43] Add to Config Cache Request 0 769
+[2026-06-09 09:37:43] Queueing activation for controller: 0 app: 769
+[2026-06-09 09:37:43] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:43] Add to Config Cache Request 0 769
+[2026-06-09 09:37:43] Queueing activation for controller: 0 app: 769
+[2026-06-09 09:37:43] Add to Config Cache Request 0 769
+[2026-06-09 09:37:43] Queueing activation for controller: 0 app: 769
+[2026-06-09 09:37:43] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:43] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:43] Add to Config Cache Request 0 769
+[2026-06-09 09:37:43] Queueing activation for controller: 0 app: 769
+[2026-06-09 09:37:43] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 09:37:45] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 09:37:45] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 09:38:01] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 09:38:24] Add to Config Cache Request 0 3405340
+[2026-06-09 09:38:24] Add to Config Cache Request 0 3405340
+[2026-06-09 09:38:24] Controller 0 mapping uses xinput : false
+[2026-06-09 09:38:24] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 09:38:28] Add to Config Cache Request 0 3405340
+[2026-06-09 09:38:28] Controller 0 mapping uses xinput : false
+[2026-06-09 09:38:28] Controller 0 mapping uses xinput : false
+[2026-06-09 09:38:28] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 09:38:28] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 09:38:29] Touchscreen DefaultMode 1
+[2026-06-09 09:43:25] UpdateHmdState: timed out waiting for detected headset, app 3405340
+[2026-06-09 09:52:37] Controller PollState Changed from 2 to 1
+[2026-06-09 10:02:45] Controller PollState Changed from 1 to 2
+
+
+[2026-06-09 10:05:36] Client version: 1780352834
+[2026-06-09 10:05:36] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 10:05:36]   Manufacturer: 
+[2026-06-09 10:05:36]   Product:      AYN Odin2 Gamepad
+[2026-06-09 10:05:36]   Release:      1
+[2026-06-09 10:05:36]   Interface:    -1
+
+[2026-06-09 10:05:36] !! Steam controller device opened for index 0.
+[2026-06-09 10:05:36] Steam Controller reserving XInput slot 0
+[2026-06-09 10:05:36] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 10:05:36] Controller PollState Changed from 0 to 1
+[2026-06-09 10:05:36] Add to Config Cache Request 0 769
+[2026-06-09 10:05:36] Controller 0 mapping uses xinput : false
+[2026-06-09 10:05:36] Add to Config Cache Request 4294967295 769
+[2026-06-09 10:05:36] Add to Config Cache Request 0 769
+[2026-06-09 10:05:36] Controller 0 mapping uses xinput : false
+[2026-06-09 10:05:36] Add to Config Cache Request 0 769
+[2026-06-09 10:05:36] Controller 0 mapping uses xinput : false
+[2026-06-09 10:05:36] Controller 0 mapping uses xinput : false
+[2026-06-09 10:05:36] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:05:36] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 10:05:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:36] Controller PollState Changed from 1 to 2
+[2026-06-09 10:05:36] Touchscreen DefaultMode 4
+[2026-06-09 10:05:36] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 10:05:37] Add to Config Cache Request 0 769
+[2026-06-09 10:05:37] Controller 0 mapping uses xinput : false
+[2026-06-09 10:05:37] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:37] Add to Config Cache Request 4294967295 769
+[2026-06-09 10:05:37] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 10:05:37] Add to Config Cache Request 0 769
+[2026-06-09 10:05:37] Controller 0 mapping uses xinput : false
+[2026-06-09 10:05:37] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:38] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 10:05:38] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 10:05:40] BYieldingMarkControllerConfigsInUse
+[2026-06-09 10:05:40] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 10:05:40] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 10:05:40] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 10:05:40] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 10:05:40] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 10:05:40] Set Account Config Sets 0 0 0
+[2026-06-09 10:05:40] Set Account Config Sets 0 0 0
+[2026-06-09 10:05:40] Set Account Config Sets 0 0 0
+[2026-06-09 10:05:40] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 10:05:40] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 10:05:40] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 10:05:40] Add to Config Cache Request 0 769
+[2026-06-09 10:05:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:40] Add to Config Cache Request 4294967295 769
+[2026-06-09 10:05:40] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 10:05:40] Add to Config Cache Request 0 769
+[2026-06-09 10:05:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:40] Add to Config Cache Request 0 769
+[2026-06-09 10:05:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:05:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:40] Add to Config Cache Request 0 769
+[2026-06-09 10:05:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:05:40] Add to Config Cache Request 0 769
+[2026-06-09 10:05:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:05:40] Add to Config Cache Request 0 769
+[2026-06-09 10:05:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:05:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:40] Add to Config Cache Request 0 769
+[2026-06-09 10:05:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:05:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:05:42] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 10:05:42] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 10:06:35] Exiting workitem thread
+
+
+[2026-06-09 10:06:44] Client version: 0
+[2026-06-09 10:06:44] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 10:06:44]   Manufacturer: 
+[2026-06-09 10:06:44]   Product:      AYN Odin2 Gamepad
+[2026-06-09 10:06:44]   Release:      1
+[2026-06-09 10:06:44]   Interface:    -1
+
+[2026-06-09 10:06:44] !! Steam controller device opened for index 0.
+[2026-06-09 10:06:44] Steam Controller reserving XInput slot 0
+[2026-06-09 10:06:44] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 10:06:45] Controller PollState Changed from 0 to 1
+[2026-06-09 10:06:45] Add to Config Cache Request 0 769
+[2026-06-09 10:06:45] Controller 0 mapping uses xinput : false
+[2026-06-09 10:06:45] Add to Config Cache Request 4294967295 769
+[2026-06-09 10:06:45] Add to Config Cache Request 0 769
+[2026-06-09 10:06:45] Controller 0 mapping uses xinput : false
+[2026-06-09 10:06:45] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 10:06:45] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:45] Add to Config Cache Request 0 769
+[2026-06-09 10:06:45] Controller 0 mapping uses xinput : false
+[2026-06-09 10:06:45] Controller 0 mapping uses xinput : false
+[2026-06-09 10:06:45] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:06:45] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 10:06:45] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:45] Controller PollState Changed from 1 to 2
+[2026-06-09 10:06:45] Touchscreen DefaultMode 4
+[2026-06-09 10:06:46] Add to Config Cache Request 0 769
+[2026-06-09 10:06:46] Controller 0 mapping uses xinput : false
+[2026-06-09 10:06:46] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:46] Add to Config Cache Request 4294967295 769
+[2026-06-09 10:06:46] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 10:06:46] Add to Config Cache Request 0 769
+[2026-06-09 10:06:46] Controller 0 mapping uses xinput : false
+[2026-06-09 10:06:46] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:46] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 10:06:46] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 10:06:48] BYieldingMarkControllerConfigsInUse
+[2026-06-09 10:06:48] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 10:06:48] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 10:06:48] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 10:06:48] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 10:06:48] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 10:06:48] Set Account Config Sets 0 0 0
+[2026-06-09 10:06:48] Set Account Config Sets 0 0 0
+[2026-06-09 10:06:48] Set Account Config Sets 0 0 0
+[2026-06-09 10:06:48] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 10:06:48] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 10:06:48] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 10:06:48] Add to Config Cache Request 0 769
+[2026-06-09 10:06:48] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:48] Add to Config Cache Request 4294967295 769
+[2026-06-09 10:06:48] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 10:06:48] Add to Config Cache Request 0 769
+[2026-06-09 10:06:48] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:48] Add to Config Cache Request 0 769
+[2026-06-09 10:06:48] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:06:48] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:48] Add to Config Cache Request 0 769
+[2026-06-09 10:06:48] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:06:48] Add to Config Cache Request 0 769
+[2026-06-09 10:06:48] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:06:48] Add to Config Cache Request 0 769
+[2026-06-09 10:06:48] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:06:48] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:48] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:49] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:49] Add to Config Cache Request 0 769
+[2026-06-09 10:06:49] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:06:49] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:50] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 10:06:50] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 10:06:58] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 10:06:58] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 10:06:58] Set Account Config Sets 0 0 0
+[2026-06-09 10:06:58] Set Account Config Sets 0 0 0
+[2026-06-09 10:06:58] Add to Config Cache Request 0 769
+[2026-06-09 10:06:58] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:06:58] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:58] Add to Config Cache Request 0 769
+[2026-06-09 10:06:58] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:06:58] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:06:58] Add to Config Cache Request 0 769
+[2026-06-09 10:06:58] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:06:58] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:08:44] Add to Config Cache Request 0 3405340
+[2026-06-09 10:08:44] Add to Config Cache Request 0 3405340
+[2026-06-09 10:08:44] Controller 0 mapping uses xinput : false
+[2026-06-09 10:08:44] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 10:08:44] Add to Config Cache Request 0 3405340
+[2026-06-09 10:08:44] Controller 0 mapping uses xinput : false
+[2026-06-09 10:08:44] Controller 0 mapping uses xinput : false
+[2026-06-09 10:08:44] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 10:08:44] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 10:08:44] Touchscreen DefaultMode 1
+[2026-06-09 10:11:06] Deleting cache entry 3
+[2026-06-09 10:11:06] Deleting cache entry 2
+[2026-06-09 10:11:11] Opted-in Controller Mask for AppId 413080: 100f
+[2026-06-09 10:21:43] Controller PollState Changed from 2 to 1
+[2026-06-09 10:24:04] Exiting workitem thread
+
+
+[2026-06-09 10:24:25] Client version: 0
+[2026-06-09 10:24:25] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 10:24:25]   Manufacturer: 
+[2026-06-09 10:24:25]   Product:      AYN Odin2 Gamepad
+[2026-06-09 10:24:25]   Release:      1
+[2026-06-09 10:24:25]   Interface:    -1
+
+[2026-06-09 10:24:25] !! Steam controller device opened for index 0.
+[2026-06-09 10:24:25] Steam Controller reserving XInput slot 0
+[2026-06-09 10:24:25] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 10:24:25] Controller PollState Changed from 0 to 1
+[2026-06-09 10:24:25] Add to Config Cache Request 0 769
+[2026-06-09 10:24:25] Controller 0 mapping uses xinput : false
+[2026-06-09 10:24:25] Add to Config Cache Request 4294967295 769
+[2026-06-09 10:24:25] Add to Config Cache Request 0 769
+[2026-06-09 10:24:25] Controller 0 mapping uses xinput : false
+[2026-06-09 10:24:25] Add to Config Cache Request 0 769
+[2026-06-09 10:24:25] Controller 0 mapping uses xinput : false
+[2026-06-09 10:24:25] Controller 0 mapping uses xinput : false
+[2026-06-09 10:24:25] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:24:25] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 10:24:25] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:25] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:25] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 10:24:25] Controller PollState Changed from 1 to 2
+[2026-06-09 10:24:25] Touchscreen DefaultMode 4
+[2026-06-09 10:24:26] Add to Config Cache Request 0 769
+[2026-06-09 10:24:26] Controller 0 mapping uses xinput : false
+[2026-06-09 10:24:26] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:26] Add to Config Cache Request 4294967295 769
+[2026-06-09 10:24:26] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 10:24:26] Add to Config Cache Request 0 769
+[2026-06-09 10:24:26] Controller 0 mapping uses xinput : false
+[2026-06-09 10:24:26] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:27] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 10:24:27] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 10:24:29] BYieldingMarkControllerConfigsInUse
+[2026-06-09 10:24:29] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 10:24:29] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 10:24:29] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 10:24:29] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 10:24:29] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 10:24:29] Set Account Config Sets 0 0 0
+[2026-06-09 10:24:29] Set Account Config Sets 0 0 0
+[2026-06-09 10:24:29] Set Account Config Sets 0 0 0
+[2026-06-09 10:24:29] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 10:24:29] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 10:24:29] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 10:24:29] Add to Config Cache Request 0 769
+[2026-06-09 10:24:29] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:29] Add to Config Cache Request 4294967295 769
+[2026-06-09 10:24:29] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 10:24:29] Add to Config Cache Request 0 769
+[2026-06-09 10:24:29] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:29] Add to Config Cache Request 0 769
+[2026-06-09 10:24:29] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:24:29] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:29] Add to Config Cache Request 0 769
+[2026-06-09 10:24:29] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:24:29] Add to Config Cache Request 0 769
+[2026-06-09 10:24:29] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:24:29] Add to Config Cache Request 0 769
+[2026-06-09 10:24:29] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:24:29] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:29] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:29] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:29] Add to Config Cache Request 0 769
+[2026-06-09 10:24:29] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:24:29] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:31] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 10:24:31] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 10:24:35] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 10:24:35] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 10:24:35] Set Account Config Sets 0 0 0
+[2026-06-09 10:24:35] Set Account Config Sets 0 0 0
+[2026-06-09 10:24:36] Add to Config Cache Request 0 769
+[2026-06-09 10:24:36] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:24:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:36] Add to Config Cache Request 0 769
+[2026-06-09 10:24:36] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:24:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:24:36] Add to Config Cache Request 0 769
+[2026-06-09 10:24:36] Queueing activation for controller: 0 app: 769
+[2026-06-09 10:24:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 10:25:08] Add to Config Cache Request 0 3405340
+[2026-06-09 10:25:08] Add to Config Cache Request 0 3405340
+[2026-06-09 10:25:08] Controller 0 mapping uses xinput : false
+[2026-06-09 10:25:08] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 10:25:11] Add to Config Cache Request 0 3405340
+[2026-06-09 10:25:11] Controller 0 mapping uses xinput : false
+[2026-06-09 10:25:11] Controller 0 mapping uses xinput : false
+[2026-06-09 10:25:11] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 10:25:11] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 10:25:11] Touchscreen DefaultMode 1
+
+
+[2026-06-09 11:22:36] Client version: 0
+[2026-06-09 11:22:36] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 11:22:36]   Manufacturer: 
+[2026-06-09 11:22:36]   Product:      AYN Odin2 Gamepad
+[2026-06-09 11:22:36]   Release:      1
+[2026-06-09 11:22:36]   Interface:    -1
+
+[2026-06-09 11:22:36] !! Steam controller device opened for index 0.
+[2026-06-09 11:22:36] Steam Controller reserving XInput slot 0
+[2026-06-09 11:22:36] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 11:22:36] Controller PollState Changed from 0 to 1
+[2026-06-09 11:22:36] Add to Config Cache Request 0 769
+[2026-06-09 11:22:36] Controller 0 mapping uses xinput : false
+[2026-06-09 11:22:36] Add to Config Cache Request 4294967295 769
+[2026-06-09 11:22:36] Add to Config Cache Request 0 769
+[2026-06-09 11:22:36] Controller 0 mapping uses xinput : false
+[2026-06-09 11:22:36] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 11:22:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:36] Add to Config Cache Request 0 769
+[2026-06-09 11:22:36] Controller 0 mapping uses xinput : false
+[2026-06-09 11:22:36] Controller 0 mapping uses xinput : false
+[2026-06-09 11:22:36] Queueing activation for controller: 0 app: 769
+[2026-06-09 11:22:36] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 11:22:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:36] Controller PollState Changed from 1 to 2
+[2026-06-09 11:22:36] Touchscreen DefaultMode 4
+[2026-06-09 11:22:37] Add to Config Cache Request 0 769
+[2026-06-09 11:22:37] Controller 0 mapping uses xinput : false
+[2026-06-09 11:22:37] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:37] Add to Config Cache Request 4294967295 769
+[2026-06-09 11:22:37] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 11:22:37] Add to Config Cache Request 0 769
+[2026-06-09 11:22:37] Controller 0 mapping uses xinput : false
+[2026-06-09 11:22:37] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:38] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 11:22:38] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 11:22:39] BYieldingMarkControllerConfigsInUse
+[2026-06-09 11:22:39] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 11:22:39] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 11:22:39] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 11:22:39] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 11:22:39] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 11:22:39] Set Account Config Sets 0 0 0
+[2026-06-09 11:22:39] Set Account Config Sets 0 0 0
+[2026-06-09 11:22:39] Set Account Config Sets 0 0 0
+[2026-06-09 11:22:39] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 11:22:39] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 11:22:39] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 11:22:40] Add to Config Cache Request 0 769
+[2026-06-09 11:22:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:40] Add to Config Cache Request 4294967295 769
+[2026-06-09 11:22:40] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 11:22:40] Add to Config Cache Request 0 769
+[2026-06-09 11:22:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:40] Add to Config Cache Request 0 769
+[2026-06-09 11:22:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 11:22:40] Add to Config Cache Request 0 769
+[2026-06-09 11:22:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 11:22:40] Add to Config Cache Request 0 769
+[2026-06-09 11:22:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 11:22:40] Add to Config Cache Request 0 769
+[2026-06-09 11:22:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 11:22:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:40] Add to Config Cache Request 0 769
+[2026-06-09 11:22:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 11:22:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:22:42] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 11:22:42] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 11:22:52] Opted-in Controller Mask for AppId 1628350: 100f
+[2026-06-09 11:22:52] Add to Config Cache Request 0 1628350
+[2026-06-09 11:23:00] Opted-in Controller Mask for AppId 4185400: 100f
+[2026-06-09 11:23:00] Add to Config Cache Request 0 4185400
+[2026-06-09 11:23:10] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 11:23:24] Opted-in Controller Mask for AppId 4183110: 100f
+[2026-06-09 11:23:25] Add to Config Cache Request 0 4183110
+[2026-06-09 11:24:14] Opted-in Controller Mask for AppId 1493710: 100f
+[2026-06-09 11:24:15] Add to Config Cache Request 0 1493710
+[2026-06-09 11:24:15] Add to Config Cache Request 0 3405340
+[2026-06-09 11:24:17] Add to Config Cache Request 0 3405340
+[2026-06-09 11:24:17] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 11:24:17] Add to Config Cache Request 0 3405340
+[2026-06-09 11:24:17] Controller 0 mapping uses xinput : false
+[2026-06-09 11:24:17] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 11:24:21] Add to Config Cache Request 0 3405340
+[2026-06-09 11:24:21] Controller 0 mapping uses xinput : false
+[2026-06-09 11:24:21] Controller 0 mapping uses xinput : false
+[2026-06-09 11:24:21] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 11:24:21] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 11:24:22] Touchscreen DefaultMode 1
+[2026-06-09 11:25:31] Deleting cache entry 11
+[2026-06-09 11:25:31] Deleting cache entry 10
+[2026-06-09 11:25:31] No cached sticky mapping in ActivateActionSet.
+[2026-06-09 11:25:36] Add to Config Cache Request 0 769
+[2026-06-09 11:25:36] Queueing activation for controller: 0 app: 769
+[2026-06-09 11:25:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 11:25:36] Touchscreen DefaultMode 4
+[2026-06-09 11:25:43] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 11:25:52] Add to Config Cache Request 0 3405340
+[2026-06-09 11:25:52] Add to Config Cache Request 0 3405340
+[2026-06-09 11:25:52] Controller 0 mapping uses xinput : false
+[2026-06-09 11:25:52] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 11:25:56] Add to Config Cache Request 0 3405340
+[2026-06-09 11:25:56] Controller 0 mapping uses xinput : false
+[2026-06-09 11:25:56] Controller 0 mapping uses xinput : false
+[2026-06-09 11:25:56] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 11:25:56] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 11:25:56] Touchscreen DefaultMode 1
+[2026-06-09 11:30:54] UpdateHmdState: timed out waiting for detected headset, app 3405340
+
+
+[2026-06-09 11:36:07] Client version: 1780352834
+[2026-06-09 11:36:07] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 11:36:07]   Manufacturer: 
+[2026-06-09 11:36:07]   Product:      AYN Odin2 Gamepad
+[2026-06-09 11:36:07]   Release:      1
+[2026-06-09 11:36:07]   Interface:    -1
+
+[2026-06-09 11:36:07] !! Steam controller device opened for index 0.
+[2026-06-09 11:36:07] Steam Controller reserving XInput slot 0
+[2026-06-09 11:36:07] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 11:36:07] Controller PollState Changed from 0 to 1
+[2026-06-09 11:36:08] BYieldingQueryAccountsRegisteredToController
+
+
+[2026-06-09 11:36:56] Client version: 1780352834
+[2026-06-09 11:36:56] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 11:36:56]   Manufacturer: 
+[2026-06-09 11:36:56]   Product:      AYN Odin2 Gamepad
+[2026-06-09 11:36:56]   Release:      1
+[2026-06-09 11:36:56]   Interface:    -1
+
+[2026-06-09 11:36:56] !! Steam controller device opened for index 0.
+[2026-06-09 11:36:56] Steam Controller reserving XInput slot 0
+[2026-06-09 11:36:56] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 11:36:57] Controller PollState Changed from 0 to 1
+[2026-06-09 11:36:57] BYieldingQueryAccountsRegisteredToController
+
+
+[2026-06-09 12:06:49] Client version: 1780352834
+[2026-06-09 12:06:49] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 12:06:49]   Manufacturer: 
+[2026-06-09 12:06:49]   Product:      AYN Odin2 Gamepad
+[2026-06-09 12:06:49]   Release:      1
+[2026-06-09 12:06:49]   Interface:    -1
+
+[2026-06-09 12:06:49] !! Steam controller device opened for index 0.
+[2026-06-09 12:06:49] Steam Controller reserving XInput slot 0
+[2026-06-09 12:06:49] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 12:06:50] Controller PollState Changed from 0 to 1
+[2026-06-09 12:06:50] Add to Config Cache Request 0 769
+[2026-06-09 12:06:50] Controller 0 mapping uses xinput : false
+[2026-06-09 12:06:50] Add to Config Cache Request 4294967295 769
+[2026-06-09 12:06:50] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 12:06:50] Add to Config Cache Request 0 769
+[2026-06-09 12:06:50] Controller 0 mapping uses xinput : false
+[2026-06-09 12:06:50] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 12:06:50] Add to Config Cache Request 0 769
+[2026-06-09 12:06:50] Controller 0 mapping uses xinput : false
+[2026-06-09 12:06:50] Controller 0 mapping uses xinput : false
+[2026-06-09 12:06:50] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:06:50] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:50] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:50] Controller PollState Changed from 1 to 2
+[2026-06-09 12:06:50] Touchscreen DefaultMode 4
+[2026-06-09 12:06:51] Add to Config Cache Request 0 769
+[2026-06-09 12:06:51] Controller 0 mapping uses xinput : false
+[2026-06-09 12:06:51] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:51] Add to Config Cache Request 4294967295 769
+[2026-06-09 12:06:51] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 12:06:51] Add to Config Cache Request 0 769
+[2026-06-09 12:06:51] Controller 0 mapping uses xinput : false
+[2026-06-09 12:06:51] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:51] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 12:06:51] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 12:06:53] BYieldingMarkControllerConfigsInUse
+[2026-06-09 12:06:53] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 12:06:53] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 12:06:53] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 12:06:53] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 12:06:53] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 12:06:53] Set Account Config Sets 0 0 0
+[2026-06-09 12:06:53] Set Account Config Sets 0 0 0
+[2026-06-09 12:06:53] Set Account Config Sets 0 0 0
+[2026-06-09 12:06:53] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 12:06:53] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 12:06:53] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 12:06:53] Add to Config Cache Request 0 769
+[2026-06-09 12:06:53] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:53] Add to Config Cache Request 4294967295 769
+[2026-06-09 12:06:53] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 12:06:53] Add to Config Cache Request 0 769
+[2026-06-09 12:06:53] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:53] Add to Config Cache Request 0 769
+[2026-06-09 12:06:53] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:06:53] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:53] Add to Config Cache Request 0 769
+[2026-06-09 12:06:53] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:06:53] Add to Config Cache Request 0 769
+[2026-06-09 12:06:53] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:06:53] Add to Config Cache Request 0 769
+[2026-06-09 12:06:53] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:06:53] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:53] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:53] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:53] Add to Config Cache Request 0 769
+[2026-06-09 12:06:53] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:06:53] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:06:55] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 12:06:55] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 12:07:06] Opted-in Controller Mask for AppId 413080: 100f
+[2026-06-09 12:07:13] Opted-in Controller Mask for AppId 49520: 100f
+[2026-06-09 12:07:24] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 12:08:04] Add to Config Cache Request 0 3405340
+[2026-06-09 12:08:05] Add to Config Cache Request 0 3405340
+[2026-06-09 12:08:05] Controller 0 mapping uses xinput : false
+[2026-06-09 12:08:05] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 12:08:07] Add to Config Cache Request 0 3405340
+[2026-06-09 12:08:07] Controller 0 mapping uses xinput : false
+[2026-06-09 12:08:07] Controller 0 mapping uses xinput : false
+[2026-06-09 12:08:07] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 12:08:07] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 12:08:07] Touchscreen DefaultMode 1
+[2026-06-09 12:08:50] Deleting cache entry 3
+[2026-06-09 12:08:50] Deleting cache entry 2
+[2026-06-09 12:09:19] Add to Config Cache Request 0 3405340
+[2026-06-09 12:09:19] Add to Config Cache Request 0 3405340
+[2026-06-09 12:09:19] Controller 0 mapping uses xinput : false
+[2026-06-09 12:09:19] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 12:09:20] Add to Config Cache Request 0 3405340
+[2026-06-09 12:09:20] Controller 0 mapping uses xinput : false
+[2026-06-09 12:09:20] Controller 0 mapping uses xinput : false
+[2026-06-09 12:09:20] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 12:09:20] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 12:14:21] UpdateHmdState: timed out waiting for detected headset, app 3405340
+
+
+[2026-06-09 12:43:35] Client version: 1780352834
+[2026-06-09 12:43:35] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 12:43:35]   Manufacturer: 
+[2026-06-09 12:43:35]   Product:      AYN Odin2 Gamepad
+[2026-06-09 12:43:35]   Release:      1
+[2026-06-09 12:43:35]   Interface:    -1
+
+[2026-06-09 12:43:35] !! Steam controller device opened for index 0.
+[2026-06-09 12:43:35] Steam Controller reserving XInput slot 0
+[2026-06-09 12:43:35] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 12:43:35] Controller PollState Changed from 0 to 1
+[2026-06-09 12:43:36] Add to Config Cache Request 0 769
+[2026-06-09 12:43:36] Controller 0 mapping uses xinput : false
+[2026-06-09 12:43:36] Add to Config Cache Request 4294967295 769
+[2026-06-09 12:43:36] Add to Config Cache Request 0 769
+[2026-06-09 12:43:36] Controller 0 mapping uses xinput : false
+[2026-06-09 12:43:36] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 12:43:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:36] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 12:43:36] Add to Config Cache Request 0 769
+[2026-06-09 12:43:36] Controller 0 mapping uses xinput : false
+[2026-06-09 12:43:36] Controller 0 mapping uses xinput : false
+[2026-06-09 12:43:36] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:43:36] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:36] Controller PollState Changed from 1 to 2
+[2026-06-09 12:43:36] Touchscreen DefaultMode 4
+[2026-06-09 12:43:37] Add to Config Cache Request 0 769
+[2026-06-09 12:43:37] Controller 0 mapping uses xinput : false
+[2026-06-09 12:43:37] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:37] Add to Config Cache Request 4294967295 769
+[2026-06-09 12:43:37] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 12:43:37] Add to Config Cache Request 0 769
+[2026-06-09 12:43:37] Controller 0 mapping uses xinput : false
+[2026-06-09 12:43:37] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:38] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 12:43:38] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 12:43:40] BYieldingMarkControllerConfigsInUse
+[2026-06-09 12:43:40] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 12:43:40] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 12:43:40] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 12:43:40] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 12:43:40] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 12:43:40] Set Account Config Sets 0 0 0
+[2026-06-09 12:43:40] Set Account Config Sets 0 0 0
+[2026-06-09 12:43:40] Set Account Config Sets 0 0 0
+[2026-06-09 12:43:40] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 12:43:40] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 12:43:40] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 12:43:40] Add to Config Cache Request 0 769
+[2026-06-09 12:43:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:40] Add to Config Cache Request 4294967295 769
+[2026-06-09 12:43:40] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 12:43:40] Add to Config Cache Request 0 769
+[2026-06-09 12:43:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:40] Add to Config Cache Request 0 769
+[2026-06-09 12:43:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:43:40] Add to Config Cache Request 0 769
+[2026-06-09 12:43:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:43:40] Add to Config Cache Request 0 769
+[2026-06-09 12:43:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:43:40] Add to Config Cache Request 0 769
+[2026-06-09 12:43:40] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:43:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:40] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:41] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:41] Add to Config Cache Request 0 769
+[2026-06-09 12:43:41] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:43:41] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:43:43] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 12:43:43] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 12:46:03] Add to Config Cache Request 0 3405340
+[2026-06-09 12:46:03] Add to Config Cache Request 0 3405340
+[2026-06-09 12:46:03] Controller 0 mapping uses xinput : false
+[2026-06-09 12:46:03] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 12:46:07] Add to Config Cache Request 0 3405340
+[2026-06-09 12:46:07] Controller 0 mapping uses xinput : false
+[2026-06-09 12:46:07] Controller 0 mapping uses xinput : false
+[2026-06-09 12:46:07] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 12:46:07] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 12:46:07] Touchscreen DefaultMode 1
+
+
+[2026-06-09 12:49:43] Client version: 1780352834
+[2026-06-09 12:49:43] Local Device Found
+  type: 2020 3001
+  path: sdl://2
+  serial_number:  - 0
+[2026-06-09 12:49:43]   Manufacturer: 
+[2026-06-09 12:49:43]   Product:      AYN Odin2 Gamepad
+[2026-06-09 12:49:43]   Release:      1
+[2026-06-09 12:49:43]   Interface:    -1
+
+[2026-06-09 12:49:43] !! Steam controller device opened for index 0.
+[2026-06-09 12:49:43] Steam Controller reserving XInput slot 0
+[2026-06-09 12:49:43] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 12:49:44] Controller PollState Changed from 0 to 1
+[2026-06-09 12:49:44] Add to Config Cache Request 0 769
+[2026-06-09 12:49:44] Controller 0 mapping uses xinput : false
+[2026-06-09 12:49:44] Add to Config Cache Request 4294967295 769
+[2026-06-09 12:49:44] Add to Config Cache Request 0 769
+[2026-06-09 12:49:44] Controller 0 mapping uses xinput : false
+[2026-06-09 12:49:44] Add to Config Cache Request 0 769
+[2026-06-09 12:49:44] Controller 0 mapping uses xinput : false
+[2026-06-09 12:49:44] Controller 0 mapping uses xinput : false
+[2026-06-09 12:49:44] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:49:44] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 12:49:44] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:44] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:44] Controller PollState Changed from 1 to 2
+[2026-06-09 12:49:44] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 12:49:44] Touchscreen DefaultMode 4
+[2026-06-09 12:49:45] Add to Config Cache Request 0 769
+[2026-06-09 12:49:45] Controller 0 mapping uses xinput : false
+[2026-06-09 12:49:45] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:45] Add to Config Cache Request 4294967295 769
+[2026-06-09 12:49:45] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 12:49:45] Add to Config Cache Request 0 769
+[2026-06-09 12:49:45] Controller 0 mapping uses xinput : false
+[2026-06-09 12:49:45] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:46] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 12:49:46] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 12:49:48] BYieldingMarkControllerConfigsInUse
+[2026-06-09 12:49:48] Opted-in Controller Mask for AppId 0: 100f
+[2026-06-09 12:49:48] SDL Mapping for 2020/3001: 0300b605202000000130000001000000,AYN Odin2 Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-06-09 12:49:48] Controller has an Invalid or missing unit serial number, setting to '2020-3001-3483bc0'
+[2026-06-09 12:49:48] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_2020-3001-3483bc0.vdf
+[2026-06-09 12:49:48] ConfigSet - found config set file on-disk: /home/aprat/games/steam/steamapps/common/Steam Controller Configs/55065536/config/configset_controller_generic.vdf
+[2026-06-09 12:49:48] Set Account Config Sets 0 0 0
+[2026-06-09 12:49:48] Set Account Config Sets 0 0 0
+[2026-06-09 12:49:48] Set Account Config Sets 0 0 0
+[2026-06-09 12:49:48] CClientJobFetchPersonalizationFileID - AutoCloud
+[2026-06-09 12:49:48] BYieldingQueryAccountsRegisteredToController
+[2026-06-09 12:49:48] BYieldingQueryAccountsRegisteredToController - server unavailable checking local cache for stored values
+[2026-06-09 12:49:48] Add to Config Cache Request 0 769
+[2026-06-09 12:49:48] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:48] Add to Config Cache Request 4294967295 769
+[2026-06-09 12:49:48] HID: Add to Config Cache - modify disconnected mapping in-place 4294967295 769
+[2026-06-09 12:49:48] Add to Config Cache Request 0 769
+[2026-06-09 12:49:48] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:49] Add to Config Cache Request 0 769
+[2026-06-09 12:49:49] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:49:49] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:49] Add to Config Cache Request 0 769
+[2026-06-09 12:49:49] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:49:49] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:49] Add to Config Cache Request 0 769
+[2026-06-09 12:49:49] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:49:49] Add to Config Cache Request 0 769
+[2026-06-09 12:49:49] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:49:49] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:49] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:49] Add to Config Cache Request 0 769
+[2026-06-09 12:49:49] Queueing activation for controller: 0 app: 769
+[2026-06-09 12:49:49] HID: Add to Config Cache - full cache hit 0 769
+[2026-06-09 12:49:51] Opted-in Controller Mask for AppId 3405340: 100f
+[2026-06-09 12:49:51] Opted-in Controller Mask for AppId 1121560: ffff
+[2026-06-09 12:50:03] Add to Config Cache Request 0 3405340
+[2026-06-09 12:50:04] Add to Config Cache Request 0 3405340
+[2026-06-09 12:50:04] Controller 0 mapping uses xinput : false
+[2026-06-09 12:50:04] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 12:50:04] Add to Config Cache Request 0 3405340
+[2026-06-09 12:50:04] Controller 0 mapping uses xinput : false
+[2026-06-09 12:50:04] Controller 0 mapping uses xinput : false
+[2026-06-09 12:50:04] Queueing activation for controller: 0 app: 3405340
+[2026-06-09 12:50:04] HID: Add to Config Cache - full cache hit 0 3405340
+[2026-06-09 12:50:04] Touchscreen DefaultMode 1
+[2026-06-09 12:55:05] UpdateHmdState: timed out waiting for detected headset, app 3405340
+[2026-06-09 13:04:42] Controller PollState Changed from 2 to 1

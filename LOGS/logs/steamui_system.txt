@@ -1,0 +1,443 @@
+
+
+[2026-06-09 00:41:51] Client version: 1780352834
+[2026-06-09 00:41:51] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 00:41:51] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 00:41:51] Initialized CSystemDockManagerController: 1
+[2026-06-09 00:41:51] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 00:41:51] Initialized CSystemDisplayController: 1
+[2026-06-09 00:41:51] SetEnabled: adapter: 0x6894c4b5 enable: 0
+[2026-06-09 00:41:51] Initialized CSystemPerfController: 1
+[2026-06-09 00:41:51] Initialized CSteamUINetworkController: 1
+[2026-06-09 00:41:51] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 00:41:51] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 00:41:51] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 00:41:51] Initialized CSystemReportController
+[2026-06-09 00:41:51] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 00:41:51] CGamescopeController: initalized implementation: linux
+[2026-06-09 00:41:52] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 00:41:54] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 00:41:54] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:41:54] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:41:55] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:41:57] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 00:42:24] Allow drive unmount: 0
+[2026-06-09 00:42:24] Allow drive adopt: 0
+[2026-06-09 00:42:24] Trim supported: 0 - 
+[2026-06-09 00:42:24] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 00:42:24] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 00:42:24] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 00:42:24] CGamescopeController: set allow tearing: 0
+[2026-06-09 00:42:24] CGamescopeController: set composite debug: 0
+[2026-06-09 00:42:24] CGamescopeController: set composite force: 0
+[2026-06-09 00:42:57] Settings profile change: battery: 1 active: 1
+[2026-06-09 00:42:58] CGamescopeController: set allow tearing: 0
+[2026-06-09 00:42:58] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 00:43:29] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:43:30] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:43:31] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:43:32] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:44:06] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:44:08] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:44:11] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:44:11] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:44:54] Settings profile change: battery: 0 active: 1
+[2026-06-09 00:44:54] CGamescopeController: set allow tearing: 0
+[2026-06-09 00:44:54] CGamescopeController: set HDR Enabled: 1
+
+
+[2026-06-09 00:45:18] Client version: 1780352834
+[2026-06-09 00:45:18] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 00:45:18] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 00:45:18] Initialized CSystemDockManagerController: 1
+[2026-06-09 00:45:18] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 00:45:18] Initialized CSystemDisplayController: 1
+[2026-06-09 00:45:18] Initialized CSystemPerfController: 1
+[2026-06-09 00:45:18] Initialized CSteamUINetworkController: 1
+[2026-06-09 00:45:18] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 00:45:18] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 00:45:18] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 00:45:18] Initialized CSystemReportController
+[2026-06-09 00:45:18] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 00:45:18] CGamescopeController: initalized implementation: linux
+[2026-06-09 00:45:29] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 00:45:31] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 00:45:31] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:45:31] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 00:45:31] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 00:45:31] CGamescopeController: set allow tearing: 0
+[2026-06-09 00:45:31] CGamescopeController: set composite debug: 0
+[2026-06-09 00:45:31] CGamescopeController: set composite force: 0
+[2026-06-09 00:45:31] Allow drive unmount: 0
+[2026-06-09 00:45:31] Allow drive adopt: 0
+[2026-06-09 00:45:31] Trim supported: 0 - 
+[2026-06-09 00:45:31] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 00:45:32] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:45:40] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:45:42] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:45:46] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:45:47] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:45:52] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:45:53] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:45:54] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:45:54] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 00:54:21] Settings profile change: battery: 1 active: 1
+[2026-06-09 00:54:21] CGamescopeController: set allow tearing: 0
+[2026-06-09 00:54:21] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 00:54:51] Settings profile change: battery: 0 active: 1
+[2026-06-09 00:54:51] CGamescopeController: set allow tearing: 0
+[2026-06-09 00:54:51] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 00:58:51] Settings profile change: battery: 1 active: 1
+[2026-06-09 00:58:51] CGamescopeController: set allow tearing: 0
+[2026-06-09 00:58:51] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 00:59:21] Settings profile change: battery: 0 active: 1
+[2026-06-09 00:59:21] CGamescopeController: set allow tearing: 0
+[2026-06-09 00:59:21] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 01:02:21] Settings profile change: battery: 1 active: 1
+[2026-06-09 01:02:21] CGamescopeController: set allow tearing: 0
+[2026-06-09 01:02:21] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 01:02:51] Settings profile change: battery: 0 active: 1
+[2026-06-09 01:02:51] CGamescopeController: set allow tearing: 0
+[2026-06-09 01:02:51] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 01:03:21] Settings profile change: battery: 1 active: 1
+[2026-06-09 01:03:21] CGamescopeController: set allow tearing: 0
+[2026-06-09 01:03:21] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 01:06:21] Settings profile change: battery: 0 active: 1
+[2026-06-09 01:06:21] CGamescopeController: set allow tearing: 0
+[2026-06-09 01:06:21] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 01:07:42] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_COLOR_APP_WANTS_HDR_FEEDBACK
+[2026-06-09 01:07:42] CGamescopeControllerLinux::YldGetState(): app-wants: 0
+
+
+[2026-06-09 08:28:45] Client version: 1780352834
+[2026-06-09 08:28:45] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 08:28:45] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 08:28:45] Initialized CSystemDockManagerController: 1
+[2026-06-09 08:28:45] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 08:28:45] Initialized CSystemDisplayController: 1
+[2026-06-09 08:28:45] Initialized CSystemPerfController: 1
+[2026-06-09 08:28:45] Initialized CSteamUINetworkController: 1
+[2026-06-09 08:28:45] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 08:28:45] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 08:28:45] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 08:28:45] Initialized CSystemReportController
+[2026-06-09 08:28:45] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 08:28:45] CGamescopeController: initalized implementation: linux
+[2026-06-09 08:28:51] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 08:28:54] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 08:28:55] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 08:28:55] Allow drive unmount: 0
+[2026-06-09 08:28:55] Allow drive adopt: 0
+[2026-06-09 08:28:55] Trim supported: 0 - 
+[2026-06-09 08:28:55] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 08:28:55] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 08:28:55] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 08:28:55] CGamescopeController: set allow tearing: 0
+[2026-06-09 08:28:55] CGamescopeController: set composite debug: 0
+[2026-06-09 08:28:55] CGamescopeController: set composite force: 0
+[2026-06-09 08:28:56] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 08:29:04] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 08:29:16] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 08:29:53] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_COLOR_APP_WANTS_HDR_FEEDBACK
+[2026-06-09 08:29:53] CGamescopeControllerLinux::YldGetState(): app-wants: 0
+[2026-06-09 08:33:30] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 08:33:32] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 08:33:34] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 08:33:34] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+
+
+[2026-06-09 09:37:36] Client version: 1780352834
+[2026-06-09 09:37:36] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 09:37:36] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 09:37:36] Initialized CSystemDockManagerController: 1
+[2026-06-09 09:37:36] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 09:37:36] Initialized CSystemDisplayController: 1
+[2026-06-09 09:37:36] Initialized CSystemPerfController: 1
+[2026-06-09 09:37:36] Initialized CSteamUINetworkController: 1
+[2026-06-09 09:37:36] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 09:37:36] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 09:37:36] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 09:37:36] Initialized CSystemReportController
+[2026-06-09 09:37:36] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 09:37:36] CGamescopeController: initalized implementation: linux
+[2026-06-09 09:37:38] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 09:37:40] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 09:37:40] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 09:37:40] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 09:37:40] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 09:37:40] CGamescopeController: set allow tearing: 0
+[2026-06-09 09:37:40] CGamescopeController: set composite debug: 0
+[2026-06-09 09:37:40] CGamescopeController: set composite force: 0
+[2026-06-09 09:37:41] Allow drive unmount: 0
+[2026-06-09 09:37:41] Allow drive adopt: 0
+[2026-06-09 09:37:41] Trim supported: 0 - 
+[2026-06-09 09:37:41] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 09:37:41] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 09:37:55] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_COLOR_APP_WANTS_HDR_FEEDBACK
+[2026-06-09 09:37:55] CGamescopeControllerLinux::YldGetState(): app-wants: 0
+
+
+[2026-06-09 10:05:34] Client version: 1780352834
+[2026-06-09 10:05:34] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 10:05:34] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 10:05:34] Initialized CSystemDockManagerController: 1
+[2026-06-09 10:05:34] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 10:05:34] Initialized CSystemDisplayController: 1
+[2026-06-09 10:05:34] Initialized CSystemPerfController: 1
+[2026-06-09 10:05:34] Initialized CSteamUINetworkController: 1
+[2026-06-09 10:05:34] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 10:05:34] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 10:05:34] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 10:05:34] Initialized CSystemReportController
+[2026-06-09 10:05:34] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 10:05:34] CGamescopeController: initalized implementation: linux
+[2026-06-09 10:05:35] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 10:05:37] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 10:05:38] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:05:38] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 10:05:38] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 10:05:38] CGamescopeController: set allow tearing: 0
+[2026-06-09 10:05:38] CGamescopeController: set composite debug: 0
+[2026-06-09 10:05:38] CGamescopeController: set composite force: 0
+[2026-06-09 10:05:38] Allow drive unmount: 0
+[2026-06-09 10:05:38] Allow drive adopt: 0
+[2026-06-09 10:05:38] Trim supported: 0 - 
+[2026-06-09 10:05:38] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 10:05:39] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:05:47] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:05:49] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:05:51] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_COLOR_APP_WANTS_HDR_FEEDBACK
+[2026-06-09 10:05:51] CGamescopeControllerLinux::YldGetState(): app-wants: 0
+[2026-06-09 10:06:12] YldSetDiscovering: adapter: 0x6894c4b5 bEnabled: 1
+[2026-06-09 10:06:12] YldStartDiscovering: adapter: 0x6894c4b5
+[2026-06-09 10:06:13] Error: YldStartDiscovering: failed to set adapter to discovery mode GDBus.Error:org.bluez.Error.NotReady: Resource Not Ready
+[2026-06-09 10:06:15] SetEnabled: adapter: 0x6894c4b5 enable: 1
+[2026-06-09 10:06:15] YldSetDiscovering: adapter: 0x6894c4b5 bEnabled: 1
+[2026-06-09 10:06:15] YldStartDiscovering: adapter: 0x6894c4b5
+[2026-06-09 10:06:17] Error: YldStartDiscovering: failed to set adapter to discovery mode GDBus.Error:org.bluez.Error.NotReady: Resource Not Ready
+[2026-06-09 10:06:17] SetEnabled: adapter: 0x6894c4b5 enable: 0
+[2026-06-09 10:06:24] YldSetDiscovering: adapter: 0x6894c4b5 bEnabled: 0
+[2026-06-09 10:06:24] YldStopDiscovering: adapter: 0x6894c4b5
+[2026-06-09 10:06:24] Error: YldStopDiscovering: failed: GDBus.Error:org.bluez.Error.NotReady: Resource Not Ready
+
+
+[2026-06-09 10:06:42] Client version: 0
+[2026-06-09 10:06:42] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 10:06:42] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 10:06:42] Initialized CSystemDockManagerController: 1
+[2026-06-09 10:06:42] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 10:06:42] Initialized CSystemDisplayController: 1
+[2026-06-09 10:06:42] Initialized CSystemPerfController: 1
+[2026-06-09 10:06:42] Initialized CSteamUINetworkController: 1
+[2026-06-09 10:06:42] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 10:06:42] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 10:06:42] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 10:06:42] Initialized CSystemReportController
+[2026-06-09 10:06:42] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 10:06:42] CGamescopeController: initalized implementation: linux
+[2026-06-09 10:06:43] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 10:06:45] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 10:06:46] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:06:46] Allow drive unmount: 0
+[2026-06-09 10:06:46] Allow drive adopt: 0
+[2026-06-09 10:06:46] Trim supported: 0 - 
+[2026-06-09 10:06:46] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 10:06:46] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 10:06:46] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 10:06:46] CGamescopeController: set allow tearing: 0
+[2026-06-09 10:06:46] CGamescopeController: set composite debug: 0
+[2026-06-09 10:06:46] CGamescopeController: set composite force: 0
+[2026-06-09 10:06:48] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:06:54] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:06:56] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:08:08] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_COLOR_APP_WANTS_HDR_FEEDBACK
+[2026-06-09 10:08:08] CGamescopeControllerLinux::YldGetState(): app-wants: 0
+[2026-06-09 10:08:34] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:08:36] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 10:24:23] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 10:24:23] Initialized CSystemDockManagerController: 1
+[2026-06-09 10:24:23] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 10:24:23] Initialized CSystemDisplayController: 1
+[2026-06-09 10:24:23] Initialized CSystemPerfController: 1
+[2026-06-09 10:24:23] Initialized CSteamUINetworkController: 1
+[2026-06-09 10:24:23] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 10:24:23] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 10:24:23] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 10:24:23] Initialized CSystemReportController
+[2026-06-09 10:24:23] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 10:24:23] CGamescopeController: initalized implementation: linux
+[2026-06-09 10:24:24] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 10:24:26] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 10:24:26] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:24:27] Allow drive unmount: 0
+[2026-06-09 10:24:27] Allow drive adopt: 0
+[2026-06-09 10:24:27] Trim supported: 0 - 
+[2026-06-09 10:24:27] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 10:24:27] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 10:24:27] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 10:24:27] CGamescopeController: set allow tearing: 0
+[2026-06-09 10:24:27] CGamescopeController: set composite debug: 0
+[2026-06-09 10:24:27] CGamescopeController: set composite force: 0
+[2026-06-09 10:24:28] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 10:24:39] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_COLOR_APP_WANTS_HDR_FEEDBACK
+[2026-06-09 10:24:39] CGamescopeControllerLinux::YldGetState(): app-wants: 0
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 11:22:34] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 11:22:34] Initialized CSystemDockManagerController: 1
+[2026-06-09 11:22:34] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 11:22:34] Initialized CSystemDisplayController: 1
+[2026-06-09 11:22:34] Initialized CSystemPerfController: 1
+[2026-06-09 11:22:34] Initialized CSteamUINetworkController: 1
+[2026-06-09 11:22:34] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 11:22:34] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 11:22:34] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 11:22:34] Initialized CSystemReportController
+[2026-06-09 11:22:34] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 11:22:34] CGamescopeController: initalized implementation: linux
+[2026-06-09 11:22:35] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 11:22:37] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 11:22:37] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 11:22:38] Allow drive unmount: 0
+[2026-06-09 11:22:38] Allow drive adopt: 0
+[2026-06-09 11:22:38] Trim supported: 0 - 
+[2026-06-09 11:22:38] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 11:22:38] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 11:22:38] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 11:22:38] CGamescopeController: set allow tearing: 0
+[2026-06-09 11:22:38] CGamescopeController: set composite debug: 0
+[2026-06-09 11:22:38] CGamescopeController: set composite force: 0
+[2026-06-09 11:22:39] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 11:22:52] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_COLOR_APP_WANTS_HDR_FEEDBACK
+[2026-06-09 11:22:52] CGamescopeControllerLinux::YldGetState(): app-wants: 0
+
+
+[2026-06-09 11:36:05] Client version: 1780352834
+[2026-06-09 11:36:05] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 11:36:05] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 11:36:05] Initialized CSystemDockManagerController: 1
+[2026-06-09 11:36:05] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 11:36:05] Initialized CSystemDisplayController: 1
+[2026-06-09 11:36:05] Initialized CSystemPerfController: 1
+[2026-06-09 11:36:05] Initialized CSteamUINetworkController: 1
+[2026-06-09 11:36:05] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 11:36:05] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 11:36:05] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 11:36:05] Initialized CSystemReportController
+[2026-06-09 11:36:05] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 11:36:05] CGamescopeController: initalized implementation: linux
+
+
+[2026-06-09 11:36:54] Client version: 1780352834
+[2026-06-09 11:36:54] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 11:36:54] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 11:36:54] Initialized CSystemDockManagerController: 1
+[2026-06-09 11:36:54] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 11:36:54] Initialized CSystemDisplayController: 1
+[2026-06-09 11:36:54] Initialized CSystemPerfController: 1
+[2026-06-09 11:36:54] Initialized CSteamUINetworkController: 1
+[2026-06-09 11:36:54] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 11:36:54] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 11:36:54] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 11:36:54] Initialized CSystemReportController
+[2026-06-09 11:36:54] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 11:36:54] CGamescopeController: initalized implementation: linux
+
+
+[2026-06-09 12:06:47] Client version: 1780352834
+[2026-06-09 12:06:47] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 12:06:47] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 12:06:47] Initialized CSystemDockManagerController: 1
+[2026-06-09 12:06:47] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 12:06:47] Initialized CSystemDisplayController: 1
+[2026-06-09 12:06:47] Initialized CSystemPerfController: 1
+[2026-06-09 12:06:47] Initialized CSteamUINetworkController: 1
+[2026-06-09 12:06:47] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 12:06:47] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 12:06:47] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 12:06:47] Initialized CSystemReportController
+[2026-06-09 12:06:47] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 12:06:47] CGamescopeController: initalized implementation: linux
+[2026-06-09 12:06:49] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 12:06:50] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 12:06:51] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 12:06:51] Allow drive unmount: 0
+[2026-06-09 12:06:51] Allow drive adopt: 0
+[2026-06-09 12:06:51] Trim supported: 0 - 
+[2026-06-09 12:06:51] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 12:06:51] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 12:06:51] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 12:06:51] CGamescopeController: set allow tearing: 0
+[2026-06-09 12:06:51] CGamescopeController: set composite debug: 0
+[2026-06-09 12:06:51] CGamescopeController: set composite force: 0
+[2026-06-09 12:06:52] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 12:07:01] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 12:07:02] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 12:07:06] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 12:07:06] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+
+
+[2026-06-09 12:43:33] Client version: 1780352834
+[2026-06-09 12:43:33] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 12:43:33] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 12:43:33] Initialized CSystemDockManagerController: 1
+[2026-06-09 12:43:33] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 12:43:33] Initialized CSystemDisplayController: 1
+[2026-06-09 12:43:33] Initialized CSystemPerfController: 1
+[2026-06-09 12:43:33] Initialized CSteamUINetworkController: 1
+[2026-06-09 12:43:33] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 12:43:33] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 12:43:33] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 12:43:33] Initialized CSystemReportController
+[2026-06-09 12:43:33] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 12:43:33] CGamescopeController: initalized implementation: linux
+[2026-06-09 12:43:35] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 12:43:37] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 12:43:38] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 12:43:38] Allow drive unmount: 0
+[2026-06-09 12:43:38] Allow drive adopt: 0
+[2026-06-09 12:43:38] Trim supported: 0 - 
+[2026-06-09 12:43:38] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 12:43:38] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 12:43:38] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 12:43:38] CGamescopeController: set allow tearing: 0
+[2026-06-09 12:43:38] CGamescopeController: set composite debug: 0
+[2026-06-09 12:43:38] CGamescopeController: set composite force: 0
+[2026-06-09 12:43:40] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 12:43:53] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_COLOR_APP_WANTS_HDR_FEEDBACK
+[2026-06-09 12:43:53] CGamescopeControllerLinux::YldGetState(): app-wants: 0
+
+
+[2026-06-09 12:49:41] Client version: 1780352834
+[2026-06-09 12:49:41] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VIEWPORT_SUPPORTED
+[2026-06-09 12:49:41] Error: CX11WindowProperty: failed to read window property: GAMESCOPE_VROVERLAY_FORWARDING
+[2026-06-09 12:49:41] Initialized CSystemDockManagerController: 1
+[2026-06-09 12:49:41] Initialized CSystemAudioDeviceController: 1
+[2026-06-09 12:49:41] Initialized CSystemDisplayController: 1
+[2026-06-09 12:49:41] Initialized CSystemPerfController: 1
+[2026-06-09 12:49:41] Initialized CSteamUINetworkController: 1
+[2026-06-09 12:49:41] Initialized CSteamOSTelemetry: version: (null)
+[2026-06-09 12:49:41] Error: BHaveMinimumVersion: failed to parse version string
+[2026-06-09 12:49:41] Error: Initialize: SLS daemon does not meet the minimum required version - telemetry will not be enabled
+[2026-06-09 12:49:41] Initialized CSystemReportController
+[2026-06-09 12:49:41] CGamescopeController: set HDR Enabled: 1
+[2026-06-09 12:49:41] CGamescopeController: initalized implementation: linux
+[2026-06-09 12:49:43] operator(): /usr/bin/steamos-polkit-helpers/steamos-devkit-mode --disable: failed
+[2026-06-09 12:49:45] System details: vendor:ayn,odin2portal device:3003480485 codename:resolute variant: version:26.04 build: bios:unknown hardware:'SteamOSGeneric' cef_debugging:0
+[2026-06-09 12:49:46] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0
+[2026-06-09 12:49:46] Allow drive unmount: 0
+[2026-06-09 12:49:46] Allow drive adopt: 0
+[2026-06-09 12:49:46] Trim supported: 0 - 
+[2026-06-09 12:49:46] RescheduleTrimAll: ignoring request because trim is unsupported
+[2026-06-09 12:49:46] CGamescopeController: set unified framerate UI enabled: 1
+[2026-06-09 12:49:46] CGamescopeController: set include steamui in screenshots: 0
+[2026-06-09 12:49:46] CGamescopeController: set allow tearing: 0
+[2026-06-09 12:49:46] CGamescopeController: set composite debug: 0
+[2026-06-09 12:49:46] CGamescopeController: set composite force: 0
+[2026-06-09 12:49:48] CGamescopeController: YldSetBlurParams: mode:0 radius:0 duration:0

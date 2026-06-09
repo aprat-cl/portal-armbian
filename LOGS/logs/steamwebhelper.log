@@ -1,0 +1,49 @@
+06/09 12:49:42 /tmp/dumps: is not owned by us - delete and recreate.
+06/09 12:49:42 /tmp/dumps: could not delete, skipping.
+06/09 12:49:42 minidumps folder is set to /tmp/dumps01
+[0609/124942.145072:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[0609/124942.207667:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[0609/124942.207968:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1780352834
+[0609/124942.207977:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[0609/124942.207984:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[0609/124942.207987:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Linux
+[0609/124942.208805:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[0609/124942.212011:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[0609/124942.212174:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1780351465
+[0609/124942.212181:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[0609/124942.212185:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[0609/124942.212188:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Linux
+[0609/124942.220104:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[0609/124942.220307:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1780352834
+[0609/124942.220313:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[0609/124942.220317:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[0609/124942.220320:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Linux
+[0609/124942.220793:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[0609/124942.704351:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[0609/124942.704535:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1780352834
+[0609/124942.704544:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[0609/124942.704548:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[0609/124942.704553:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Linux
+[0609/124942.705011:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+06/09 12:49:45 /tmp/dumps: is not owned by us - delete and recreate.
+06/09 12:49:45 /tmp/dumps: could not delete, skipping.
+06/09 12:49:45 minidumps folder is set to /tmp/dumps01
+[30494:30494:0609/124945.832999:ERROR:atom_cache.cc(229)] Add STEAM_GAME to kAtomsToCache
+
+(steamwebhelper:30494): Gtk-WARNING **: 12:49:46.793: /usr/lib/aarch64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so: undefined symbol: ibus_input_context_set_post_process_key_event
+
+(steamwebhelper:30494): Gtk-WARNING **: 12:49:46.793: Loading IM context type 'ibus' failed
+[30494:30494:0609/124946.840880:ERROR:atom_cache.cc(229)] Add _NET_WM_STATE_KEEP_ABOVE to kAtomsToCache
+[30684:30752:0609/124947.170219:ERROR:ffmpeg_common.cc(959)] Unsupported pixel format: -1
+[30529:30822:0609/124947.174552:ERROR:v4l2_utils.cc(507)] Could not open /dev/video-dec0: No such file or directory (2)
+[30684:30752:0609/124947.173402:ERROR:ffmpeg_common.cc(959)] Unsupported pixel format: -1
+[0609/124947.256350:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[0609/124947.256553:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1780352834
+[0609/124947.256563:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[0609/124947.256568:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[0609/124947.256609:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Linux
+[0609/124947.257109:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[30529:30529:0609/125002.233491:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[30684:30752:0609/125002.479854:ERROR:ffmpeg_common.cc(959)] Unsupported pixel format: -1
+[30529:30529:0609/125015.807809:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[30529:30529:0609/125100.126595:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!

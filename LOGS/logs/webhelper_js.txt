@@ -1,0 +1,1993 @@
+
+
+[2026-06-09 00:41:52] Client version: no bootstrapper found
+[2026-06-09 00:41:52] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=&LAUNCHER_TYPE=0&CLIENT_SESSION=1780980111&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 00:41:52] SteamUI: INFO: setting locale: en
+[2026-06-09 00:41:53] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 00:41:53] SteamUI: INFO: websocket open
+[2026-06-09 00:41:53] SteamUI: INFO: websocket open
+[2026-06-09 00:41:53] SteamUI: INFO: connection ready
+[2026-06-09 00:41:53] SteamUI: INFO: connection ready
+[2026-06-09 00:41:53] SteamUI: INFO: Connection status: connected
+[2026-06-09 00:41:53] SteamUI: INFO: SteamApp Init - WebUI Transport - 213ms
+[2026-06-09 00:41:53] SteamUI: INFO: async WebUITransportStore - 211.1ms
+[2026-06-09 00:41:53] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:41:53] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 00:41:53] SteamUI: INFO: Init localization english
+[2026-06-09 00:41:53] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 00:41:53] SteamUI: INFO: SteamApp Init - Before Login - 152.2ms
+[2026-06-09 00:41:53] SteamUI: INFO: VirtualMenuStore - 0.3ms
+[2026-06-09 00:41:53] SteamUI: INFO: NotificationStore - 0.1ms
+[2026-06-09 00:41:53] SteamUI: INFO: FriendsChatStore - 1ms
+[2026-06-09 00:41:53] SteamUI: INFO: SuspendResumeStore - 0.3ms
+[2026-06-09 00:41:53] SteamUI: INFO: SteamingStore - 0.5ms
+[2026-06-09 00:41:53] SteamUI: INFO: ConsoleStore - 0ms
+[2026-06-09 00:41:53] SteamUI: INFO: FocusedAppWindowStore - 0.2ms
+[2026-06-09 00:41:53] SteamUI: INFO: VRStore - 0.7ms
+[2026-06-09 00:41:53] SteamUI: INFO: async OverlayModalDialogsStore - 16ms
+[2026-06-09 00:41:53] SteamUI: INFO: async SystemNetworkStore - 16ms
+[2026-06-09 00:41:53] SteamUI: INFO: async SystemReportStore - 16.2ms
+[2026-06-09 00:41:53] SteamUI: INFO: async SimpleTests - 16.3ms
+[2026-06-09 00:41:53] SteamUI: INFO: async VRGamepadUIMessages - 16.3ms
+[2026-06-09 00:41:53] SteamUI: INFO: async VRAudioSettingsStore - 16.4ms
+[2026-06-09 00:41:53] SteamUI: INFO: async SteamURLStore - 16.4ms
+[2026-06-09 00:41:53] SteamUI: INFO: async IBusConnection - 21.1ms
+[2026-06-09 00:41:53] SteamUI: INFO: async Localization - 69.4ms
+[2026-06-09 00:41:53] SteamUI: INFO: async CM Connect - 70.6ms
+[2026-06-09 00:41:53] SteamUI: INFO: async BasicUIStore - 72.1ms
+[2026-06-09 00:41:53] SteamUI: INFO: async SecurityStore - 72.7ms
+[2026-06-09 00:41:53] SteamUI: INFO: async KeyboardSettingsStore - 73ms
+[2026-06-09 00:41:53] SteamUI: INFO: async ParentalStore - 75.5ms
+[2026-06-09 00:41:53] SteamUI: INFO: async URLStore - 105.1ms
+[2026-06-09 00:41:53] SteamUI: INFO: async LoginStore - 152.1ms
+[2026-06-09 00:41:53] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:41:53] SteamUI: INFO: SteamAppInit - ControllerStore - 30.7ms
+[2026-06-09 00:41:53] SteamUI: INFO: async ControllerStore - 30.6ms
+[2026-06-09 00:41:53] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:41:53] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":1780352834,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 00:41:54] SteamUI: INFO: OnLoginStateChange  1 1 0 0
+[2026-06-09 00:42:24] SteamUI: INFO: received authentication token, using it to sign in to Steam
+[2026-06-09 00:42:24] SteamUI: INFO: OnLoginStateChange  3 1 0 0
+[2026-06-09 00:42:24] SteamUI: INFO: OnLoginStateChange  2 1 0 0
+[2026-06-09 00:42:24] SteamUI: INFO: OnLoginStateChange  3 1 0 0
+[2026-06-09 00:42:24] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 00:42:24] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 00:42:24] SteamUI: INFO: client login returned 1 (Success)
+[2026-06-09 00:42:26] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 0
+[2026-06-09 00:42:26] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 1
+[2026-06-09 00:42:27] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 0
+[2026-06-09 00:42:27] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 0.016585364937782288
+[2026-06-09 00:42:29] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 0.22634145617485046
+[2026-06-09 00:42:29] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 0.8917073011398315
+[2026-06-09 00:42:29] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 1
+[2026-06-09 00:42:30] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 00:42:31] SteamUI: ERROR: Error reporting was initialized after being disabled, possibly dropping errors.
+[2026-06-09 00:42:31] SteamUI: INFO: Init localization english
+[2026-06-09 00:42:31] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 00:42:31] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 228.5ms
+[2026-06-09 00:42:31] SteamUI: INFO: async CM Connection - 19.6ms
+[2026-06-09 00:42:31] SteamUI: INFO: async GameActionStore - 19.7ms
+[2026-06-09 00:42:31] SteamUI: INFO: async SystemInfoStore - 19.7ms
+[2026-06-09 00:42:31] SteamUI: INFO: async SystemNetworkStore - 19.8ms
+[2026-06-09 00:42:31] SteamUI: INFO: async localization - 41.9ms
+[2026-06-09 00:42:31] SteamUI: INFO: async CloudStorage - 48.9ms
+[2026-06-09 00:42:31] SteamUI: INFO: async AchievementProgress - 55.6ms
+[2026-06-09 00:42:31] SteamUI: INFO: async SettingsStore - 190.5ms
+[2026-06-09 00:42:31] SteamUI: INFO: async URLStore - 198.8ms
+[2026-06-09 00:42:31] SteamUI: INFO: async FriendsChatStore - Startup - 228.4ms
+[2026-06-09 00:42:31] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:42:31] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 00:42:31] SteamUI: INFO: Reset Open Mic hotkey to None on first run of new client in open mic mode
+[2026-06-09 00:42:32] SteamUI: INFO: FriendsUI ReadyToRender - 792.2ms
+[2026-06-09 00:42:32] SteamUI: INFO: VoiceChatStore - 0.2ms
+[2026-06-09 00:42:32] SteamUI: INFO: SettingsStore - 0.1ms
+[2026-06-09 00:42:32] SteamUI: INFO: AppInfoStore - 0ms
+[2026-06-09 00:42:32] SteamUI: INFO: UIStore - 0.1ms
+[2026-06-09 00:42:32] SteamUI: INFO: EconomyStore - 0ms
+[2026-06-09 00:42:32] SteamUI: INFO: ParentalStore - 0.1ms
+[2026-06-09 00:42:32] SteamUI: INFO: BroadcastStore - 0ms
+[2026-06-09 00:42:32] SteamUI: INFO: RemotePlayStore - 1ms
+[2026-06-09 00:42:32] SteamUI: INFO: GroupMemberStore - 0.2ms
+[2026-06-09 00:42:32] SteamUI: INFO: UserStore - 0.1ms
+[2026-06-09 00:42:32] SteamUI: INFO: VRPopupManager - 0.5ms
+[2026-06-09 00:42:32] SteamUI: INFO: async Load Preferences - 131.9ms
+[2026-06-09 00:42:32] SteamUI: INFO: async Clock Drift - 287.5ms
+[2026-06-09 00:42:32] SteamUI: INFO: async ChatStore - 495.6ms
+[2026-06-09 00:42:32] SteamUI: INFO: async FriendStore - 792ms
+[2026-06-09 00:42:32] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:42:32] SteamUI: VERBOSE: CAppStore Init: 466.865966796875 ms
+[2026-06-09 00:42:32] SteamUI: INFO: SteamApp Init - AppStore - 467.4ms
+[2026-06-09 00:42:32] SteamUI: INFO: async AppStore - 467.2ms
+[2026-06-09 00:42:32] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:42:32] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 37.2ms
+[2026-06-09 00:42:32] SteamUI: INFO: async FriendStore - 36.7ms
+[2026-06-09 00:42:32] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:42:33] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 62.4ms
+[2026-06-09 00:42:33] SteamUI: INFO: async CollectionStore - 62.3ms
+[2026-06-09 00:42:33] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:42:33] SteamUI: VERBOSE: CUIStore Init: 129.613037109375 ms
+[2026-06-09 00:42:33] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 315.2ms
+[2026-06-09 00:42:33] SteamUI: INFO: AppInfoStore - 0ms
+[2026-06-09 00:42:33] SteamUI: INFO: AppActivityStore - 0.8ms
+[2026-06-09 00:42:33] SteamUI: INFO: AppDetailsStore - 0.1ms
+[2026-06-09 00:42:33] SteamUI: INFO: AppReviewStore - 0ms
+[2026-06-09 00:42:33] SteamUI: INFO: WorkshopStore - 0.3ms
+[2026-06-09 00:42:33] SteamUI: INFO: BadgeStore - 0.4ms
+[2026-06-09 00:42:33] SteamUI: INFO: DownloadsStore - 0.3ms
+[2026-06-09 00:42:33] SteamUI: INFO: FAQStore - 0.2ms
+[2026-06-09 00:42:33] SteamUI: INFO: ControllerConfigStore - 0.5ms
+[2026-06-09 00:42:33] SteamUI: INFO: InstallFolderStore - 0.1ms
+[2026-06-09 00:42:33] SteamUI: INFO: SubscriberAgreementStore - 0ms
+[2026-06-09 00:42:33] SteamUI: INFO: ScreenshotStore - 0.2ms
+[2026-06-09 00:42:33] SteamUI: INFO: DiscoveryQueueStore - 0.2ms
+[2026-06-09 00:42:33] SteamUI: INFO: MarketingStore - 0ms
+[2026-06-09 00:42:33] SteamUI: INFO: RemotePlayStore - 0.4ms
+[2026-06-09 00:42:33] SteamUI: INFO: OverlayStore - 0.6ms
+[2026-06-09 00:42:33] SteamUI: INFO: ServerBrowserStore - 0.1ms
+[2026-06-09 00:42:33] SteamUI: INFO: MusicStore - 0.1ms
+[2026-06-09 00:42:33] SteamUI: INFO: HardwareUpdaterStore - 0.4ms
+[2026-06-09 00:42:33] SteamUI: INFO: SystemAudioStore - 1.1ms
+[2026-06-09 00:42:33] SteamUI: INFO: async CommunityStore - 19.5ms
+[2026-06-09 00:42:33] SteamUI: INFO: async SettingsZooStore - 26.8ms
+[2026-06-09 00:42:33] SteamUI: INFO: async SearchStore - 27ms
+[2026-06-09 00:42:33] SteamUI: INFO: async AchievementStore - 27ms
+[2026-06-09 00:42:33] SteamUI: INFO: async GameReleasedStore - 27ms
+[2026-06-09 00:42:33] SteamUI: INFO: async GamescopeStore - 27ms
+[2026-06-09 00:42:33] SteamUI: INFO: async SystemStorageStore - 27ms
+[2026-06-09 00:42:33] SteamUI: INFO: async SDCardStore - 27.2ms
+[2026-06-09 00:42:33] SteamUI: INFO: async SteamOSStore - 27.2ms
+[2026-06-09 00:42:33] SteamUI: INFO: async LEDManagerStore - 27.2ms
+[2026-06-09 00:42:33] SteamUI: INFO: async BluetoothStore - 27.3ms
+[2026-06-09 00:42:33] SteamUI: INFO: async ControllerConfigInterstitialStore - 27.5ms
+[2026-06-09 00:42:33] SteamUI: INFO: async LibraryEventStore - 27.6ms
+[2026-06-09 00:42:33] SteamUI: INFO: async ShowcaseStore - 27.6ms
+[2026-06-09 00:42:33] SteamUI: INFO: async AppSpotlightsStore - 125.8ms
+[2026-06-09 00:42:33] SteamUI: INFO: async LibraryUIStore - 131.8ms
+[2026-06-09 00:42:33] SteamUI: INFO: async PlayNextStore - 132.1ms
+[2026-06-09 00:42:33] SteamUI: INFO: async TrendingStore - 143.8ms
+[2026-06-09 00:42:33] SteamUI: INFO: async UserProfileStore - 144.1ms
+[2026-06-09 00:42:33] SteamUI: INFO: async BasicUIStore - with user - 145.1ms
+[2026-06-09 00:42:33] SteamUI: INFO: async KeyboardSettingsStore - 146.9ms
+[2026-06-09 00:42:33] SteamUI: INFO: async EmojiStore - 152.1ms
+[2026-06-09 00:42:33] SteamUI: INFO: async SteamNotificationsStore - 153.2ms
+[2026-06-09 00:42:33] SteamUI: INFO: async EAAccessPromptManager - 153.7ms
+[2026-06-09 00:42:33] SteamUI: INFO: async GRS - 154.4ms
+[2026-06-09 00:42:33] SteamUI: INFO: async DynamicUserStore - 315ms
+[2026-06-09 00:42:33] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:42:33] SteamUI: VERBOSE: SteamApp Init - After Login: 2122.553955078125 ms
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1121560 0 /assets/1121560/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1121560 0 /assets/1121560/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1284190 0 /assets/1284190/2d00fd6853d1ad7e1ebc0def698191d0f8ad7483/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1284190 0 /assets/1284190/2d00fd6853d1ad7e1ebc0def698191d0f8ad7483/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 233860 0 /assets/233860/589fd26c9c30421a7472a1b9934098c9affd439b/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 233860 0 /assets/233860/589fd26c9c30421a7472a1b9934098c9affd439b/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 275850 0 /assets/275850/37ab99f725ae803a183af3dd7f781895bd1cf746/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 275850 0 /assets/275850/37ab99f725ae803a183af3dd7f781895bd1cf746/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 3405340 0 /assets/3405340/82061d7868598ec310ee43f38122a5b3470f5c4f/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 3405340 0 /assets/3405340/82061d7868598ec310ee43f38122a5b3470f5c4f/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 391540 0 /assets/391540/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 391540 0 /assets/391540/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 686060 0 /assets/686060/ea77c084fe08e1654380778ef73f613185e7a6ca/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 686060 0 /assets/686060/ea77c084fe08e1654380778ef73f613185e7a6ca/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 645730 0 /assets/645730/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 645730 0 /assets/645730/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1691750 0 /assets/1691750/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1691750 0 /assets/1691750/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 993090 0 /assets/993090/cf61f5661bf92791cfd16fe878e5eec7add0a14f/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 993090 0 /assets/993090/cf61f5661bf92791cfd16fe878e5eec7add0a14f/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 2864560 0 /assets/2864560/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 2864560 0 /assets/2864560/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 435150 0 /assets/435150/17d2c60b4165c5d84b375752ea44ca77141f5d9a/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 435150 0 /assets/435150/17d2c60b4165c5d84b375752ea44ca77141f5d9a/library_capsule.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 373420 0 /assets/373420/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 373420 0 /assets/373420/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 219780 0 /assets/219780/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 219780 0 /assets/219780/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 219760 0 /assets/219760/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 219760 0 /assets/219760/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 214170 0 /assets/214170/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 214170 0 /assets/214170/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1004640 0 /assets/1004640/988d2f00c81b45d6aab89e5a1737d0737165f905/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1004640 0 /assets/1004640/988d2f00c81b45d6aab89e5a1737d0737165f905/library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 892970 4 /assets/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 377160 4 /assets/377160/779c4356ebe32af2af7c9f0bbba595dfe872cd7f.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 359320 4 /assets/359320/670f2f289a180f7ac291585df847009640ebf1c5.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 322330 4 /assets/322330/a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 322330 4 /assets/322330/a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1121560 0 /assets/1121560_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1121560 0 /assets/1121560_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1284190 0 /assets/1284190_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1284190 0 /assets/1284190_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 233860 0 /assets/233860_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 233860 0 /assets/233860_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 275850 0 /assets/275850_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 275850 0 /assets/275850_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 3405340 0 /assets/3405340_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 3405340 0 /assets/3405340_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 391540 0 /assets/391540_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 391540 0 /assets/391540_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 686060 0 /assets/686060_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 686060 0 /assets/686060_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 645730 0 /assets/645730_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 645730 0 /assets/645730_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 993090 0 /assets/993090_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 993090 0 /assets/993090_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1691750 0 /assets/1691750_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1691750 0 /assets/1691750_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 2864560 0 /assets/2864560_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 2864560 0 /assets/2864560_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 435150 0 /assets/435150_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 435150 0 /assets/435150_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 373420 0 /assets/373420_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 373420 0 /assets/373420_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 219780 0 /assets/219780_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 219780 0 /assets/219780_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 219760 0 /assets/219760_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 219760 0 /assets/219760_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 214170 0 /assets/214170_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 214170 0 /assets/214170_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1004640 0 /assets/1004640_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 1004640 0 /assets/1004640_library_600x900.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 892970 4 /assets/892970_icon.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 359320 4 /assets/359320_icon.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 322330 4 /assets/322330_icon.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 322330 4 /assets/322330_icon.jpg?c=0
+[2026-06-09 00:42:33] SteamUI: INFO: Reporting cache miss for 377160 4 /assets/377160_icon.jpg?c=0
+[2026-06-09 00:42:51] SteamUI: WARNING: Failed to load app details cache data for 1675200
+[2026-06-09 00:43:00] SteamUI: ERROR: Missing config element # application_config
+[2026-06-09 00:43:09] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620,607880,300060,35140,57400,209000,21680,582660,242960,863460,50620,216250,329050,214170,219780,1812390,489830,38420,493540,2290,340170,245730,12170,12100,3240220,271590,12110,247430,6010,8190,35130,224300,224920,224940,6510,50130,226320,200110,2139460,215100,339340,1649240,39120,300550,2124490,242880,202170,63380,50300,17390,17440,6030,6020,1716740,463350,429660,323370,211600,211740,249330,552500,9000,7760,7650,7660,207350
+[2026-06-09 00:43:09] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:43:09] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:43:09] SteamUI: WARNING: Blocking touch scroll out of bounds
+[2026-06-09 00:43:09] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:43:09] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:43:10] SteamUI: WARNING: Failed to load app details cache data for 233860
+[2026-06-09 00:43:10] SteamUI: INFO: Restoring history for state State_tz29cn
+[2026-06-09 00:43:11] SteamUI: ERROR: Missing config element # application_config
+[2026-06-09 00:43:11] SteamUI: ERROR: Missing config element # application_config
+[2026-06-09 00:43:20] SteamUI: INFO: prompt for eula 678960_eula_0
+[2026-06-09 00:43:23] SteamUI: INFO: prompt for eula 678960_eula_0
+[2026-06-09 00:43:27] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:43:28] SteamUI: INFO: Restoring history for state State_tz29cn
+[2026-06-09 00:43:28] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:43:29] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:43:30] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:43:47] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:43:51] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:44:05] SP BPM_uid0-'Steam Big ': ERROR: https://steamloopback.host/libraries/libraries~00299a408.js:2: Unable to preventDefault inside passive event listener invocation.
+[2026-06-09 00:44:05] SteamUI: INFO: onGlobalMenuButtonDown SP BPM_uid0
+[2026-06-09 00:44:11] SteamUI: INFO: Force recreating overlays...
+[2026-06-09 00:44:11] SteamUI: VERBOSE: SteamApp Init: 2.088134765625 ms
+[2026-06-09 00:44:15] SteamBrowser-'Welcome to': INFO: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: Suspense boundary mounted.
+[2026-06-09 00:44:16] SteamBrowser-'Welcome to': INFO: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: Suspense boundary unmounted.
+[2026-06-09 00:44:17] SteamUI: VERBOSE: Library Init: 0.60498046875 ms
+[2026-06-09 00:44:17] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 00:44:17] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 00:44:17] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 00:45:16] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 00:45:16] SteamUI: INFO: start reconnect
+[2026-06-09 00:45:16] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 00:45:16] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 00:45:16] SteamUI: INFO: start reconnect
+[2026-06-09 00:45:16] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 00:45:16] SteamUI: WARNING: websocket error
+[2026-06-09 00:45:16] SteamUI: WARNING: websocket error
+[2026-06-09 00:45:16] SteamUI: WARNING: failed to reach open state
+[2026-06-09 00:45:16] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 00:45:16] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+[2026-06-09 00:45:16] SteamUI: WARNING: failed to reach open state
+[2026-06-09 00:45:16] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 00:45:16] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+
+
+[2026-06-09 00:45:29] Client version: no bootstrapper found
+[2026-06-09 00:45:29] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1780980318&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 00:45:29] SteamUI: INFO: setting locale: en
+[2026-06-09 00:45:30] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 00:45:30] SteamUI: INFO: websocket open
+[2026-06-09 00:45:30] SteamUI: INFO: connection ready
+[2026-06-09 00:45:30] SteamUI: INFO: websocket open
+[2026-06-09 00:45:30] SteamUI: INFO: connection ready
+[2026-06-09 00:45:30] SteamUI: INFO: Connection status: connected
+[2026-06-09 00:45:30] SteamUI: INFO: SteamApp Init - WebUI Transport - 301.6ms
+[2026-06-09 00:45:30] SteamUI: INFO: async WebUITransportStore - 299.8ms
+[2026-06-09 00:45:30] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:45:30] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 00:45:30] SteamUI: INFO: Init localization english
+[2026-06-09 00:45:31] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 00:45:31] SteamUI: INFO: SteamApp Init - Before Login - 164.9ms
+[2026-06-09 00:45:31] SteamUI: INFO: VirtualMenuStore - 0.2ms
+[2026-06-09 00:45:31] SteamUI: INFO: NotificationStore - 0.1ms
+[2026-06-09 00:45:31] SteamUI: INFO: FriendsChatStore - 0.9ms
+[2026-06-09 00:45:31] SteamUI: INFO: SuspendResumeStore - 0.4ms
+[2026-06-09 00:45:31] SteamUI: INFO: SteamingStore - 0.5ms
+[2026-06-09 00:45:31] SteamUI: INFO: ConsoleStore - 0.1ms
+[2026-06-09 00:45:31] SteamUI: INFO: FocusedAppWindowStore - 0.3ms
+[2026-06-09 00:45:31] SteamUI: INFO: VRStore - 0.6ms
+[2026-06-09 00:45:31] SteamUI: INFO: async OverlayModalDialogsStore - 15.4ms
+[2026-06-09 00:45:31] SteamUI: INFO: async SystemNetworkStore - 15.5ms
+[2026-06-09 00:45:31] SteamUI: INFO: async SystemReportStore - 15.7ms
+[2026-06-09 00:45:31] SteamUI: INFO: async SimpleTests - 15.8ms
+[2026-06-09 00:45:31] SteamUI: INFO: async VRGamepadUIMessages - 15.8ms
+[2026-06-09 00:45:31] SteamUI: INFO: async VRAudioSettingsStore - 15.9ms
+[2026-06-09 00:45:31] SteamUI: INFO: async SteamURLStore - 15.9ms
+[2026-06-09 00:45:31] SteamUI: INFO: async IBusConnection - 23.7ms
+[2026-06-09 00:45:31] SteamUI: INFO: async Localization - 61.2ms
+[2026-06-09 00:45:31] SteamUI: INFO: async CM Connect - 65.2ms
+[2026-06-09 00:45:31] SteamUI: INFO: async BasicUIStore - 66.6ms
+[2026-06-09 00:45:31] SteamUI: INFO: async SecurityStore - 67.2ms
+[2026-06-09 00:45:31] SteamUI: INFO: async KeyboardSettingsStore - 67.4ms
+[2026-06-09 00:45:31] SteamUI: INFO: async ParentalStore - 69.9ms
+[2026-06-09 00:45:31] SteamUI: INFO: async URLStore - 108.4ms
+[2026-06-09 00:45:31] SteamUI: INFO: async LoginStore - 164.7ms
+[2026-06-09 00:45:31] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:45:31] SteamUI: INFO: SteamAppInit - ControllerStore - 54.3ms
+[2026-06-09 00:45:31] SteamUI: INFO: async ControllerStore - 54.2ms
+[2026-06-09 00:45:31] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:45:31] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":1780352834,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 00:45:31] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 00:45:31] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 00:45:32] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 00:45:32] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 00:45:32] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 00:45:33] SteamUI: INFO: Init localization english
+[2026-06-09 00:45:33] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 00:45:33] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 00:45:33] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 00:45:33] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 215.6ms
+[2026-06-09 00:45:33] SteamUI: INFO: async CM Connection - 19.4ms
+[2026-06-09 00:45:33] SteamUI: INFO: async GameActionStore - 19.6ms
+[2026-06-09 00:45:33] SteamUI: INFO: async SystemInfoStore - 19.7ms
+[2026-06-09 00:45:33] SteamUI: INFO: async SystemNetworkStore - 19.7ms
+[2026-06-09 00:45:33] SteamUI: INFO: async localization - 31.8ms
+[2026-06-09 00:45:33] SteamUI: INFO: async AchievementProgress - 49.9ms
+[2026-06-09 00:45:33] SteamUI: INFO: async CloudStorage - 70.2ms
+[2026-06-09 00:45:33] SteamUI: INFO: async SettingsStore - 179.8ms
+[2026-06-09 00:45:33] SteamUI: INFO: async URLStore - 189ms
+[2026-06-09 00:45:33] SteamUI: INFO: async FriendsChatStore - Startup - 215.5ms
+[2026-06-09 00:45:33] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:45:33] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 00:45:33] SteamUI: VERBOSE: CAppStore Init: 468.5078125 ms
+[2026-06-09 00:45:33] SteamUI: INFO: SteamApp Init - AppStore - 469ms
+[2026-06-09 00:45:33] SteamUI: INFO: async AppStore - 468.8ms
+[2026-06-09 00:45:33] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:45:33] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 49.7ms
+[2026-06-09 00:45:33] SteamUI: INFO: async FriendStore - 49.5ms
+[2026-06-09 00:45:33] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:45:34] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 15.2ms
+[2026-06-09 00:45:34] SteamUI: INFO: async CollectionStore - 14.9ms
+[2026-06-09 00:45:34] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:45:34] SteamUI: VERBOSE: CUIStore Init: 44.35009765625 ms
+[2026-06-09 00:45:34] SteamUI: INFO: FriendsUI ReadyToRender - 967.8ms
+[2026-06-09 00:45:34] SteamUI: INFO: VoiceChatStore - 0.3ms
+[2026-06-09 00:45:34] SteamUI: INFO: SettingsStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: AppInfoStore - 0ms
+[2026-06-09 00:45:34] SteamUI: INFO: UIStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: EconomyStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: ParentalStore - 0ms
+[2026-06-09 00:45:34] SteamUI: INFO: BroadcastStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: RemotePlayStore - 0.9ms
+[2026-06-09 00:45:34] SteamUI: INFO: GroupMemberStore - 0.2ms
+[2026-06-09 00:45:34] SteamUI: INFO: UserStore - 0ms
+[2026-06-09 00:45:34] SteamUI: INFO: VRPopupManager - 0.6ms
+[2026-06-09 00:45:34] SteamUI: INFO: async Load Preferences - 306.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: async Clock Drift - 354ms
+[2026-06-09 00:45:34] SteamUI: INFO: async ChatStore - 622.2ms
+[2026-06-09 00:45:34] SteamUI: INFO: async FriendStore - 967.6ms
+[2026-06-09 00:45:34] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:45:34] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 434ms
+[2026-06-09 00:45:34] SteamUI: INFO: AppInfoStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: AppActivityStore - 0.8ms
+[2026-06-09 00:45:34] SteamUI: INFO: AppDetailsStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: AppReviewStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: WorkshopStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: BadgeStore - 0.3ms
+[2026-06-09 00:45:34] SteamUI: INFO: DownloadsStore - 0.3ms
+[2026-06-09 00:45:34] SteamUI: INFO: FAQStore - 0.2ms
+[2026-06-09 00:45:34] SteamUI: INFO: ControllerConfigStore - 0.4ms
+[2026-06-09 00:45:34] SteamUI: INFO: InstallFolderStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: SubscriberAgreementStore - 0ms
+[2026-06-09 00:45:34] SteamUI: INFO: ScreenshotStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: DiscoveryQueueStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: MarketingStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: RemotePlayStore - 0.7ms
+[2026-06-09 00:45:34] SteamUI: INFO: OverlayStore - 0.7ms
+[2026-06-09 00:45:34] SteamUI: INFO: ServerBrowserStore - 0.2ms
+[2026-06-09 00:45:34] SteamUI: INFO: MusicStore - 0.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: HardwareUpdaterStore - 0.4ms
+[2026-06-09 00:45:34] SteamUI: INFO: SystemAudioStore - 0.8ms
+[2026-06-09 00:45:34] SteamUI: INFO: async CommunityStore - 20.1ms
+[2026-06-09 00:45:34] SteamUI: INFO: async SettingsZooStore - 24.5ms
+[2026-06-09 00:45:34] SteamUI: INFO: async SearchStore - 24.7ms
+[2026-06-09 00:45:34] SteamUI: INFO: async AchievementStore - 24.7ms
+[2026-06-09 00:45:34] SteamUI: INFO: async GameReleasedStore - 24.7ms
+[2026-06-09 00:45:34] SteamUI: INFO: async GamescopeStore - 24.8ms
+[2026-06-09 00:45:34] SteamUI: INFO: async SystemStorageStore - 24.8ms
+[2026-06-09 00:45:34] SteamUI: INFO: async SDCardStore - 24.8ms
+[2026-06-09 00:45:34] SteamUI: INFO: async SteamOSStore - 24.8ms
+[2026-06-09 00:45:34] SteamUI: INFO: async LEDManagerStore - 24.9ms
+[2026-06-09 00:45:34] SteamUI: INFO: async BluetoothStore - 24.9ms
+[2026-06-09 00:45:34] SteamUI: INFO: async ControllerConfigInterstitialStore - 25.3ms
+[2026-06-09 00:45:34] SteamUI: INFO: async LibraryEventStore - 25.3ms
+[2026-06-09 00:45:34] SteamUI: INFO: async ShowcaseStore - 25.4ms
+[2026-06-09 00:45:34] SteamUI: INFO: async AppSpotlightsStore - 32.6ms
+[2026-06-09 00:45:34] SteamUI: INFO: async LibraryUIStore - 46.3ms
+[2026-06-09 00:45:34] SteamUI: INFO: async DynamicUserStore - 48.4ms
+[2026-06-09 00:45:34] SteamUI: INFO: async PlayNextStore - 135.5ms
+[2026-06-09 00:45:34] SteamUI: INFO: async UserProfileStore - 152.2ms
+[2026-06-09 00:45:34] SteamUI: INFO: async BasicUIStore - with user - 153.4ms
+[2026-06-09 00:45:34] SteamUI: INFO: async KeyboardSettingsStore - 155.3ms
+[2026-06-09 00:45:34] SteamUI: INFO: async EmojiStore - 160.3ms
+[2026-06-09 00:45:34] SteamUI: INFO: async SteamNotificationsStore - 161.8ms
+[2026-06-09 00:45:34] SteamUI: INFO: async EAAccessPromptManager - 162.3ms
+[2026-06-09 00:45:34] SteamUI: INFO: async GRS - 164.7ms
+[2026-06-09 00:45:34] SteamUI: INFO: async TrendingStore - 432.8ms
+[2026-06-09 00:45:34] SteamUI: INFO: console.groupEnd
+[2026-06-09 00:45:34] SteamUI: VERBOSE: SteamApp Init - After Login: 1190.93994140625 ms
+[2026-06-09 00:45:40] SteamUI: INFO: onGlobalMenuButtonDown SP BPM_uid0
+[2026-06-09 00:45:45] SteamUI: INFO: onGlobalMenuButtonDown SP BPM_uid0
+[2026-06-09 00:45:47] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 00:45:52] SteamUI: INFO: onGlobalMenuButtonDown SP BPM_uid0
+[2026-06-09 00:45:54] SteamUI: INFO: Force recreating overlays...
+[2026-06-09 00:45:54] SteamUI: VERBOSE: SteamApp Init: 1.7958984375 ms
+[2026-06-09 00:45:59] SteamBrowser-'Welcome to': INFO: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: Suspense boundary mounted.
+[2026-06-09 00:45:59] SteamUI: VERBOSE: Library Init: 0.410888671875 ms
+[2026-06-09 00:45:59] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 00:45:59] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 00:45:59] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 00:46:09] SteamUI: WARNING: Failed to load app details cache data for 4185400
+[2026-06-09 00:46:09] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400/library_600x900.jpg?c=367501192
+[2026-06-09 00:46:09] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400_library_600x900.jpg?c=367501192
+[2026-06-09 00:46:12] SteamUI: INFO: Reporting cache miss for 4185400 3 /assets/4185400/header.jpg?c=367501192
+[2026-06-09 00:46:12] SteamUI: INFO: Reporting cache miss for 4185400 3 /assets/4185400_header.jpg?c=367501192
+[2026-06-09 00:53:39] SteamUI: WARNING: Failed to load app details cache data for 4628740
+[2026-06-09 00:53:40] SteamUI: INFO: Reporting cache miss for 4628740 0 /assets/4628740/library_600x900.jpg?c=308733192
+[2026-06-09 00:53:40] SteamUI: INFO: Reporting cache miss for 4628740 0 /assets/4628740_library_600x900.jpg?c=308733192
+[2026-06-09 00:54:12] SteamUI: INFO: Community templates changed, regenerating all content
+[2026-06-09 00:54:15] SteamUI: INFO: Community templates changed, regenerating all content
+[2026-06-09 00:54:20] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400/library_600x900.jpg?c=367501192
+[2026-06-09 00:54:21] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400_library_600x900.jpg?c=367501192
+[2026-06-09 00:54:31] SteamUI: INFO: Reporting cache miss for 4185400 3 /assets/4185400/header.jpg?c=367501192
+[2026-06-09 00:54:31] SteamUI: INFO: Reporting cache miss for 4185400 3 /assets/4185400_header.jpg?c=367501192
+[2026-06-09 00:56:17] SteamUI: VERBOSE: Library Init: 2.650146484375 ms
+[2026-06-09 00:56:17] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400/library_600x900.jpg?c=367501192
+[2026-06-09 00:56:17] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400_library_600x900.jpg?c=367501192
+[2026-06-09 00:56:19] SteamUI: VERBOSE: skipped review render, waiting for roaming storage to initialize
+[2026-06-09 00:56:33] SteamUI: INFO: prompt for eula 1121560_eula_0
+[2026-06-09 00:56:34] SteamUI: INFO: accepted eula 1121560_eula_0
+[2026-06-09 00:56:34] SteamUI: INFO: eulas complete 1121560_eula_0
+[2026-06-09 01:07:09] SteamUI: INFO: onGlobalMenuButtonDown SP Controller Configurator_uid0
+[2026-06-09 01:07:12] SteamUI: INFO: Restoring history for state State_rna2zb
+[2026-06-09 01:13:06] SteamUI: INFO: shutdown pending
+[2026-06-09 01:13:06] SteamUI: INFO: shutdown pending
+[2026-06-09 01:13:07] SteamUI: INFO: websocket closed
+
+
+[2026-06-09 08:28:52] Client version: no bootstrapper found
+[2026-06-09 08:28:52] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1781008125&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 08:28:52] SteamUI: INFO: setting locale: en
+[2026-06-09 08:28:53] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 08:28:53] SteamUI: INFO: websocket open
+[2026-06-09 08:28:53] SteamUI: INFO: websocket open
+[2026-06-09 08:28:53] SteamUI: INFO: connection ready
+[2026-06-09 08:28:53] SteamUI: INFO: connection ready
+[2026-06-09 08:28:53] SteamUI: INFO: Connection status: connected
+[2026-06-09 08:28:53] SteamUI: INFO: SteamApp Init - WebUI Transport - 235ms
+[2026-06-09 08:28:53] SteamUI: INFO: async WebUITransportStore - 232.6ms
+[2026-06-09 08:28:53] SteamUI: INFO: console.groupEnd
+[2026-06-09 08:28:53] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 08:28:53] SteamUI: INFO: Init localization english
+[2026-06-09 08:28:53] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 08:28:54] SteamUI: INFO: SteamApp Init - Before Login - 242ms
+[2026-06-09 08:28:54] SteamUI: INFO: VirtualMenuStore - 0.5ms
+[2026-06-09 08:28:54] SteamUI: INFO: NotificationStore - 0.5ms
+[2026-06-09 08:28:54] SteamUI: INFO: FriendsChatStore - 1.8ms
+[2026-06-09 08:28:54] SteamUI: INFO: SuspendResumeStore - 0.9ms
+[2026-06-09 08:28:54] SteamUI: INFO: SteamingStore - 1.2ms
+[2026-06-09 08:28:54] SteamUI: INFO: ConsoleStore - 0.1ms
+[2026-06-09 08:28:54] SteamUI: INFO: FocusedAppWindowStore - 0.6ms
+[2026-06-09 08:28:54] SteamUI: INFO: VRStore - 0.9ms
+[2026-06-09 08:28:54] SteamUI: INFO: async OverlayModalDialogsStore - 94.6ms
+[2026-06-09 08:28:54] SteamUI: INFO: async SystemNetworkStore - 94.8ms
+[2026-06-09 08:28:54] SteamUI: INFO: async SystemReportStore - 95.1ms
+[2026-06-09 08:28:54] SteamUI: INFO: async SimpleTests - 95.2ms
+[2026-06-09 08:28:54] SteamUI: INFO: async VRGamepadUIMessages - 95.3ms
+[2026-06-09 08:28:54] SteamUI: INFO: async VRAudioSettingsStore - 95.3ms
+[2026-06-09 08:28:54] SteamUI: INFO: async SteamURLStore - 95.3ms
+[2026-06-09 08:28:54] SteamUI: INFO: async CM Connect - 96.7ms
+[2026-06-09 08:28:54] SteamUI: INFO: async BasicUIStore - 127.8ms
+[2026-06-09 08:28:54] SteamUI: INFO: async SecurityStore - 129.1ms
+[2026-06-09 08:28:54] SteamUI: INFO: async KeyboardSettingsStore - 129.6ms
+[2026-06-09 08:28:54] SteamUI: INFO: async ParentalStore - 135.1ms
+[2026-06-09 08:28:54] SteamUI: INFO: async IBusConnection - 144.9ms
+[2026-06-09 08:28:54] SteamUI: INFO: async Localization - 198.2ms
+[2026-06-09 08:28:54] SteamUI: INFO: async URLStore - 210.7ms
+[2026-06-09 08:28:54] SteamUI: INFO: async LoginStore - 241.8ms
+[2026-06-09 08:28:54] SteamUI: INFO: console.groupEnd
+[2026-06-09 08:28:54] SteamUI: INFO: SteamAppInit - ControllerStore - 55.1ms
+[2026-06-09 08:28:54] SteamUI: INFO: async ControllerStore - 54.8ms
+[2026-06-09 08:28:54] SteamUI: INFO: console.groupEnd
+[2026-06-09 08:28:54] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":1780352834,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 08:28:55] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 08:28:55] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 08:28:55] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 08:28:56] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 08:28:56] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 08:28:56] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 0
+[2026-06-09 08:28:56] SteamUI: INFO: Init localization english
+[2026-06-09 08:28:56] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 08:28:57] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 08:28:57] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 08:28:57] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 08:28:57] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 793.2ms
+[2026-06-09 08:28:57] SteamUI: INFO: async CM Connection - 44.6ms
+[2026-06-09 08:28:57] SteamUI: INFO: async GameActionStore - 45.2ms
+[2026-06-09 08:28:57] SteamUI: INFO: async SystemInfoStore - 45.6ms
+[2026-06-09 08:28:57] SteamUI: INFO: async SystemNetworkStore - 45.7ms
+[2026-06-09 08:28:57] SteamUI: INFO: async localization - 71.7ms
+[2026-06-09 08:28:57] SteamUI: INFO: async AchievementProgress - 93.7ms
+[2026-06-09 08:28:57] SteamUI: INFO: async CloudStorage - 202.2ms
+[2026-06-09 08:28:57] SteamUI: INFO: async SettingsStore - 665.5ms
+[2026-06-09 08:28:57] SteamUI: INFO: async URLStore - 683.6ms
+[2026-06-09 08:28:57] SteamUI: INFO: async FriendsChatStore - Startup - 793ms
+[2026-06-09 08:28:57] SteamUI: INFO: console.groupEnd
+[2026-06-09 08:28:58] SteamUI: VERBOSE: CAppStore Init: 365.447021484375 ms
+[2026-06-09 08:28:58] SteamUI: INFO: SteamApp Init - AppStore - 367ms
+[2026-06-09 08:28:58] SteamUI: INFO: async AppStore - 366.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: console.groupEnd
+[2026-06-09 08:28:58] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 54.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: async FriendStore - 53.4ms
+[2026-06-09 08:28:58] SteamUI: INFO: console.groupEnd
+[2026-06-09 08:28:58] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 32ms
+[2026-06-09 08:28:58] SteamUI: INFO: async CollectionStore - 31.5ms
+[2026-06-09 08:28:58] SteamUI: INFO: console.groupEnd
+[2026-06-09 08:28:58] SteamUI: VERBOSE: CUIStore Init: 151.702880859375 ms
+[2026-06-09 08:28:58] SteamUI: INFO: FriendsUI ReadyToRender - 1,151.2ms
+[2026-06-09 08:28:58] SteamUI: INFO: VoiceChatStore - 0.7ms
+[2026-06-09 08:28:58] SteamUI: INFO: SettingsStore - 0.3ms
+[2026-06-09 08:28:58] SteamUI: INFO: AppInfoStore - 0.2ms
+[2026-06-09 08:28:58] SteamUI: INFO: UIStore - 0.4ms
+[2026-06-09 08:28:58] SteamUI: INFO: EconomyStore - 0.2ms
+[2026-06-09 08:28:58] SteamUI: INFO: ParentalStore - 0.2ms
+[2026-06-09 08:28:58] SteamUI: INFO: BroadcastStore - 0.3ms
+[2026-06-09 08:28:58] SteamUI: INFO: RemotePlayStore - 2.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: GroupMemberStore - 0.3ms
+[2026-06-09 08:28:58] SteamUI: INFO: UserStore - 0.2ms
+[2026-06-09 08:28:58] SteamUI: INFO: VRPopupManager - 1.5ms
+[2026-06-09 08:28:58] SteamUI: INFO: async Load Preferences - 361.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: async Clock Drift - 384.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: async ChatStore - 790ms
+[2026-06-09 08:28:58] SteamUI: INFO: async FriendStore - 1,150.6ms
+[2026-06-09 08:28:58] SteamUI: INFO: console.groupEnd
+[2026-06-09 08:28:58] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 707.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: AppInfoStore - 0.3ms
+[2026-06-09 08:28:58] SteamUI: INFO: AppActivityStore - 2.6ms
+[2026-06-09 08:28:58] SteamUI: INFO: AppDetailsStore - 0.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: AppReviewStore - 0ms
+[2026-06-09 08:28:58] SteamUI: INFO: WorkshopStore - 0.4ms
+[2026-06-09 08:28:58] SteamUI: INFO: BadgeStore - 0.7ms
+[2026-06-09 08:28:58] SteamUI: INFO: DownloadsStore - 1.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: FAQStore - 0.9ms
+[2026-06-09 08:28:58] SteamUI: INFO: ControllerConfigStore - 1.9ms
+[2026-06-09 08:28:58] SteamUI: INFO: InstallFolderStore - 0.7ms
+[2026-06-09 08:28:58] SteamUI: INFO: SubscriberAgreementStore - 0.5ms
+[2026-06-09 08:28:58] SteamUI: INFO: ScreenshotStore - 0.5ms
+[2026-06-09 08:28:58] SteamUI: INFO: DiscoveryQueueStore - 0.6ms
+[2026-06-09 08:28:58] SteamUI: INFO: MarketingStore - 0.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: RemotePlayStore - 3.8ms
+[2026-06-09 08:28:58] SteamUI: INFO: OverlayStore - 3ms
+[2026-06-09 08:28:58] SteamUI: INFO: ServerBrowserStore - 0.3ms
+[2026-06-09 08:28:58] SteamUI: INFO: MusicStore - 0.4ms
+[2026-06-09 08:28:58] SteamUI: INFO: HardwareUpdaterStore - 1.5ms
+[2026-06-09 08:28:58] SteamUI: INFO: SystemAudioStore - 4.1ms
+[2026-06-09 08:28:58] SteamUI: INFO: async CommunityStore - 72.3ms
+[2026-06-09 08:28:58] SteamUI: INFO: async SettingsZooStore - 90ms
+[2026-06-09 08:28:58] SteamUI: INFO: async SearchStore - 90.3ms
+[2026-06-09 08:28:58] SteamUI: INFO: async AchievementStore - 90.4ms
+[2026-06-09 08:28:58] SteamUI: INFO: async GameReleasedStore - 90.4ms
+[2026-06-09 08:28:58] SteamUI: INFO: async GamescopeStore - 90.5ms
+[2026-06-09 08:28:58] SteamUI: INFO: async SystemStorageStore - 90.6ms
+[2026-06-09 08:28:58] SteamUI: INFO: async SDCardStore - 90.7ms
+[2026-06-09 08:28:58] SteamUI: INFO: async SteamOSStore - 90.7ms
+[2026-06-09 08:28:58] SteamUI: INFO: async LEDManagerStore - 90.7ms
+[2026-06-09 08:28:58] SteamUI: INFO: async BluetoothStore - 90.8ms
+[2026-06-09 08:28:58] SteamUI: INFO: async ControllerConfigInterstitialStore - 91.5ms
+[2026-06-09 08:28:58] SteamUI: INFO: async LibraryEventStore - 91.6ms
+[2026-06-09 08:28:58] SteamUI: INFO: async ShowcaseStore - 91.7ms
+[2026-06-09 08:28:58] SteamUI: INFO: async AppSpotlightsStore - 103.8ms
+[2026-06-09 08:28:58] SteamUI: INFO: async LibraryUIStore - 160ms
+[2026-06-09 08:28:58] SteamUI: INFO: async PlayNextStore - 162.3ms
+[2026-06-09 08:28:58] SteamUI: INFO: async UserProfileStore - 200.4ms
+[2026-06-09 08:28:58] SteamUI: INFO: async BasicUIStore - with user - 206.2ms
+[2026-06-09 08:28:58] SteamUI: INFO: async KeyboardSettingsStore - 218.6ms
+[2026-06-09 08:28:58] SteamUI: INFO: async EmojiStore - 244.9ms
+[2026-06-09 08:28:58] SteamUI: INFO: async SteamNotificationsStore - 251.4ms
+[2026-06-09 08:28:58] SteamUI: INFO: async EAAccessPromptManager - 253.8ms
+[2026-06-09 08:28:58] SteamUI: INFO: async GRS - 415.7ms
+[2026-06-09 08:28:58] SteamUI: INFO: async DynamicUserStore - 542.4ms
+[2026-06-09 08:28:58] SteamUI: INFO: async TrendingStore - 706.7ms
+[2026-06-09 08:28:58] SteamUI: INFO: console.groupEnd
+[2026-06-09 08:28:58] SteamUI: VERBOSE: SteamApp Init - After Login: 1966.876953125 ms
+[2026-06-09 08:29:04] SteamUI: INFO: onGlobalMenuButtonDown SP BPM_uid0
+[2026-06-09 08:29:28] SteamUI: INFO: OnGameActionUserRequest: 1121560 LaunchApp ShowInterstitials 
+[2026-06-09 08:29:33] SteamUI: INFO: OnGameActionUserRequest: 1121560 LaunchApp CreatingProcess 
+[2026-06-09 08:29:42] SteamUI: INFO: OnGameActionUserRequest: 1121560 LaunchApp ShowInterstitials 
+[2026-06-09 08:29:44] SteamUI: INFO: OnGameActionUserRequest: 1121560 LaunchApp CreatingProcess 
+[2026-06-09 08:30:40] SteamUI: INFO: Restoring history for state State_5dbo1q
+[2026-06-09 08:32:15] SteamUI: INFO: OnGameActionUserRequest: 1121560 LaunchApp ShowInterstitials 
+[2026-06-09 08:32:15] SteamUI: INFO: OnGameActionUserRequest: 1121560 LaunchApp CreatingProcess 
+[2026-06-09 08:33:30] SteamUI: INFO: onGlobalMenuButtonDown SP BPM_uid0
+[2026-06-09 08:33:33] SteamUI: INFO: Force recreating overlays...
+[2026-06-09 08:33:34] SteamUI: VERBOSE: SteamApp Init: 3.94091796875 ms
+[2026-06-09 08:33:41] SteamBrowser-'Welcome to': INFO: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: Suspense boundary mounted.
+[2026-06-09 08:33:42] SteamBrowser-'Welcome to': INFO: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: Suspense boundary unmounted.
+[2026-06-09 08:34:22] SteamUI: VERBOSE: Library Init: 11.260986328125 ms
+[2026-06-09 08:34:23] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 08:34:23] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 08:34:23] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 08:34:24] SteamUI: INFO: Reporting cache miss for 3658110 0 /assets/3658110/library_600x900.jpg?c=102072840
+[2026-06-09 08:34:24] SteamUI: INFO: Reporting cache miss for 1628350 0 /assets/1628350/library_600x900.jpg?c=367498888
+[2026-06-09 08:34:24] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400/library_600x900.jpg?c=367501192
+[2026-06-09 08:34:24] SteamUI: INFO: Reporting cache miss for 4628740 0 /assets/4628740/library_600x900.jpg?c=308733192
+[2026-06-09 08:34:24] SteamUI: INFO: Reporting cache miss for 3658110 0 /assets/3658110_library_600x900.jpg?c=102072840
+[2026-06-09 08:34:24] SteamUI: INFO: Reporting cache miss for 1628350 0 /assets/1628350_library_600x900.jpg?c=367498888
+[2026-06-09 08:34:24] SteamUI: INFO: Reporting cache miss for 4628740 0 /assets/4628740_library_600x900.jpg?c=308733192
+[2026-06-09 08:34:24] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400_library_600x900.jpg?c=367501192
+[2026-06-09 08:34:30] SteamUI: WARNING: WARNING: No action icon for app action  null
+[2026-06-09 08:34:31] SteamUI: INFO: Reporting cache miss for 1628350 0 /assets/1628350/library_600x900.jpg?c=367498888
+[2026-06-09 08:34:31] SteamUI: INFO: Reporting cache miss for 1628350 0 /assets/1628350_library_600x900.jpg?c=367498888
+[2026-06-09 08:34:32] SteamUI: INFO: Reporting cache miss for 1628350 0 /assets/1628350/library_600x900.jpg?c=367498888
+[2026-06-09 08:34:32] SteamUI: INFO: Reporting cache miss for 1628350 0 /assets/1628350_library_600x900.jpg?c=367498888
+[2026-06-09 08:34:44] SteamUI: VERBOSE: skipped review render, waiting for roaming storage to initialize
+[2026-06-09 08:36:13] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 08:36:13] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 08:36:23] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 08:36:24] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 08:37:37] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 08:39:27] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 08:39:27] SteamUI: INFO: start reconnect
+[2026-06-09 08:39:27] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 08:39:27] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 08:39:27] SteamUI: INFO: start reconnect
+[2026-06-09 08:39:27] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 08:39:27] SteamUI: WARNING: websocket error
+[2026-06-09 08:39:27] SteamUI: WARNING: websocket error
+[2026-06-09 08:39:27] SteamUI: WARNING: failed to reach open state
+[2026-06-09 08:39:27] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 08:39:27] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+[2026-06-09 08:39:27] SteamUI: WARNING: failed to reach open state
+[2026-06-09 08:39:27] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 08:39:27] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+
+
+[2026-06-09 09:37:38] Client version: no bootstrapper found
+[2026-06-09 09:37:38] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1781012256&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 09:37:38] SteamUI: INFO: setting locale: en
+[2026-06-09 09:37:39] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 09:37:39] SteamUI: INFO: websocket open
+[2026-06-09 09:37:39] SteamUI: INFO: websocket open
+[2026-06-09 09:37:39] SteamUI: INFO: connection ready
+[2026-06-09 09:37:39] SteamUI: INFO: connection ready
+[2026-06-09 09:37:39] SteamUI: INFO: Connection status: connected
+[2026-06-09 09:37:39] SteamUI: INFO: SteamApp Init - WebUI Transport - 242.1ms
+[2026-06-09 09:37:39] SteamUI: INFO: async WebUITransportStore - 239.6ms
+[2026-06-09 09:37:39] SteamUI: INFO: console.groupEnd
+[2026-06-09 09:37:39] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 09:37:39] SteamUI: INFO: Init localization english
+[2026-06-09 09:37:39] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 09:37:39] SteamUI: INFO: SteamApp Init - Before Login - 184.8ms
+[2026-06-09 09:37:39] SteamUI: INFO: VirtualMenuStore - 0.2ms
+[2026-06-09 09:37:39] SteamUI: INFO: NotificationStore - 0.5ms
+[2026-06-09 09:37:39] SteamUI: INFO: FriendsChatStore - 1.9ms
+[2026-06-09 09:37:39] SteamUI: INFO: SuspendResumeStore - 0.8ms
+[2026-06-09 09:37:39] SteamUI: INFO: SteamingStore - 1ms
+[2026-06-09 09:37:39] SteamUI: INFO: ConsoleStore - 0.2ms
+[2026-06-09 09:37:39] SteamUI: INFO: FocusedAppWindowStore - 0.7ms
+[2026-06-09 09:37:39] SteamUI: INFO: VRStore - 1.1ms
+[2026-06-09 09:37:39] SteamUI: INFO: async OverlayModalDialogsStore - 28.7ms
+[2026-06-09 09:37:39] SteamUI: INFO: async SystemNetworkStore - 28.8ms
+[2026-06-09 09:37:39] SteamUI: INFO: async SystemReportStore - 29.2ms
+[2026-06-09 09:37:39] SteamUI: INFO: async SimpleTests - 29.4ms
+[2026-06-09 09:37:39] SteamUI: INFO: async VRGamepadUIMessages - 29.4ms
+[2026-06-09 09:37:39] SteamUI: INFO: async VRAudioSettingsStore - 29.5ms
+[2026-06-09 09:37:39] SteamUI: INFO: async SteamURLStore - 29.5ms
+[2026-06-09 09:37:39] SteamUI: INFO: async CM Connect - 30.9ms
+[2026-06-09 09:37:39] SteamUI: INFO: async IBusConnection - 50.5ms
+[2026-06-09 09:37:39] SteamUI: INFO: async Localization - 101.9ms
+[2026-06-09 09:37:39] SteamUI: INFO: async BasicUIStore - 103.7ms
+[2026-06-09 09:37:39] SteamUI: INFO: async SecurityStore - 105.1ms
+[2026-06-09 09:37:39] SteamUI: INFO: async KeyboardSettingsStore - 105.7ms
+[2026-06-09 09:37:39] SteamUI: INFO: async ParentalStore - 111.9ms
+[2026-06-09 09:37:39] SteamUI: INFO: async URLStore - 127.8ms
+[2026-06-09 09:37:39] SteamUI: INFO: async LoginStore - 184.6ms
+[2026-06-09 09:37:39] SteamUI: INFO: console.groupEnd
+[2026-06-09 09:37:39] SteamUI: INFO: SteamAppInit - ControllerStore - 60.2ms
+[2026-06-09 09:37:39] SteamUI: INFO: async ControllerStore - 59.9ms
+[2026-06-09 09:37:39] SteamUI: INFO: console.groupEnd
+[2026-06-09 09:37:39] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":1780352834,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 09:37:40] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 09:37:40] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 09:37:41] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 09:37:41] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 09:37:41] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 09:37:42] SteamUI: INFO: Init localization english
+[2026-06-09 09:37:42] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 09:37:42] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 09:37:42] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 09:37:43] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 09:37:43] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 1,243.2ms
+[2026-06-09 09:37:43] SteamUI: INFO: async CM Connection - 53.3ms
+[2026-06-09 09:37:43] SteamUI: INFO: async GameActionStore - 53.8ms
+[2026-06-09 09:37:43] SteamUI: INFO: async SystemInfoStore - 53.9ms
+[2026-06-09 09:37:43] SteamUI: INFO: async SystemNetworkStore - 54ms
+[2026-06-09 09:37:43] SteamUI: INFO: async localization - 88.7ms
+[2026-06-09 09:37:43] SteamUI: INFO: async AchievementProgress - 137.7ms
+[2026-06-09 09:37:43] SteamUI: INFO: async CloudStorage - 303.5ms
+[2026-06-09 09:37:43] SteamUI: INFO: async SettingsStore - 1,073.5ms
+[2026-06-09 09:37:43] SteamUI: INFO: async URLStore - 1,095.5ms
+[2026-06-09 09:37:43] SteamUI: INFO: async FriendsChatStore - Startup - 1,242.8ms
+[2026-06-09 09:37:43] SteamUI: INFO: console.groupEnd
+[2026-06-09 09:37:44] SteamUI: VERBOSE: CAppStore Init: 800.851806640625 ms
+[2026-06-09 09:37:44] SteamUI: INFO: SteamApp Init - AppStore - 804.5ms
+[2026-06-09 09:37:44] SteamUI: INFO: async AppStore - 804ms
+[2026-06-09 09:37:44] SteamUI: INFO: console.groupEnd
+[2026-06-09 09:37:44] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 39.2ms
+[2026-06-09 09:37:44] SteamUI: INFO: async FriendStore - 38.9ms
+[2026-06-09 09:37:44] SteamUI: INFO: console.groupEnd
+[2026-06-09 09:37:44] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 34.5ms
+[2026-06-09 09:37:44] SteamUI: INFO: async CollectionStore - 34.1ms
+[2026-06-09 09:37:44] SteamUI: INFO: console.groupEnd
+[2026-06-09 09:37:44] SteamUI: VERBOSE: CUIStore Init: 160.575927734375 ms
+[2026-06-09 09:37:44] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 586.3ms
+[2026-06-09 09:37:44] SteamUI: INFO: AppInfoStore - 0.4ms
+[2026-06-09 09:37:44] SteamUI: INFO: AppActivityStore - 2.8ms
+[2026-06-09 09:37:44] SteamUI: INFO: AppDetailsStore - 0.1ms
+[2026-06-09 09:37:44] SteamUI: INFO: AppReviewStore - 0ms
+[2026-06-09 09:37:44] SteamUI: INFO: WorkshopStore - 0.5ms
+[2026-06-09 09:37:44] SteamUI: INFO: BadgeStore - 0.5ms
+[2026-06-09 09:37:44] SteamUI: INFO: DownloadsStore - 1.7ms
+[2026-06-09 09:37:44] SteamUI: INFO: FAQStore - 1ms
+[2026-06-09 09:37:44] SteamUI: INFO: ControllerConfigStore - 1.4ms
+[2026-06-09 09:37:44] SteamUI: INFO: InstallFolderStore - 0.4ms
+[2026-06-09 09:37:44] SteamUI: INFO: SubscriberAgreementStore - 0.5ms
+[2026-06-09 09:37:44] SteamUI: INFO: ScreenshotStore - 0.7ms
+[2026-06-09 09:37:44] SteamUI: INFO: DiscoveryQueueStore - 0.3ms
+[2026-06-09 09:37:44] SteamUI: INFO: MarketingStore - 0.1ms
+[2026-06-09 09:37:44] SteamUI: INFO: RemotePlayStore - 2.4ms
+[2026-06-09 09:37:44] SteamUI: INFO: OverlayStore - 3.5ms
+[2026-06-09 09:37:44] SteamUI: INFO: ServerBrowserStore - 0.3ms
+[2026-06-09 09:37:44] SteamUI: INFO: MusicStore - 0.6ms
+[2026-06-09 09:37:44] SteamUI: INFO: HardwareUpdaterStore - 0.8ms
+[2026-06-09 09:37:44] SteamUI: INFO: SystemAudioStore - 2ms
+[2026-06-09 09:37:44] SteamUI: INFO: async CommunityStore - 54.3ms
+[2026-06-09 09:37:44] SteamUI: INFO: async SettingsZooStore - 67.3ms
+[2026-06-09 09:37:44] SteamUI: INFO: async SearchStore - 67.6ms
+[2026-06-09 09:37:44] SteamUI: INFO: async AchievementStore - 67.6ms
+[2026-06-09 09:37:44] SteamUI: INFO: async GameReleasedStore - 67.7ms
+[2026-06-09 09:37:44] SteamUI: INFO: async GamescopeStore - 67.9ms
+[2026-06-09 09:37:44] SteamUI: INFO: async SystemStorageStore - 67.9ms
+[2026-06-09 09:37:44] SteamUI: INFO: async SDCardStore - 68.6ms
+[2026-06-09 09:37:44] SteamUI: INFO: async SteamOSStore - 68.8ms
+[2026-06-09 09:37:44] SteamUI: INFO: async LEDManagerStore - 68.8ms
+[2026-06-09 09:37:44] SteamUI: INFO: async BluetoothStore - 68.8ms
+[2026-06-09 09:37:44] SteamUI: INFO: async ControllerConfigInterstitialStore - 69.5ms
+[2026-06-09 09:37:44] SteamUI: INFO: async LibraryEventStore - 69.7ms
+[2026-06-09 09:37:44] SteamUI: INFO: async ShowcaseStore - 69.7ms
+[2026-06-09 09:37:44] SteamUI: INFO: async AppSpotlightsStore - 109.9ms
+[2026-06-09 09:37:44] SteamUI: INFO: async LibraryUIStore - 166.9ms
+[2026-06-09 09:37:44] SteamUI: INFO: async PlayNextStore - 168.3ms
+[2026-06-09 09:37:44] SteamUI: INFO: async UserProfileStore - 197.9ms
+[2026-06-09 09:37:44] SteamUI: INFO: async BasicUIStore - with user - 200.8ms
+[2026-06-09 09:37:44] SteamUI: INFO: async KeyboardSettingsStore - 209.7ms
+[2026-06-09 09:37:44] SteamUI: INFO: async EmojiStore - 223ms
+[2026-06-09 09:37:44] SteamUI: INFO: async SteamNotificationsStore - 229.8ms
+[2026-06-09 09:37:44] SteamUI: INFO: async EAAccessPromptManager - 232.4ms
+[2026-06-09 09:37:44] SteamUI: INFO: async GRS - 340.6ms
+[2026-06-09 09:37:44] SteamUI: INFO: async DynamicUserStore - 415.1ms
+[2026-06-09 09:37:44] SteamUI: INFO: async TrendingStore - 585.9ms
+[2026-06-09 09:37:44] SteamUI: INFO: console.groupEnd
+[2026-06-09 09:37:44] SteamUI: VERBOSE: SteamApp Init - After Login: 2721.2861328125 ms
+[2026-06-09 09:37:45] SteamUI: INFO: FriendsUI ReadyToRender - 2,350.6ms
+[2026-06-09 09:37:45] SteamUI: INFO: VoiceChatStore - 0.6ms
+[2026-06-09 09:37:45] SteamUI: INFO: SettingsStore - 0.5ms
+[2026-06-09 09:37:45] SteamUI: INFO: AppInfoStore - 0.2ms
+[2026-06-09 09:37:45] SteamUI: INFO: UIStore - 0.4ms
+[2026-06-09 09:37:45] SteamUI: INFO: EconomyStore - 0.1ms
+[2026-06-09 09:37:45] SteamUI: INFO: ParentalStore - 0.2ms
+[2026-06-09 09:37:45] SteamUI: INFO: BroadcastStore - 0.1ms
+[2026-06-09 09:37:45] SteamUI: INFO: RemotePlayStore - 4.1ms
+[2026-06-09 09:37:45] SteamUI: INFO: GroupMemberStore - 0.4ms
+[2026-06-09 09:37:45] SteamUI: INFO: UserStore - 0.2ms
+[2026-06-09 09:37:45] SteamUI: INFO: VRPopupManager - 1.3ms
+[2026-06-09 09:37:45] SteamUI: INFO: async Load Preferences - 818.3ms
+[2026-06-09 09:37:45] SteamUI: INFO: async Clock Drift - 833.2ms
+[2026-06-09 09:37:45] SteamUI: INFO: async ChatStore - 1,185.6ms
+[2026-06-09 09:37:45] SteamUI: INFO: async FriendStore - 2,349.7ms
+[2026-06-09 09:37:45] SteamUI: INFO: console.groupEnd
+[2026-06-09 09:38:14] SteamUI: INFO: Restoring history for state State_urduc6
+[2026-06-09 09:38:16] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 09:38:16] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 09:38:23] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 09:38:23] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 10:04:51] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 10:04:51] SteamUI: INFO: start reconnect
+[2026-06-09 10:04:51] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 10:04:51] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 10:04:51] SteamUI: INFO: start reconnect
+[2026-06-09 10:04:51] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 10:04:51] SteamUI: WARNING: websocket error
+[2026-06-09 10:04:51] SteamUI: WARNING: websocket error
+[2026-06-09 10:04:51] SteamUI: WARNING: failed to reach open state
+[2026-06-09 10:04:51] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 10:04:51] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+[2026-06-09 10:04:51] SteamUI: WARNING: failed to reach open state
+[2026-06-09 10:04:51] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 10:04:51] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+
+
+[2026-06-09 10:05:35] Client version: no bootstrapper found
+[2026-06-09 10:05:35] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1781013934&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 10:05:35] SteamUI: INFO: setting locale: en
+[2026-06-09 10:05:36] SteamUI: INFO: websocket open
+[2026-06-09 10:05:36] SteamUI: INFO: websocket open
+[2026-06-09 10:05:36] SteamUI: INFO: connection ready
+[2026-06-09 10:05:36] SteamUI: INFO: connection ready
+[2026-06-09 10:05:36] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 10:05:36] SteamUI: INFO: Connection status: connected
+[2026-06-09 10:05:36] SteamUI: INFO: SteamApp Init - WebUI Transport - 158.7ms
+[2026-06-09 10:05:36] SteamUI: INFO: async WebUITransportStore - 156.4ms
+[2026-06-09 10:05:36] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:05:36] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 10:05:36] SteamUI: INFO: Init localization english
+[2026-06-09 10:05:36] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 10:05:37] SteamUI: INFO: SteamApp Init - Before Login - 167.5ms
+[2026-06-09 10:05:37] SteamUI: INFO: VirtualMenuStore - 0.3ms
+[2026-06-09 10:05:37] SteamUI: INFO: NotificationStore - 0.5ms
+[2026-06-09 10:05:37] SteamUI: INFO: FriendsChatStore - 2.2ms
+[2026-06-09 10:05:37] SteamUI: INFO: SuspendResumeStore - 0.9ms
+[2026-06-09 10:05:37] SteamUI: INFO: SteamingStore - 1ms
+[2026-06-09 10:05:37] SteamUI: INFO: ConsoleStore - 0.1ms
+[2026-06-09 10:05:37] SteamUI: INFO: FocusedAppWindowStore - 0.9ms
+[2026-06-09 10:05:37] SteamUI: INFO: VRStore - 1.3ms
+[2026-06-09 10:05:37] SteamUI: INFO: async OverlayModalDialogsStore - 31.4ms
+[2026-06-09 10:05:37] SteamUI: INFO: async SystemNetworkStore - 31.5ms
+[2026-06-09 10:05:37] SteamUI: INFO: async SystemReportStore - 31.9ms
+[2026-06-09 10:05:37] SteamUI: INFO: async SimpleTests - 32.1ms
+[2026-06-09 10:05:37] SteamUI: INFO: async VRGamepadUIMessages - 32.2ms
+[2026-06-09 10:05:37] SteamUI: INFO: async VRAudioSettingsStore - 32.3ms
+[2026-06-09 10:05:37] SteamUI: INFO: async SteamURLStore - 32.3ms
+[2026-06-09 10:05:37] SteamUI: INFO: async IBusConnection - 47.2ms
+[2026-06-09 10:05:37] SteamUI: INFO: async CM Connect - 56.7ms
+[2026-06-09 10:05:37] SteamUI: INFO: async BasicUIStore - 71.1ms
+[2026-06-09 10:05:37] SteamUI: INFO: async SecurityStore - 72.5ms
+[2026-06-09 10:05:37] SteamUI: INFO: async KeyboardSettingsStore - 73.1ms
+[2026-06-09 10:05:37] SteamUI: INFO: async ParentalStore - 79ms
+[2026-06-09 10:05:37] SteamUI: INFO: async Localization - 125.4ms
+[2026-06-09 10:05:37] SteamUI: INFO: async URLStore - 137.3ms
+[2026-06-09 10:05:37] SteamUI: INFO: async LoginStore - 167.2ms
+[2026-06-09 10:05:37] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:05:37] SteamUI: INFO: SteamAppInit - ControllerStore - 83.5ms
+[2026-06-09 10:05:37] SteamUI: INFO: async ControllerStore - 83.2ms
+[2026-06-09 10:05:37] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:05:37] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":1780352834,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 10:05:38] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 10:05:38] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 10:05:39] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 10:05:39] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 10:05:39] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 10:05:39] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 0
+[2026-06-09 10:05:40] SteamUI: INFO: Init localization english
+[2026-06-09 10:05:40] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 10:05:40] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 10:05:40] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 10:05:40] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 10:05:40] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 507.7ms
+[2026-06-09 10:05:40] SteamUI: INFO: async CM Connection - 49.6ms
+[2026-06-09 10:05:40] SteamUI: INFO: async GameActionStore - 50ms
+[2026-06-09 10:05:40] SteamUI: INFO: async SystemInfoStore - 50.2ms
+[2026-06-09 10:05:40] SteamUI: INFO: async SystemNetworkStore - 50.3ms
+[2026-06-09 10:05:40] SteamUI: INFO: async localization - 84.9ms
+[2026-06-09 10:05:40] SteamUI: INFO: async AchievementProgress - 128.7ms
+[2026-06-09 10:05:40] SteamUI: INFO: async CloudStorage - 221.1ms
+[2026-06-09 10:05:40] SteamUI: INFO: async SettingsStore - 394.3ms
+[2026-06-09 10:05:40] SteamUI: INFO: async URLStore - 413ms
+[2026-06-09 10:05:40] SteamUI: INFO: async FriendsChatStore - Startup - 507.3ms
+[2026-06-09 10:05:40] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:05:41] SteamUI: VERBOSE: CAppStore Init: 761.998046875 ms
+[2026-06-09 10:05:41] SteamUI: INFO: SteamApp Init - AppStore - 763ms
+[2026-06-09 10:05:41] SteamUI: INFO: async AppStore - 762.8ms
+[2026-06-09 10:05:41] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:05:41] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 8.7ms
+[2026-06-09 10:05:41] SteamUI: INFO: async FriendStore - 8.5ms
+[2026-06-09 10:05:41] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:05:41] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 23.8ms
+[2026-06-09 10:05:41] SteamUI: INFO: async CollectionStore - 23.5ms
+[2026-06-09 10:05:41] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:05:41] SteamUI: VERBOSE: CUIStore Init: 139.819091796875 ms
+[2026-06-09 10:05:41] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 643.6ms
+[2026-06-09 10:05:41] SteamUI: INFO: AppInfoStore - 0.1ms
+[2026-06-09 10:05:41] SteamUI: INFO: AppActivityStore - 2.7ms
+[2026-06-09 10:05:41] SteamUI: INFO: AppDetailsStore - 0.1ms
+[2026-06-09 10:05:41] SteamUI: INFO: AppReviewStore - 0.1ms
+[2026-06-09 10:05:41] SteamUI: INFO: WorkshopStore - 0.6ms
+[2026-06-09 10:05:41] SteamUI: INFO: BadgeStore - 1.3ms
+[2026-06-09 10:05:41] SteamUI: INFO: DownloadsStore - 2.3ms
+[2026-06-09 10:05:41] SteamUI: INFO: FAQStore - 0.5ms
+[2026-06-09 10:05:41] SteamUI: INFO: ControllerConfigStore - 1.2ms
+[2026-06-09 10:05:41] SteamUI: INFO: InstallFolderStore - 0.4ms
+[2026-06-09 10:05:41] SteamUI: INFO: SubscriberAgreementStore - 0.1ms
+[2026-06-09 10:05:41] SteamUI: INFO: ScreenshotStore - 0.3ms
+[2026-06-09 10:05:41] SteamUI: INFO: DiscoveryQueueStore - 0.3ms
+[2026-06-09 10:05:41] SteamUI: INFO: MarketingStore - 0ms
+[2026-06-09 10:05:41] SteamUI: INFO: RemotePlayStore - 1.7ms
+[2026-06-09 10:05:41] SteamUI: INFO: OverlayStore - 4.2ms
+[2026-06-09 10:05:41] SteamUI: INFO: ServerBrowserStore - 0.4ms
+[2026-06-09 10:05:41] SteamUI: INFO: MusicStore - 0.8ms
+[2026-06-09 10:05:41] SteamUI: INFO: HardwareUpdaterStore - 2ms
+[2026-06-09 10:05:41] SteamUI: INFO: SystemAudioStore - 4.1ms
+[2026-06-09 10:05:41] SteamUI: INFO: async CommunityStore - 70.2ms
+[2026-06-09 10:05:41] SteamUI: INFO: async SettingsZooStore - 87.7ms
+[2026-06-09 10:05:41] SteamUI: INFO: async SearchStore - 88.3ms
+[2026-06-09 10:05:41] SteamUI: INFO: async AchievementStore - 88.4ms
+[2026-06-09 10:05:41] SteamUI: INFO: async GameReleasedStore - 88.6ms
+[2026-06-09 10:05:41] SteamUI: INFO: async GamescopeStore - 88.7ms
+[2026-06-09 10:05:41] SteamUI: INFO: async SystemStorageStore - 88.8ms
+[2026-06-09 10:05:41] SteamUI: INFO: async SDCardStore - 88.9ms
+[2026-06-09 10:05:41] SteamUI: INFO: async SteamOSStore - 89ms
+[2026-06-09 10:05:41] SteamUI: INFO: async LEDManagerStore - 89ms
+[2026-06-09 10:05:41] SteamUI: INFO: async BluetoothStore - 89.1ms
+[2026-06-09 10:05:41] SteamUI: INFO: async ControllerConfigInterstitialStore - 90.6ms
+[2026-06-09 10:05:41] SteamUI: INFO: async LibraryEventStore - 90.8ms
+[2026-06-09 10:05:41] SteamUI: INFO: async ShowcaseStore - 91.5ms
+[2026-06-09 10:05:41] SteamUI: INFO: async AppSpotlightsStore - 101.1ms
+[2026-06-09 10:05:41] SteamUI: INFO: async LibraryUIStore - 145.6ms
+[2026-06-09 10:05:41] SteamUI: INFO: async PlayNextStore - 147ms
+[2026-06-09 10:05:41] SteamUI: INFO: async UserProfileStore - 196.6ms
+[2026-06-09 10:05:41] SteamUI: INFO: async BasicUIStore - with user - 199.9ms
+[2026-06-09 10:05:41] SteamUI: INFO: async KeyboardSettingsStore - 205.5ms
+[2026-06-09 10:05:41] SteamUI: INFO: async EmojiStore - 224.9ms
+[2026-06-09 10:05:41] SteamUI: INFO: async SteamNotificationsStore - 230ms
+[2026-06-09 10:05:41] SteamUI: INFO: async DynamicUserStore - 241.8ms
+[2026-06-09 10:05:41] SteamUI: INFO: async EAAccessPromptManager - 402.3ms
+[2026-06-09 10:05:41] SteamUI: INFO: async GRS - 422.8ms
+[2026-06-09 10:05:41] SteamUI: INFO: async TrendingStore - 643.4ms
+[2026-06-09 10:05:41] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:05:41] SteamUI: VERBOSE: SteamApp Init - After Login: 1955.6279296875 ms
+[2026-06-09 10:05:42] SteamUI: INFO: FriendsUI ReadyToRender - 2,225.3ms
+[2026-06-09 10:05:42] SteamUI: INFO: VoiceChatStore - 0.6ms
+[2026-06-09 10:05:42] SteamUI: INFO: SettingsStore - 0.4ms
+[2026-06-09 10:05:42] SteamUI: INFO: AppInfoStore - 0.1ms
+[2026-06-09 10:05:42] SteamUI: INFO: UIStore - 0.3ms
+[2026-06-09 10:05:42] SteamUI: INFO: EconomyStore - 0.1ms
+[2026-06-09 10:05:42] SteamUI: INFO: ParentalStore - 0.2ms
+[2026-06-09 10:05:42] SteamUI: INFO: BroadcastStore - 0.1ms
+[2026-06-09 10:05:42] SteamUI: INFO: RemotePlayStore - 4.3ms
+[2026-06-09 10:05:42] SteamUI: INFO: GroupMemberStore - 0.3ms
+[2026-06-09 10:05:42] SteamUI: INFO: UserStore - 0.2ms
+[2026-06-09 10:05:42] SteamUI: INFO: VRPopupManager - 1.6ms
+[2026-06-09 10:05:42] SteamUI: INFO: async Load Preferences - 719.5ms
+[2026-06-09 10:05:42] SteamUI: INFO: async Clock Drift - 782.5ms
+[2026-06-09 10:05:42] SteamUI: INFO: async ChatStore - 1,093.2ms
+[2026-06-09 10:05:42] SteamUI: INFO: async FriendStore - 2,224.9ms
+[2026-06-09 10:05:42] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:05:47] SteamUI: INFO: onGlobalMenuButtonDown SP BPM_uid0
+[2026-06-09 10:05:49] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 10:06:24] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 10:06:33] SteamUI: INFO: shutdown pending
+[2026-06-09 10:06:33] SteamUI: INFO: shutdown pending
+[2026-06-09 10:06:33] SteamUI: INFO: websocket closed
+
+
+[2026-06-09 10:06:43] Client version: no bootstrapper found
+[2026-06-09 10:06:43] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1781014002&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 10:06:43] SteamUI: INFO: setting locale: en
+[2026-06-09 10:06:45] SteamUI: INFO: websocket open
+[2026-06-09 10:06:45] SteamUI: INFO: websocket open
+[2026-06-09 10:06:45] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 10:06:45] SteamUI: INFO: connection ready
+[2026-06-09 10:06:45] SteamUI: INFO: connection ready
+[2026-06-09 10:06:45] SteamUI: INFO: Connection status: connected
+[2026-06-09 10:06:45] SteamUI: INFO: SteamApp Init - WebUI Transport - 309.4ms
+[2026-06-09 10:06:45] SteamUI: INFO: async WebUITransportStore - 307.3ms
+[2026-06-09 10:06:45] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:06:45] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 10:06:45] SteamUI: INFO: Init localization english
+[2026-06-09 10:06:45] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 10:06:45] SteamUI: INFO: SteamApp Init - Before Login - 167.2ms
+[2026-06-09 10:06:45] SteamUI: INFO: VirtualMenuStore - 0.4ms
+[2026-06-09 10:06:45] SteamUI: INFO: NotificationStore - 0.4ms
+[2026-06-09 10:06:45] SteamUI: INFO: FriendsChatStore - 1.9ms
+[2026-06-09 10:06:45] SteamUI: INFO: SuspendResumeStore - 0.8ms
+[2026-06-09 10:06:45] SteamUI: INFO: SteamingStore - 0.9ms
+[2026-06-09 10:06:45] SteamUI: INFO: ConsoleStore - 0.1ms
+[2026-06-09 10:06:45] SteamUI: INFO: FocusedAppWindowStore - 0.6ms
+[2026-06-09 10:06:45] SteamUI: INFO: VRStore - 1.2ms
+[2026-06-09 10:06:45] SteamUI: INFO: async OverlayModalDialogsStore - 29.4ms
+[2026-06-09 10:06:45] SteamUI: INFO: async SystemNetworkStore - 29.5ms
+[2026-06-09 10:06:45] SteamUI: INFO: async SystemReportStore - 29.9ms
+[2026-06-09 10:06:45] SteamUI: INFO: async SimpleTests - 30ms
+[2026-06-09 10:06:45] SteamUI: INFO: async VRGamepadUIMessages - 30ms
+[2026-06-09 10:06:45] SteamUI: INFO: async VRAudioSettingsStore - 30.1ms
+[2026-06-09 10:06:45] SteamUI: INFO: async SteamURLStore - 30.1ms
+[2026-06-09 10:06:45] SteamUI: INFO: async IBusConnection - 57.1ms
+[2026-06-09 10:06:45] SteamUI: INFO: async CM Connect - 64.5ms
+[2026-06-09 10:06:45] SteamUI: INFO: async BasicUIStore - 68.8ms
+[2026-06-09 10:06:45] SteamUI: INFO: async SecurityStore - 70.1ms
+[2026-06-09 10:06:45] SteamUI: INFO: async KeyboardSettingsStore - 70.6ms
+[2026-06-09 10:06:45] SteamUI: INFO: async ParentalStore - 76ms
+[2026-06-09 10:06:45] SteamUI: INFO: async Localization - 120.7ms
+[2026-06-09 10:06:45] SteamUI: INFO: async URLStore - 132.3ms
+[2026-06-09 10:06:45] SteamUI: INFO: async LoginStore - 166.8ms
+[2026-06-09 10:06:45] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:06:45] SteamUI: INFO: SteamAppInit - ControllerStore - 62ms
+[2026-06-09 10:06:45] SteamUI: INFO: async ControllerStore - 61.7ms
+[2026-06-09 10:06:45] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:06:46] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":0,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 10:06:47] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 10:06:47] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 10:06:47] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 10:06:47] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 10:06:47] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 10:06:48] SteamUI: INFO: Init localization english
+[2026-06-09 10:06:48] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 10:06:48] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 10:06:48] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 10:06:48] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 10:06:49] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 543.5ms
+[2026-06-09 10:06:49] SteamUI: INFO: async CM Connection - 60.2ms
+[2026-06-09 10:06:49] SteamUI: INFO: async GameActionStore - 60.6ms
+[2026-06-09 10:06:49] SteamUI: INFO: async SystemInfoStore - 60.7ms
+[2026-06-09 10:06:49] SteamUI: INFO: async SystemNetworkStore - 60.9ms
+[2026-06-09 10:06:49] SteamUI: INFO: async localization - 87.1ms
+[2026-06-09 10:06:49] SteamUI: INFO: async AchievementProgress - 130.1ms
+[2026-06-09 10:06:49] SteamUI: INFO: async CloudStorage - 206.8ms
+[2026-06-09 10:06:49] SteamUI: INFO: async SettingsStore - 362ms
+[2026-06-09 10:06:49] SteamUI: INFO: async URLStore - 387ms
+[2026-06-09 10:06:49] SteamUI: INFO: async FriendsChatStore - Startup - 543ms
+[2026-06-09 10:06:49] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:06:49] SteamUI: VERBOSE: CAppStore Init: 753.322998046875 ms
+[2026-06-09 10:06:49] SteamUI: INFO: SteamApp Init - AppStore - 754.2ms
+[2026-06-09 10:06:49] SteamUI: INFO: async AppStore - 754ms
+[2026-06-09 10:06:49] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:06:49] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 13.3ms
+[2026-06-09 10:06:49] SteamUI: INFO: async FriendStore - 12.9ms
+[2026-06-09 10:06:49] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:06:49] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 70.8ms
+[2026-06-09 10:06:49] SteamUI: INFO: async CollectionStore - 70.5ms
+[2026-06-09 10:06:49] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:06:50] SteamUI: VERBOSE: CUIStore Init: 165.261962890625 ms
+[2026-06-09 10:06:50] SteamUI: INFO: FriendsUI ReadyToRender - 1,549.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: VoiceChatStore - 3.3ms
+[2026-06-09 10:06:50] SteamUI: INFO: SettingsStore - 1.9ms
+[2026-06-09 10:06:50] SteamUI: INFO: AppInfoStore - 0.3ms
+[2026-06-09 10:06:50] SteamUI: INFO: UIStore - 0.5ms
+[2026-06-09 10:06:50] SteamUI: INFO: EconomyStore - 0.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: ParentalStore - 0.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: BroadcastStore - 0.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: RemotePlayStore - 2.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: GroupMemberStore - 0.2ms
+[2026-06-09 10:06:50] SteamUI: INFO: UserStore - 0.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: VRPopupManager - 3.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: async Load Preferences - 745.7ms
+[2026-06-09 10:06:50] SteamUI: INFO: async Clock Drift - 795.6ms
+[2026-06-09 10:06:50] SteamUI: INFO: async ChatStore - 1,199.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: async FriendStore - 1,549.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:06:50] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 683.8ms
+[2026-06-09 10:06:50] SteamUI: INFO: AppInfoStore - 0.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: AppActivityStore - 2.8ms
+[2026-06-09 10:06:50] SteamUI: INFO: AppDetailsStore - 0.2ms
+[2026-06-09 10:06:50] SteamUI: INFO: AppReviewStore - 0.3ms
+[2026-06-09 10:06:50] SteamUI: INFO: WorkshopStore - 0.5ms
+[2026-06-09 10:06:50] SteamUI: INFO: BadgeStore - 1.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: DownloadsStore - 0.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: FAQStore - 0.3ms
+[2026-06-09 10:06:50] SteamUI: INFO: ControllerConfigStore - 0.7ms
+[2026-06-09 10:06:50] SteamUI: INFO: InstallFolderStore - 1ms
+[2026-06-09 10:06:50] SteamUI: INFO: SubscriberAgreementStore - 0.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: ScreenshotStore - 0.6ms
+[2026-06-09 10:06:50] SteamUI: INFO: DiscoveryQueueStore - 0.5ms
+[2026-06-09 10:06:50] SteamUI: INFO: MarketingStore - 0.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: RemotePlayStore - 3.2ms
+[2026-06-09 10:06:50] SteamUI: INFO: OverlayStore - 1.9ms
+[2026-06-09 10:06:50] SteamUI: INFO: ServerBrowserStore - 0.6ms
+[2026-06-09 10:06:50] SteamUI: INFO: MusicStore - 0.5ms
+[2026-06-09 10:06:50] SteamUI: INFO: HardwareUpdaterStore - 1.2ms
+[2026-06-09 10:06:50] SteamUI: INFO: SystemAudioStore - 3.3ms
+[2026-06-09 10:06:50] SteamUI: INFO: async CommunityStore - 75.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: async SettingsZooStore - 95.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: async SearchStore - 95.9ms
+[2026-06-09 10:06:50] SteamUI: INFO: async AchievementStore - 96ms
+[2026-06-09 10:06:50] SteamUI: INFO: async GameReleasedStore - 96ms
+[2026-06-09 10:06:50] SteamUI: INFO: async GamescopeStore - 96.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: async SystemStorageStore - 96.2ms
+[2026-06-09 10:06:50] SteamUI: INFO: async SDCardStore - 96.3ms
+[2026-06-09 10:06:50] SteamUI: INFO: async SteamOSStore - 96.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: async LEDManagerStore - 96.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: async BluetoothStore - 96.5ms
+[2026-06-09 10:06:50] SteamUI: INFO: async ControllerConfigInterstitialStore - 97.2ms
+[2026-06-09 10:06:50] SteamUI: INFO: async LibraryEventStore - 97.5ms
+[2026-06-09 10:06:50] SteamUI: INFO: async ShowcaseStore - 97.7ms
+[2026-06-09 10:06:50] SteamUI: INFO: async AppSpotlightsStore - 128.8ms
+[2026-06-09 10:06:50] SteamUI: INFO: async LibraryUIStore - 173.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: async PlayNextStore - 174.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: async UserProfileStore - 213.3ms
+[2026-06-09 10:06:50] SteamUI: INFO: async BasicUIStore - with user - 220.8ms
+[2026-06-09 10:06:50] SteamUI: INFO: async KeyboardSettingsStore - 234.5ms
+[2026-06-09 10:06:50] SteamUI: INFO: async DynamicUserStore - 255.5ms
+[2026-06-09 10:06:50] SteamUI: INFO: async EmojiStore - 273.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: async SteamNotificationsStore - 277.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: async EAAccessPromptManager - 278.7ms
+[2026-06-09 10:06:50] SteamUI: INFO: async GRS - 379.1ms
+[2026-06-09 10:06:50] SteamUI: INFO: async TrendingStore - 683.4ms
+[2026-06-09 10:06:50] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:06:50] SteamUI: VERBOSE: SteamApp Init - After Login: 2078.80810546875 ms
+[2026-06-09 10:06:54] SteamUI: INFO: onGlobalMenuButtonDown SP BPM_uid0
+[2026-06-09 10:06:56] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 10:08:34] SteamUI: INFO: Restoring history for state State_dzyd2l
+[2026-06-09 10:08:42] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 10:08:42] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 10:08:43] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 10:08:43] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 10:10:23] SteamUI: INFO: Force recreating overlays...
+[2026-06-09 10:10:25] SteamUI: VERBOSE: SteamApp Init: 4.52001953125 ms
+[2026-06-09 10:10:31] SteamBrowser-'Welcome to': INFO: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: Suspense boundary mounted.
+[2026-06-09 10:10:32] SteamBrowser-'Welcome to': INFO: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: Suspense boundary unmounted.
+[2026-06-09 10:24:02] SteamUI: INFO: shutdown pending
+[2026-06-09 10:24:02] SteamUI: INFO: shutdown pending
+[2026-06-09 10:24:03] SteamUI: INFO: websocket closed
+
+
+[2026-06-09 10:24:24] Client version: no bootstrapper found
+[2026-06-09 10:24:24] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1781015063&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 10:24:24] SteamUI: INFO: setting locale: en
+[2026-06-09 10:24:25] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 10:24:25] SteamUI: INFO: websocket open
+[2026-06-09 10:24:25] SteamUI: INFO: websocket open
+[2026-06-09 10:24:25] SteamUI: INFO: connection ready
+[2026-06-09 10:24:25] SteamUI: INFO: connection ready
+[2026-06-09 10:24:25] SteamUI: INFO: Connection status: connected
+[2026-06-09 10:24:25] SteamUI: INFO: SteamApp Init - WebUI Transport - 212ms
+[2026-06-09 10:24:25] SteamUI: INFO: async WebUITransportStore - 209.4ms
+[2026-06-09 10:24:25] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:24:25] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 10:24:25] SteamUI: INFO: Init localization english
+[2026-06-09 10:24:25] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 10:24:26] SteamUI: INFO: SteamApp Init - Before Login - 184.8ms
+[2026-06-09 10:24:26] SteamUI: INFO: VirtualMenuStore - 0.4ms
+[2026-06-09 10:24:26] SteamUI: INFO: NotificationStore - 0.5ms
+[2026-06-09 10:24:26] SteamUI: INFO: FriendsChatStore - 1.8ms
+[2026-06-09 10:24:26] SteamUI: INFO: SuspendResumeStore - 0.9ms
+[2026-06-09 10:24:26] SteamUI: INFO: SteamingStore - 0.9ms
+[2026-06-09 10:24:26] SteamUI: INFO: ConsoleStore - 0.1ms
+[2026-06-09 10:24:26] SteamUI: INFO: FocusedAppWindowStore - 0.7ms
+[2026-06-09 10:24:26] SteamUI: INFO: VRStore - 1.3ms
+[2026-06-09 10:24:26] SteamUI: INFO: async OverlayModalDialogsStore - 32.1ms
+[2026-06-09 10:24:26] SteamUI: INFO: async SystemNetworkStore - 32.2ms
+[2026-06-09 10:24:26] SteamUI: INFO: async SystemReportStore - 32.5ms
+[2026-06-09 10:24:26] SteamUI: INFO: async SimpleTests - 32.7ms
+[2026-06-09 10:24:26] SteamUI: INFO: async VRGamepadUIMessages - 32.7ms
+[2026-06-09 10:24:26] SteamUI: INFO: async VRAudioSettingsStore - 32.7ms
+[2026-06-09 10:24:26] SteamUI: INFO: async SteamURLStore - 32.8ms
+[2026-06-09 10:24:26] SteamUI: INFO: async CM Connect - 34.2ms
+[2026-06-09 10:24:26] SteamUI: INFO: async BasicUIStore - 46.6ms
+[2026-06-09 10:24:26] SteamUI: INFO: async IBusConnection - 57.5ms
+[2026-06-09 10:24:26] SteamUI: INFO: async Localization - 111.8ms
+[2026-06-09 10:24:26] SteamUI: INFO: async URLStore - 123.3ms
+[2026-06-09 10:24:26] SteamUI: INFO: async SecurityStore - 124ms
+[2026-06-09 10:24:26] SteamUI: INFO: async KeyboardSettingsStore - 124.6ms
+[2026-06-09 10:24:26] SteamUI: INFO: async ParentalStore - 129.5ms
+[2026-06-09 10:24:26] SteamUI: INFO: async LoginStore - 184.7ms
+[2026-06-09 10:24:26] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:24:26] SteamUI: INFO: SteamAppInit - ControllerStore - 46.1ms
+[2026-06-09 10:24:26] SteamUI: INFO: async ControllerStore - 45.9ms
+[2026-06-09 10:24:26] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:24:26] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":0,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 10:24:27] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 10:24:27] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 10:24:28] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 10:24:28] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 10:24:28] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 10:24:29] SteamUI: INFO: Init localization english
+[2026-06-09 10:24:29] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 10:24:29] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 10:24:29] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 10:24:29] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 473.3ms
+[2026-06-09 10:24:29] SteamUI: INFO: async CM Connection - 49ms
+[2026-06-09 10:24:29] SteamUI: INFO: async GameActionStore - 49.3ms
+[2026-06-09 10:24:29] SteamUI: INFO: async SystemInfoStore - 49.4ms
+[2026-06-09 10:24:29] SteamUI: INFO: async SystemNetworkStore - 49.6ms
+[2026-06-09 10:24:29] SteamUI: INFO: async localization - 83.6ms
+[2026-06-09 10:24:29] SteamUI: INFO: async AchievementProgress - 128.6ms
+[2026-06-09 10:24:29] SteamUI: INFO: async CloudStorage - 236.8ms
+[2026-06-09 10:24:29] SteamUI: INFO: async SettingsStore - 373.7ms
+[2026-06-09 10:24:29] SteamUI: INFO: async URLStore - 384.4ms
+[2026-06-09 10:24:29] SteamUI: INFO: async FriendsChatStore - Startup - 473ms
+[2026-06-09 10:24:29] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:24:29] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 10:24:30] SteamUI: VERBOSE: CAppStore Init: 770.85888671875 ms
+[2026-06-09 10:24:30] SteamUI: INFO: SteamApp Init - AppStore - 772.2ms
+[2026-06-09 10:24:30] SteamUI: INFO: async AppStore - 771.8ms
+[2026-06-09 10:24:30] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:24:30] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 18.7ms
+[2026-06-09 10:24:30] SteamUI: INFO: async FriendStore - 18.5ms
+[2026-06-09 10:24:30] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:24:30] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 24.4ms
+[2026-06-09 10:24:30] SteamUI: INFO: async CollectionStore - 24.2ms
+[2026-06-09 10:24:30] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:24:30] SteamUI: VERBOSE: CUIStore Init: 154.509033203125 ms
+[2026-06-09 10:24:31] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 611.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: AppInfoStore - 0.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: AppActivityStore - 5.5ms
+[2026-06-09 10:24:31] SteamUI: INFO: AppDetailsStore - 0.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: AppReviewStore - 0.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: WorkshopStore - 0.5ms
+[2026-06-09 10:24:31] SteamUI: INFO: BadgeStore - 1.4ms
+[2026-06-09 10:24:31] SteamUI: INFO: DownloadsStore - 0.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: FAQStore - 0.6ms
+[2026-06-09 10:24:31] SteamUI: INFO: ControllerConfigStore - 1.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: InstallFolderStore - 0.7ms
+[2026-06-09 10:24:31] SteamUI: INFO: SubscriberAgreementStore - 0.3ms
+[2026-06-09 10:24:31] SteamUI: INFO: ScreenshotStore - 0.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: DiscoveryQueueStore - 0.5ms
+[2026-06-09 10:24:31] SteamUI: INFO: MarketingStore - 0.3ms
+[2026-06-09 10:24:31] SteamUI: INFO: RemotePlayStore - 3ms
+[2026-06-09 10:24:31] SteamUI: INFO: OverlayStore - 2.6ms
+[2026-06-09 10:24:31] SteamUI: INFO: ServerBrowserStore - 0.5ms
+[2026-06-09 10:24:31] SteamUI: INFO: MusicStore - 0.8ms
+[2026-06-09 10:24:31] SteamUI: INFO: HardwareUpdaterStore - 1.6ms
+[2026-06-09 10:24:31] SteamUI: INFO: SystemAudioStore - 3.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: async CommunityStore - 70.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: async SettingsZooStore - 81.5ms
+[2026-06-09 10:24:31] SteamUI: INFO: async SearchStore - 81.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: async AchievementStore - 81.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: async GameReleasedStore - 82.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: async GamescopeStore - 82.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: async SystemStorageStore - 82.4ms
+[2026-06-09 10:24:31] SteamUI: INFO: async SDCardStore - 82.6ms
+[2026-06-09 10:24:31] SteamUI: INFO: async SteamOSStore - 82.7ms
+[2026-06-09 10:24:31] SteamUI: INFO: async LEDManagerStore - 85.8ms
+[2026-06-09 10:24:31] SteamUI: INFO: async BluetoothStore - 86.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: async ControllerConfigInterstitialStore - 87.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: async LibraryEventStore - 88.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: async ShowcaseStore - 88.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: async AppSpotlightsStore - 114.3ms
+[2026-06-09 10:24:31] SteamUI: INFO: async LibraryUIStore - 162.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: async PlayNextStore - 165.6ms
+[2026-06-09 10:24:31] SteamUI: INFO: async UserProfileStore - 212.3ms
+[2026-06-09 10:24:31] SteamUI: INFO: async BasicUIStore - with user - 216.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: async KeyboardSettingsStore - 225.5ms
+[2026-06-09 10:24:31] SteamUI: INFO: async EmojiStore - 242.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: async SteamNotificationsStore - 251.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: async DynamicUserStore - 258.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: async EAAccessPromptManager - 317.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: async GRS - 336.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: async TrendingStore - 610.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:24:31] SteamUI: VERBOSE: SteamApp Init - After Login: 1925.93603515625 ms
+[2026-06-09 10:24:31] SteamUI: INFO: FriendsUI ReadyToRender - 2,254.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: VoiceChatStore - 0.7ms
+[2026-06-09 10:24:31] SteamUI: INFO: SettingsStore - 0.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: AppInfoStore - 0.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: UIStore - 0.3ms
+[2026-06-09 10:24:31] SteamUI: INFO: EconomyStore - 0.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: ParentalStore - 0.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: BroadcastStore - 0.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: RemotePlayStore - 1.8ms
+[2026-06-09 10:24:31] SteamUI: INFO: GroupMemberStore - 0.3ms
+[2026-06-09 10:24:31] SteamUI: INFO: UserStore - 0.2ms
+[2026-06-09 10:24:31] SteamUI: INFO: VRPopupManager - 1.1ms
+[2026-06-09 10:24:31] SteamUI: INFO: async Load Preferences - 737.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: async Clock Drift - 744.5ms
+[2026-06-09 10:24:31] SteamUI: INFO: async ChatStore - 1,141.9ms
+[2026-06-09 10:24:31] SteamUI: INFO: async FriendStore - 2,254ms
+[2026-06-09 10:24:31] SteamUI: INFO: console.groupEnd
+[2026-06-09 10:24:43] SteamUI: INFO: giving focus to keyboard 2
+[2026-06-09 10:24:43] SteamUI: INFO: giving focus to keyboard 2
+[2026-06-09 10:24:51] SteamUI: INFO: giving focus to keyboard 2
+[2026-06-09 10:24:51] SteamUI: INFO: giving focus to keyboard 2
+[2026-06-09 10:25:00] SteamUI: INFO: Restoring history for state State_use044
+[2026-06-09 10:25:07] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 10:25:07] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 10:25:08] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 10:25:08] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 10:28:23] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 10:28:23] SteamUI: INFO: start reconnect
+[2026-06-09 10:28:23] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 10:28:23] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 10:28:23] SteamUI: INFO: start reconnect
+[2026-06-09 10:28:23] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 10:28:23] SteamUI: WARNING: websocket error
+[2026-06-09 10:28:23] SteamUI: WARNING: websocket error
+[2026-06-09 10:28:23] SteamUI: WARNING: failed to reach open state
+[2026-06-09 10:28:23] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 10:28:23] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+[2026-06-09 10:28:23] SteamUI: WARNING: failed to reach open state
+[2026-06-09 10:28:23] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 10:28:23] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+
+
+[2026-06-09 11:22:35] Client version: no bootstrapper found
+[2026-06-09 11:22:35] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1781018554&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 11:22:35] SteamUI: INFO: setting locale: en
+[2026-06-09 11:22:36] SteamUI: INFO: websocket open
+[2026-06-09 11:22:36] SteamUI: INFO: connection ready
+[2026-06-09 11:22:36] SteamUI: INFO: websocket open
+[2026-06-09 11:22:36] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 11:22:37] SteamUI: INFO: connection ready
+[2026-06-09 11:22:37] SteamUI: INFO: Connection status: connected
+[2026-06-09 11:22:37] SteamUI: INFO: SteamApp Init - WebUI Transport - 378.9ms
+[2026-06-09 11:22:37] SteamUI: INFO: async WebUITransportStore - 376.8ms
+[2026-06-09 11:22:37] SteamUI: INFO: console.groupEnd
+[2026-06-09 11:22:37] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 11:22:37] SteamUI: INFO: Init localization english
+[2026-06-09 11:22:37] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 11:22:37] SteamUI: INFO: SteamApp Init - Before Login - 168.1ms
+[2026-06-09 11:22:37] SteamUI: INFO: VirtualMenuStore - 0.3ms
+[2026-06-09 11:22:37] SteamUI: INFO: NotificationStore - 0.4ms
+[2026-06-09 11:22:37] SteamUI: INFO: FriendsChatStore - 1.9ms
+[2026-06-09 11:22:37] SteamUI: INFO: SuspendResumeStore - 0.8ms
+[2026-06-09 11:22:37] SteamUI: INFO: SteamingStore - 0.9ms
+[2026-06-09 11:22:37] SteamUI: INFO: ConsoleStore - 0.1ms
+[2026-06-09 11:22:37] SteamUI: INFO: FocusedAppWindowStore - 0.6ms
+[2026-06-09 11:22:37] SteamUI: INFO: VRStore - 1ms
+[2026-06-09 11:22:37] SteamUI: INFO: async OverlayModalDialogsStore - 27.9ms
+[2026-06-09 11:22:37] SteamUI: INFO: async SystemNetworkStore - 28ms
+[2026-06-09 11:22:37] SteamUI: INFO: async SystemReportStore - 28.4ms
+[2026-06-09 11:22:37] SteamUI: INFO: async SimpleTests - 28.5ms
+[2026-06-09 11:22:37] SteamUI: INFO: async VRGamepadUIMessages - 28.5ms
+[2026-06-09 11:22:37] SteamUI: INFO: async VRAudioSettingsStore - 28.6ms
+[2026-06-09 11:22:37] SteamUI: INFO: async SteamURLStore - 28.7ms
+[2026-06-09 11:22:37] SteamUI: INFO: async CM Connect - 30ms
+[2026-06-09 11:22:37] SteamUI: INFO: async IBusConnection - 35.4ms
+[2026-06-09 11:22:37] SteamUI: INFO: async Localization - 102.3ms
+[2026-06-09 11:22:37] SteamUI: INFO: async BasicUIStore - 105.1ms
+[2026-06-09 11:22:37] SteamUI: INFO: async SecurityStore - 106.6ms
+[2026-06-09 11:22:37] SteamUI: INFO: async KeyboardSettingsStore - 107.3ms
+[2026-06-09 11:22:37] SteamUI: INFO: async ParentalStore - 113.2ms
+[2026-06-09 11:22:37] SteamUI: INFO: async URLStore - 130.5ms
+[2026-06-09 11:22:37] SteamUI: INFO: async LoginStore - 168ms
+[2026-06-09 11:22:37] SteamUI: INFO: console.groupEnd
+[2026-06-09 11:22:37] SteamUI: INFO: SteamAppInit - ControllerStore - 64.6ms
+[2026-06-09 11:22:37] SteamUI: INFO: async ControllerStore - 64.3ms
+[2026-06-09 11:22:37] SteamUI: INFO: console.groupEnd
+[2026-06-09 11:22:37] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":0,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 11:22:38] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 11:22:38] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 11:22:38] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 11:22:38] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 11:22:39] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 11:22:39] SteamUI: INFO: Init localization english
+[2026-06-09 11:22:39] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 11:22:39] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 11:22:39] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 11:22:40] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 11:22:40] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 584.7ms
+[2026-06-09 11:22:40] SteamUI: INFO: async CM Connection - 47.9ms
+[2026-06-09 11:22:40] SteamUI: INFO: async GameActionStore - 48.6ms
+[2026-06-09 11:22:40] SteamUI: INFO: async SystemInfoStore - 48.9ms
+[2026-06-09 11:22:40] SteamUI: INFO: async SystemNetworkStore - 49ms
+[2026-06-09 11:22:40] SteamUI: INFO: async localization - 83.8ms
+[2026-06-09 11:22:40] SteamUI: INFO: async AchievementProgress - 155.9ms
+[2026-06-09 11:22:40] SteamUI: INFO: async CloudStorage - 223.5ms
+[2026-06-09 11:22:40] SteamUI: INFO: async SettingsStore - 402.1ms
+[2026-06-09 11:22:40] SteamUI: INFO: async URLStore - 431.1ms
+[2026-06-09 11:22:40] SteamUI: INFO: async FriendsChatStore - Startup - 584.4ms
+[2026-06-09 11:22:40] SteamUI: INFO: console.groupEnd
+[2026-06-09 11:22:41] SteamUI: VERBOSE: CAppStore Init: 809.18994140625 ms
+[2026-06-09 11:22:41] SteamUI: INFO: SteamApp Init - AppStore - 810.8ms
+[2026-06-09 11:22:41] SteamUI: INFO: async AppStore - 810.4ms
+[2026-06-09 11:22:41] SteamUI: INFO: console.groupEnd
+[2026-06-09 11:22:41] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 52.1ms
+[2026-06-09 11:22:41] SteamUI: INFO: async FriendStore - 51.4ms
+[2026-06-09 11:22:41] SteamUI: INFO: console.groupEnd
+[2026-06-09 11:22:41] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 23.7ms
+[2026-06-09 11:22:41] SteamUI: INFO: async CollectionStore - 21.4ms
+[2026-06-09 11:22:41] SteamUI: INFO: console.groupEnd
+[2026-06-09 11:22:41] SteamUI: VERBOSE: CUIStore Init: 162.68798828125 ms
+[2026-06-09 11:22:41] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 624.8ms
+[2026-06-09 11:22:41] SteamUI: INFO: AppInfoStore - 0.1ms
+[2026-06-09 11:22:41] SteamUI: INFO: AppActivityStore - 3.8ms
+[2026-06-09 11:22:41] SteamUI: INFO: AppDetailsStore - 0.5ms
+[2026-06-09 11:22:41] SteamUI: INFO: AppReviewStore - 0.2ms
+[2026-06-09 11:22:41] SteamUI: INFO: WorkshopStore - 0.5ms
+[2026-06-09 11:22:41] SteamUI: INFO: BadgeStore - 1ms
+[2026-06-09 11:22:41] SteamUI: INFO: DownloadsStore - 1.5ms
+[2026-06-09 11:22:41] SteamUI: INFO: FAQStore - 0.4ms
+[2026-06-09 11:22:41] SteamUI: INFO: ControllerConfigStore - 3.2ms
+[2026-06-09 11:22:41] SteamUI: INFO: InstallFolderStore - 0.5ms
+[2026-06-09 11:22:41] SteamUI: INFO: SubscriberAgreementStore - 0.2ms
+[2026-06-09 11:22:41] SteamUI: INFO: ScreenshotStore - 0.5ms
+[2026-06-09 11:22:41] SteamUI: INFO: DiscoveryQueueStore - 0.3ms
+[2026-06-09 11:22:41] SteamUI: INFO: MarketingStore - 0.3ms
+[2026-06-09 11:22:41] SteamUI: INFO: RemotePlayStore - 1.5ms
+[2026-06-09 11:22:41] SteamUI: INFO: OverlayStore - 1.7ms
+[2026-06-09 11:22:41] SteamUI: INFO: ServerBrowserStore - 0.3ms
+[2026-06-09 11:22:41] SteamUI: INFO: MusicStore - 0.9ms
+[2026-06-09 11:22:41] SteamUI: INFO: HardwareUpdaterStore - 1.9ms
+[2026-06-09 11:22:41] SteamUI: INFO: SystemAudioStore - 3.4ms
+[2026-06-09 11:22:41] SteamUI: INFO: async CommunityStore - 72.4ms
+[2026-06-09 11:22:41] SteamUI: INFO: async SettingsZooStore - 88.6ms
+[2026-06-09 11:22:41] SteamUI: INFO: async SearchStore - 89.1ms
+[2026-06-09 11:22:41] SteamUI: INFO: async AchievementStore - 89.2ms
+[2026-06-09 11:22:41] SteamUI: INFO: async GameReleasedStore - 89.3ms
+[2026-06-09 11:22:41] SteamUI: INFO: async GamescopeStore - 89.4ms
+[2026-06-09 11:22:41] SteamUI: INFO: async SystemStorageStore - 89.6ms
+[2026-06-09 11:22:41] SteamUI: INFO: async SDCardStore - 89.7ms
+[2026-06-09 11:22:41] SteamUI: INFO: async SteamOSStore - 89.8ms
+[2026-06-09 11:22:41] SteamUI: INFO: async LEDManagerStore - 90.2ms
+[2026-06-09 11:22:41] SteamUI: INFO: async BluetoothStore - 90.3ms
+[2026-06-09 11:22:41] SteamUI: INFO: async ControllerConfigInterstitialStore - 91.5ms
+[2026-06-09 11:22:41] SteamUI: INFO: async LibraryEventStore - 91.8ms
+[2026-06-09 11:22:41] SteamUI: INFO: async ShowcaseStore - 91.9ms
+[2026-06-09 11:22:41] SteamUI: INFO: async AppSpotlightsStore - 122.8ms
+[2026-06-09 11:22:41] SteamUI: INFO: async LibraryUIStore - 171.1ms
+[2026-06-09 11:22:41] SteamUI: INFO: async PlayNextStore - 172.2ms
+[2026-06-09 11:22:41] SteamUI: INFO: async UserProfileStore - 220.7ms
+[2026-06-09 11:22:41] SteamUI: INFO: async BasicUIStore - with user - 224.1ms
+[2026-06-09 11:22:41] SteamUI: INFO: async KeyboardSettingsStore - 229.2ms
+[2026-06-09 11:22:41] SteamUI: INFO: async EmojiStore - 325.2ms
+[2026-06-09 11:22:41] SteamUI: INFO: async SteamNotificationsStore - 331.5ms
+[2026-06-09 11:22:41] SteamUI: INFO: async EAAccessPromptManager - 334.1ms
+[2026-06-09 11:22:41] SteamUI: INFO: async GRS - 347.2ms
+[2026-06-09 11:22:41] SteamUI: INFO: async DynamicUserStore - 366.6ms
+[2026-06-09 11:22:41] SteamUI: INFO: async TrendingStore - 624.6ms
+[2026-06-09 11:22:41] SteamUI: INFO: console.groupEnd
+[2026-06-09 11:22:41] SteamUI: VERBOSE: SteamApp Init - After Login: 2104.99609375 ms
+[2026-06-09 11:22:42] SteamUI: INFO: FriendsUI ReadyToRender - 2,236.6ms
+[2026-06-09 11:22:42] SteamUI: INFO: VoiceChatStore - 0.8ms
+[2026-06-09 11:22:42] SteamUI: INFO: SettingsStore - 0.3ms
+[2026-06-09 11:22:42] SteamUI: INFO: AppInfoStore - 0.3ms
+[2026-06-09 11:22:42] SteamUI: INFO: UIStore - 0.8ms
+[2026-06-09 11:22:42] SteamUI: INFO: EconomyStore - 0.3ms
+[2026-06-09 11:22:42] SteamUI: INFO: ParentalStore - 0.9ms
+[2026-06-09 11:22:42] SteamUI: INFO: BroadcastStore - 0.1ms
+[2026-06-09 11:22:42] SteamUI: INFO: RemotePlayStore - 4.3ms
+[2026-06-09 11:22:42] SteamUI: INFO: GroupMemberStore - 0.5ms
+[2026-06-09 11:22:42] SteamUI: INFO: UserStore - 0.3ms
+[2026-06-09 11:22:42] SteamUI: INFO: VRPopupManager - 1.2ms
+[2026-06-09 11:22:42] SteamUI: INFO: async Clock Drift - 760.9ms
+[2026-06-09 11:22:42] SteamUI: INFO: async Load Preferences - 762.2ms
+[2026-06-09 11:22:42] SteamUI: INFO: async ChatStore - 1,191.7ms
+[2026-06-09 11:22:42] SteamUI: INFO: async FriendStore - 2,236.3ms
+[2026-06-09 11:22:42] SteamUI: INFO: console.groupEnd
+[2026-06-09 11:23:16] SteamUI: INFO: Restoring history for state State_qkes9m
+[2026-06-09 11:23:17] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 11:23:18] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 11:24:16] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 11:24:16] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 11:25:47] SteamUI: INFO: Restoring history for state State_qkes9m
+[2026-06-09 11:25:51] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 11:25:51] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 11:25:52] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 11:25:52] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 11:31:35] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 11:31:35] SteamUI: INFO: start reconnect
+[2026-06-09 11:31:35] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 11:31:35] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 11:31:35] SteamUI: INFO: start reconnect
+[2026-06-09 11:31:35] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 11:31:35] SteamUI: WARNING: websocket error
+[2026-06-09 11:31:35] SteamUI: WARNING: websocket error
+[2026-06-09 11:31:35] SteamUI: WARNING: failed to reach open state
+[2026-06-09 11:31:35] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 11:31:35] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+[2026-06-09 11:31:35] SteamUI: WARNING: failed to reach open state
+[2026-06-09 11:31:35] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 11:31:35] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+
+
+[2026-06-09 12:06:49] Client version: no bootstrapper found
+[2026-06-09 12:06:49] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1781021207&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 12:06:49] SteamUI: INFO: setting locale: en
+[2026-06-09 12:06:50] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 12:06:50] SteamUI: INFO: websocket open
+[2026-06-09 12:06:50] SteamUI: INFO: websocket open
+[2026-06-09 12:06:50] SteamUI: INFO: connection ready
+[2026-06-09 12:06:50] SteamUI: INFO: connection ready
+[2026-06-09 12:06:50] SteamUI: INFO: Connection status: connected
+[2026-06-09 12:06:50] SteamUI: INFO: SteamApp Init - WebUI Transport - 227.8ms
+[2026-06-09 12:06:50] SteamUI: INFO: async WebUITransportStore - 225.2ms
+[2026-06-09 12:06:50] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:06:50] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 12:06:50] SteamUI: INFO: Init localization english
+[2026-06-09 12:06:50] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 12:06:50] SteamUI: INFO: SteamApp Init - Before Login - 181.4ms
+[2026-06-09 12:06:50] SteamUI: INFO: VirtualMenuStore - 0.3ms
+[2026-06-09 12:06:50] SteamUI: INFO: NotificationStore - 0.4ms
+[2026-06-09 12:06:50] SteamUI: INFO: FriendsChatStore - 1.9ms
+[2026-06-09 12:06:50] SteamUI: INFO: SuspendResumeStore - 0.8ms
+[2026-06-09 12:06:50] SteamUI: INFO: SteamingStore - 1.1ms
+[2026-06-09 12:06:50] SteamUI: INFO: ConsoleStore - 0.2ms
+[2026-06-09 12:06:50] SteamUI: INFO: FocusedAppWindowStore - 0.6ms
+[2026-06-09 12:06:50] SteamUI: INFO: VRStore - 1.1ms
+[2026-06-09 12:06:50] SteamUI: INFO: async OverlayModalDialogsStore - 29.1ms
+[2026-06-09 12:06:50] SteamUI: INFO: async SystemNetworkStore - 29.2ms
+[2026-06-09 12:06:50] SteamUI: INFO: async SystemReportStore - 29.6ms
+[2026-06-09 12:06:50] SteamUI: INFO: async SimpleTests - 29.7ms
+[2026-06-09 12:06:50] SteamUI: INFO: async VRGamepadUIMessages - 29.8ms
+[2026-06-09 12:06:50] SteamUI: INFO: async VRAudioSettingsStore - 29.9ms
+[2026-06-09 12:06:50] SteamUI: INFO: async SteamURLStore - 29.9ms
+[2026-06-09 12:06:50] SteamUI: INFO: async CM Connect - 31.4ms
+[2026-06-09 12:06:50] SteamUI: INFO: async BasicUIStore - 40.9ms
+[2026-06-09 12:06:50] SteamUI: INFO: async IBusConnection - 46.2ms
+[2026-06-09 12:06:50] SteamUI: INFO: async Localization - 109.7ms
+[2026-06-09 12:06:50] SteamUI: INFO: async SecurityStore - 119.7ms
+[2026-06-09 12:06:50] SteamUI: INFO: async KeyboardSettingsStore - 120.4ms
+[2026-06-09 12:06:50] SteamUI: INFO: async ParentalStore - 125.4ms
+[2026-06-09 12:06:50] SteamUI: INFO: async URLStore - 135.9ms
+[2026-06-09 12:06:50] SteamUI: INFO: async LoginStore - 181.2ms
+[2026-06-09 12:06:50] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:06:50] SteamUI: INFO: SteamAppInit - ControllerStore - 55.5ms
+[2026-06-09 12:06:50] SteamUI: INFO: async ControllerStore - 55.1ms
+[2026-06-09 12:06:50] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:06:50] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":1780352834,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 12:06:51] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 12:06:51] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 12:06:52] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 12:06:52] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 12:06:52] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 12:06:53] SteamUI: INFO: OnLoginStateChange aprat 4 1 1 0
+[2026-06-09 12:06:53] SteamUI: INFO: Init localization english
+[2026-06-09 12:06:53] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 12:06:53] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 12:06:53] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 12:06:53] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 12:06:53] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 667.1ms
+[2026-06-09 12:06:53] SteamUI: INFO: async CM Connection - 42.9ms
+[2026-06-09 12:06:53] SteamUI: INFO: async GameActionStore - 43.5ms
+[2026-06-09 12:06:53] SteamUI: INFO: async SystemInfoStore - 43.7ms
+[2026-06-09 12:06:53] SteamUI: INFO: async SystemNetworkStore - 43.8ms
+[2026-06-09 12:06:53] SteamUI: INFO: async localization - 81.3ms
+[2026-06-09 12:06:53] SteamUI: INFO: async AchievementProgress - 130.1ms
+[2026-06-09 12:06:53] SteamUI: INFO: async CloudStorage - 273.9ms
+[2026-06-09 12:06:53] SteamUI: INFO: async SettingsStore - 529.6ms
+[2026-06-09 12:06:53] SteamUI: INFO: async URLStore - 573.2ms
+[2026-06-09 12:06:53] SteamUI: INFO: async FriendsChatStore - Startup - 666.7ms
+[2026-06-09 12:06:53] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:06:54] SteamUI: VERBOSE: CAppStore Init: 595.170166015625 ms
+[2026-06-09 12:06:54] SteamUI: INFO: SteamApp Init - AppStore - 596.2ms
+[2026-06-09 12:06:54] SteamUI: INFO: async AppStore - 595.9ms
+[2026-06-09 12:06:54] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:06:54] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 50.1ms
+[2026-06-09 12:06:54] SteamUI: INFO: async FriendStore - 49.7ms
+[2026-06-09 12:06:54] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:06:54] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 64.9ms
+[2026-06-09 12:06:54] SteamUI: INFO: async CollectionStore - 64.6ms
+[2026-06-09 12:06:54] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:06:54] SteamUI: VERBOSE: CUIStore Init: 144.423828125 ms
+[2026-06-09 12:06:55] SteamUI: INFO: FriendsUI ReadyToRender - 1,391.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: VoiceChatStore - 0.8ms
+[2026-06-09 12:06:55] SteamUI: INFO: SettingsStore - 0.2ms
+[2026-06-09 12:06:55] SteamUI: INFO: AppInfoStore - 0.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: UIStore - 0.4ms
+[2026-06-09 12:06:55] SteamUI: INFO: EconomyStore - 0.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: ParentalStore - 0.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: BroadcastStore - 0.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: RemotePlayStore - 3.5ms
+[2026-06-09 12:06:55] SteamUI: INFO: GroupMemberStore - 0.4ms
+[2026-06-09 12:06:55] SteamUI: INFO: UserStore - 0.2ms
+[2026-06-09 12:06:55] SteamUI: INFO: VRPopupManager - 1.8ms
+[2026-06-09 12:06:55] SteamUI: INFO: async Load Preferences - 591.3ms
+[2026-06-09 12:06:55] SteamUI: INFO: async Clock Drift - 611.2ms
+[2026-06-09 12:06:55] SteamUI: INFO: async ChatStore - 975.9ms
+[2026-06-09 12:06:55] SteamUI: INFO: async FriendStore - 1,390.5ms
+[2026-06-09 12:06:55] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:06:55] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 683.3ms
+[2026-06-09 12:06:55] SteamUI: INFO: AppInfoStore - 0.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: AppActivityStore - 2.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: AppDetailsStore - 0ms
+[2026-06-09 12:06:55] SteamUI: INFO: AppReviewStore - 0.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: WorkshopStore - 0.5ms
+[2026-06-09 12:06:55] SteamUI: INFO: BadgeStore - 1.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: DownloadsStore - 0.8ms
+[2026-06-09 12:06:55] SteamUI: INFO: FAQStore - 0.5ms
+[2026-06-09 12:06:55] SteamUI: INFO: ControllerConfigStore - 0.9ms
+[2026-06-09 12:06:55] SteamUI: INFO: InstallFolderStore - 0.4ms
+[2026-06-09 12:06:55] SteamUI: INFO: SubscriberAgreementStore - 0.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: ScreenshotStore - 0.3ms
+[2026-06-09 12:06:55] SteamUI: INFO: DiscoveryQueueStore - 0.6ms
+[2026-06-09 12:06:55] SteamUI: INFO: MarketingStore - 0ms
+[2026-06-09 12:06:55] SteamUI: INFO: RemotePlayStore - 1.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: OverlayStore - 3.4ms
+[2026-06-09 12:06:55] SteamUI: INFO: ServerBrowserStore - 0.2ms
+[2026-06-09 12:06:55] SteamUI: INFO: MusicStore - 0.4ms
+[2026-06-09 12:06:55] SteamUI: INFO: HardwareUpdaterStore - 0.8ms
+[2026-06-09 12:06:55] SteamUI: INFO: SystemAudioStore - 2.9ms
+[2026-06-09 12:06:55] SteamUI: INFO: async CommunityStore - 56.7ms
+[2026-06-09 12:06:55] SteamUI: INFO: async SettingsZooStore - 70.2ms
+[2026-06-09 12:06:55] SteamUI: INFO: async SearchStore - 70.5ms
+[2026-06-09 12:06:55] SteamUI: INFO: async AchievementStore - 70.6ms
+[2026-06-09 12:06:55] SteamUI: INFO: async GameReleasedStore - 70.7ms
+[2026-06-09 12:06:55] SteamUI: INFO: async GamescopeStore - 70.8ms
+[2026-06-09 12:06:55] SteamUI: INFO: async SystemStorageStore - 70.9ms
+[2026-06-09 12:06:55] SteamUI: INFO: async SDCardStore - 71ms
+[2026-06-09 12:06:55] SteamUI: INFO: async SteamOSStore - 71ms
+[2026-06-09 12:06:55] SteamUI: INFO: async LEDManagerStore - 71.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: async BluetoothStore - 71.2ms
+[2026-06-09 12:06:55] SteamUI: INFO: async ControllerConfigInterstitialStore - 71.9ms
+[2026-06-09 12:06:55] SteamUI: INFO: async LibraryEventStore - 72.1ms
+[2026-06-09 12:06:55] SteamUI: INFO: async ShowcaseStore - 72.2ms
+[2026-06-09 12:06:55] SteamUI: INFO: async AppSpotlightsStore - 99.9ms
+[2026-06-09 12:06:55] SteamUI: INFO: async LibraryUIStore - 150ms
+[2026-06-09 12:06:55] SteamUI: INFO: async PlayNextStore - 152ms
+[2026-06-09 12:06:55] SteamUI: INFO: async UserProfileStore - 182.7ms
+[2026-06-09 12:06:55] SteamUI: INFO: async BasicUIStore - with user - 186.4ms
+[2026-06-09 12:06:55] SteamUI: INFO: async KeyboardSettingsStore - 192.6ms
+[2026-06-09 12:06:55] SteamUI: INFO: async DynamicUserStore - 255.2ms
+[2026-06-09 12:06:55] SteamUI: INFO: async EmojiStore - 339.9ms
+[2026-06-09 12:06:55] SteamUI: INFO: async SteamNotificationsStore - 344.5ms
+[2026-06-09 12:06:55] SteamUI: INFO: async EAAccessPromptManager - 348.3ms
+[2026-06-09 12:06:55] SteamUI: INFO: async GRS - 356ms
+[2026-06-09 12:06:55] SteamUI: INFO: async TrendingStore - 683ms
+[2026-06-09 12:06:55] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:06:55] SteamUI: VERBOSE: SteamApp Init - After Login: 2072.030029296875 ms
+[2026-06-09 12:07:01] SteamUI: INFO: onGlobalMenuButtonDown SP BPM_uid0
+[2026-06-09 12:07:05] SteamUI: INFO: Force recreating overlays...
+[2026-06-09 12:07:06] SteamUI: VERBOSE: SteamApp Init: 3.73583984375 ms
+[2026-06-09 12:07:12] SteamBrowser-'Welcome to': INFO: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: Suspense boundary mounted.
+[2026-06-09 12:07:12] SteamUI: VERBOSE: Library Init: 1.075927734375 ms
+[2026-06-09 12:07:12] SteamBrowser-'Welcome to': WARNING: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: Error reporter does not know how to parse generated stack:
+[2026-06-09 12:07:12] SteamBrowser-'Welcome to': WARNING: https://store.fastly.steamstatic.com/public/javascript/applications/store/main.js?v=Gp98Z0XWTWnR&l=english&_cdn=fastly:14: undefined
+[2026-06-09 12:07:12] SteamBrowser-'Welcome to': ERROR: https://store.steampowered.com/:0: Uncaught (in promise) AbortError: The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+[2026-06-09 12:07:12] SteamBrowser-'Welcome to': ERROR: https://store.steampowered.com/:0: Uncaught (in promise) AbortError: The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+[2026-06-09 12:07:13] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 12:07:13] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 12:07:13] SteamUI: INFO: Fetching PlayNext with ignore list: 1901620
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 4183110 0 /assets/4183110/library_600x900.jpg?c=369998472
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 1493710 0 /assets/1493710/library_600x900.jpg?c=369992840
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 1391110 0 /assets/1391110/library_600x900.jpg?c=352200328
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 1070560 0 /assets/1070560/library_600x900.jpg?c=331961608
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 3658110 0 /assets/3658110/library_600x900.jpg?c=102072840
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 1628350 0 /assets/1628350/library_600x900.jpg?c=369996040
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 4628740 0 /assets/4628740/library_600x900.jpg?c=308733192
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400/library_600x900.jpg?c=370001032
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 4183110 0 /assets/4183110_library_600x900.jpg?c=369998472
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 1493710 0 /assets/1493710_library_600x900.jpg?c=369992840
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 1391110 0 /assets/1391110_library_600x900.jpg?c=352200328
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 1070560 0 /assets/1070560_library_600x900.jpg?c=331961608
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 3658110 0 /assets/3658110_library_600x900.jpg?c=102072840
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 1628350 0 /assets/1628350_library_600x900.jpg?c=369996040
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 4628740 0 /assets/4628740_library_600x900.jpg?c=308733192
+[2026-06-09 12:07:13] SteamUI: INFO: Reporting cache miss for 4185400 0 /assets/4185400_library_600x900.jpg?c=370001032
+[2026-06-09 12:07:16] SteamUI: VERBOSE: skipped review render, waiting for roaming storage to initialize
+[2026-06-09 12:08:03] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 12:08:03] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 12:08:04] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 12:08:04] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 12:09:17] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 12:09:17] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 12:09:18] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 12:09:18] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 12:20:44] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 12:20:44] SteamUI: INFO: start reconnect
+[2026-06-09 12:20:44] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 12:20:44] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 12:20:44] SteamUI: INFO: start reconnect
+[2026-06-09 12:20:44] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 12:20:44] SteamUI: WARNING: websocket error
+[2026-06-09 12:20:44] SteamUI: WARNING: websocket error
+[2026-06-09 12:20:44] SteamUI: WARNING: failed to reach open state
+[2026-06-09 12:20:44] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 12:20:44] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+[2026-06-09 12:20:44] SteamUI: WARNING: failed to reach open state
+[2026-06-09 12:20:44] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 12:20:44] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+
+
+[2026-06-09 12:43:35] Client version: no bootstrapper found
+[2026-06-09 12:43:35] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1781023413&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 12:43:35] SteamUI: INFO: setting locale: en
+[2026-06-09 12:43:36] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 12:43:36] SteamUI: INFO: websocket open
+[2026-06-09 12:43:36] SteamUI: INFO: websocket open
+[2026-06-09 12:43:36] SteamUI: INFO: connection ready
+[2026-06-09 12:43:36] SteamUI: INFO: connection ready
+[2026-06-09 12:43:36] SteamUI: INFO: Connection status: connected
+[2026-06-09 12:43:36] SteamUI: INFO: SteamApp Init - WebUI Transport - 280.5ms
+[2026-06-09 12:43:36] SteamUI: INFO: async WebUITransportStore - 278.3ms
+[2026-06-09 12:43:36] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:43:36] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 12:43:36] SteamUI: INFO: Init localization english
+[2026-06-09 12:43:36] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 12:43:37] SteamUI: INFO: SteamApp Init - Before Login - 282.1ms
+[2026-06-09 12:43:37] SteamUI: INFO: VirtualMenuStore - 0.4ms
+[2026-06-09 12:43:37] SteamUI: INFO: NotificationStore - 0.9ms
+[2026-06-09 12:43:37] SteamUI: INFO: FriendsChatStore - 2.2ms
+[2026-06-09 12:43:37] SteamUI: INFO: SuspendResumeStore - 1.3ms
+[2026-06-09 12:43:37] SteamUI: INFO: SteamingStore - 1ms
+[2026-06-09 12:43:37] SteamUI: INFO: ConsoleStore - 0.4ms
+[2026-06-09 12:43:37] SteamUI: INFO: FocusedAppWindowStore - 1ms
+[2026-06-09 12:43:37] SteamUI: INFO: VRStore - 1.3ms
+[2026-06-09 12:43:37] SteamUI: INFO: async OverlayModalDialogsStore - 38.1ms
+[2026-06-09 12:43:37] SteamUI: INFO: async SystemNetworkStore - 38.4ms
+[2026-06-09 12:43:37] SteamUI: INFO: async SystemReportStore - 38.9ms
+[2026-06-09 12:43:37] SteamUI: INFO: async SimpleTests - 39ms
+[2026-06-09 12:43:37] SteamUI: INFO: async VRGamepadUIMessages - 39ms
+[2026-06-09 12:43:37] SteamUI: INFO: async VRAudioSettingsStore - 39.1ms
+[2026-06-09 12:43:37] SteamUI: INFO: async SteamURLStore - 39.2ms
+[2026-06-09 12:43:37] SteamUI: INFO: async CM Connect - 53.1ms
+[2026-06-09 12:43:37] SteamUI: INFO: async BasicUIStore - 78.2ms
+[2026-06-09 12:43:37] SteamUI: INFO: async SecurityStore - 79.7ms
+[2026-06-09 12:43:37] SteamUI: INFO: async KeyboardSettingsStore - 95.9ms
+[2026-06-09 12:43:37] SteamUI: INFO: async ParentalStore - 153.4ms
+[2026-06-09 12:43:37] SteamUI: INFO: async IBusConnection - 171.3ms
+[2026-06-09 12:43:37] SteamUI: INFO: async Localization - 215.2ms
+[2026-06-09 12:43:37] SteamUI: INFO: async URLStore - 230.1ms
+[2026-06-09 12:43:37] SteamUI: INFO: async LoginStore - 281.9ms
+[2026-06-09 12:43:37] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:43:37] SteamUI: INFO: SteamAppInit - ControllerStore - 59.3ms
+[2026-06-09 12:43:37] SteamUI: INFO: async ControllerStore - 58.9ms
+[2026-06-09 12:43:37] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:43:37] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":1780352834,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 12:43:38] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 12:43:38] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 12:43:39] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 12:43:39] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 12:43:39] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 12:43:40] SteamUI: INFO: Init localization english
+[2026-06-09 12:43:40] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 12:43:40] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 12:43:40] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 12:43:40] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 12:43:40] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 568.1ms
+[2026-06-09 12:43:40] SteamUI: INFO: async CM Connection - 144ms
+[2026-06-09 12:43:40] SteamUI: INFO: async GameActionStore - 144.5ms
+[2026-06-09 12:43:40] SteamUI: INFO: async SystemInfoStore - 144.7ms
+[2026-06-09 12:43:40] SteamUI: INFO: async SystemNetworkStore - 144.7ms
+[2026-06-09 12:43:40] SteamUI: INFO: async localization - 176.4ms
+[2026-06-09 12:43:40] SteamUI: INFO: async AchievementProgress - 270.7ms
+[2026-06-09 12:43:40] SteamUI: INFO: async SettingsStore - 321.4ms
+[2026-06-09 12:43:40] SteamUI: INFO: async URLStore - 332.8ms
+[2026-06-09 12:43:40] SteamUI: INFO: async CloudStorage - 411.7ms
+[2026-06-09 12:43:40] SteamUI: INFO: async FriendsChatStore - Startup - 567.8ms
+[2026-06-09 12:43:40] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:43:42] SteamUI: VERBOSE: CAppStore Init: 1442.15087890625 ms
+[2026-06-09 12:43:42] SteamUI: INFO: SteamApp Init - AppStore - 1,443.2ms
+[2026-06-09 12:43:42] SteamUI: INFO: async AppStore - 1,442.9ms
+[2026-06-09 12:43:42] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:43:42] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 47.1ms
+[2026-06-09 12:43:42] SteamUI: INFO: async FriendStore - 46.9ms
+[2026-06-09 12:43:42] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:43:42] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 87.9ms
+[2026-06-09 12:43:42] SteamUI: INFO: async CollectionStore - 87.4ms
+[2026-06-09 12:43:42] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:43:42] SteamUI: VERBOSE: CUIStore Init: 201.673095703125 ms
+[2026-06-09 12:43:43] SteamUI: INFO: FriendsUI ReadyToRender - 2,290.4ms
+[2026-06-09 12:43:43] SteamUI: INFO: VoiceChatStore - 1.9ms
+[2026-06-09 12:43:43] SteamUI: INFO: SettingsStore - 0.6ms
+[2026-06-09 12:43:43] SteamUI: INFO: AppInfoStore - 0ms
+[2026-06-09 12:43:43] SteamUI: INFO: UIStore - 0.4ms
+[2026-06-09 12:43:43] SteamUI: INFO: EconomyStore - 0ms
+[2026-06-09 12:43:43] SteamUI: INFO: ParentalStore - 0.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: BroadcastStore - 0.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: RemotePlayStore - 13.3ms
+[2026-06-09 12:43:43] SteamUI: INFO: GroupMemberStore - 0.6ms
+[2026-06-09 12:43:43] SteamUI: INFO: UserStore - 0.8ms
+[2026-06-09 12:43:43] SteamUI: INFO: VRPopupManager - 1.8ms
+[2026-06-09 12:43:43] SteamUI: INFO: async Clock Drift - 1,495.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: async Load Preferences - 1,498.4ms
+[2026-06-09 12:43:43] SteamUI: INFO: async ChatStore - 1,989.6ms
+[2026-06-09 12:43:43] SteamUI: INFO: async FriendStore - 2,290ms
+[2026-06-09 12:43:43] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:43:43] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 754.8ms
+[2026-06-09 12:43:43] SteamUI: INFO: AppInfoStore - 0.3ms
+[2026-06-09 12:43:43] SteamUI: INFO: AppActivityStore - 3.1ms
+[2026-06-09 12:43:43] SteamUI: INFO: AppDetailsStore - 0.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: AppReviewStore - 0ms
+[2026-06-09 12:43:43] SteamUI: INFO: WorkshopStore - 1.4ms
+[2026-06-09 12:43:43] SteamUI: INFO: BadgeStore - 1.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: DownloadsStore - 2.1ms
+[2026-06-09 12:43:43] SteamUI: INFO: FAQStore - 0.7ms
+[2026-06-09 12:43:43] SteamUI: INFO: ControllerConfigStore - 4ms
+[2026-06-09 12:43:43] SteamUI: INFO: InstallFolderStore - 1.1ms
+[2026-06-09 12:43:43] SteamUI: INFO: SubscriberAgreementStore - 0.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: ScreenshotStore - 0.3ms
+[2026-06-09 12:43:43] SteamUI: INFO: DiscoveryQueueStore - 1.4ms
+[2026-06-09 12:43:43] SteamUI: INFO: MarketingStore - 0.8ms
+[2026-06-09 12:43:43] SteamUI: INFO: RemotePlayStore - 2.6ms
+[2026-06-09 12:43:43] SteamUI: INFO: OverlayStore - 4.3ms
+[2026-06-09 12:43:43] SteamUI: INFO: ServerBrowserStore - 0.4ms
+[2026-06-09 12:43:43] SteamUI: INFO: MusicStore - 1.4ms
+[2026-06-09 12:43:43] SteamUI: INFO: HardwareUpdaterStore - 1.9ms
+[2026-06-09 12:43:43] SteamUI: INFO: SystemAudioStore - 3.1ms
+[2026-06-09 12:43:43] SteamUI: INFO: async CommunityStore - 111.1ms
+[2026-06-09 12:43:43] SteamUI: INFO: async SettingsZooStore - 134.8ms
+[2026-06-09 12:43:43] SteamUI: INFO: async SearchStore - 135.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: async AchievementStore - 135.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: async GameReleasedStore - 135.4ms
+[2026-06-09 12:43:43] SteamUI: INFO: async GamescopeStore - 135.5ms
+[2026-06-09 12:43:43] SteamUI: INFO: async SystemStorageStore - 135.6ms
+[2026-06-09 12:43:43] SteamUI: INFO: async SDCardStore - 135.6ms
+[2026-06-09 12:43:43] SteamUI: INFO: async SteamOSStore - 135.6ms
+[2026-06-09 12:43:43] SteamUI: INFO: async LEDManagerStore - 135.7ms
+[2026-06-09 12:43:43] SteamUI: INFO: async BluetoothStore - 135.7ms
+[2026-06-09 12:43:43] SteamUI: INFO: async ControllerConfigInterstitialStore - 137.8ms
+[2026-06-09 12:43:43] SteamUI: INFO: async LibraryEventStore - 138.1ms
+[2026-06-09 12:43:43] SteamUI: INFO: async ShowcaseStore - 138.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: async AppSpotlightsStore - 178.7ms
+[2026-06-09 12:43:43] SteamUI: INFO: async LibraryUIStore - 210ms
+[2026-06-09 12:43:43] SteamUI: INFO: async PlayNextStore - 222ms
+[2026-06-09 12:43:43] SteamUI: INFO: async UserProfileStore - 352.1ms
+[2026-06-09 12:43:43] SteamUI: INFO: async BasicUIStore - with user - 359.8ms
+[2026-06-09 12:43:43] SteamUI: INFO: async KeyboardSettingsStore - 389.6ms
+[2026-06-09 12:43:43] SteamUI: INFO: async EmojiStore - 411.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: async SteamNotificationsStore - 418.2ms
+[2026-06-09 12:43:43] SteamUI: INFO: async EAAccessPromptManager - 427.4ms
+[2026-06-09 12:43:43] SteamUI: INFO: async GRS - 504.7ms
+[2026-06-09 12:43:43] SteamUI: INFO: async DynamicUserStore - 604.8ms
+[2026-06-09 12:43:43] SteamUI: INFO: async TrendingStore - 754.1ms
+[2026-06-09 12:43:43] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:43:43] SteamUI: VERBOSE: SteamApp Init - After Login: 2923.677978515625 ms
+[2026-06-09 12:43:56] SteamUI: INFO: giving focus to keyboard 2
+[2026-06-09 12:43:56] SteamUI: INFO: giving focus to keyboard 2
+[2026-06-09 12:45:57] SteamUI: INFO: Restoring history for state State_jxu08k
+[2026-06-09 12:46:01] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 12:46:01] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 12:46:02] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 12:46:03] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 12:48:00] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 12:48:00] SteamUI: INFO: start reconnect
+[2026-06-09 12:48:00] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 12:48:00] SteamUI: WARNING: websocket unexpectedly closed
+[2026-06-09 12:48:00] SteamUI: INFO: start reconnect
+[2026-06-09 12:48:00] SteamUI: INFO: Connection status: disconnected
+[2026-06-09 12:48:00] SteamUI: WARNING: websocket error
+[2026-06-09 12:48:00] SteamUI: WARNING: websocket error
+[2026-06-09 12:48:00] SteamUI: WARNING: failed to reach open state
+[2026-06-09 12:48:00] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 12:48:00] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+[2026-06-09 12:48:00] SteamUI: WARNING: failed to reach open state
+[2026-06-09 12:48:00] SteamUI: WARNING: connect attempt failed: 2 - failed to reach open state
+[2026-06-09 12:48:00] SteamUI: INFO: connect retry: attempt:0/8 backoff:1000
+
+
+[2026-06-09 12:49:43] Client version: no bootstrapper found
+[2026-06-09 12:49:43] SteamUI: INFO: Storing new config params ?LOCAL_HOSTNAME=ayn-odin2portal&LANGUAGE=english&COUNTRY=CL&LAUNCHER_TYPE=0&CLIENT_SESSION=1781023781&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=linux&ON_DECK=true&ON_STEAMOS=true
+[2026-06-09 12:49:43] SteamUI: INFO: setting locale: en
+[2026-06-09 12:49:44] SteamUI: INFO: websocket open
+[2026-06-09 12:49:44] SteamUI: INFO: websocket open
+[2026-06-09 12:49:44] SteamUI: ERROR: failed to query current OS branch
+[2026-06-09 12:49:44] SteamUI: INFO: connection ready
+[2026-06-09 12:49:45] SteamUI: INFO: connection ready
+[2026-06-09 12:49:45] SteamUI: INFO: Connection status: connected
+[2026-06-09 12:49:45] SteamUI: INFO: SteamApp Init - WebUI Transport - 316.4ms
+[2026-06-09 12:49:45] SteamUI: INFO: async WebUITransportStore - 314.1ms
+[2026-06-09 12:49:45] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:49:45] SteamUI: INFO: font-family: monospace; background: black; color: white; font-weight: normal; padding: 0 1ch; border: solid 1px #666
+[2026-06-09 12:49:45] SteamUI: INFO: Init localization english
+[2026-06-09 12:49:45] SteamUI: INFO: OnLoginStateChange  0 1 0 0
+[2026-06-09 12:49:45] SteamUI: INFO: SteamApp Init - Before Login - 206.9ms
+[2026-06-09 12:49:45] SteamUI: INFO: VirtualMenuStore - 0.3ms
+[2026-06-09 12:49:45] SteamUI: INFO: NotificationStore - 0.4ms
+[2026-06-09 12:49:45] SteamUI: INFO: FriendsChatStore - 3.6ms
+[2026-06-09 12:49:45] SteamUI: INFO: SuspendResumeStore - 1.5ms
+[2026-06-09 12:49:45] SteamUI: INFO: SteamingStore - 0.9ms
+[2026-06-09 12:49:45] SteamUI: INFO: ConsoleStore - 0.1ms
+[2026-06-09 12:49:45] SteamUI: INFO: FocusedAppWindowStore - 0.9ms
+[2026-06-09 12:49:45] SteamUI: INFO: VRStore - 1.3ms
+[2026-06-09 12:49:45] SteamUI: INFO: async OverlayModalDialogsStore - 39.4ms
+[2026-06-09 12:49:45] SteamUI: INFO: async SystemNetworkStore - 39.6ms
+[2026-06-09 12:49:45] SteamUI: INFO: async SystemReportStore - 40ms
+[2026-06-09 12:49:45] SteamUI: INFO: async SimpleTests - 40.2ms
+[2026-06-09 12:49:45] SteamUI: INFO: async VRGamepadUIMessages - 40.2ms
+[2026-06-09 12:49:45] SteamUI: INFO: async VRAudioSettingsStore - 40.8ms
+[2026-06-09 12:49:45] SteamUI: INFO: async SteamURLStore - 40.9ms
+[2026-06-09 12:49:45] SteamUI: INFO: async CM Connect - 45.7ms
+[2026-06-09 12:49:45] SteamUI: INFO: async BasicUIStore - 63.4ms
+[2026-06-09 12:49:45] SteamUI: INFO: async IBusConnection - 69.4ms
+[2026-06-09 12:49:45] SteamUI: INFO: async Localization - 133.6ms
+[2026-06-09 12:49:45] SteamUI: INFO: async URLStore - 146.7ms
+[2026-06-09 12:49:45] SteamUI: INFO: async SecurityStore - 147.6ms
+[2026-06-09 12:49:45] SteamUI: INFO: async KeyboardSettingsStore - 148.4ms
+[2026-06-09 12:49:45] SteamUI: INFO: async ParentalStore - 154.5ms
+[2026-06-09 12:49:45] SteamUI: INFO: async LoginStore - 206.6ms
+[2026-06-09 12:49:45] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:49:45] SteamUI: INFO: SteamAppInit - ControllerStore - 82.8ms
+[2026-06-09 12:49:45] SteamUI: INFO: async ControllerStore - 82.4ms
+[2026-06-09 12:49:45] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:49:45] SteamUI: INFO: Updated Steam Version Info: {"nSteamVersion":1780352834,"sSteamAPI":"SteamClient023","sSteamBuildDate":"Jun  1 2026 22:04:33","sOSCodename":"resolute","sOSVersionId":"26.04","sOSVariantId":"","sOSBuildId":"","sBIOSVersion":"unknown"}
+[2026-06-09 12:49:46] SteamUI: INFO: OnLoginStateChange aprat 2 1 0 0
+[2026-06-09 12:49:46] SteamUI: INFO: OnLoginStateChange aprat 3 1 0 0
+[2026-06-09 12:49:47] SteamUI: WARNING: SetOOBEComplete
+[2026-06-09 12:49:47] SteamUI: INFO: OnLoginStateChange aprat 4 1 0 0
+[2026-06-09 12:49:47] SteamUI: INFO: OnLoginStateChange aprat 4 1 2 -1
+[2026-06-09 12:49:48] SteamUI: INFO: Init localization english
+[2026-06-09 12:49:48] SteamUI: INFO: OnLoginStateChange aprat 5 1 0 0
+[2026-06-09 12:49:48] SteamUI: INFO: CloudStorage resuming with 0 entries (0 modified) for namespace 3
+[2026-06-09 12:49:48] SteamUI: INFO: Received type 20 notification from the Client.  This is a no-op due to overlap with Steam Notifications.
+[2026-06-09 12:49:49] SteamUI: INFO: CloudStorage resuming with 55 entries (0 modified) for namespace 1
+[2026-06-09 12:49:49] SteamUI: INFO: SteamApp Init - After Login - Stage 1 - 841.1ms
+[2026-06-09 12:49:49] SteamUI: INFO: async CM Connection - 45.2ms
+[2026-06-09 12:49:49] SteamUI: INFO: async GameActionStore - 46.1ms
+[2026-06-09 12:49:49] SteamUI: INFO: async SystemInfoStore - 46.2ms
+[2026-06-09 12:49:49] SteamUI: INFO: async SystemNetworkStore - 46.4ms
+[2026-06-09 12:49:49] SteamUI: INFO: async localization - 135ms
+[2026-06-09 12:49:49] SteamUI: INFO: async AchievementProgress - 261.2ms
+[2026-06-09 12:49:49] SteamUI: INFO: async SettingsStore - 340.2ms
+[2026-06-09 12:49:49] SteamUI: INFO: async URLStore - 368.2ms
+[2026-06-09 12:49:49] SteamUI: INFO: async FriendsChatStore - Startup - 722.2ms
+[2026-06-09 12:49:49] SteamUI: INFO: async CloudStorage - 840.8ms
+[2026-06-09 12:49:49] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:49:50] SteamUI: VERBOSE: CAppStore Init: 1166.366943359375 ms
+[2026-06-09 12:49:50] SteamUI: INFO: SteamApp Init - AppStore - 1,167.4ms
+[2026-06-09 12:49:50] SteamUI: INFO: async AppStore - 1,167.1ms
+[2026-06-09 12:49:50] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:49:50] SteamUI: INFO: SteamApp Init - After Login - Friend Store - 23.6ms
+[2026-06-09 12:49:50] SteamUI: INFO: async FriendStore - 23.1ms
+[2026-06-09 12:49:50] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:49:50] SteamUI: INFO: SteamApp Init - After Login - Collection Store - 56.2ms
+[2026-06-09 12:49:50] SteamUI: INFO: async CollectionStore - 55.9ms
+[2026-06-09 12:49:50] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:49:50] SteamUI: VERBOSE: CUIStore Init: 198.927001953125 ms
+[2026-06-09 12:49:51] SteamUI: INFO: FriendsUI ReadyToRender - 2,133.8ms
+[2026-06-09 12:49:51] SteamUI: INFO: VoiceChatStore - 0.6ms
+[2026-06-09 12:49:51] SteamUI: INFO: SettingsStore - 0.2ms
+[2026-06-09 12:49:51] SteamUI: INFO: AppInfoStore - 0.2ms
+[2026-06-09 12:49:51] SteamUI: INFO: UIStore - 0.4ms
+[2026-06-09 12:49:51] SteamUI: INFO: EconomyStore - 0ms
+[2026-06-09 12:49:51] SteamUI: INFO: ParentalStore - 0.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: BroadcastStore - 0.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: RemotePlayStore - 5.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: GroupMemberStore - 0.3ms
+[2026-06-09 12:49:51] SteamUI: INFO: UserStore - 0.4ms
+[2026-06-09 12:49:51] SteamUI: INFO: VRPopupManager - 1.3ms
+[2026-06-09 12:49:51] SteamUI: INFO: async Load Preferences - 1,251.6ms
+[2026-06-09 12:49:51] SteamUI: INFO: async Clock Drift - 1,291.7ms
+[2026-06-09 12:49:51] SteamUI: INFO: async ChatStore - 1,766.2ms
+[2026-06-09 12:49:51] SteamUI: INFO: async FriendStore - 2,132.3ms
+[2026-06-09 12:49:51] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:49:51] SteamUI: INFO: SteamApp Init - After Login - Stage 2 - 783.7ms
+[2026-06-09 12:49:51] SteamUI: INFO: AppInfoStore - 0.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: AppActivityStore - 2.7ms
+[2026-06-09 12:49:51] SteamUI: INFO: AppDetailsStore - 0.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: AppReviewStore - 0.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: WorkshopStore - 0.4ms
+[2026-06-09 12:49:51] SteamUI: INFO: BadgeStore - 1.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: DownloadsStore - 0.4ms
+[2026-06-09 12:49:51] SteamUI: INFO: FAQStore - 0.3ms
+[2026-06-09 12:49:51] SteamUI: INFO: ControllerConfigStore - 0.6ms
+[2026-06-09 12:49:51] SteamUI: INFO: InstallFolderStore - 0.6ms
+[2026-06-09 12:49:51] SteamUI: INFO: SubscriberAgreementStore - 0.2ms
+[2026-06-09 12:49:51] SteamUI: INFO: ScreenshotStore - 0.4ms
+[2026-06-09 12:49:51] SteamUI: INFO: DiscoveryQueueStore - 0.6ms
+[2026-06-09 12:49:51] SteamUI: INFO: MarketingStore - 0.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: RemotePlayStore - 4.4ms
+[2026-06-09 12:49:51] SteamUI: INFO: OverlayStore - 2.6ms
+[2026-06-09 12:49:51] SteamUI: INFO: ServerBrowserStore - 0.4ms
+[2026-06-09 12:49:51] SteamUI: INFO: MusicStore - 0.7ms
+[2026-06-09 12:49:51] SteamUI: INFO: HardwareUpdaterStore - 8.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: SystemAudioStore - 3.3ms
+[2026-06-09 12:49:51] SteamUI: INFO: async CommunityStore - 78.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: async SettingsZooStore - 91.2ms
+[2026-06-09 12:49:51] SteamUI: INFO: async SearchStore - 92.2ms
+[2026-06-09 12:49:51] SteamUI: INFO: async AchievementStore - 92.4ms
+[2026-06-09 12:49:51] SteamUI: INFO: async GameReleasedStore - 92.6ms
+[2026-06-09 12:49:51] SteamUI: INFO: async GamescopeStore - 92.8ms
+[2026-06-09 12:49:51] SteamUI: INFO: async SystemStorageStore - 92.8ms
+[2026-06-09 12:49:51] SteamUI: INFO: async SDCardStore - 92.9ms
+[2026-06-09 12:49:51] SteamUI: INFO: async SteamOSStore - 93ms
+[2026-06-09 12:49:51] SteamUI: INFO: async LEDManagerStore - 93.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: async BluetoothStore - 93.2ms
+[2026-06-09 12:49:51] SteamUI: INFO: async ControllerConfigInterstitialStore - 95.7ms
+[2026-06-09 12:49:51] SteamUI: INFO: async LibraryEventStore - 96.3ms
+[2026-06-09 12:49:51] SteamUI: INFO: async ShowcaseStore - 96.8ms
+[2026-06-09 12:49:51] SteamUI: INFO: async AppSpotlightsStore - 142.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: async LibraryUIStore - 208.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: async PlayNextStore - 209.6ms
+[2026-06-09 12:49:51] SteamUI: INFO: async UserProfileStore - 257.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: async BasicUIStore - with user - 263.1ms
+[2026-06-09 12:49:51] SteamUI: INFO: async KeyboardSettingsStore - 268.5ms
+[2026-06-09 12:49:51] SteamUI: INFO: async EmojiStore - 297.2ms
+[2026-06-09 12:49:51] SteamUI: INFO: async SteamNotificationsStore - 308.9ms
+[2026-06-09 12:49:51] SteamUI: INFO: async DynamicUserStore - 335.6ms
+[2026-06-09 12:49:51] SteamUI: INFO: async EAAccessPromptManager - 414.9ms
+[2026-06-09 12:49:51] SteamUI: INFO: async GRS - 532.8ms
+[2026-06-09 12:49:51] SteamUI: INFO: async TrendingStore - 783.3ms
+[2026-06-09 12:49:51] SteamUI: INFO: console.groupEnd
+[2026-06-09 12:49:51] SteamUI: VERBOSE: SteamApp Init - After Login: 2888.294189453125 ms
+[2026-06-09 12:50:01] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowLaunchOption 
+[2026-06-09 12:50:01] SteamUI: INFO: showing launch options 3405340 Megabonk
+[2026-06-09 12:50:02] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp ShowInterstitials 
+[2026-06-09 12:50:03] SteamUI: INFO: OnGameActionUserRequest: 3405340 LaunchApp CreatingProcess 
+[2026-06-09 14:37:39] SteamUI: INFO: Loading batch of App Info from Steam:  2073250

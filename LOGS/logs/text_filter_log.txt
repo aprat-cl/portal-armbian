@@ -1,0 +1,121 @@
+
+
+[2026-06-09 00:42:31] Client version: 1780352834
+[2026-06-09 00:42:31] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 00:42:31] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 00:42:32] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 00:42:32] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 00:42:33] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 00:42:33] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 00:42:33] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+[2026-06-09 00:42:33] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+
+
+[2026-06-09 00:45:33] Client version: 1780352834
+[2026-06-09 00:45:33] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 00:45:33] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 00:45:34] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 00:45:34] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 00:45:34] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 00:45:34] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 00:45:34] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+[2026-06-09 00:45:34] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+
+
+[2026-06-09 08:28:58] Client version: 1780352834
+[2026-06-09 08:28:58] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 08:28:58] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 08:28:58] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 08:28:58] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 08:28:58] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 08:28:58] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 08:28:58] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+[2026-06-09 08:28:58] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+
+
+[2026-06-09 09:37:44] Client version: 1780352834
+[2026-06-09 09:37:44] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 09:37:44] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 09:37:44] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 09:37:44] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 09:37:44] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 09:37:44] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 09:37:45] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+[2026-06-09 09:37:45] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+
+
+[2026-06-09 10:05:41] Client version: 1780352834
+[2026-06-09 10:05:41] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 10:05:41] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 10:05:41] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 10:05:41] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 10:05:41] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 10:05:41] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 10:05:41] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+[2026-06-09 10:05:41] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+
+
+[2026-06-09 10:06:49] Client version: 0
+[2026-06-09 10:06:49] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 10:06:49] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 10:06:50] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 10:06:50] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 10:06:50] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 10:06:50] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 10:06:50] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+[2026-06-09 10:06:50] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+
+
+[2026-06-09 10:24:30] Client version: 0
+[2026-06-09 10:24:30] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 10:24:30] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 10:24:30] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 10:24:30] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 10:24:30] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 10:24:30] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 10:24:30] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+[2026-06-09 10:24:30] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+
+
+[2026-06-09 11:22:41] Client version: 0
+[2026-06-09 11:22:41] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 11:22:41] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 11:22:41] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 11:22:41] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 11:22:41] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 11:22:41] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 11:22:41] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+[2026-06-09 11:22:41] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+
+
+[2026-06-09 12:06:54] Client version: 1780352834
+[2026-06-09 12:06:54] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 12:06:54] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 12:06:54] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 12:06:54] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 12:06:55] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 12:06:55] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 12:06:55] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+[2026-06-09 12:06:55] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+
+
+[2026-06-09 12:43:42] Client version: 1780352834
+[2026-06-09 12:43:42] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 12:43:42] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 12:43:42] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 12:43:42] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 12:43:43] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 12:43:43] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 12:43:43] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date
+[2026-06-09 12:43:43] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+
+
+[2026-06-09 12:49:49] Client version: 1780352834
+[2026-06-09 12:49:49] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 12:49:49] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 12:49:49] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 12:49:49] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, last-modified: Mon, 08 Jun 2026 22:06:59 GMT
+[2026-06-09 12:49:50] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=profanity&language=english
+[2026-06-09 12:49:50] Requesting https://steamcommunity.com/textfilter/gettextfilterdictionary?type=banned&language=english
+[2026-06-09 12:49:51] SUCCESS /textfilter/gettextfilterdictionary?type=profanity&language=english, up to date
+[2026-06-09 12:49:51] SUCCESS /textfilter/gettextfilterdictionary?type=banned&language=english, up to date

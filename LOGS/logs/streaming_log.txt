@@ -1,0 +1,93 @@
+
+
+[2026-06-09 00:42:31] Client version: 1780352834
+[2026-06-09 00:42:31][40.209132] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 00:42:31][40.210912] Caching cursor image for , size 48x48, serial 31, cache size = 0
+
+
+[2026-06-09 00:45:33] Client version: 1780352834
+[2026-06-09 00:45:33][14.644710] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 00:45:33][14.646346] Caching cursor image for , size 48x48, serial 72, cache size = 0
+
+
+[2026-06-09 08:28:57] Client version: 1780352834
+[2026-06-09 08:28:57][12.144119] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 08:28:57][12.147763] Caching cursor image for , size 48x48, serial 2, cache size = 0
+[2026-06-09 08:29:34][49.054796] Game Recording - would start recording game 1121560, but recording for this game is disabled
+[2026-06-09 08:29:34][49.055028] Adding process 7776 for gameID 1121560
+[2026-06-09 08:29:34][49.360341] Game Recording - game stopped [gameid=1121560]
+[2026-06-09 08:29:34][49.360396] Removing process 7776 for gameID 1121560
+[2026-06-09 08:29:44][59.386399] Game Recording - would start recording game 1121560, but recording for this game is disabled
+[2026-06-09 08:29:44][59.386872] Adding process 7829 for gameID 1121560
+[2026-06-09 08:29:44][59.628207] Game Recording - game stopped [gameid=1121560]
+[2026-06-09 08:29:44][59.628418] Removing process 7829 for gameID 1121560
+[2026-06-09 08:32:16][210.694530] Game Recording - would start recording game 1121560, but recording for this game is disabled
+[2026-06-09 08:32:16][210.695419] Adding process 8694 for gameID 1121560
+[2026-06-09 08:34:30][345.189392] Game Recording - game stopped [gameid=1121560]
+[2026-06-09 08:34:30][345.189566] Removing process 8694 for gameID 1121560
+[2026-06-09 08:36:24][459.002491] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 08:36:24][459.002798] Adding process 9401 for gameID 3405340
+
+
+[2026-06-09 09:37:42] Client version: 1780352834
+[2026-06-09 09:37:42][5.930711] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 09:37:42][5.936837] Caching cursor image for , size 48x48, serial 2, cache size = 0
+[2026-06-09 09:38:24][47.776200] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 09:38:24][47.776597] Adding process 13364 for gameID 3405340
+
+
+[2026-06-09 10:05:40] Client version: 1780352834
+[2026-06-09 10:05:40][6.205571] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 10:05:40][6.213371] Caching cursor image for , size 48x48, serial 2, cache size = 0
+
+
+[2026-06-09 10:06:48] Client version: 0
+[2026-06-09 10:06:48][6.272333] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 10:06:48][6.280138] Caching cursor image for , size 48x48, serial 128, cache size = 0
+[2026-06-09 10:08:44][121.735304] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 10:08:44][121.736241] Adding process 15934 for gameID 3405340
+[2026-06-09 10:11:06][264.326546] Game Recording - game stopped [gameid=3405340]
+[2026-06-09 10:11:06][264.326708] Removing process 15934 for gameID 3405340
+
+
+[2026-06-09 10:24:29] Client version: 0
+[2026-06-09 10:24:29][6.113182] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 10:24:29][6.120768] Caching cursor image for , size 48x48, serial 160, cache size = 0
+[2026-06-09 10:25:08][45.505530] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 10:25:08][45.505852] Adding process 18543 for gameID 3405340
+
+
+[2026-06-09 11:22:39] Client version: 0
+[2026-06-09 11:22:39][5.644729] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 11:22:39][5.655653] Caching cursor image for , size 48x48, serial 2, cache size = 0
+[2026-06-09 11:24:17][103.008062] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 11:24:17][103.008581] Adding process 20684 for gameID 3405340
+[2026-06-09 11:25:31][177.625141] Game Recording - game stopped [gameid=3405340]
+[2026-06-09 11:25:31][177.625334] Removing process 20684 for gameID 3405340
+[2026-06-09 11:25:52][198.674984] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 11:25:52][198.675609] Adding process 21195 for gameID 3405340
+
+
+[2026-06-09 12:06:53] Client version: 1780352834
+[2026-06-09 12:06:53][5.854274] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 12:06:53][5.861479] Caching cursor image for , size 48x48, serial 260, cache size = 0
+[2026-06-09 12:08:05][77.402801] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 12:08:05][77.403424] Adding process 25282 for gameID 3405340
+[2026-06-09 12:08:50][122.742296] Game Recording - game stopped [gameid=3405340]
+[2026-06-09 12:08:50][122.742470] Removing process 25282 for gameID 3405340
+[2026-06-09 12:09:19][151.615512] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 12:09:19][151.615823] Adding process 25558 for gameID 3405340
+
+
+[2026-06-09 12:43:40] Client version: 1780352834
+[2026-06-09 12:43:40][7.258438] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 12:43:40][7.263222] Caching cursor image for , size 48x48, serial 294, cache size = 0
+[2026-06-09 12:46:03][150.116651] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 12:46:03][150.117783] Adding process 30116 for gameID 3405340
+
+
+[2026-06-09 12:49:48] Client version: 1780352834
+[2026-06-09 12:49:48][7.051883] Desktop state changed: desktop: { pos:    0,   0 size: 1920,1080 } primary: { pos:    0,   0 size: 1920,1080 }
+[2026-06-09 12:49:48][7.056039] Caching cursor image for , size 48x48, serial 2, cache size = 0
+[2026-06-09 12:50:03][22.476451] Game Recording - would start recording game 3405340, but recording for this game is disabled
+[2026-06-09 12:50:03][22.477590] Adding process 31171 for gameID 3405340

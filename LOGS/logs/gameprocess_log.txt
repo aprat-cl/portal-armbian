@@ -1,0 +1,128 @@
+
+
+[2026-06-09 00:42:24] Client version: 1780352834
+[2026-06-09 00:42:24] SSGL: UI mode (0->4)
+[2026-06-09 00:44:11] SSGL: UI mode (4->7)
+
+
+[2026-06-09 00:45:32] Client version: 1780352834
+[2026-06-09 00:45:32] SSGL: UI mode (0->4)
+[2026-06-09 00:45:54] SSGL: UI mode (4->7)
+
+
+[2026-06-09 08:28:56] Client version: 1780352834
+[2026-06-09 08:28:56] SSGL: UI mode (0->4)
+[2026-06-09 08:29:34] AppID 1121560 adding PID 7776 as a tracked process "/home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=1121560 -- '/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/aprat/games/steam/steamapps/common/Proton 10.0'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Atelier Ryza/Atelier_Ryza.exe'"
+[2026-06-09 08:29:34] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 08:29:34] AppID 1121560 no longer tracking PID 7776, exit code 0
+[2026-06-09 08:29:34] Remove 1121560 from running list
+[2026-06-09 08:29:44] AppID 1121560 adding PID 7829 as a tracked process "/home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=1121560 -- '/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/aprat/games/steam/steamapps/common/Proton 10.0'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Atelier Ryza/Atelier_Ryza.exe'"
+[2026-06-09 08:29:44] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 08:29:44] AppID 1121560 no longer tracking PID 7829, exit code 0
+[2026-06-09 08:29:44] Remove 1121560 from running list
+[2026-06-09 08:32:15] AppID 1121560 adding PID 8694 as a tracked process "/home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=1121560 -- '/home/aprat/games/steam/steamapps/common/Proton 11.0 (ARM64)'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Atelier Ryza/Atelier_Ryza.exe'"
+[2026-06-09 08:32:15] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 08:32:16] SSGL: change [1121560] LCT 1953724974->0
+[2026-06-09 08:32:19] AppID 1121560 adding PID 8701 as a tracked process
+[2026-06-09 08:32:19] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 08:32:20] AppID 1121560 adding PID 8785 as a tracked process
+[2026-06-09 08:32:20] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 08:32:20] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 08:32:22] AppID 1121560 adding PID 8788 as a tracked process
+[2026-06-09 08:32:22] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 08:33:34] SSGL: UI mode (4->7)
+[2026-06-09 08:34:30] AppID 1121560 no longer tracking PID 8788, exit code -1
+[2026-06-09 08:34:30] AppID 1121560 no longer tracking PID 8701, exit code -1
+[2026-06-09 08:34:30] AppID 1121560 no longer tracking PID 8694, exit code 130
+[2026-06-09 08:34:30] Game 1121560 going away; no longer tracking PID 8785
+[2026-06-09 08:34:30] Remove 1121560 from running list
+[2026-06-09 08:36:24] AppID 3405340 adding PID 9401 as a tracked process "/home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe'"
+[2026-06-09 08:36:24] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 08:36:25] SSGL: change [3405340] LCT 1029300592->0
+[2026-06-09 08:36:40] AppID 3405340 adding PID 9427 as a tracked process
+[2026-06-09 08:36:40] SSGL: InternalUpdateClientGame indicates change to games list
+
+
+[2026-06-09 09:37:41] Client version: 1780352834
+[2026-06-09 09:37:41] SSGL: UI mode (0->4)
+[2026-06-09 09:38:24] AppID 3405340 adding PID 13364 as a tracked process "/home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe'"
+[2026-06-09 09:38:24] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 09:38:25] SSGL: change [3405340] LCT 808412208->0
+[2026-06-09 09:38:30] AppID 3405340 adding PID 13390 as a tracked process
+[2026-06-09 09:38:30] SSGL: InternalUpdateClientGame indicates change to games list
+
+
+[2026-06-09 10:05:39] Client version: 1780352834
+[2026-06-09 10:05:39] SSGL: UI mode (0->4)
+
+
+[2026-06-09 10:06:47] Client version: 0
+[2026-06-09 10:06:47] SSGL: UI mode (0->4)
+[2026-06-09 10:08:44] AppID 3405340 adding PID 15934 as a tracked process "/home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe'"
+[2026-06-09 10:08:44] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 10:08:45] SSGL: change [3405340] LCT 808412208->0
+[2026-06-09 10:08:48] AppID 3405340 adding PID 15959 as a tracked process
+[2026-06-09 10:08:48] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 10:10:24] SSGL: UI mode (4->7)
+[2026-06-09 10:11:06] AppID 3405340 no longer tracking PID 15959, exit code -1
+[2026-06-09 10:11:06] AppID 3405340 no longer tracking PID 15934, exit code 0
+[2026-06-09 10:11:06] Remove 3405340 from running list
+
+
+[2026-06-09 10:24:28] Client version: 0
+[2026-06-09 10:24:28] SSGL: UI mode (0->4)
+[2026-06-09 10:25:08] AppID 3405340 adding PID 18543 as a tracked process "PROTON_LOG=1 /home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe'"
+[2026-06-09 10:25:08] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 10:25:09] SSGL: change [3405340] LCT 1681029168->0
+[2026-06-09 10:25:13] AppID 3405340 adding PID 18565 as a tracked process
+[2026-06-09 10:25:13] SSGL: InternalUpdateClientGame indicates change to games list
+
+
+[2026-06-09 11:22:38] Client version: 0
+[2026-06-09 11:22:38] SSGL: UI mode (0->4)
+[2026-06-09 11:24:17] AppID 3405340 adding PID 20684 as a tracked process "PROTON_LOG=1 /home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_4'/_v2-entry-point --verb=waitforexitandrun -- '/home/aprat/games/steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe'"
+[2026-06-09 11:24:17] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 11:24:18] SSGL: change [3405340] LCT -754216175->0
+[2026-06-09 11:25:31] AppID 3405340 no longer tracking PID 20684, exit code 0
+[2026-06-09 11:25:31] Remove 3405340 from running list
+[2026-06-09 11:25:52] AppID 3405340 adding PID 21195 as a tracked process "PROTON_LOG=1 /home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe'"
+[2026-06-09 11:25:52] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 11:26:08] AppID 3405340 adding PID 21215 as a tracked process
+[2026-06-09 11:26:08] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 11:26:18] SSGL: change [3405340] LCT 762295216->0
+
+
+[2026-06-09 12:06:52] Client version: 1780352834
+[2026-06-09 12:06:52] SSGL: UI mode (0->4)
+[2026-06-09 12:07:06] SSGL: UI mode (4->7)
+[2026-06-09 12:08:04] AppID 3405340 adding PID 25282 as a tracked process "PROTON_LOG=1 /home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe' -force-d3d12"
+[2026-06-09 12:08:04] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 12:08:05] SSGL: change [3405340] LCT 808412208->0
+[2026-06-09 12:08:12] AppID 3405340 adding PID 25311 as a tracked process
+[2026-06-09 12:08:12] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 12:08:50] AppID 3405340 no longer tracking PID 25311, exit code -1
+[2026-06-09 12:08:50] AppID 3405340 no longer tracking PID 25282, exit code 0
+[2026-06-09 12:08:50] Remove 3405340 from running list
+[2026-06-09 12:09:19] AppID 3405340 adding PID 25558 as a tracked process "PROTON_LOG=1 /home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe' -windowed"
+[2026-06-09 12:09:19] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 12:09:20] SSGL: change [3405340] LCT 808412208->0
+[2026-06-09 12:09:23] AppID 3405340 adding PID 25578 as a tracked process
+[2026-06-09 12:09:23] SSGL: InternalUpdateClientGame indicates change to games list
+
+
+[2026-06-09 12:43:39] Client version: 1780352834
+[2026-06-09 12:43:39] SSGL: UI mode (0->4)
+[2026-06-09 12:46:03] AppID 3405340 adding PID 30116 as a tracked process "PRESSURE_VESSEL_SHELL=instead /home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe'"
+[2026-06-09 12:46:03] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 12:46:04] SSGL: change [3405340] LCT 808412208->0
+[2026-06-09 12:46:08] AppID 3405340 adding PID 30137 as a tracked process
+[2026-06-09 12:46:08] SSGL: InternalUpdateClientGame indicates change to games list
+
+
+[2026-06-09 12:49:47] Client version: 1780352834
+[2026-06-09 12:49:47] SSGL: UI mode (0->4)
+[2026-06-09 12:50:03] AppID 3405340 adding PID 31171 as a tracked process "PRESSURE_VESSEL_SHELL=instead /home/aprat/games/steam/linuxarm64/steam-launch-wrapper --oom-score-adjust 900 -- /home/aprat/games/steam/steamrtarm64/reaper SteamLaunch AppId=3405340 -- '/home/aprat/games/steam/compatibilitytools.d/proton-cachyos-11.0-20260521-slr-arm64'/proton waitforexitandrun  '/home/aprat/games/steam/steamapps/common/Megabonk/Megabonk.exe'"
+[2026-06-09 12:50:03] SSGL: InternalUpdateClientGame indicates change to games list
+[2026-06-09 12:50:04] SSGL: change [3405340] LCT 1086209024->0
+[2026-06-09 12:50:09] AppID 3405340 adding PID 31209 as a tracked process
+[2026-06-09 12:50:09] SSGL: InternalUpdateClientGame indicates change to games list

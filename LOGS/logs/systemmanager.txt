@@ -1,0 +1,423 @@
+
+
+[2026-06-09 00:41:52] Client version: 1780352834
+[2026-06-09 00:41:52] udev: context initialized
+[2026-06-09 00:41:52] Initializing System Manager
+[2026-06-09 00:41:52] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 00:41:52] [display] display type: 0
+[2026-06-09 00:41:52] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 00:41:52] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 00:41:52] [display] OverdriveHDRSplit 0.544
+[2026-06-09 00:41:52] [display] ALS: 0, brightness: 1
+[2026-06-09 00:41:52] [display] adaptive brightness available: 0
+[2026-06-09 00:41:52] Night mode active on resume 0
+[2026-06-09 00:41:52] [display] Fade from BIOS (first start)
+[2026-06-09 00:41:52] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 00:41:52] Fan control available: 0 current: 0
+[2026-06-09 00:41:53] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 00:41:53] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 00:41:53] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 00:42:25] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 00:42:25] Stats Session Created 8943879062537
+[2026-06-09 00:43:52] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 00:43:52] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 00:43:52] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 00:43:52] YldCheckForClientUpdate: requesting update check
+[2026-06-09 00:43:53] YieldingCheckForUpdateSteamClient: update check success: available:0
+[2026-06-09 00:43:53] YieldingCheckForUpdateOS: starting check
+[2026-06-09 00:43:53] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 00:43:53] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 00:43:53] YieldingCheckForUpdateBIOS: starting check
+[2026-06-09 00:43:53] No bios auto-message present
+[2026-06-09 00:43:53] Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" /usr/bin/steamos-polkit-helpers/jupiter-biosupdate check' returned: 127
+[2026-06-09 00:43:53] Error: YieldingCheckForUpdateBIOS: update check error
+[2026-06-09 00:43:53] CSystemManagerCheckForUpdateJob: up to date
+[2026-06-09 00:43:53] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+
+
+[2026-06-09 00:45:19] Client version: 1780352834
+[2026-06-09 00:45:19] udev: context initialized
+[2026-06-09 00:45:19] Initializing System Manager
+[2026-06-09 00:45:19] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 00:45:19] [display] display type: 0
+[2026-06-09 00:45:19] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 00:45:19] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 00:45:19] [display] OverdriveHDRSplit 0.544
+[2026-06-09 00:45:19] [display] ALS: 0, brightness: 1
+[2026-06-09 00:45:19] [display] adaptive brightness available: 0
+[2026-06-09 00:45:19] Night mode active on resume 0
+[2026-06-09 00:45:19] [display] Fade from queried backlight
+[2026-06-09 00:45:19] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 00:45:19] Fan control available: 0 current: 0
+[2026-06-09 00:45:30] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 00:45:30] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 00:45:30] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 00:45:32] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 00:45:33] Stats Session Created 8943879122575
+[2026-06-09 00:45:47] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 00:45:47] CSystemManagerGetOSBranchListJob: starting
+[2026-06-09 00:45:47] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -l' returned: 127
+[2026-06-09 00:45:47] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -l' returned: 127
+[2026-06-09 00:45:47] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 00:45:47] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 00:47:19] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 00:47:19] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 00:47:19] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 00:47:19] YldCheckForClientUpdate: requesting update check
+[2026-06-09 00:47:20] YieldingCheckForUpdateSteamClient: update check success: available:0
+[2026-06-09 00:47:20] YieldingCheckForUpdateOS: starting check
+[2026-06-09 00:47:20] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 00:47:20] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 00:47:20] YieldingCheckForUpdateBIOS: starting check
+[2026-06-09 00:47:20] No bios auto-message present
+[2026-06-09 00:47:20] Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" /usr/bin/steamos-polkit-helpers/jupiter-biosupdate check' returned: 127
+[2026-06-09 00:47:20] Error: YieldingCheckForUpdateBIOS: update check error
+[2026-06-09 00:47:20] CSystemManagerCheckForUpdateJob: up to date
+[2026-06-09 00:47:20] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+[2026-06-09 01:13:08] udev: shutting down
+[2026-06-09 01:13:08] udev: shut down complete
+
+
+[2026-06-09 08:28:47] Client version: 1780352834
+[2026-06-09 08:28:47] udev: context initialized
+[2026-06-09 08:28:47] Initializing System Manager
+[2026-06-09 08:28:47] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 08:28:47] [display] display type: 0
+[2026-06-09 08:28:47] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 08:28:47] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 08:28:47] [display] OverdriveHDRSplit 0.544
+[2026-06-09 08:28:47] [display] ALS: 0, brightness: 1
+[2026-06-09 08:28:47] [display] adaptive brightness available: 0
+[2026-06-09 08:28:47] Night mode active on resume 0
+[2026-06-09 08:28:47] [display] Fade from BIOS (first start)
+[2026-06-09 08:28:47] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 08:28:47] Fan control available: 0 current: 0
+[2026-06-09 08:28:53] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 08:28:53] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 08:28:53] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 08:28:56] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 08:28:56] Stats Session Created 8943892011360
+[2026-06-09 08:30:48] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 08:30:48] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 08:30:48] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 08:30:48] YldCheckForClientUpdate: requesting update check
+[2026-06-09 08:30:49] YieldingCheckForUpdateSteamClient: update check success: available:0
+[2026-06-09 08:30:49] YieldingCheckForUpdateOS: starting check
+[2026-06-09 08:30:49] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 08:30:49] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 08:30:49] YieldingCheckForUpdateBIOS: starting check
+[2026-06-09 08:30:49] No bios auto-message present
+[2026-06-09 08:30:49] Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" /usr/bin/steamos-polkit-helpers/jupiter-biosupdate check' returned: 127
+[2026-06-09 08:30:49] Error: YieldingCheckForUpdateBIOS: update check error
+[2026-06-09 08:30:49] CSystemManagerCheckForUpdateJob: up to date
+[2026-06-09 08:30:49] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+
+
+[2026-06-09 09:37:37] Client version: 1780352834
+[2026-06-09 09:37:37] udev: context initialized
+[2026-06-09 09:37:37] Initializing System Manager
+[2026-06-09 09:37:37] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 09:37:37] [display] display type: 0
+[2026-06-09 09:37:37] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 09:37:37] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 09:37:37] [display] OverdriveHDRSplit 0.544
+[2026-06-09 09:37:37] [display] ALS: 0, brightness: 1
+[2026-06-09 09:37:37] [display] adaptive brightness available: 0
+[2026-06-09 09:37:37] Night mode active on resume 0
+[2026-06-09 09:37:37] [display] Fade from queried backlight
+[2026-06-09 09:37:37] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 09:37:37] Fan control available: 0 current: 0
+[2026-06-09 09:37:39] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 09:37:39] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 09:37:39] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 09:37:41] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 09:37:41] Stats Session Created 8943895395909
+[2026-06-09 09:39:37] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 09:39:37] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 09:39:37] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 09:39:37] YldCheckForClientUpdate: requesting update check
+[2026-06-09 09:39:38] YieldingCheckForUpdateSteamClient: update check success: available:0
+[2026-06-09 09:39:38] YieldingCheckForUpdateOS: starting check
+[2026-06-09 09:39:38] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 09:39:38] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 09:39:38] YieldingCheckForUpdateBIOS: starting check
+[2026-06-09 09:39:38] No bios auto-message present
+[2026-06-09 09:39:38] Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" /usr/bin/steamos-polkit-helpers/jupiter-biosupdate check' returned: 127
+[2026-06-09 09:39:38] Error: YieldingCheckForUpdateBIOS: update check error
+[2026-06-09 09:39:38] CSystemManagerCheckForUpdateJob: up to date
+[2026-06-09 09:39:38] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+
+
+[2026-06-09 10:05:34] Client version: 1780352834
+[2026-06-09 10:05:34] udev: context initialized
+[2026-06-09 10:05:34] Initializing System Manager
+[2026-06-09 10:05:34] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 10:05:34] [display] display type: 0
+[2026-06-09 10:05:34] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 10:05:34] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 10:05:34] [display] OverdriveHDRSplit 0.544
+[2026-06-09 10:05:34] [display] ALS: 0, brightness: 1
+[2026-06-09 10:05:34] [display] adaptive brightness available: 0
+[2026-06-09 10:05:34] Night mode active on resume 0
+[2026-06-09 10:05:34] [display] Fade from queried backlight
+[2026-06-09 10:05:34] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 10:05:34] Fan control available: 0 current: 0
+[2026-06-09 10:05:36] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 10:05:37] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:05:37] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:05:39] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 10:05:39] Stats Session Created 8943896845485
+[2026-06-09 10:05:49] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 10:05:49] CSystemManagerGetOSBranchListJob: starting
+[2026-06-09 10:05:49] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:05:49] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:05:49] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -l' returned: 127
+[2026-06-09 10:05:49] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -l' returned: 127
+[2026-06-09 10:06:24] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 10:06:24] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:06:24] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:06:24] CSystemManagerGetOSBranchListJob: starting
+[2026-06-09 10:06:24] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -l' returned: 127
+[2026-06-09 10:06:24] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -l' returned: 127
+[2026-06-09 10:06:35] udev: shutting down
+[2026-06-09 10:06:35] udev: shut down complete
+
+
+[2026-06-09 10:06:43] Client version: 0
+[2026-06-09 10:06:43] udev: context initialized
+[2026-06-09 10:06:43] Initializing System Manager
+[2026-06-09 10:06:43] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 10:06:43] [display] display type: 0
+[2026-06-09 10:06:43] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 10:06:43] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 10:06:43] [display] OverdriveHDRSplit 0.544
+[2026-06-09 10:06:43] [display] ALS: 0, brightness: 1
+[2026-06-09 10:06:43] [display] adaptive brightness available: 0
+[2026-06-09 10:06:43] Night mode active on resume 0
+[2026-06-09 10:06:43] [display] Fade from queried backlight
+[2026-06-09 10:06:43] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 10:06:43] Fan control available: 0 current: 0
+[2026-06-09 10:06:45] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 10:06:45] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:06:45] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:06:47] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 10:06:47] Stats Session Created 8943896905726
+[2026-06-09 10:06:56] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 10:06:56] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:06:56] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:06:56] CSystemManagerGetOSBranchListJob: starting
+[2026-06-09 10:06:56] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -l' returned: 127
+[2026-06-09 10:06:56] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -l' returned: 127
+[2026-06-09 10:08:43] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 10:08:43] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 10:08:43] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 10:08:43] YldCheckForClientUpdate: requesting update check
+[2026-06-09 10:08:45] YieldingCheckForUpdateSteamClient: update check success: available:1
+[2026-06-09 10:08:45] YieldingCheckForUpdateOS: starting check
+[2026-06-09 10:08:45] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 10:08:45] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 10:08:45] CSystemManagerCheckForUpdateJob: update available
+[2026-06-09 10:08:45] CSystemManagerCheckForUpdateJob: nAvailable=1 nRestartPendingCount=0
+[2026-06-09 10:24:04] udev: shutting down
+[2026-06-09 10:24:04] udev: shut down complete
+
+
+[2026-06-09 10:24:23] Client version: 0
+[2026-06-09 10:24:23] udev: context initialized
+[2026-06-09 10:24:23] Initializing System Manager
+[2026-06-09 10:24:23] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 10:24:23] [display] display type: 0
+[2026-06-09 10:24:23] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 10:24:23] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 10:24:23] [display] OverdriveHDRSplit 0.544
+[2026-06-09 10:24:23] [display] ALS: 0, brightness: 1
+[2026-06-09 10:24:23] [display] adaptive brightness available: 0
+[2026-06-09 10:24:23] Night mode active on resume 0
+[2026-06-09 10:24:23] [display] Fade from queried backlight
+[2026-06-09 10:24:23] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 10:24:23] Fan control available: 0 current: 0
+[2026-06-09 10:24:25] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 10:24:25] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:24:25] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 10:24:28] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 10:24:28] Stats Session Created 8943897833111
+[2026-06-09 10:26:24] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 10:26:24] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 10:26:24] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 10:26:24] YldCheckForClientUpdate: we already know a client update is available
+[2026-06-09 10:26:24] YldCheckForClientUpdate: resuming bootstrapper download
+[2026-06-09 10:26:24] YieldingCheckForUpdateSteamClient: update check success: available:1
+[2026-06-09 10:26:24] YieldingCheckForUpdateOS: starting check
+[2026-06-09 10:26:24] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 10:26:24] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 10:26:24] CSystemManagerCheckForUpdateJob: update available
+[2026-06-09 10:26:24] CSystemManagerCheckForUpdateJob: nAvailable=1 nRestartPendingCount=0
+
+
+[2026-06-09 11:22:34] Client version: 0
+[2026-06-09 11:22:34] udev: context initialized
+[2026-06-09 11:22:34] Initializing System Manager
+[2026-06-09 11:22:34] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 11:22:34] [display] display type: 0
+[2026-06-09 11:22:34] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 11:22:34] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 11:22:34] [display] OverdriveHDRSplit 0.544
+[2026-06-09 11:22:34] [display] ALS: 0, brightness: 1
+[2026-06-09 11:22:34] [display] adaptive brightness available: 0
+[2026-06-09 11:22:34] Night mode active on resume 0
+[2026-06-09 11:22:34] [display] Fade from queried backlight
+[2026-06-09 11:22:34] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 11:22:34] Fan control available: 0 current: 0
+[2026-06-09 11:22:36] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 11:22:36] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 11:22:36] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 11:22:38] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 11:22:39] Stats Session Created 8943900570076
+[2026-06-09 11:24:35] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 11:24:35] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 11:24:35] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 11:24:35] YldCheckForClientUpdate: we already know a client update is available
+[2026-06-09 11:24:35] YldCheckForClientUpdate: resuming bootstrapper download
+[2026-06-09 11:24:35] YieldingCheckForUpdateSteamClient: update check success: available:1
+[2026-06-09 11:24:35] YieldingCheckForUpdateOS: starting check
+[2026-06-09 11:24:35] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 11:24:35] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 11:24:35] CSystemManagerCheckForUpdateJob: update available
+[2026-06-09 11:24:35] CSystemManagerCheckForUpdateJob: nAvailable=1 nRestartPendingCount=0
+
+
+[2026-06-09 11:36:06] Client version: 1780352834
+[2026-06-09 11:36:06] udev: context initialized
+[2026-06-09 11:36:06] Initializing System Manager
+[2026-06-09 11:36:06] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 11:36:06] [display] display type: 0
+[2026-06-09 11:36:06] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 11:36:06] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 11:36:06] [display] OverdriveHDRSplit 0.544
+[2026-06-09 11:36:06] [display] ALS: 0, brightness: 1
+[2026-06-09 11:36:06] [display] adaptive brightness available: 0
+[2026-06-09 11:36:06] Night mode active on resume 0
+[2026-06-09 11:36:06] [display] Fade from queried backlight
+[2026-06-09 11:36:06] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 11:36:06] Fan control available: 0 current: 0
+
+
+[2026-06-09 11:36:55] Client version: 1780352834
+[2026-06-09 11:36:55] udev: context initialized
+[2026-06-09 11:36:55] Initializing System Manager
+[2026-06-09 11:36:55] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 11:36:55] [display] display type: 0
+[2026-06-09 11:36:55] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 11:36:55] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 11:36:55] [display] OverdriveHDRSplit 0.544
+[2026-06-09 11:36:55] [display] ALS: 0, brightness: 1
+[2026-06-09 11:36:55] [display] adaptive brightness available: 0
+[2026-06-09 11:36:55] Night mode active on resume 0
+[2026-06-09 11:36:55] [display] Fade from queried backlight
+[2026-06-09 11:36:55] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 11:36:55] Fan control available: 0 current: 0
+
+
+[2026-06-09 12:06:48] Client version: 1780352834
+[2026-06-09 12:06:48] udev: context initialized
+[2026-06-09 12:06:48] Initializing System Manager
+[2026-06-09 12:06:48] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 12:06:48] [display] display type: 0
+[2026-06-09 12:06:48] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 12:06:48] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 12:06:48] [display] OverdriveHDRSplit 0.544
+[2026-06-09 12:06:48] [display] ALS: 0, brightness: 1
+[2026-06-09 12:06:48] [display] adaptive brightness available: 0
+[2026-06-09 12:06:48] Night mode active on resume 0
+[2026-06-09 12:06:48] [display] Fade from queried backlight
+[2026-06-09 12:06:48] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 12:06:48] Fan control available: 0 current: 0
+[2026-06-09 12:06:50] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 12:06:50] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 12:06:50] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 12:06:52] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 12:06:52] Stats Session Created 8943902514794
+[2026-06-09 12:08:48] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 12:08:48] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 12:08:48] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 12:08:48] YldCheckForClientUpdate: requesting update check
+[2026-06-09 12:08:49] YieldingCheckForUpdateSteamClient: update check success: available:0
+[2026-06-09 12:08:49] YieldingCheckForUpdateOS: starting check
+[2026-06-09 12:08:49] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 12:08:49] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 12:08:49] YieldingCheckForUpdateBIOS: starting check
+[2026-06-09 12:08:49] No bios auto-message present
+[2026-06-09 12:08:49] Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" /usr/bin/steamos-polkit-helpers/jupiter-biosupdate check' returned: 127
+[2026-06-09 12:08:49] Error: YieldingCheckForUpdateBIOS: update check error
+[2026-06-09 12:08:49] CSystemManagerCheckForUpdateJob: up to date
+[2026-06-09 12:08:49] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+
+
+[2026-06-09 12:43:34] Client version: 1780352834
+[2026-06-09 12:43:34] udev: context initialized
+[2026-06-09 12:43:34] Initializing System Manager
+[2026-06-09 12:43:34] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 12:43:34] [display] display type: 0
+[2026-06-09 12:43:34] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 12:43:34] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 12:43:34] [display] OverdriveHDRSplit 0.544
+[2026-06-09 12:43:34] [display] ALS: 0, brightness: 1
+[2026-06-09 12:43:34] [display] adaptive brightness available: 0
+[2026-06-09 12:43:34] Night mode active on resume 0
+[2026-06-09 12:43:34] [display] Fade from queried backlight
+[2026-06-09 12:43:34] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 12:43:34] Fan control available: 0 current: 0
+[2026-06-09 12:43:36] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 12:43:36] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 12:43:36] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 12:43:39] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 12:43:39] Stats Session Created 8943904097152
+[2026-06-09 12:45:34] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 12:45:34] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 12:45:34] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 12:45:34] YldCheckForClientUpdate: requesting update check
+[2026-06-09 12:45:35] YieldingCheckForUpdateSteamClient: update check success: available:0
+[2026-06-09 12:45:35] YieldingCheckForUpdateOS: starting check
+[2026-06-09 12:45:35] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 12:45:35] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 12:45:35] YieldingCheckForUpdateBIOS: starting check
+[2026-06-09 12:45:35] No bios auto-message present
+[2026-06-09 12:45:35] Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" /usr/bin/steamos-polkit-helpers/jupiter-biosupdate check' returned: 127
+[2026-06-09 12:45:35] Error: YieldingCheckForUpdateBIOS: update check error
+[2026-06-09 12:45:35] CSystemManagerCheckForUpdateJob: up to date
+[2026-06-09 12:45:35] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+
+
+[2026-06-09 12:49:42] Client version: 1780352834
+[2026-06-09 12:49:42] udev: context initialized
+[2026-06-09 12:49:42] Initializing System Manager
+[2026-06-09 12:49:42] Warning: wayland init failed, some functionality may be unavailable
+[2026-06-09 12:49:42] [display] display type: 0
+[2026-06-09 12:49:42] [display] ERROR detecting internal display type. Unidentified EDID
+[2026-06-09 12:49:42] [display] backlight contrast ratio 100.0 (-6.64386)
+[2026-06-09 12:49:42] [display] OverdriveHDRSplit 0.544
+[2026-06-09 12:49:42] [display] ALS: 0, brightness: 1
+[2026-06-09 12:49:42] [display] adaptive brightness available: 0
+[2026-06-09 12:49:42] Night mode active on resume 0
+[2026-06-09 12:49:42] [display] Fade from queried backlight
+[2026-06-09 12:49:42] Initialized battery manager with query mode: 1 interval: 2000000
+[2026-06-09 12:49:42] Fan control available: 0 current: 0
+[2026-06-09 12:49:45] CSystemManagerGetCurrentOSBranchJob: starting
+[2026-06-09 12:49:45] BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 12:49:45] Error: BYieldingRunAPIJob: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" steamos-select-branch -c' returned: 127
+[2026-06-09 12:49:47] CSystemStatsNewSessionJob SteamID: 76561198015331264 SessionAppId: 1675200
+[2026-06-09 12:49:47] Stats Session Created 8943904359816
+[2026-06-09 12:51:42] PeriodicUpdateCheck: starting periodic update check
+[2026-06-09 12:51:42] CSystemManagerCheckForUpdateJob: starting
+[2026-06-09 12:51:42] YieldingCheckForUpdateSteamClient: starting check
+[2026-06-09 12:51:42] YldCheckForClientUpdate: requesting update check
+[2026-06-09 12:51:43] YieldingCheckForUpdateSteamClient: update check success: available:0
+[2026-06-09 12:51:43] YieldingCheckForUpdateOS: starting check
+[2026-06-09 12:51:43] YieldingCheckForUpdateOS: Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}"  /usr/bin/steamos-polkit-helpers/steamos-update check 2>&1' returned: 127
+[2026-06-09 12:51:43] Error: YieldingCheckForUpdateOS: update check error
+[2026-06-09 12:51:43] YieldingCheckForUpdateBIOS: starting check
+[2026-06-09 12:51:43] No bios auto-message present
+[2026-06-09 12:51:43] Command 'LD_LIBRARY_PATH="${SYSTEM_LD_LIBRARY_PATH-${LD_LIBRARY_PATH}}" PATH="${SYSTEM_PATH-${PATH}}" /usr/bin/steamos-polkit-helpers/jupiter-biosupdate check' returned: 127
+[2026-06-09 12:51:43] Error: YieldingCheckForUpdateBIOS: update check error
+[2026-06-09 12:51:43] CSystemManagerCheckForUpdateJob: up to date
+[2026-06-09 12:51:43] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0

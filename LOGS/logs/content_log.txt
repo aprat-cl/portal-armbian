@@ -1,0 +1,945 @@
+
+
+[2026-06-09 00:42:24] Client version: 1780352834
+[2026-06-09 00:42:24] Load failed: /home/aprat/games/steam/steamapps/libraryfolders.vdf.
+[2026-06-09 00:42:24] Load failed: /home/aprat/games/steam/config/libraryfolders.vdf.
+[2026-06-09 00:42:24] Steam library folders configuration will be reset.
+[2026-06-09 00:42:24] No install folder configuration files found.
+[2026-06-09 00:42:24] Loaded 0 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 00:42:24] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 00:42:24] GetCellList - failed to get AppData for WinUI
+[2026-06-09 00:42:24] GetCellList - failed to get AppData for WinUI
+[2026-06-09 00:42:24] GetCellList - failed to get AppData for WinUI
+[2026-06-09 00:42:24] GetCellList - failed to get AppData for WinUI
+[2026-06-09 00:42:24] GetCellList - failed to get AppData for WinUI
+[2026-06-09 00:42:24] GetCellList - failed to get AppData for WinUI
+[2026-06-09 00:42:24] GetCellList - failed to get AppData for WinUI
+[2026-06-09 00:42:25] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 00:42:25] GetCellList - failed to get AppData for WinUI
+[2026-06-09 00:42:25] GetCellList - failed to get AppData for WinUI
+[2026-06-09 00:42:25] GetCellList - failed to get AppData for WinUI
+
+
+[2026-06-09 00:45:31] Client version: 1780352834
+[2026-06-09 00:45:31] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 00:45:31] Loaded 0 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 00:45:31] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 00:45:32] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 00:45:35] AppID 241100 scheduler update : Priority First, not played for 1780980335 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:35] AppID 241100 scheduler update : Priority First, not played for 1780980335 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:35] AppID 241100 scheduler update : Priority First, not played for 1780980335 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:35] AppID 241100 scheduler update : Priority First, not played for 1780980335 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:35] AppID 241100 scheduler update : Priority First, not played for 1780980335 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:35] AppID 241100 scheduler update : Priority First, not played for 1780980335 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:35] AppID 241100 scheduler update : Priority First, not played for 1780980335 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:35] AppID 241100 has no changes, 0 active:  0 target: 
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : Running Update,Staging,
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : Running Update,Committing,
+[2026-06-09 00:45:35] AppID 241100 starting commit from "/home/aprat/games/steam/steamapps/workshop/downloads/241100" to "/home/aprat/games/steam/steamapps/workshop/content/241100" : 0 updated, 0 moved, 0 deleted files
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : None
+[2026-06-09 00:45:35] AppID 241100 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2026-06-09 00:45:35] AppID 241100 scheduler update : Priority First, not played for 1780980335 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:35] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 00:45:36] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:36] AppID 241100 has no changes, 0 active:  0 target: 
+[2026-06-09 00:45:36] AppID 241100 Workshop update changed : Running Update,Staging,
+[2026-06-09 00:45:36] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:36] AppID 241100 Workshop update changed : Running Update,Committing,
+[2026-06-09 00:45:36] AppID 241100 starting commit from "/home/aprat/games/steam/steamapps/workshop/downloads/241100" to "/home/aprat/games/steam/steamapps/workshop/content/241100" : 0 updated, 0 moved, 0 deleted files
+[2026-06-09 00:45:36] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:36] AppID 241100 Workshop update changed : None
+[2026-06-09 00:45:36] AppID 241100 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2026-06-09 00:45:36] AppID 241100 scheduler update : Priority First, not played for 1780980336 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:37] AppID 241100 has no changes, 0 active:  0 target: 
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : Running Update,Staging,
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : Running Update,Committing,
+[2026-06-09 00:45:37] AppID 241100 starting commit from "/home/aprat/games/steam/steamapps/workshop/downloads/241100" to "/home/aprat/games/steam/steamapps/workshop/content/241100" : 0 updated, 0 moved, 0 deleted files
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : None
+[2026-06-09 00:45:37] AppID 241100 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2026-06-09 00:45:37] AppID 241100 scheduler update : Priority First, not played for 1780980337 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:37] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 00:45:38] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:38] AppID 241100 has no changes, 0 active:  0 target: 
+[2026-06-09 00:45:38] AppID 241100 Workshop update changed : Running Update,Staging,
+[2026-06-09 00:45:38] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:38] AppID 241100 Workshop update changed : Running Update,Committing,
+[2026-06-09 00:45:38] AppID 241100 starting commit from "/home/aprat/games/steam/steamapps/workshop/downloads/241100" to "/home/aprat/games/steam/steamapps/workshop/content/241100" : 0 updated, 0 moved, 0 deleted files
+[2026-06-09 00:45:38] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:38] AppID 241100 Workshop update changed : None
+[2026-06-09 00:45:38] AppID 241100 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2026-06-09 00:45:38] AppID 241100 scheduler update : Priority First, not played for 1780980338 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:38] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:38] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 00:45:38] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:39] AppID 241100 has no changes, 0 active:  0 target: 
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,Staging,
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,Committing,
+[2026-06-09 00:45:39] AppID 241100 starting commit from "/home/aprat/games/steam/steamapps/workshop/downloads/241100" to "/home/aprat/games/steam/steamapps/workshop/content/241100" : 0 updated, 0 moved, 0 deleted files
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : None
+[2026-06-09 00:45:39] AppID 241100 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2026-06-09 00:45:39] AppID 241100 scheduler update : Priority First, not played for 1780980339 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:39] AppID 241100 has no changes, 0 active:  0 target: 
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,Staging,
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,Committing,
+[2026-06-09 00:45:39] AppID 241100 starting commit from "/home/aprat/games/steam/steamapps/workshop/downloads/241100" to "/home/aprat/games/steam/steamapps/workshop/content/241100" : 0 updated, 0 moved, 0 deleted files
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : None
+[2026-06-09 00:45:39] AppID 241100 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2026-06-09 00:45:39] AppID 241100 scheduler update : Priority First, not played for 1780980339 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:39] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 00:45:40] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:40] AppID 241100 has no changes, 0 active:  0 target: 
+[2026-06-09 00:45:40] AppID 241100 Workshop update changed : Running Update,Staging,
+[2026-06-09 00:45:40] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:40] AppID 241100 Workshop update changed : Running Update,Committing,
+[2026-06-09 00:45:40] AppID 241100 starting commit from "/home/aprat/games/steam/steamapps/workshop/downloads/241100" to "/home/aprat/games/steam/steamapps/workshop/content/241100" : 0 updated, 0 moved, 0 deleted files
+[2026-06-09 00:45:40] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:40] AppID 241100 Workshop update changed : None
+[2026-06-09 00:45:40] AppID 241100 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2026-06-09 00:45:40] AppID 241100 scheduler update : Priority Auto Update, not played for 1780980340 seconds, update disabled for 0 seconds
+[2026-06-09 00:45:40] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:45:40] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 00:45:41] Got 9 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 117 / Launcher 0)
+[2026-06-09 00:45:41] Moving to source priority class '3'
+[2026-06-09 00:45:41] Created download interface of type 'SteamCache' (7) to host cache1-scl1.steamcontent.com (cache1-scl1.steamcontent.com)
+[2026-06-09 00:45:41] Created download interface of type 'SteamCache' (7) to host cache3-scl1.steamcontent.com (cache3-scl1.steamcontent.com)
+[2026-06-09 00:45:41] Created download interface of type 'SteamCache' (7) to host cache2-scl1.steamcontent.com (cache2-scl1.steamcontent.com)
+[2026-06-09 00:45:41] Created download interface of type 'SteamCache' (7) to host cache4-scl1.steamcontent.com (cache4-scl1.steamcontent.com)
+[2026-06-09 00:45:41] HTTP/2 available
+[2026-06-09 00:45:41] Created ipv4-only http client
+[2026-06-09 00:45:41] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): cache1-scl1.steamcontent.com/depot/241100/manifest/5776781403321412349/5/13714582105521236184 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:45:42] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): cache2-scl1.steamcontent.com/depot/241100/manifest/1536838824338945129/5/16439011996639232643 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:45:42] HTTPS (SteamCache,321) - cache4-scl1.steamcontent.com (155.133.249.148:443 / 155.133.249.148:443, host: cache4-scl1.steamcontent.com): cache4-scl1.steamcontent.com/depot/241100/manifest/7313031988495580426/5/3758192649640959696 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:45:42] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): cache2-scl1.steamcontent.com/depot/241100/manifest/2704671122884442139/5/5163628778015394347 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:45:43] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): cache3-scl1.steamcontent.com/depot/241100/manifest/1217438911215356817/5/13248502618936588067 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:45:43] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:46:14] AppID 4185400 state changed : Update Required,
+[2026-06-09 00:46:14] AppID 4185400 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 00:46:14] AppID 4185400 state changed : Update Required,Update Queued,
+[2026-06-09 00:46:14] AppID 241100 Workshop update changed : Running Update,Stopping,
+[2026-06-09 00:46:14] AppID 241100 Workshop update changed : None
+[2026-06-09 00:46:14] AppID 241100 scheduler finished : removed from schedule (result Suspended, state 0x0) 
+[2026-06-09 00:46:14] AppID 241100 scheduler update : Priority Auto Update, not played for 1780980374 seconds, update disabled for 0 seconds
+[2026-06-09 00:46:14] AppID 4185400 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 00:46:14] AppID 4185400 App update changed : Running Update,
+[2026-06-09 00:46:14] AppID 4185400 App update changed : Running Update,Reconfiguring,
+[2026-06-09 00:46:15] Created peer download interface to host Bastard (192.168.0.21)
+[2026-06-09 00:46:15] Peer - Bastard (192.168.0.21:27036): open connection to [U:1:55065536] failed (File Not Found)
+[2026-06-09 00:46:15] Moving to source priority class '2'
+[2026-06-09 00:46:15] Created download interface of type 'CDN' (2) to host google2.cdn.steampipe.steamcontent.com (google2.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:46:15] Created download interface of type 'CDN' (2) to host alibaba.cdn.steampipe.steamcontent.com (alibaba.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:46:15] Created download interface of type 'CDN' (2) to host fastly.cdn.steampipe.steamcontent.com (fastly.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:46:15] Moving to source priority class '1'
+[2026-06-09 00:46:15] Created download interface of type 'CDN' (2) to host edgenext.cdn.steampipe.steamcontent.com (edgenext.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:46:16] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): cache3-scl1.steamcontent.com/depot/4185401/manifest/397214249140875589/5/11230982028469166910 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:46:16] AppID 4185400 App update changed : Running Update,
+[2026-06-09 00:46:16] AppID 4185400 App update changed : Running Update,Verifying Installed,
+[2026-06-09 00:46:16] AppID 4185400 App update changed : Running Update,
+[2026-06-09 00:46:16] AppID 4185400 App update changed : Running Update,Preallocating,
+[2026-06-09 00:46:16] Increasing target number of download connections to 9 (rate was 0.000, now 5.024)
+[2026-06-09 00:46:16] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2026-06-09 00:46:17] AppID 4185400 preallocated 6237 files (406 MB) 
+[2026-06-09 00:46:17] AppID 4185400 App update changed : Running Update,
+[2026-06-09 00:46:17] AppID 4185400 update started : download 0/140263424, store 0/0, reuse 0/0, delta 0/0, stage 0/426363520 
+[2026-06-09 00:46:17] AppID 4185400 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 00:46:17] AppID 4185400 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 00:46:17] Downloading 6167 chunks for depot 4185401 (397214249140875589)
+[2026-06-09 00:46:17] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: edgenext.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4185401) - Success!
+[2026-06-09 00:46:17] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: alibaba.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4185401) - Success!
+[2026-06-09 00:46:17] HTTP (CDN,31) - fastly.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: fastly.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4185401) - Success!
+[2026-06-09 00:46:17] HTTP (CDN,35) - google2.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: google2.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4185401) - Success!
+[2026-06-09 00:46:17] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (4185401) - Success!
+[2026-06-09 00:46:33] AppID 4185400 App update changed : Running Update,
+[2026-06-09 00:46:33] AppID 4185400 App update changed : Running Update,Verifying Staged,
+[2026-06-09 00:46:34] Verified 406 MB in '/home/aprat/games/steam', clean bytes tally is now 406 MB
+[2026-06-09 00:46:34] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 00:46:34] AppID 4185400 App update changed : Running Update,
+[2026-06-09 00:46:34] AppID 4185400 App update changed : Running Update,Committing,
+[2026-06-09 00:46:34] AppID 4185400 starting commit from "/home/aprat/games/steam/steamapps/downloading/4185400" to "/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_4-arm64" : 7202 updated, 0 moved, 0 deleted files
+[2026-06-09 00:46:35] AppID 4185400 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 00:46:35] AppID 4185400 finished update, 1 mounted depots (BuildID 23181615) : 4185401 (397214249140875589),
+[2026-06-09 00:46:35] AppID 4185400 App update changed : Running Update,
+[2026-06-09 00:46:35] AppID 4185400 App update changed : None
+[2026-06-09 00:46:35] AppID 4185400 state changed : Fully Installed,Update Queued,
+[2026-06-09 00:46:35] AppID 4185400 state changed : Fully Installed,
+[2026-06-09 00:46:35] AppID 4185400 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 00:46:35] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:46:35] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 00:46:35] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:46:52] AppID 241100 Workshop update changed : Running Update,Preallocating,
+[2026-06-09 00:46:52] AppID 241100 preallocated 5 files (0 MB) 
+[2026-06-09 00:46:52] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:46:52] AppID 241100 update started : download 0/14496, store 0/0, reuse 0/0, delta 0/0, stage 0/49134 
+[2026-06-09 00:46:52] AppID 241100 Workshop update changed : Running Update,Downloading,Staging,
+[2026-06-09 00:46:52] Downloading 1 chunks for depot 241100 (1217438911215356817)
+[2026-06-09 00:46:53] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (151.242.210.13:80 / 151.242.210.13:80, host: edgenext.cdn.steampipe.steamcontent.com): AuthenticateDepotID (241100) - Success!
+[2026-06-09 00:46:53] Downloading 1 chunks for depot 241100 (2704671122884442139)
+[2026-06-09 00:46:54] Downloading 1 chunks for depot 241100 (7313031988495580426)
+[2026-06-09 00:46:54] Downloading 1 chunks for depot 241100 (1536838824338945129)
+[2026-06-09 00:46:54] Current download rate: 0.053 Mbps
+[2026-06-09 00:46:55] Downloading 1 chunks for depot 241100 (5776781403321412349)
+[2026-06-09 00:46:55] HTTPS (CDN,11) - steampipe.akamaized.net (23.14.87.26:443 / 23.14.87.26:443, host: steampipe.akamaized.net): AuthenticateDepotID (241100) - Success!
+[2026-06-09 00:46:55] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:46:55] AppID 241100 Workshop update changed : Running Update,Committing,
+[2026-06-09 00:46:55] AppID 241100 starting commit from "/home/aprat/games/steam/steamapps/workshop/downloads/241100" to "/home/aprat/games/steam/steamapps/workshop/content/241100" : 10 updated, 0 moved, 0 deleted files
+[2026-06-09 00:46:55] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 00:46:55] AppID 241100 Workshop update changed : None
+[2026-06-09 00:46:55] AppID 241100 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2026-06-09 00:47:22] HTTPS (CDN,35) - google2.cdn.steampipe.steamcontent.com (34.104.36.43:443 / 34.104.36.43:443, host: google2.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 00:47:23] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 00:47:25] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (204.93.142.131:80 / 204.93.142.131:80, host: alibaba.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 00:47:25] HTTPS (SteamCache,321) - cache4-scl1.steamcontent.com (155.133.249.148:443 / 155.133.249.148:443, host: cache4-scl1.steamcontent.com): Closing connection
+[2026-06-09 00:47:28] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): Closing connection
+[2026-06-09 00:47:30] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): Closing connection
+[2026-06-09 00:47:55] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): Closing connection
+[2026-06-09 00:47:55] Current download rate: 0.000 Mbps
+[2026-06-09 00:47:55] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (151.242.210.4:80 / 151.242.210.4:80, host: edgenext.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 00:47:56] HTTPS (CDN,11) - steampipe.akamaized.net (23.14.87.26:443 / 23.14.87.26:443, host: steampipe.akamaized.net): Closing connection
+[2026-06-09 00:51:12] stats: (SteamCache, 313) cache1-scl1.steamcontent.com: 29288346 Bytes, 10 sec (23.05 Mbps). 260 Hits / 898 Misses (22 %, 34 % bytes), score 0.7164
+[2026-06-09 00:51:12] stats: (Invalid, 0) : 141557343 Bytes, 16 sec (71.60 Mbps). 1160 Hits / 3702 Misses (24 %, 30 % bytes), score 0.0000
+[2026-06-09 00:51:12] stats: (SteamCache, 409) cache2-scl1.steamcontent.com: 29061188 Bytes, 13 sec (17.83 Mbps). 158 Hits / 1236 Misses (11 %, 24 % bytes), score 0.6709
+[2026-06-09 00:51:12] stats: (SteamCache, 321) cache4-scl1.steamcontent.com: 22016730 Bytes, 7 sec (23.69 Mbps). 480 Hits / 496 Misses (49 %, 47 % bytes), score 0.7421
+[2026-06-09 00:51:12] stats: (SteamCache, 320) cache3-scl1.steamcontent.com: 28120071 Bytes, 13 sec (17.45 Mbps). 262 Hits / 915 Misses (22 %, 22 % bytes), score 0.6413
+[2026-06-09 00:51:12] stats: (CDN, 29) edgenext.cdn.steampipe.steamcontent.com: 8968752 Bytes, 6 sec (11.30 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7364
+[2026-06-09 00:51:12] stats: (CDN, 33) alibaba.cdn.steampipe.steamcontent.com: 10286848 Bytes, 6 sec (13.60 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7357
+[2026-06-09 00:51:12] stats: (CDN, 31) fastly.cdn.steampipe.steamcontent.com: 3454464 Bytes, 5 sec (5.99 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.8066
+[2026-06-09 00:51:12] stats: (CDN, 35) google2.cdn.steampipe.steamcontent.com: 5379200 Bytes, 3 sec (12.94 Mbps). 0 Hits / 157 Misses (0 %, 0 % bytes), score 0.8197
+[2026-06-09 00:51:12] stats: (CDN, 11) steampipe.akamaized.net: 4981744 Bytes, 5 sec (7.44 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.8043
+[2026-06-09 00:53:43] AppID 4628740 state changed : Update Required,
+[2026-06-09 00:53:43] AppID 4628740 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 00:53:43] AppID 4628740 state changed : Update Required,Update Queued,
+[2026-06-09 00:53:43] AppID 4628740 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 00:53:43] AppID 4628740 App update changed : Running Update,
+[2026-06-09 00:53:43] AppID 4628740 App update changed : Running Update,Reconfiguring,
+[2026-06-09 00:53:43] Got 9 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 117 / Launcher 0)
+[2026-06-09 00:53:43] Created peer download interface to host Bastard (192.168.0.21)
+[2026-06-09 00:53:43] Moving to source priority class '3'
+[2026-06-09 00:53:43] Created download interface of type 'SteamCache' (7) to host cache1-scl1.steamcontent.com (cache1-scl1.steamcontent.com)
+[2026-06-09 00:53:44] Peer - Bastard (192.168.0.21:27036): open connection to [U:1:55065536] failed (File Not Found)
+[2026-06-09 00:53:44] Created download interface of type 'SteamCache' (7) to host cache3-scl1.steamcontent.com (cache3-scl1.steamcontent.com)
+[2026-06-09 00:53:44] Created download interface of type 'SteamCache' (7) to host cache2-scl1.steamcontent.com (cache2-scl1.steamcontent.com)
+[2026-06-09 00:53:44] Created download interface of type 'SteamCache' (7) to host cache4-scl1.steamcontent.com (cache4-scl1.steamcontent.com)
+[2026-06-09 00:53:44] Moving to source priority class '2'
+[2026-06-09 00:53:44] Created download interface of type 'CDN' (2) to host google2.cdn.steampipe.steamcontent.com (google2.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:53:44] Moving to source priority class '1'
+[2026-06-09 00:53:44] Created download interface of type 'CDN' (2) to host alibaba.cdn.steampipe.steamcontent.com (alibaba.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:53:44] Created download interface of type 'CDN' (2) to host fastly.cdn.steampipe.steamcontent.com (fastly.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:53:44] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2026-06-09 00:53:44] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): cache1-scl1.steamcontent.com/depot/4628741/manifest/8847727881196985995/5/4575777846065955423 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:53:44] AppID 4628740 App update changed : Running Update,
+[2026-06-09 00:53:44] AppID 4628740 App update changed : Running Update,Verifying Installed,
+[2026-06-09 00:53:44] AppID 4628740 App update changed : Running Update,
+[2026-06-09 00:53:44] AppID 4628740 App update changed : Running Update,Preallocating,
+[2026-06-09 00:53:46] AppID 4628740 preallocated 8909 files (3430 MB) 
+[2026-06-09 00:53:46] AppID 4628740 App update changed : Running Update,
+[2026-06-09 00:53:46] AppID 4628740 update started : download 0/776745120, store 0/0, reuse 0/0, delta 0/0, stage 0/3596743348 
+[2026-06-09 00:53:46] AppID 4628740 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 00:53:46] AppID 4628740 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 00:53:46] Downloading 9122 chunks for depot 4628741 (8847727881196985995)
+[2026-06-09 00:53:47] HTTP (CDN,31) - fastly.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: fastly.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4628741) - Success!
+[2026-06-09 00:53:47] HTTP (CDN,35) - google2.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: google2.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4628741) - Success!
+[2026-06-09 00:53:47] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: alibaba.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4628741) - Success!
+[2026-06-09 00:53:47] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (4628741) - Success!
+[2026-06-09 00:53:56] Increasing target number of download connections to 9 (rate was 0.000, now 188.387)
+[2026-06-09 00:53:56] Current download rate: 188.387 Mbps
+[2026-06-09 00:53:56] Created download interface of type 'CDN' (2) to host edgenext.cdn.steampipe.steamcontent.com (edgenext.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:54:09] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: edgenext.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4628741) - Success!
+[2026-06-09 00:54:57] Current download rate: 0.000 Mbps
+[2026-06-09 00:55:13] AppID 4628740 App update changed : Running Update,
+[2026-06-09 00:55:13] AppID 4628740 App update changed : Running Update,Verifying Staged,
+[2026-06-09 00:55:42] Verified 1641 MB in '/home/aprat/games/steam', clean bytes tally is now 2048 MB
+[2026-06-09 00:55:42] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 00:55:42] AppID 4628740 App update changed : Running Update,
+[2026-06-09 00:55:42] AppID 4628740 App update changed : Running Update,Committing,
+[2026-06-09 00:55:42] AppID 4628740 starting commit from "/home/aprat/games/steam/steamapps/downloading/4628740" to "/home/aprat/games/steam/steamapps/common/Proton 11.0 (ARM64)" : 12935 updated, 0 moved, 0 deleted files
+[2026-06-09 00:55:43] AppID 4628740 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 00:55:43] AppID 4628740 finished update, 1 mounted depots (BuildID 23303086) : 4628741 (8847727881196985995),
+[2026-06-09 00:55:44] AppID 4628740 App update changed : Running Update,
+[2026-06-09 00:55:44] AppID 4628740 App update changed : None
+[2026-06-09 00:55:44] AppID 4628740 state changed : Fully Installed,Update Queued,
+[2026-06-09 00:55:44] AppID 4628740 state changed : Fully Installed,
+[2026-06-09 00:55:44] AppID 4628740 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 00:55:49] HTTPS (CDN,11) - steampipe.akamaized.net (23.14.87.26:443 / 23.14.87.26:443, host: steampipe.akamaized.net): Closing connection
+[2026-06-09 00:55:50] HTTPS (CDN,35) - google2.cdn.steampipe.steamcontent.com (34.104.36.43:443 / 34.104.36.43:443, host: google2.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 00:55:50] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): Closing connection
+[2026-06-09 00:55:50] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): Closing connection
+[2026-06-09 00:55:50] HTTPS (SteamCache,321) - cache4-scl1.steamcontent.com (155.133.249.148:443 / 155.133.249.148:443, host: cache4-scl1.steamcontent.com): Closing connection
+[2026-06-09 00:55:50] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (151.242.210.4:80 / 151.242.210.4:80, host: edgenext.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 00:55:51] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): Closing connection
+[2026-06-09 00:55:51] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (204.93.142.131:80 / 204.93.142.131:80, host: alibaba.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 00:55:55] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 00:56:14] stats: (SteamCache, 313) cache1-scl1.steamcontent.com: 94699711 Bytes, 14 sec (54.65 Mbps). 1248 Hits / 972 Misses (56 %, 77 % bytes), score 0.7959
+[2026-06-09 00:56:14] stats: (Invalid, 0) : 779125935 Bytes, 50 sec (125.66 Mbps). 5038 Hits / 4858 Misses (51 %, 67 % bytes), score 0.0000
+[2026-06-09 00:56:14] stats: (SteamCache, 409) cache2-scl1.steamcontent.com: 82699312 Bytes, 12 sec (57.37 Mbps). 972 Hits / 1309 Misses (43 %, 74 % bytes), score 0.8005
+[2026-06-09 00:56:14] stats: (SteamCache, 321) cache4-scl1.steamcontent.com: 107050448 Bytes, 14 sec (60.27 Mbps). 1570 Hits / 647 Misses (71 %, 81 % bytes), score 0.7703
+[2026-06-09 00:56:14] stats: (SteamCache, 320) cache3-scl1.steamcontent.com: 89202256 Bytes, 13 sec (53.37 Mbps). 1248 Hits / 970 Misses (56 %, 77 % bytes), score 0.7998
+[2026-06-09 00:56:14] stats: (CDN, 29) edgenext.cdn.steampipe.steamcontent.com: 60493840 Bytes, 16 sec (30.61 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7317
+[2026-06-09 00:56:14] stats: (CDN, 33) alibaba.cdn.steampipe.steamcontent.com: 70236384 Bytes, 21 sec (27.01 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7910
+[2026-06-09 00:56:14] stats: (CDN, 31) fastly.cdn.steampipe.steamcontent.com: 107241200 Bytes, 20 sec (42.79 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7290
+[2026-06-09 00:56:14] stats: (CDN, 35) google2.cdn.steampipe.steamcontent.com: 74126512 Bytes, 24 sec (24.38 Mbps). 0 Hits / 960 Misses (0 %, 0 % bytes), score 0.8015
+[2026-06-09 00:56:14] stats: (CDN, 11) steampipe.akamaized.net: 93376272 Bytes, 16 sec (47.02 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.8107
+[2026-06-09 00:56:35] AppID 1121560 state changed : Update Required,
+[2026-06-09 00:56:35] AppID 228980 state changed : Update Required,Shared Only,
+[2026-06-09 00:56:35] AppID 228980 state changed : Update Required,
+[2026-06-09 00:56:35] Dependency added: parent 228980, child 1121560, depot 228986
+[2026-06-09 00:56:35] Dependency added: parent 228980, child 1121560, depot 228990
+[2026-06-09 00:56:35] AppID 1121560 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 00:56:35] AppID 1121560 state changed : Update Required,Update Queued,
+[2026-06-09 00:56:35] AppID 1628350 state changed : Update Required,
+[2026-06-09 00:56:35] AppID 1628350 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 00:56:35] AppID 1628350 state changed : Update Required,Update Queued,
+[2026-06-09 00:56:35] AppID 1121560 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 00:56:35] AppID 3658110 state changed : Update Required,
+[2026-06-09 00:56:35] AppID 3658110 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 00:56:35] AppID 3658110 state changed : Update Required,Update Queued,
+[2026-06-09 00:56:35] AppID 1121560 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 00:56:35] AppID 228980 scheduler update : Priority Auto Update, not played for 1780980995 seconds, update disabled for 0 seconds
+[2026-06-09 00:56:35] AppID 228980 state changed : Update Required,Update Queued,
+[2026-06-09 00:56:35] AppID 1121560 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 00:56:35] AppID 228980 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 00:56:35] AppID 3658110 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 00:56:35] AppID 1628350 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 00:56:35] AppID 1121560 App update changed : Running Update,
+[2026-06-09 00:56:35] AppID 1121560 App update changed : Running Update,Reconfiguring,
+[2026-06-09 00:56:35] Got 9 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 117 / Launcher 0)
+[2026-06-09 00:56:35] Created peer download interface to host Bastard (192.168.0.21)
+[2026-06-09 00:56:35] Moving to source priority class '3'
+[2026-06-09 00:56:35] Created download interface of type 'SteamCache' (7) to host cache1-scl1.steamcontent.com (cache1-scl1.steamcontent.com)
+[2026-06-09 00:56:36] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): cache1-scl1.steamcontent.com/depot/1628351/manifest/6278149461722541468/5/732148942987496938 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:56:36] Peer - Bastard (192.168.0.21:27036): open connection to [U:1:55065536] failed (File Not Found)
+[2026-06-09 00:56:36] Created download interface of type 'SteamCache' (7) to host cache3-scl1.steamcontent.com (cache3-scl1.steamcontent.com)
+[2026-06-09 00:56:36] Created download interface of type 'SteamCache' (7) to host cache2-scl1.steamcontent.com (cache2-scl1.steamcontent.com)
+[2026-06-09 00:56:36] Created download interface of type 'SteamCache' (7) to host cache4-scl1.steamcontent.com (cache4-scl1.steamcontent.com)
+[2026-06-09 00:56:37] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): cache3-scl1.steamcontent.com/depot/3658111/manifest/5413949673798237105/5/15108566302843820054 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:56:38] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): cache2-scl1.steamcontent.com/depot/228986/manifest/8782296191957114623/5/14640176001799332635 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:56:38] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): cache2-scl1.steamcontent.com/depot/228990/manifest/1829726630299308803/5/7112991931121016281 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:56:39] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): cache1-scl1.steamcontent.com/depot/1121561/manifest/4770515783795775162/5/10802932908643672792 - manifest request received 200 (OK) HTTP response
+[2026-06-09 00:56:40] AppID 1121560 App update changed : Running Update,
+[2026-06-09 00:56:40] AppID 1121560 App update changed : Running Update,Verifying Installed,
+[2026-06-09 00:56:40] AppID 1121560 App update changed : Running Update,
+[2026-06-09 00:56:40] AppID 1121560 App update changed : Running Update,Preallocating,
+[2026-06-09 00:56:41] AppID 1628350 preallocated 8384 files (765 MB) 
+[2026-06-09 00:56:42] AppID 3658110 preallocated 5661 files (1338 MB) 
+[2026-06-09 00:56:42] AppID 228980 preallocated 163 files (126 MB) 
+[2026-06-09 00:56:42] AppID 1121560 preallocated 172 files (18338 MB) 
+[2026-06-09 00:56:42] AppID 1121560 App update changed : Running Update,
+[2026-06-09 00:56:42] AppID 1628350 update started : download 0/226621168, store 0/0, reuse 0/0, delta 0/0, stage 0/802777103 
+[2026-06-09 00:56:42] AppID 1628350 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 00:56:42] AppID 3658110 update started : download 0/375938800, store 0/0, reuse 0/0, delta 0/0, stage 0/1403717742 
+[2026-06-09 00:56:42] AppID 3658110 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 00:56:42] AppID 228980 update started : download 0/123703568, store 0/0, reuse 0/0, delta 0/0, stage 0/132691472 
+[2026-06-09 00:56:42] AppID 228980 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 00:56:42] AppID 1121560 update started : download 0/6596001936, store 0/0, reuse 0/0, delta 0/0, stage 0/19229612048 
+[2026-06-09 00:56:42] AppID 1121560 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 00:56:42] AppID 1121560 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 00:56:42] Downloading 7977 chunks for depot 1628351 (6278149461722541468)
+[2026-06-09 00:56:48] Increasing target number of download connections to 9 (rate was 0.000, now 100.697)
+[2026-06-09 00:56:48] Current download rate: 100.697 Mbps
+[2026-06-09 00:57:02] AppID 1121560 App update changed : Running Update,
+[2026-06-09 00:57:02] AppID 1121560 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 00:57:02] Downloading 4736 chunks for depot 3658111 (5413949673798237105)
+[2026-06-09 00:57:49] Current download rate: 0.000 Mbps
+[2026-06-09 00:57:51] AppID 1121560 App update changed : Running Update,
+[2026-06-09 00:57:51] AppID 1121560 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 00:57:51] Created peer download interface to host Bastard (192.168.0.21)
+[2026-06-09 00:57:51] Downloading 28 chunks for depot 228986 (8782296191957114623)
+[2026-06-09 00:57:51] Peer - Bastard (192.168.0.21:27036): open connection to [U:1:55065536] failed (File Not Found)
+[2026-06-09 00:57:51] Moving to source priority class '2'
+[2026-06-09 00:57:51] Created download interface of type 'CDN' (2) to host google2.cdn.steampipe.steamcontent.com (google2.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:57:51] Created download interface of type 'CDN' (2) to host alibaba.cdn.steampipe.steamcontent.com (alibaba.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:57:51] Moving to source priority class '1'
+[2026-06-09 00:57:51] Created download interface of type 'CDN' (2) to host edgenext.cdn.steampipe.steamcontent.com (edgenext.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:57:51] Created download interface of type 'CDN' (2) to host fastly.cdn.steampipe.steamcontent.com (fastly.cdn.steampipe.steamcontent.com)
+[2026-06-09 00:57:51] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2026-06-09 00:57:52] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: alibaba.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228986) - Success!
+[2026-06-09 00:57:52] HTTP (CDN,31) - fastly.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: fastly.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228986) - Success!
+[2026-06-09 00:57:52] HTTP (CDN,35) - google2.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: google2.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228986) - Success!
+[2026-06-09 00:57:52] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: edgenext.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228986) - Success!
+[2026-06-09 00:57:52] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (228986) - Success!
+[2026-06-09 00:57:55] Downloading 203 chunks for depot 228990 (1829726630299308803)
+[2026-06-09 00:57:56] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (151.242.210.6:80 / 151.242.210.6:80, host: edgenext.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2026-06-09 00:57:56] HTTPS (CDN,35) - google2.cdn.steampipe.steamcontent.com (34.104.36.43:443 / 34.104.36.43:443, host: google2.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2026-06-09 00:57:56] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (3.162.230.220:80 / 3.162.230.220:80, host: alibaba.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2026-06-09 00:57:56] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2026-06-09 00:57:56] HTTPS (CDN,11) - steampipe.akamaized.net (23.14.87.24:443 / 23.14.87.24:443, host: steampipe.akamaized.net): AuthenticateDepotID (228990) - Success!
+[2026-06-09 00:58:00] AppID 1121560 App update changed : Running Update,
+[2026-06-09 00:58:00] AppID 1121560 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 00:58:00] Downloading 11697 chunks for depot 1121561 (4770515783795775162)
+[2026-06-09 00:58:00] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (151.242.210.12:80 / 151.242.210.12:80, host: edgenext.cdn.steampipe.steamcontent.com): AuthenticateDepotID (1121561) - Success!
+[2026-06-09 00:58:00] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): AuthenticateDepotID (1121561) - Success!
+[2026-06-09 00:58:00] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (3.162.230.37:80 / 3.162.230.37:80, host: alibaba.cdn.steampipe.steamcontent.com): AuthenticateDepotID (1121561) - Success!
+[2026-06-09 00:58:00] HTTPS (CDN,35) - google2.cdn.steampipe.steamcontent.com (34.104.36.43:443 / 34.104.36.43:443, host: google2.cdn.steampipe.steamcontent.com): AuthenticateDepotID (1121561) - Success!
+[2026-06-09 00:58:00] HTTPS (CDN,11) - steampipe.akamaized.net (23.14.87.24:443 / 23.14.87.24:443, host: steampipe.akamaized.net): AuthenticateDepotID (1121561) - Success!
+[2026-06-09 00:58:02] Detected write gap 70 MB in file "Data\PACK00_02.PAK"
+[2026-06-09 00:58:05] Detected write gap 69 MB in file "Data\PACK00_02.PAK"
+[2026-06-09 00:58:06] Detected write gap 79 MB in file "Data\PACK00_02.PAK"
+[2026-06-09 00:58:06] Detected write gap 81 MB in file "Data\PACK00_02.PAK"
+[2026-06-09 00:58:13] Detected write gap 65 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:16] Detected write gap 242 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:17] Detected write gap 146 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:17] Detected write gap 274 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:17] Detected write gap 223 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:18] Detected write gap 160 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:18] Detected write gap 224 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:18] Detected write gap 108 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:20] Detected write gap 118 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:20] Detected write gap 99 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:20] Detected write gap 70 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:24] Detected write gap 93 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:24] Detected write gap 69 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:35] Detected write gap 392 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:35] Detected write gap 356 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:36] Detected write gap 71 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:36] Detected write gap 64 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:36] Detected write gap 102 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:45] Detected write gap 92 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:46] Detected write gap 98 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:47] Detected write gap 76 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:47] Detected write gap 76 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:48] Detected write gap 98 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:49] Detected write gap 86 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:49] Current download rate: 111.954 Mbps
+[2026-06-09 00:58:50] Detected write gap 75 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:53] Detected write gap 107 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:53] Detected write gap 64 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:55] Detected write gap 85 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:55] Detected write gap 149 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:55] Detected write gap 198 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:57] Detected write gap 207 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:58:57] Detected write gap 70 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:03] Detected write gap 102 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:03] Detected write gap 75 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:05] Got 9 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 117 / Launcher 0)
+[2026-06-09 00:59:12] Detected write gap 73 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:12] Detected write gap 224 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:13] Detected write gap 213 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:13] Detected write gap 194 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:14] Detected write gap 131 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:14] Detected write gap 79 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:15] Detected write gap 107 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:15] Detected write gap 64 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:15] Detected write gap 133 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:16] Detected write gap 71 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:16] Detected write gap 101 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:18] Detected write gap 86 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:18] Detected write gap 86 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:22] Detected write gap 119 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:22] Detected write gap 65 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:22] Detected write gap 97 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:50] Detected write gap 101 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:50] Detected write gap 64 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:50] Current download rate: 179.728 Mbps
+[2026-06-09 00:59:51] Detected write gap 74 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:52] Detected write gap 114 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:52] Detected write gap 91 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 00:59:53] Detected write gap 67 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:01] Detected write gap 97 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:09] Detected write gap 85 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:15] Detected write gap 70 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:23] Detected write gap 71 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:24] Detected write gap 92 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:29] Detected write gap 83 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:29] Detected write gap 157 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:34] Detected write gap 78 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:35] Detected write gap 75 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:38] Detected write gap 111 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:38] Detected write gap 114 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:38] Detected write gap 137 MB in file "Data\PACK00_03.PAK"
+[2026-06-09 01:00:51] Current download rate: 0.000 Mbps
+[2026-06-09 01:01:00] Detected write gap 71 MB in file "Data\PACK00_04_01.PAK"
+[2026-06-09 01:01:00] Detected write gap 100 MB in file "Data\PACK00_04_01.PAK"
+[2026-06-09 01:01:10] Detected write gap 176 MB in file "Data\PACK00_04_02.PAK"
+[2026-06-09 01:01:13] Detected write gap 150 MB in file "Data\PACK00_04_03.PAK"
+[2026-06-09 01:01:14] Detected write gap 101 MB in file "Data\PACK00_04_04.PAK"
+[2026-06-09 01:01:36] stats: (SteamCache, 313) cache1-scl1.steamcontent.com: 716105070 Bytes, 71 sec (80.43 Mbps). 4325 Hits / 2025 Misses (68 %, 33 % bytes), score 0.6927
+[2026-06-09 01:01:36] stats: (Invalid, 0) : 3641542019 Bytes, 159 sec (183.22 Mbps). 19068 Hits / 7457 Misses (72 %, 53 % bytes), score 0.0000
+[2026-06-09 01:01:36] stats: (SteamCache, 409) cache2-scl1.steamcontent.com: 511698943 Bytes, 65 sec (63.17 Mbps). 4786 Hits / 1499 Misses (76 %, 80 % bytes), score 0.6757
+[2026-06-09 01:01:36] stats: (SteamCache, 321) cache4-scl1.steamcontent.com: 483442720 Bytes, 59 sec (65.54 Mbps). 4586 Hits / 1354 Misses (77 %, 41 % bytes), score 0.6800
+[2026-06-09 01:01:36] stats: (SteamCache, 320) cache3-scl1.steamcontent.com: 622972982 Bytes, 68 sec (73.77 Mbps). 5371 Hits / 1214 Misses (82 %, 81 % bytes), score 0.6663
+[2026-06-09 01:01:36] stats: (CDN, 29) edgenext.cdn.steampipe.steamcontent.com: 116756352 Bytes, 46 sec (20.15 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.8053
+[2026-06-09 01:01:36] stats: (CDN, 33) alibaba.cdn.steampipe.steamcontent.com: 419049008 Bytes, 40 sec (83.80 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7994
+[2026-06-09 01:01:36] stats: (CDN, 31) fastly.cdn.steampipe.steamcontent.com: 231021376 Bytes, 35 sec (53.56 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7940
+[2026-06-09 01:01:36] stats: (CDN, 35) google2.cdn.steampipe.steamcontent.com: 182628064 Bytes, 48 sec (30.49 Mbps). 0 Hits / 1365 Misses (0 %, 0 % bytes), score 0.8061
+[2026-06-09 01:01:36] stats: (CDN, 11) steampipe.akamaized.net: 357867504 Bytes, 60 sec (47.66 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7952
+[2026-06-09 01:01:36] Detected write gap 103 MB in file "Data\x64\Res_CMN\Movie\ending.webm"
+[2026-06-09 01:01:52] Current download rate: 124.254 Mbps
+[2026-06-09 01:02:38] Detected write gap 76 MB in file "Data\x64\Sound\voice.ktsl2stbin"
+[2026-06-09 01:02:53] Current download rate: 8.742 Mbps
+[2026-06-09 01:03:54] Current download rate: 54.016 Mbps
+[2026-06-09 01:04:35] Got 9 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 117 / Launcher 0)
+[2026-06-09 01:04:55] Current download rate: 193.641 Mbps
+[2026-06-09 01:05:56] Current download rate: 0.000 Mbps
+[2026-06-09 01:06:05] AppID 1121560 App update changed : Running Update,
+[2026-06-09 01:06:05] AppID 1121560 App update changed : Running Update,Committing,
+[2026-06-09 01:06:05] AppID 1628350 starting commit from "/home/aprat/games/steam/steamapps/downloading/1628350" to "/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_sniper" : 9522 updated, 0 moved, 0 deleted files
+[2026-06-09 01:06:11] AppID 1628350 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 01:06:11] AppID 1628350 finished update, 1 mounted depots (BuildID 23181402) : 1628351 (6278149461722541468),
+[2026-06-09 01:06:11] AppID 3658110 starting commit from "/home/aprat/games/steam/steamapps/downloading/3658110" to "/home/aprat/games/steam/steamapps/common/Proton 10.0" : 8133 updated, 0 moved, 0 deleted files
+[2026-06-09 01:06:11] AppID 3658110 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 01:06:11] AppID 3658110 finished update, 1 mounted depots (BuildID 21617411) : 3658111 (5413949673798237105),
+[2026-06-09 01:06:11] AppID 228980 starting commit from "/home/aprat/games/steam/steamapps/downloading/228980" to "/home/aprat/games/steam/steamapps/common/Steamworks Shared" : 163 updated, 0 moved, 0 deleted files
+[2026-06-09 01:06:11] AppID 228980 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 01:06:11] AppID 228980 finished update, 2 mounted depots (BuildID 19222509) : 228986 (8782296191957114623),228990 (1829726630299308803),
+[2026-06-09 01:06:11] AppID 1121560 starting commit from "/home/aprat/games/steam/steamapps/downloading/1121560" to "/home/aprat/games/steam/steamapps/common/Atelier Ryza" : 187 updated, 0 moved, 0 deleted files
+[2026-06-09 01:06:11] AppID 1121560 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 01:06:11] AppID 1121560 finished update, 1 mounted depots (BuildID 15768026) : 1121561 (4770515783795775162),
+[2026-06-09 01:06:11] AppID 1121560 App update changed : Running Update,
+[2026-06-09 01:06:11] AppID 1121560 App update changed : Running Update,Running Script,
+[2026-06-09 01:06:12] AppID 1121560 App update changed : Running Update,
+[2026-06-09 01:06:12] AppID 1121560 App update changed : None
+[2026-06-09 01:06:12] AppID 1628350 state changed : Fully Installed,Update Queued,
+[2026-06-09 01:06:12] AppID 3658110 state changed : Fully Installed,Update Queued,
+[2026-06-09 01:06:12] AppID 228980 state changed : Fully Installed,Update Queued,
+[2026-06-09 01:06:12] AppID 1121560 state changed : Fully Installed,Update Queued,
+[2026-06-09 01:06:12] AppID 1121560 state changed : Fully Installed,
+[2026-06-09 01:06:12] AppID 1121560 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 01:06:12] AppID 3658110 state changed : Fully Installed,
+[2026-06-09 01:06:12] AppID 3658110 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2026-06-09 01:06:12] AppID 1628350 state changed : Fully Installed,
+[2026-06-09 01:06:12] AppID 1628350 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2026-06-09 01:06:12] AppID 228980 state changed : Fully Installed,
+[2026-06-09 01:06:12] AppID 228980 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2026-06-09 01:06:52] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): Closing connection
+[2026-06-09 01:06:52] HTTPS (CDN,11) - steampipe.akamaized.net (23.14.87.24:443 / 23.14.87.24:443, host: steampipe.akamaized.net): Closing connection
+[2026-06-09 01:06:52] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (151.242.210.5:80 / 151.242.210.5:80, host: edgenext.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 01:06:52] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): Closing connection
+[2026-06-09 01:06:53] HTTPS (SteamCache,321) - cache4-scl1.steamcontent.com (155.133.249.148:443 / 155.133.249.148:443, host: cache4-scl1.steamcontent.com): Closing connection
+[2026-06-09 01:06:53] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 01:06:53] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): Closing connection
+[2026-06-09 01:06:53] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (204.93.142.131:80 / 204.93.142.131:80, host: alibaba.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 01:06:53] HTTPS (CDN,35) - google2.cdn.steampipe.steamcontent.com (34.104.36.43:443 / 34.104.36.43:443, host: google2.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 01:07:06] stats: (SteamCache, 313) cache1-scl1.steamcontent.com: 521585024 Bytes, 36 sec (116.11 Mbps). 4325 Hits / 2716 Misses (61 %, 21 % bytes), score 0.6381
+[2026-06-09 01:07:06] stats: (Invalid, 0) : 3684421984 Bytes, 155 sec (190.32 Mbps). 19922 Hits / 9777 Misses (67 %, 43 % bytes), score 0.0000
+[2026-06-09 01:07:06] stats: (SteamCache, 409) cache2-scl1.steamcontent.com: 487172880 Bytes, 40 sec (96.28 Mbps). 5326 Hits / 1682 Misses (76 %, 79 % bytes), score 0.7660
+[2026-06-09 01:07:06] stats: (SteamCache, 321) cache4-scl1.steamcontent.com: 334460736 Bytes, 29 sec (92.54 Mbps). 4586 Hits / 1897 Misses (71 %, 27 % bytes), score 0.7948
+[2026-06-09 01:07:06] stats: (SteamCache, 320) cache3-scl1.steamcontent.com: 397252992 Bytes, 34 sec (92.88 Mbps). 5685 Hits / 1435 Misses (80 %, 72 % bytes), score 0.7522
+[2026-06-09 01:07:06] stats: (CDN, 29) edgenext.cdn.steampipe.steamcontent.com: 382571216 Bytes, 67 sec (45.69 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7885
+[2026-06-09 01:07:06] stats: (CDN, 33) alibaba.cdn.steampipe.steamcontent.com: 337204800 Bytes, 42 sec (64.07 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7877
+[2026-06-09 01:07:06] stats: (CDN, 31) fastly.cdn.steampipe.steamcontent.com: 306267328 Bytes, 37 sec (66.79 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.8011
+[2026-06-09 01:07:06] stats: (CDN, 35) google2.cdn.steampipe.steamcontent.com: 387338816 Bytes, 84 sec (36.72 Mbps). 0 Hits / 2047 Misses (0 %, 0 % bytes), score 0.8091
+[2026-06-09 01:07:06] stats: (CDN, 11) steampipe.akamaized.net: 530568192 Bytes, 75 sec (56.76 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7612
+[2026-06-09 01:13:07] Drive removed: /var/log
+[2026-06-09 01:13:07] Drive removed: /boot
+[2026-06-09 01:13:07] Drive removed: /
+[2026-06-09 01:13:07] Drive removed: /var/log.hdd
+
+
+[2026-06-09 08:28:55] Client version: 1780352834
+[2026-06-09 08:28:55] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 08:28:55] Loaded 6 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 08:28:55] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 08:28:58] AppID 241100 scheduler update : Priority First, not played for 1781008138 seconds, update disabled for 0 seconds
+[2026-06-09 08:28:58] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 08:28:58] AppID 241100 Workshop update changed : Running Update,Reconfiguring,
+[2026-06-09 08:28:59] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 08:28:59] AppID 241100 has no changes, 5 active: 241100 (1217438911215356817),241100 (2704671122884442139),241100 (7313031988495580426),241100 (1536838824338945129),241100 (5776781403321412349), 5 target: 241100 (1217438911215356817),241100 (2704671122884442139),241100 (7313031988495580426),241100 (1536838824338945129),241100 (5776781403321412349),
+[2026-06-09 08:28:59] AppID 241100 Workshop update changed : Running Update,Staging,
+[2026-06-09 08:28:59] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 08:28:59] AppID 241100 Workshop update changed : Running Update,Committing,
+[2026-06-09 08:28:59] AppID 241100 starting commit from "/home/aprat/games/steam/steamapps/workshop/downloads/241100" to "/home/aprat/games/steam/steamapps/workshop/content/241100" : 0 updated, 0 moved, 0 deleted files
+[2026-06-09 08:28:59] AppID 241100 Workshop update changed : Running Update,
+[2026-06-09 08:28:59] AppID 241100 Workshop update changed : None
+[2026-06-09 08:28:59] AppID 241100 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2026-06-09 08:29:34] AppID 1121560 state changed : Fully Installed,App Running,
+[2026-06-09 08:29:34] AppID 1121560 state changed : Fully Installed,
+[2026-06-09 08:29:44] AppID 1121560 state changed : Fully Installed,App Running,
+[2026-06-09 08:29:44] AppID 1121560 state changed : Fully Installed,
+[2026-06-09 08:32:15] AppID 1121560 state changed : Fully Installed,App Running,
+[2026-06-09 08:34:30] AppID 1121560 state changed : Fully Installed,App Running,Terminating,
+[2026-06-09 08:34:30] AppID 1121560 state changed : Fully Installed,
+[2026-06-09 08:34:48] AppID 3405340 state changed : Update Required,
+[2026-06-09 08:34:48] AppID 3405340 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2026-06-09 08:34:48] AppID 3405340 state changed : Update Required,Update Queued,
+[2026-06-09 08:34:48] AppID 1070560 state changed : Update Required,
+[2026-06-09 08:34:48] AppID 1070560 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2026-06-09 08:34:48] AppID 1070560 state changed : Update Required,Update Queued,
+[2026-06-09 08:34:48] AppID 3405340 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2026-06-09 08:34:48] AppID 3405340 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 08:34:48] AppID 1070560 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 08:34:48] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:34:48] AppID 3405340 App update changed : Running Update,Reconfiguring,
+[2026-06-09 08:34:48] Got 9 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 117 / Launcher 0)
+[2026-06-09 08:34:48] Moving to source priority class '3'
+[2026-06-09 08:34:48] Created download interface of type 'SteamCache' (7) to host cache1-scl1.steamcontent.com (cache1-scl1.steamcontent.com)
+[2026-06-09 08:34:48] Created download interface of type 'SteamCache' (7) to host cache3-scl1.steamcontent.com (cache3-scl1.steamcontent.com)
+[2026-06-09 08:34:48] Created download interface of type 'SteamCache' (7) to host cache2-scl1.steamcontent.com (cache2-scl1.steamcontent.com)
+[2026-06-09 08:34:48] Created download interface of type 'SteamCache' (7) to host cache4-scl1.steamcontent.com (cache4-scl1.steamcontent.com)
+[2026-06-09 08:34:48] HTTP/2 available
+[2026-06-09 08:34:48] Created ipv4-only http client
+[2026-06-09 08:34:49] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): cache1-scl1.steamcontent.com/depot/1070561/manifest/8362683904222507215/5/9021901261177239572 - manifest request received 200 (OK) HTTP response
+[2026-06-09 08:34:50] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): cache1-scl1.steamcontent.com/depot/3405341/manifest/6464790072963772385/5/1412515555718080008 - manifest request received 200 (OK) HTTP response
+[2026-06-09 08:34:50] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:34:50] AppID 3405340 App update changed : Running Update,Verifying Installed,
+[2026-06-09 08:34:50] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:34:50] AppID 3405340 App update changed : Running Update,Preallocating,
+[2026-06-09 08:34:51] AppID 1070560 preallocated 4237 files (212 MB) 
+[2026-06-09 08:34:51] AppID 3405340 preallocated 65 files (539 MB) 
+[2026-06-09 08:34:51] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:34:51] AppID 1070560 update started : download 0/74906800, store 0/0, reuse 0/0, delta 0/0, stage 0/222310180 
+[2026-06-09 08:34:51] AppID 1070560 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 08:34:51] AppID 3405340 update started : download 0/187378048, store 0/0, reuse 0/0, delta 0/0, stage 0/565915128 
+[2026-06-09 08:34:51] AppID 3405340 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 08:34:51] AppID 3405340 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 08:34:51] Downloading 3594 chunks for depot 1070561 (8362683904222507215)
+[2026-06-09 08:35:01] Increasing target number of download connections to 9 (rate was 0.000, now 36.196)
+[2026-06-09 08:35:03] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:35:03] AppID 3405340 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 08:35:03] Downloading 654 chunks for depot 3405341 (6464790072963772385)
+[2026-06-09 08:35:05] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:35:05] AppID 3405340 App update changed : Running Update,Committing,
+[2026-06-09 08:35:05] AppID 1070560 starting commit from "/home/aprat/games/steam/steamapps/downloading/1070560" to "/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime" : 5557 updated, 0 moved, 0 deleted files
+[2026-06-09 08:35:06] AppID 1070560 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 08:35:06] AppID 1070560 finished update, 1 mounted depots (BuildID 23035485) : 1070561 (8362683904222507215),
+[2026-06-09 08:35:06] AppID 3405340 starting commit from "/home/aprat/games/steam/steamapps/downloading/3405340" to "/home/aprat/games/steam/steamapps/common/Megabonk" : 75 updated, 0 moved, 0 deleted files
+[2026-06-09 08:35:06] AppID 3405340 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 08:35:06] AppID 3405340 finished update, 1 mounted depots (BuildID 21750826) : 3405341 (6464790072963772385),
+[2026-06-09 08:35:06] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:35:06] AppID 3405340 App update changed : None
+[2026-06-09 08:35:06] AppID 1070560 state changed : Fully Installed,Update Queued,
+[2026-06-09 08:35:06] AppID 3405340 state changed : Fully Installed,Update Queued,
+[2026-06-09 08:35:06] AppID 3405340 state changed : Fully Installed,
+[2026-06-09 08:35:06] AppID 3405340 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 08:35:07] AppID 1070560 state changed : Fully Installed,
+[2026-06-09 08:35:07] AppID 1070560 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2026-06-09 08:35:12] AppID 3405340 scheduler update : Priority First, not played for 26 seconds, update disabled for 0 seconds
+[2026-06-09 08:35:12] AppID 3405340 state changed : Fully Installed,Update Queued,
+[2026-06-09 08:35:12] AppID 3405340 state changed : Fully Installed,
+[2026-06-09 08:35:12] AppID 3405340 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2026-06-09 08:35:12] AppID 1391110 state changed : Update Required,
+[2026-06-09 08:35:12] AppID 1391110 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 08:35:12] AppID 1391110 state changed : Update Required,Update Queued,
+[2026-06-09 08:35:12] AppID 1391110 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 08:35:12] AppID 1391110 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 08:35:12] AppID 1391110 App update changed : Running Update,
+[2026-06-09 08:35:12] AppID 1391110 App update changed : Running Update,Reconfiguring,
+[2026-06-09 08:35:13] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): cache2-scl1.steamcontent.com/depot/1391111/manifest/1607492374876563343/5/3079897061761963768 - manifest request received 200 (OK) HTTP response
+[2026-06-09 08:35:13] AppID 1391110 App update changed : Running Update,
+[2026-06-09 08:35:13] AppID 1391110 App update changed : Running Update,Verifying Installed,
+[2026-06-09 08:35:13] AppID 1391110 App update changed : Running Update,
+[2026-06-09 08:35:13] AppID 1391110 App update changed : Running Update,Preallocating,
+[2026-06-09 08:35:14] AppID 1391110 preallocated 8668 files (644 MB) 
+[2026-06-09 08:35:14] AppID 1391110 App update changed : Running Update,
+[2026-06-09 08:35:15] AppID 1391110 update started : download 0/191105824, store 0/0, reuse 0/0, delta 0/0, stage 0/676143194 
+[2026-06-09 08:35:15] AppID 1391110 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 08:35:15] AppID 1391110 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 08:35:15] Downloading 8174 chunks for depot 1391111 (1607492374876563343)
+[2026-06-09 08:35:33] AppID 3405340 state changed : Update Required,Fully Installed, (Update delayed for 9633 secs)
+[2026-06-09 08:35:33] AppID 3405340 config changed : added depots 3405342
+[2026-06-09 08:35:33] AppID 3405340 config changed : removed depots 3405341
+[2026-06-09 08:35:34] AppID 1391110 App update changed : Running Update,
+[2026-06-09 08:35:34] AppID 1391110 App update changed : Running Update,Committing,
+[2026-06-09 08:35:34] AppID 1391110 starting commit from "/home/aprat/games/steam/steamapps/downloading/1391110" to "/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_soldier" : 9889 updated, 0 moved, 0 deleted files
+[2026-06-09 08:35:34] AppID 1391110 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 08:35:34] AppID 1391110 finished update, 1 mounted depots (BuildID 23181311) : 1391111 (1607492374876563343),
+[2026-06-09 08:35:35] AppID 1391110 App update changed : Running Update,
+[2026-06-09 08:35:35] AppID 1391110 App update changed : None
+[2026-06-09 08:35:35] AppID 1391110 state changed : Fully Installed,Update Queued,
+[2026-06-09 08:35:35] AppID 1391110 state changed : Fully Installed,
+[2026-06-09 08:35:35] AppID 1391110 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 08:35:36] AppID 3405340 state changed : Update Required,Fully Installed,Prefetching Info, (Update delayed for 9630 secs)
+[2026-06-09 08:35:37] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): cache3-scl1.steamcontent.com/depot/3405342/manifest/446680890915713051/5/17407563354707398495 - manifest request received 200 (OK) HTTP response
+[2026-06-09 08:35:37] AppID 3405340 state changed : Update Required,Fully Installed, (Update delayed for 9629 secs)
+[2026-06-09 08:35:37] AppID 3405340 update prefetch finished : 137971328 bytes to download, 0 bytes to stage
+[2026-06-09 08:35:54] AppID 3405340 scheduler update : Priority First, not played for 68 seconds, update disabled for 0 seconds
+[2026-06-09 08:35:54] AppID 3405340 state changed : Update Required,Fully Installed,Update Queued, (Update delayed for 9612 secs)
+[2026-06-09 08:35:54] AppID 3405340 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2026-06-09 08:35:54] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:35:54] AppID 3405340 App update changed : Running Update,Reconfiguring,
+[2026-06-09 08:35:54] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:35:54] AppID 3405340 App update changed : Running Update,Verifying Installed,
+[2026-06-09 08:35:54] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:35:54] AppID 3405340 App update changed : Running Update,Preallocating,
+[2026-06-09 08:35:54] AppID 3405340 preallocated 51 files (361 MB) 
+[2026-06-09 08:35:54] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:35:54] AppID 3405340 update started : download 0/137971328, store 0/0, reuse 0/72360800, delta 0/0, stage 0/378624991 
+[2026-06-09 08:35:54] AppID 3405340 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2026-06-09 08:35:54] AppID 3405340 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 08:35:54] Downloading 365 chunks for depot 3405342 (446680890915713051)
+[2026-06-09 08:35:58] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:35:58] AppID 3405340 App update changed : Running Update,Committing,
+[2026-06-09 08:35:58] AppID 3405340 starting commit from "/home/aprat/games/steam/steamapps/downloading/3405340" to "/home/aprat/games/steam/steamapps/common/Megabonk" : 55 updated, 0 moved, 28 deleted files
+[2026-06-09 08:35:58] AppID 3405340 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 08:35:58] AppID 3405340 finished update, 1 mounted depots (BuildID 21750826) : 3405342 (446680890915713051),
+[2026-06-09 08:35:58] AppID 3405340 App update changed : Running Update,
+[2026-06-09 08:35:58] AppID 3405340 App update changed : None
+[2026-06-09 08:35:58] AppID 3405340 state changed : Fully Installed,Update Queued,
+[2026-06-09 08:35:58] AppID 3405340 state changed : Fully Installed,
+[2026-06-09 08:35:58] AppID 3405340 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 08:36:02] Current download rate: 0.000 Mbps
+[2026-06-09 08:36:24] AppID 3405340 state changed : Fully Installed,App Running,
+[2026-06-09 08:36:58] HTTPS (SteamCache,321) - cache4-scl1.steamcontent.com (155.133.249.148:443 / 155.133.249.148:443, host: cache4-scl1.steamcontent.com): Closing connection
+[2026-06-09 08:36:58] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): Closing connection
+[2026-06-09 08:36:58] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): Closing connection
+[2026-06-09 08:36:58] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): Closing connection
+[2026-06-09 08:37:36] Adding peer server 'Bastard' (192.168.0.21:27036)
+
+
+[2026-06-09 09:37:41] Client version: 1780352834
+[2026-06-09 09:37:41] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 09:37:41] Loaded 9 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 09:37:41] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 09:37:41] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 09:38:24] AppID 3405340 state changed : Fully Installed,App Running,
+
+
+[2026-06-09 10:05:38] Client version: 1780352834
+[2026-06-09 10:05:38] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 10:05:38] Loaded 9 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 10:05:38] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 10:05:39] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 10:06:33] Drive removed: /var/log
+[2026-06-09 10:06:33] Drive removed: /boot
+[2026-06-09 10:06:33] Drive removed: /
+[2026-06-09 10:06:33] Drive removed: /var/log.hdd
+
+
+[2026-06-09 10:06:46] Client version: 0
+[2026-06-09 10:06:46] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 10:06:46] Loaded 9 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 10:06:46] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 10:06:47] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 10:08:44] AppID 3405340 state changed : Fully Installed,App Running,
+[2026-06-09 10:11:06] AppID 3405340 state changed : Fully Installed,
+[2026-06-09 10:24:03] Drive removed: /var/log
+[2026-06-09 10:24:03] Drive removed: /boot
+[2026-06-09 10:24:03] Drive removed: /
+[2026-06-09 10:24:03] Drive removed: /var/log.hdd
+
+
+[2026-06-09 10:24:27] Client version: 0
+[2026-06-09 10:24:27] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 10:24:27] Loaded 9 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 10:24:27] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 10:24:28] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 10:25:08] AppID 3405340 state changed : Fully Installed,App Running,
+
+
+[2026-06-09 11:22:38] Client version: 0
+[2026-06-09 11:22:38] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 11:22:38] Loaded 9 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 11:22:38] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 11:22:38] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 11:22:39] AppID 1628350 state changed : Update Required,Fully Installed,
+[2026-06-09 11:22:39] AppID 1628350 config changed : updated depots 1628351
+[2026-06-09 11:22:39] AppID 4185400 state changed : Update Required,Fully Installed,
+[2026-06-09 11:22:39] AppID 4185400 config changed : updated depots 4185401
+[2026-06-09 11:22:45] AppID 1628350 scheduler update : Priority Auto Update, not played for 37571 seconds, update disabled for 0 seconds
+[2026-06-09 11:22:45] AppID 1628350 state changed : Update Required,Fully Installed,Update Queued,
+[2026-06-09 11:22:45] AppID 4185400 scheduler update : Priority Auto Update, not played for 38192 seconds, update disabled for 0 seconds
+[2026-06-09 11:22:45] AppID 4185400 state changed : Update Required,Fully Installed,Update Queued,
+[2026-06-09 11:22:45] AppID 1628350 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2026-06-09 11:22:45] AppID 1628350 App update changed : Running Update,
+[2026-06-09 11:22:45] AppID 1628350 App update changed : Running Update,Reconfiguring,
+[2026-06-09 11:22:46] Got 9 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 117 / Launcher 0)
+[2026-06-09 11:22:46] Created peer download interface to host Bastard (192.168.0.21)
+[2026-06-09 11:22:46] Moving to source priority class '3'
+[2026-06-09 11:22:46] Created download interface of type 'SteamCache' (7) to host cache1-scl1.steamcontent.com (cache1-scl1.steamcontent.com)
+[2026-06-09 11:22:46] HTTP/2 available
+[2026-06-09 11:22:46] Created ipv4-only http client
+[2026-06-09 11:22:46] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): cache1-scl1.steamcontent.com/depot/1628351/manifest/6709564751129534468/5/14277946058162029007 - manifest request received 200 (OK) HTTP response
+[2026-06-09 11:22:46] Peer - Bastard (192.168.0.21:27036): open connection to [U:1:55065536] failed (File Not Found)
+[2026-06-09 11:22:47] Created download interface of type 'SteamCache' (7) to host cache3-scl1.steamcontent.com (cache3-scl1.steamcontent.com)
+[2026-06-09 11:22:47] Created download interface of type 'SteamCache' (7) to host cache2-scl1.steamcontent.com (cache2-scl1.steamcontent.com)
+[2026-06-09 11:22:47] Created download interface of type 'SteamCache' (7) to host cache4-scl1.steamcontent.com (cache4-scl1.steamcontent.com)
+[2026-06-09 11:22:47] AppID 1628350 App update changed : Running Update,
+[2026-06-09 11:22:47] AppID 1628350 App update changed : Running Update,Verifying Installed,
+[2026-06-09 11:22:47] AppID 1628350 App update changed : Running Update,
+[2026-06-09 11:22:47] AppID 1628350 App update changed : Running Update,Preallocating,
+[2026-06-09 11:22:47] AppID 1628350 preallocated 746 files (50 MB) 
+[2026-06-09 11:22:47] AppID 1628350 App update changed : Running Update,
+[2026-06-09 11:22:47] AppID 1628350 update started : download 0/18764080, store 0/0, reuse 0/8928804, delta 0/8928804, stage 0/53236847 
+[2026-06-09 11:22:47] AppID 1628350 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2026-06-09 11:22:47] AppID 1628350 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 11:22:47] Downloading 656 chunks for depot 1628351 (6709564751129534468)
+[2026-06-09 11:22:51] AppID 1628350 App update changed : Running Update,
+[2026-06-09 11:22:51] AppID 1628350 App update changed : Running Update,Committing,
+[2026-06-09 11:22:51] AppID 1628350 starting commit from "/home/aprat/games/steam/steamapps/downloading/1628350" to "/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_sniper" : 1827 updated, 7523 moved, 1701 deleted files
+[2026-06-09 11:22:52] AppID 1628350 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 11:22:52] AppID 1628350 finished update, 1 mounted depots (BuildID 23629198) : 1628351 (6709564751129534468),
+[2026-06-09 11:22:52] AppID 1628350 App update changed : Running Update,
+[2026-06-09 11:22:52] AppID 1628350 App update changed : None
+[2026-06-09 11:22:52] AppID 1628350 state changed : Fully Installed,Update Queued,
+[2026-06-09 11:22:52] AppID 1628350 state changed : Fully Installed,
+[2026-06-09 11:22:52] AppID 1628350 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 11:22:52] AppID 4185400 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2026-06-09 11:22:52] AppID 4185400 App update changed : Running Update,
+[2026-06-09 11:22:52] AppID 4185400 App update changed : Running Update,Reconfiguring,
+[2026-06-09 11:22:53] Created peer download interface to host Bastard (192.168.0.21)
+[2026-06-09 11:22:53] Peer - Bastard (192.168.0.21:27036): open connection to [U:1:55065536] failed (File Not Found)
+[2026-06-09 11:22:53] Moving to source priority class '2'
+[2026-06-09 11:22:53] Created download interface of type 'CDN' (2) to host edgenext.cdn.steampipe.steamcontent.com (edgenext.cdn.steampipe.steamcontent.com)
+[2026-06-09 11:22:53] Moving to source priority class '1'
+[2026-06-09 11:22:53] Created download interface of type 'CDN' (2) to host fastly.cdn.steampipe.steamcontent.com (fastly.cdn.steampipe.steamcontent.com)
+[2026-06-09 11:22:53] Created download interface of type 'CDN' (2) to host google2.cdn.steampipe.steamcontent.com (google2.cdn.steampipe.steamcontent.com)
+[2026-06-09 11:22:53] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2026-06-09 11:22:53] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): cache3-scl1.steamcontent.com/depot/4185401/manifest/5533128030676039149/5/14628584454865638169 - manifest request received 200 (OK) HTTP response
+[2026-06-09 11:22:54] AppID 4185400 App update changed : Running Update,
+[2026-06-09 11:22:54] AppID 4185400 App update changed : Running Update,Verifying Installed,
+[2026-06-09 11:22:54] AppID 4185400 App update changed : Running Update,
+[2026-06-09 11:22:54] AppID 4185400 App update changed : Running Update,Preallocating,
+[2026-06-09 11:22:54] AppID 4185400 preallocated 757 files (59 MB) 
+[2026-06-09 11:22:54] AppID 4185400 App update changed : Running Update,
+[2026-06-09 11:22:54] AppID 4185400 update started : download 0/24514112, store 0/0, reuse 0/0, delta 0/0, stage 0/62638299 
+[2026-06-09 11:22:54] AppID 4185400 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2026-06-09 11:22:54] AppID 4185400 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 11:22:54] Downloading 782 chunks for depot 4185401 (5533128030676039149)
+[2026-06-09 11:22:55] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: edgenext.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4185401) - Success!
+[2026-06-09 11:22:55] HTTP (CDN,35) - google2.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: google2.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4185401) - Success!
+[2026-06-09 11:22:55] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (4185401) - Success!
+[2026-06-09 11:22:55] HTTP (CDN,31) - fastly.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: fastly.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4185401) - Success!
+[2026-06-09 11:22:58] Increasing target number of download connections to 9 (rate was 0.000, now 26.147)
+[2026-06-09 11:22:58] Created download interface of type 'CDN' (2) to host alibaba.cdn.steampipe.steamcontent.com (alibaba.cdn.steampipe.steamcontent.com)
+[2026-06-09 11:22:59] AppID 4185400 App update changed : Running Update,
+[2026-06-09 11:22:59] AppID 4185400 App update changed : Running Update,Committing,
+[2026-06-09 11:22:59] AppID 4185400 starting commit from "/home/aprat/games/steam/steamapps/downloading/4185400" to "/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_4-arm64" : 1702 updated, 5433 moved, 1675 deleted files
+[2026-06-09 11:23:00] AppID 4185400 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 11:23:00] AppID 4185400 finished update, 1 mounted depots (BuildID 23629225) : 4185401 (5533128030676039149),
+[2026-06-09 11:23:00] AppID 4185400 App update changed : Running Update,
+[2026-06-09 11:23:00] AppID 4185400 App update changed : None
+[2026-06-09 11:23:00] AppID 4185400 state changed : Fully Installed,Update Queued,
+[2026-06-09 11:23:00] AppID 4185400 state changed : Fully Installed,
+[2026-06-09 11:23:00] AppID 4185400 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 11:23:10] AppID 1493710 state changed : Update Required,
+[2026-06-09 11:23:10] AppID 1493710 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2026-06-09 11:23:10] AppID 1493710 state changed : Update Required,Update Queued,
+[2026-06-09 11:23:10] AppID 4183110 state changed : Update Required,
+[2026-06-09 11:23:10] AppID 4183110 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2026-06-09 11:23:10] AppID 4183110 state changed : Update Required,Update Queued,
+[2026-06-09 11:23:10] AppID 4183110 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 11:23:10] AppID 4183110 App update changed : Running Update,
+[2026-06-09 11:23:10] AppID 4183110 App update changed : Running Update,Reconfiguring,
+[2026-06-09 11:23:11] Created peer download interface to host Bastard (192.168.0.21)
+[2026-06-09 11:23:11] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4183111) - Success!
+[2026-06-09 11:23:11] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): fastly.cdn.steampipe.steamcontent.com/depot/4183111/manifest/8335355358568276721/5/11737503160849165065 - manifest request received 200 (OK) HTTP response
+[2026-06-09 11:23:11] Peer - Bastard (192.168.0.21:27036): open connection to [U:1:55065536] failed (File Not Found)
+[2026-06-09 11:23:12] AppID 4183110 App update changed : Running Update,
+[2026-06-09 11:23:12] AppID 4183110 App update changed : Running Update,Verifying Installed,
+[2026-06-09 11:23:12] AppID 4183110 App update changed : Running Update,
+[2026-06-09 11:23:12] AppID 4183110 App update changed : Running Update,Preallocating,
+[2026-06-09 11:23:13] AppID 4183110 preallocated 6940 files (639 MB) 
+[2026-06-09 11:23:13] AppID 4183110 App update changed : Running Update,
+[2026-06-09 11:23:13] AppID 4183110 update started : download 0/236022944, store 0/0, reuse 0/0, delta 0/0, stage 0/671082683 
+[2026-06-09 11:23:13] AppID 4183110 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 11:23:13] AppID 4183110 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 11:23:13] Downloading 7057 chunks for depot 4183111 (8335355358568276721)
+[2026-06-09 11:23:13] HTTPS (CDN,35) - google2.cdn.steampipe.steamcontent.com (34.104.36.43:443 / 34.104.36.43:443, host: google2.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4183111) - Success!
+[2026-06-09 11:23:13] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: alibaba.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4183111) - Success!
+[2026-06-09 11:23:13] HTTPS (CDN,11) - steampipe.akamaized.net (23.195.99.23:443 / 23.195.99.23:443, host: steampipe.akamaized.net): AuthenticateDepotID (4183111) - Success!
+[2026-06-09 11:23:13] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (151.242.210.13:80 / 151.242.210.13:80, host: edgenext.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4183111) - Success!
+[2026-06-09 11:23:18] AppID 3405340 scheduler update : Priority First, not played for 3294 seconds, update disabled for 0 seconds
+[2026-06-09 11:23:18] AppID 3405340 state changed : Fully Installed,Update Queued,
+[2026-06-09 11:23:18] AppID 1493710 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 11:23:18] AppID 1493710 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 11:23:18] AppID 4183110 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 11:23:18] AppID 4183110 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-06-09 11:23:23] AppID 4183110 App update changed : Running Update,
+[2026-06-09 11:23:23] AppID 4183110 App update changed : Running Update,Committing,
+[2026-06-09 11:23:23] AppID 4183110 starting commit from "/home/aprat/games/steam/steamapps/downloading/4183110" to "/home/aprat/games/steam/steamapps/common/SteamLinuxRuntime_4" : 7999 updated, 0 moved, 0 deleted files
+[2026-06-09 11:23:24] AppID 4183110 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 11:23:24] AppID 4183110 finished update, 1 mounted depots (BuildID 23629212) : 4183111 (8335355358568276721),
+[2026-06-09 11:23:25] AppID 4183110 App update changed : Running Update,
+[2026-06-09 11:23:25] AppID 4183110 App update changed : None
+[2026-06-09 11:23:25] AppID 4183110 state changed : Fully Installed,Update Queued,
+[2026-06-09 11:23:25] AppID 4183110 state changed : Fully Installed,
+[2026-06-09 11:23:25] AppID 4183110 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 11:23:25] AppID 1493710 state changed : Update Required,Update Queued,Update Running,
+[2026-06-09 11:23:25] AppID 1493710 App update changed : Running Update,
+[2026-06-09 11:23:25] AppID 1493710 App update changed : Running Update,Reconfiguring,
+[2026-06-09 11:23:26] Created peer download interface to host Bastard (192.168.0.21)
+[2026-06-09 11:23:26] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): AuthenticateDepotID (1493711) - Success!
+[2026-06-09 11:23:26] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): fastly.cdn.steampipe.steamcontent.com/depot/1493711/manifest/5474859448633281378/5/3761932944295985720 - manifest request received 200 (OK) HTTP response
+[2026-06-09 11:23:26] Peer - Bastard (192.168.0.21:27036): open connection to [U:1:55065536] failed (File Not Found)
+[2026-06-09 11:23:26] AppID 1493710 App update changed : Running Update,
+[2026-06-09 11:23:26] AppID 1493710 App update changed : Running Update,Verifying Installed,
+[2026-06-09 11:23:26] AppID 1493710 App update changed : Running Update,
+[2026-06-09 11:23:26] AppID 1493710 App update changed : Running Update,Preallocating,
+[2026-06-09 11:23:29] AppID 1493710 preallocated 5731 files (1387 MB) 
+[2026-06-09 11:23:29] AppID 1493710 App update changed : Running Update,
+[2026-06-09 11:23:30] AppID 1493710 update started : download 0/394590720, store 0/0, reuse 0/0, delta 0/0, stage 0/1454995861 
+[2026-06-09 11:23:30] AppID 1493710 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-06-09 11:23:31] AppID 1493710 App update changed : Running Update,Downloading,Staging,
+[2026-06-09 11:23:31] Downloading 4814 chunks for depot 1493711 (5474859448633281378)
+[2026-06-09 11:23:31] HTTPS (CDN,11) - steampipe.akamaized.net (23.195.99.12:443 / 23.195.99.12:443, host: steampipe.akamaized.net): AuthenticateDepotID (1493711) - Success!
+[2026-06-09 11:23:31] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (204.93.142.131:80 / 204.93.142.131:80, host: alibaba.cdn.steampipe.steamcontent.com): AuthenticateDepotID (1493711) - Success!
+[2026-06-09 11:23:31] HTTPS (CDN,35) - google2.cdn.steampipe.steamcontent.com (34.104.36.43:443 / 34.104.36.43:443, host: google2.cdn.steampipe.steamcontent.com): AuthenticateDepotID (1493711) - Success!
+[2026-06-09 11:23:31] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (151.242.210.4:80 / 151.242.210.4:80, host: edgenext.cdn.steampipe.steamcontent.com): AuthenticateDepotID (1493711) - Success!
+[2026-06-09 11:23:59] Current download rate: 0.000 Mbps
+[2026-06-09 11:24:13] AppID 1493710 App update changed : Running Update,
+[2026-06-09 11:24:13] AppID 1493710 App update changed : Running Update,Committing,
+[2026-06-09 11:24:13] AppID 1493710 starting commit from "/home/aprat/games/steam/steamapps/downloading/1493710" to "/home/aprat/games/steam/steamapps/common/Proton - Experimental" : 8232 updated, 0 moved, 0 deleted files
+[2026-06-09 11:24:14] AppID 1493710 state changed : Fully Installed,Update Queued,Update Running,
+[2026-06-09 11:24:14] AppID 1493710 finished update, 1 mounted depots (BuildID 23472889) : 1493711 (5474859448633281378),
+[2026-06-09 11:24:15] AppID 1493710 App update changed : Running Update,
+[2026-06-09 11:24:15] AppID 1493710 App update changed : None
+[2026-06-09 11:24:15] AppID 1493710 state changed : Fully Installed,Update Queued,
+[2026-06-09 11:24:15] AppID 1493710 state changed : Fully Installed,
+[2026-06-09 11:24:15] AppID 1493710 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-06-09 11:24:15] AppID 3405340 state changed : Fully Installed,
+[2026-06-09 11:24:15] AppID 3405340 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2026-06-09 11:24:17] AppID 3405340 state changed : Fully Installed,App Running,
+[2026-06-09 11:24:37] HTTP (CDN,29) - edgenext.cdn.steampipe.steamcontent.com (151.242.210.13:80 / 151.242.210.13:80, host: edgenext.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 11:24:38] HTTPS (CDN,31) - fastly.cdn.steampipe.steamcontent.com (151.101.223.82:443 / 151.101.223.82:443, host: fastly.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 11:24:38] HTTP (CDN,33) - alibaba.cdn.steampipe.steamcontent.com (204.93.142.131:80 / 204.93.142.131:80, host: alibaba.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 11:24:38] HTTPS (CDN,35) - google2.cdn.steampipe.steamcontent.com (34.104.36.43:443 / 34.104.36.43:443, host: google2.cdn.steampipe.steamcontent.com): Closing connection
+[2026-06-09 11:24:38] HTTPS (SteamCache,320) - cache3-scl1.steamcontent.com (155.133.249.132:443 / 155.133.249.132:443, host: cache3-scl1.steamcontent.com): Closing connection
+[2026-06-09 11:24:39] HTTPS (SteamCache,409) - cache2-scl1.steamcontent.com (155.133.249.151:443 / 155.133.249.151:443, host: cache2-scl1.steamcontent.com): Closing connection
+[2026-06-09 11:24:39] HTTPS (SteamCache,321) - cache4-scl1.steamcontent.com (155.133.249.148:443 / 155.133.249.148:443, host: cache4-scl1.steamcontent.com): Closing connection
+[2026-06-09 11:24:39] HTTPS (CDN,11) - steampipe.akamaized.net (23.195.99.12:443 / 23.195.99.12:443, host: steampipe.akamaized.net): Closing connection
+[2026-06-09 11:24:39] HTTPS (SteamCache,313) - cache1-scl1.steamcontent.com (155.133.249.135:443 / 155.133.249.135:443, host: cache1-scl1.steamcontent.com): Closing connection
+[2026-06-09 11:25:31] AppID 3405340 state changed : Fully Installed,
+[2026-06-09 11:25:52] AppID 3405340 state changed : Fully Installed,App Running,
+[2026-06-09 11:28:16] stats: (SteamCache, 313) cache1-scl1.steamcontent.com: 92162288 Bytes, 17 sec (43.05 Mbps). 1543 Hits / 145 Misses (91 %, 93 % bytes), score 0.7283
+[2026-06-09 11:28:16] stats: (Invalid, 0) : 679791862 Bytes, 24 sec (225.42 Mbps). 7615 Hits / 1225 Misses (86 %, 86 % bytes), score 0.0000
+[2026-06-09 11:28:16] stats: (SteamCache, 320) cache3-scl1.steamcontent.com: 96919829 Bytes, 20 sec (39.37 Mbps). 1840 Hits / 154 Misses (92 %, 93 % bytes), score 0.7219
+[2026-06-09 11:28:16] stats: (SteamCache, 409) cache2-scl1.steamcontent.com: 95238608 Bytes, 22 sec (34.97 Mbps). 2132 Hits / 258 Misses (89 %, 93 % bytes), score 0.6840
+[2026-06-09 11:28:16] stats: (SteamCache, 321) cache4-scl1.steamcontent.com: 90037088 Bytes, 19 sec (37.31 Mbps). 2100 Hits / 146 Misses (93 %, 94 % bytes), score 0.7257
+[2026-06-09 11:28:16] stats: (CDN, 29) edgenext.cdn.steampipe.steamcontent.com: 42212288 Bytes, 9 sec (39.12 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.8033
+[2026-06-09 11:28:16] stats: (CDN, 35) google2.cdn.steampipe.steamcontent.com: 31488816 Bytes, 10 sec (24.22 Mbps). 0 Hits / 522 Misses (0 %, 0 % bytes), score 0.7736
+[2026-06-09 11:28:16] stats: (CDN, 11) steampipe.akamaized.net: 55781600 Bytes, 11 sec (41.16 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7434
+[2026-06-09 11:28:16] stats: (CDN, 31) fastly.cdn.steampipe.steamcontent.com: 72428065 Bytes, 13 sec (44.64 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7934
+[2026-06-09 11:28:16] stats: (CDN, 33) alibaba.cdn.steampipe.steamcontent.com: 103523280 Bytes, 10 sec (85.82 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes), score 0.7151
+
+
+[2026-06-09 12:06:51] Client version: 1780352834
+[2026-06-09 12:06:51] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 12:06:51] Loaded 11 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 12:06:51] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 12:06:52] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 12:08:04] AppID 3405340 state changed : Fully Installed,App Running,
+[2026-06-09 12:08:50] AppID 3405340 state changed : Fully Installed,
+[2026-06-09 12:09:19] AppID 3405340 state changed : Fully Installed,App Running,
+
+
+[2026-06-09 12:43:38] Client version: 1780352834
+[2026-06-09 12:43:38] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 12:43:38] Loaded 11 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 12:43:38] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 12:43:39] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 12:46:03] AppID 3405340 state changed : Fully Installed,App Running,
+
+
+[2026-06-09 12:49:46] Client version: 1780352834
+[2026-06-09 12:49:46] Loaded Steam library folders configuration: /home/aprat/games/steam/steamapps/libraryfolders.vdf
+[2026-06-09 12:49:46] Loaded 11 apps from install folder "/home/aprat/games/steam/steamapps\appmanifest_*.acf".
+[2026-06-09 12:49:46] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-06-09 12:49:47] Adding peer server 'Bastard' (192.168.0.21:27036)
+[2026-06-09 12:50:03] AppID 3405340 state changed : Fully Installed,App Running,
