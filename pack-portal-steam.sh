@@ -19,11 +19,13 @@ mkdir -p "${OUT}"
 
 cp "${SCRIPT_DIR}/install-portal-steam.sh" "${OUT}/"
 cp "${SRC}/portal-steam" "${SRC}/install-steam.sh" "${SRC}/portal-steam-common.sh" \
-	"${SRC}/install-fex.sh" "${SRC}/setup-games.sh" "${OUT}/"
+	"${SRC}/install-fex.sh" "${SRC}/setup-games.sh" \
+	"${SRC}/portal-game-launch" "${SRC}/diagnose-game.sh" "${OUT}/"
 cp -a "${SRC}/share" "${OUT}/"
 
 chmod 755 "${OUT}/install-portal-steam.sh" "${OUT}/portal-steam" "${OUT}/install-steam.sh" \
-	"${OUT}/portal-steam-common.sh" "${OUT}/install-fex.sh" "${OUT}/setup-games.sh"
+	"${OUT}/portal-steam-common.sh" "${OUT}/install-fex.sh" "${OUT}/setup-games.sh" \
+	"${OUT}/portal-game-launch" "${OUT}/diagnose-game.sh"
 
 tar -czf "${ARCHIVE}" -C "${SCRIPT_DIR}" portal-steam-bundle
 

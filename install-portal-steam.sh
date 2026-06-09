@@ -99,8 +99,16 @@ if [[ -f "${SRC}/setup-games.sh" ]]; then
 else
 	echo "[portal-steam] WARN: setup-games.sh missing from bundle — repack with pack-portal-steam.ps1"
 fi
+for extra in portal-game-launch diagnose-game.sh; do
+	if [[ -f "${SRC}/${extra}" ]]; then
+		name="${extra%.sh}"
+		[[ "${name}" == diagnose-game ]] && install -m755 "${SRC}/${extra}" /usr/local/bin/portal-diagnose-game
+		[[ "${name}" == portal-game-launch ]] && install -m755 "${SRC}/${extra}" /usr/local/bin/portal-game-launch
+	fi
+done
 sed -i 's|SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE\[0\]}")" && pwd)"|SCRIPT_DIR="/usr/local/bin"|' \
-	/usr/local/bin/portal-steam /usr/local/bin/portal-install-steam
+	/usr/local/bin/portal-steam /usr/local/bin/portal-install-steam \
+	/usr/local/bin/portal-game-launch /usr/local/bin/portal-diagnose-game 2>/dev/null || true
 install -m644 "${SRC}/share/applications/portal-steam.desktop" /usr/share/applications/
 
 echo ""
