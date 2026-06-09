@@ -76,18 +76,10 @@ else
 	steam_args+=(-nofriendsui)
 fi
 
-# Nested gamescope on KDE Wayland (ROCKNIX uses DRM + Sway; Portal stays on KWin).
+# Nested gamescope on KDE Wayland (stock Noble gamescope = fewer flags than ROCKNIX).
 if [[ "${USE_GAMESCOPE}" == "1" && "${MODE}" == "gamepadui" ]] && command -v gamescope >/dev/null 2>&1; then
-	portal_steam_log "Launching via gamescope (${W}x${H}@${REFRESH_HZ}, wayland)..."
-	exec gamescope \
-		-W "${W}" -H "${H}" -r "${REFRESH_HZ}" \
-		--backend wayland \
-		--force-orientation left \
-		--use-rotation-shader \
-		--xwayland-count 2 \
-		--mangoapp \
-		-e -- \
-		env LD_LIBRARY_PATH="${STEAM_LIB}/" "${STEAM_CLIENT}" "${steam_args[@]}"
+	portal_steam_log "Launching via gamescope (${W}x${H}@${REFRESH_HZ})..."
+	portal_steam_exec_gamescope env LD_LIBRARY_PATH="${STEAM_LIB}/" "${STEAM_CLIENT}" "${steam_args[@]}"
 fi
 
 portal_steam_log "Launching Steam (${MODE})..."

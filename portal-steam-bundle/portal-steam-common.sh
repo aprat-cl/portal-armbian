@@ -74,3 +74,35 @@ portal_steam_launch_flags() {
 		-norepairfiles -noshaders
 	)
 }
+
+# Stock Ubuntu gamescope lacks ROCKNIX/Valve-only flags (--use-rotation-shader, etc.).
+portal_steam_gamescope_help() {
+	command -v gamescope >/dev/null 2>&1 || return 1
+	gamescope --help 2>&1
+}
+
+portal_steam_gamescope_has_flag() {
+	portal_steam_gamescope_help | grep -qF -- "$1"
+}
+
+portal_steam_exec_gamescope() {
+	local -a cmd=(gamescope -W "${W}" -H "${H}" -r "${REFRESH_HZ}")
+
+	if portal_steam_gamescope_has_flag '--backend'; then
+		cmd+=(--backend wayland)
+	fi
+	if portal_steam_gamescope_has_flag '--force-orientation'; then
+		cmd+=(--force-orientation left)
+	fi
+	if portal_steam_gamescope_has_flag '--use-rotation-shader'; then
+		cmd+=(--use-rotation-shader)
+	fi
+	if portal_steam_gamescope_has_flag '--xwayland-count'; then
+		cmd+=(--xwayland-count 2)
+	fi
+	if portal_steam_gamescope_has_flag '--mangoapp'; then
+		cmd+=(--mangoapp)
+	fi
+	cmd+=(-e -- "$@")
+	exec "${cmd[@]}"
+}
