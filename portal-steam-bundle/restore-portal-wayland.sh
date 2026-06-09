@@ -51,6 +51,17 @@ export QT_QPA_PLATFORM=wayland;xcb
 EOF
 chmod 755 /etc/xdg/plasma-workspace/env/portal-wayland.sh
 
+# Proton env must not load at KDE login (breaks taskbar on Wayland).
+rm -f /etc/xdg/plasma-workspace/env/99-portal-proton.sh
+if [[ -f /etc/environment.d/99-portal-proton.conf ]]; then
+	cat >/etc/environment.d/99-portal-proton.conf << 'EOF'
+TU_DEBUG=deck_emu
+EOF
+	[[ -f /usr/share/vulkan/icd.d/freedreno_icd.aarch64.json ]] && \
+		echo 'VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/freedreno_icd.aarch64.json' \
+			>> /etc/environment.d/99-portal-proton.conf
+fi
+
 echo "[OK] SDDM restored to Wayland for ${STEAM_USER}"
 echo "Apply now (logs you out):  sudo systemctl restart sddm"
 echo "Or reboot:  sudo reboot"

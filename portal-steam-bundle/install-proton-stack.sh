@@ -27,13 +27,10 @@ if [[ ! -e /usr/lib64 ]] && [[ -d /usr/lib/aarch64-linux-gnu ]]; then
 	echo "[portal-proton] /usr/lib64 → aarch64-linux-gnu"
 fi
 
-# Login session: every Steam/Proton child inherits DXVK/Vulkan/X11 vars.
+# Vulkan/turnip only at login — do NOT force GDK/Qt/SDL to X11 (breaks KDE panel on Wayland).
 install -d /etc/environment.d
 cat > /etc/environment.d/99-portal-proton.conf << 'EOF'
-# Portal Steam — Proton/DXVK/FEX (see /usr/share/portal-steam/portal-proton.env)
-SDL_VIDEODRIVER=x11
-GDK_BACKEND=x11
-QT_QPA_PLATFORM=xcb
+# Portal Steam — Vulkan for desktop apps. Proton/X11 vars: portal-steam only.
 TU_DEBUG=deck_emu
 EOF
 if [[ -f /usr/share/vulkan/icd.d/freedreno_icd.aarch64.json ]]; then
@@ -41,16 +38,10 @@ if [[ -f /usr/share/vulkan/icd.d/freedreno_icd.aarch64.json ]]; then
 		>> /etc/environment.d/99-portal-proton.conf
 fi
 
-# KDE Plasma: source full env at session start (games launched from Steam inherit this).
-install -d /etc/xdg/plasma-workspace/env
 install -m644 "${SHARE}/portal-proton.env" /usr/share/portal-steam/portal-proton.env 2>/dev/null || \
 	cp -f "${SHARE}/portal-proton.env" /usr/share/portal-steam/portal-proton.env
-cat > /etc/xdg/plasma-workspace/env/99-portal-proton.sh << 'EOF'
-#!/bin/sh
-# shellcheck disable=SC1091
-[ -r /usr/share/portal-steam/portal-proton.env ] && . /usr/share/portal-steam/portal-proton.env
-EOF
-chmod 755 /etc/xdg/plasma-workspace/env/99-portal-proton.sh
+# Do not source portal-proton.env at Plasma login — portal-steam / portal-game-launch do that for games.
+rm -f /etc/xdg/plasma-workspace/env/99-portal-proton.sh
 
 # Default desktop stays Wayland unless you pick X11 at SDDM login.
 echo "[portal-proton] Proton env installed. Session type unchanged until you pick at login."
