@@ -46,9 +46,11 @@ apt-get update
 portal_steam_apt_install() {
 	local required=(
 		gamescope jq unzip wget curl ca-certificates libnss3 libsdl2-2.0-0
-		vulkan-tools libxtst6 libxi6 libgbm1 file
+		vulkan-tools libxtst6 libxi6 libgbm1 file libgtk-3-0 libdbus-1-3
+		libasound2 libpulse0 libudev1 libusb-1.0-0 libegl1 libdrm2
+		libwayland-client0 libva2 libvulkan1
 	)
-	local optional=(mangohud squashfuse libfuse2)
+	local optional=(mangohud squashfuse libfuse2 libvpx9 libminizip1 libminizip1t64)
 
 	apt-get install -y --no-install-recommends "${required[@]}"
 
