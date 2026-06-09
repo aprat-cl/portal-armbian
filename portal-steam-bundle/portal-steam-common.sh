@@ -165,17 +165,17 @@ portal_steam_ensure_libvpx() {
 		fi
 	fi
 
-	portal_steam_log "libvpx.so.6 not in runtime — installing Jammy libvpx6 for ARM64..."
-	deb="${STEAM_DIR}/.cache/libvpx6-jammy.deb"
+	portal_steam_log "libvpx.so.6 not in runtime — downloading libvpx-dev for ARM64..."
+	deb="${STEAM_DIR}/.cache/libvpx-dev-arm64.deb"
 	mkdir -p "${STEAM_DIR}/.cache"
 	wget -c -t 5 -O "${deb}" \
-		"http://ports.ubuntu.com/pool/main/libv/libvpx/libvpx6_1.11.0-2ubuntu2.4_arm64.deb" || \
-		portal_steam_die "Could not download libvpx6. Check network."
-	extract="${STEAM_DIR}/.cache/libvpx6"
+		"http://ports.ubuntu.com/pool/main/libv/libvpx/libvpx-dev_1.8.2-1build1_arm64.deb" || \
+		portal_steam_die "Could not download libvpx-dev. Check network."
+	extract="${STEAM_DIR}/.cache/libvpx-dev"
 	rm -rf "${extract}"
 	dpkg-deb -x "${deb}" "${extract}"
 	target="$(find "${extract}" -name 'libvpx.so.6*' 2>/dev/null | head -n 1)"
-	[[ -n "${target}" ]] || portal_steam_die "libvpx.so.6 missing inside libvpx6 deb."
+	[[ -n "${target}" ]] || portal_steam_die "libvpx.so.6 missing inside libvpx-dev deb."
 	ln -sf "${target}" "${STEAM_LIB}/libvpx.so.6"
 	portal_steam_log "Installed libvpx.so.6 shim for Steam beta client."
 }
