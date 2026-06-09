@@ -1,0 +1,35 @@
+/bin/sh: 1: /usr/bin/steamos-polkit-helpers/jupiter-biosupdate: not found
+Game Recording - game stopped [gameid=3405340]
+Removing process 25282 for gameID 3405340
+chdir "/home/aprat/games/steam/steamapps/common/Megabonk"
+ERROR: ld.so: object '/home/aprat/.steam/bin64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/../steamrtarm64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/../steamrtarm64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/../steamrtarm64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/../steamrtarm64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/../steamrtarm64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/home/aprat/.steam/bin64/../steamrtarm64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+Game Recording - would start recording game 3405340, but recording for this game is disabled
+Adding process 25558 for gameID 3405340
+ProtonFixes[25561] INFO: Running protonfixes on "cachyos-11.0-20260521-slr", build at 2026-05-30 11:26:43+00:00.
+ProtonFixes[25561] INFO: Running checks
+ProtonFixes[25561] INFO: All checks successful
+ProtonFixes[25561] INFO: Using early stage global defaults for "Megabonk" (3405340)
+ProtonFixes[25561] INFO: No early stage global protonfix found for "Megabonk" (3405340)
+ProtonFixes[25561] INFO: Running protonfixes on "cachyos-11.0-20260521-slr", build at 2026-05-30 11:26:43+00:00.
+ProtonFixes[25561] INFO: Running checks
+ProtonFixes[25561] INFO: All checks successful
+ProtonFixes[25561] INFO: Using main stage global defaults for "Megabonk" (3405340)
+ProtonFixes[25561] INFO: No main stage global protonfix found for "Megabonk" (3405340)
+
