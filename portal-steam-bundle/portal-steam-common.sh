@@ -27,6 +27,16 @@ portal_steam_init_paths() {
 portal_steam_log() { echo -e "[\033[1;34mportal-steam\033[0m] $*"; }
 portal_steam_die() { echo -e "[\033[1;31mportal-steam\033[0m] $*" >&2; exit 1; }
 
+portal_steam_link_proton_compat() {
+	local dest_dir="${STEAM_DIR}/compatibilitytools.d"
+	local cachy
+	cachy="$(find "${dest_dir}" -maxdepth 1 -type d -name 'proton-cachyos-*-arm64' 2>/dev/null | sort -V | tail -n 1)"
+	[[ -n "${cachy}" ]] || return 1
+	mkdir -p "${dest_dir}"
+	ln -sfn "${cachy}" "${dest_dir}/Proton11ARM"
+	cp -f "${PORTAL_STEAM_SHARE}/compatibilitytool.vdf" "${dest_dir}/" 2>/dev/null || true
+}
+
 portal_steam_ensure_beta_channel() {
 	mkdir -p "${STEAM_DIR}/package"
 	echo "${PORTAL_STEAM_BETA_CHANNEL}" >"${STEAM_DIR}/package/beta"
@@ -75,6 +85,82 @@ portal_steam_launch_flags() {
 	)
 }
 
+portal_steam_runtime_platform_lib() {
+	echo "${STEAM_DIR}"/steam-runtime-steamrt-arm64/steamrt3c_platform_*/files/lib/aarch64-linux-gnu
+}
+
+portal_steam_ld_library_path() {
+	local -a paths=()
+	local rt nss
+
+	paths+=("${STEAM_LIB}")
+	rt="$(portal_steam_runtime_platform_lib | head -n 1)"
+	if [[ -d "${rt}" ]]; then
+		paths+=("${rt}")
+		nss="${rt}/nss"
+		[[ -d "${nss}" ]] && paths+=("${nss}")
+	fi
+	[[ -d "${STEAM_DIR}/steamrtarm64" ]] && paths+=("${STEAM_DIR}/steamrtarm64")
+	local IFS=:
+	echo "${paths[*]}"
+}
+
+portal_steam_link_runtime_libs() {
+	mkdir -p "${STEAM_LIB}"
+	local rt target
+	rt="$(portal_steam_runtime_platform_lib | head -n 1)"
+	[[ -d "${rt}" ]] || return 0
+
+	target="$(echo "${rt}"/libibus-1.0.so.5.* | head -n 1)"
+	if [[ -f "${target}" ]]; then
+		ln -sf "${target}" "${STEAM_LIB}/libibus-1.0.so.5"
+	fi
+}
+
+# Noble ships libvpx9 (.so.9); Steam beta expects libvpx.so.6 from steamrt or Jammy.
+portal_steam_ensure_libvpx() {
+	mkdir -p "${STEAM_LIB}"
+	[[ -e "${STEAM_LIB}/libvpx.so.6" ]] && return 0
+
+	local rt target deb extract
+	rt="$(portal_steam_runtime_platform_lib | head -n 1)"
+	if [[ -d "${rt}" ]]; then
+		target="$(find "${rt}" -name 'libvpx.so.6*' 2>/dev/null | head -n 1)"
+		if [[ -z "${target}" ]]; then
+			target="$(find "${rt}" -name 'libvpx.so*' 2>/dev/null | sort -V | tail -n 1)"
+		fi
+		if [[ -n "${target}" ]]; then
+			ln -sf "${target}" "${STEAM_LIB}/libvpx.so.6"
+			portal_steam_log "Linked libvpx.so.6 from Steam runtime."
+			return 0
+		fi
+	fi
+
+	portal_steam_log "libvpx.so.6 not in runtime — installing Jammy libvpx6 for ARM64..."
+	deb="${STEAM_DIR}/.cache/libvpx6-jammy.deb"
+	mkdir -p "${STEAM_DIR}/.cache"
+	wget -c -t 5 -O "${deb}" \
+		"http://ports.ubuntu.com/pool/main/libv/libvpx/libvpx6_1.11.0-2ubuntu2.4_arm64.deb" || \
+		portal_steam_die "Could not download libvpx6. Check network."
+	extract="${STEAM_DIR}/.cache/libvpx6"
+	rm -rf "${extract}"
+	dpkg-deb -x "${deb}" "${extract}"
+	target="$(find "${extract}" -name 'libvpx.so.6*' 2>/dev/null | head -n 1)"
+	[[ -n "${target}" ]] || portal_steam_die "libvpx.so.6 missing inside libvpx6 deb."
+	ln -sf "${target}" "${STEAM_LIB}/libvpx.so.6"
+	portal_steam_log "Installed libvpx.so.6 shim for Steam beta client."
+}
+
+portal_steam_prepare_libs() {
+	portal_steam_link_runtime_libs
+	portal_steam_ensure_libvpx
+}
+
+portal_steam_run_once() {
+	portal_steam_prepare_libs
+	env LD_LIBRARY_PATH="$(portal_steam_ld_library_path)" "$@"
+}
+
 # Stock Ubuntu gamescope lacks ROCKNIX/Valve-only flags (--use-rotation-shader, etc.).
 portal_steam_gamescope_help() {
 	command -v gamescope >/dev/null 2>&1 || return 1
@@ -85,24 +171,43 @@ portal_steam_gamescope_has_flag() {
 	portal_steam_gamescope_help | grep -qF -- "$1"
 }
 
-portal_steam_exec_gamescope() {
-	local -a cmd=(gamescope -W "${W}" -H "${H}" -r "${REFRESH_HZ}")
-
-	if portal_steam_gamescope_has_flag '--backend'; then
-		cmd+=(--backend wayland)
+portal_steam_gamescope_build_cmd() {
+	local backend="${1:-}"
+	shift
+	PORTAL_STEAM_GAMESCOPE_CMD=(gamescope -W "${W}" -H "${H}" -r "${REFRESH_HZ}")
+	if [[ -n "${backend}" ]] && portal_steam_gamescope_has_flag '--backend'; then
+		PORTAL_STEAM_GAMESCOPE_CMD+=(--backend "${backend}")
 	fi
 	if portal_steam_gamescope_has_flag '--force-orientation'; then
-		cmd+=(--force-orientation left)
+		PORTAL_STEAM_GAMESCOPE_CMD+=(--force-orientation left)
 	fi
 	if portal_steam_gamescope_has_flag '--use-rotation-shader'; then
-		cmd+=(--use-rotation-shader)
+		PORTAL_STEAM_GAMESCOPE_CMD+=(--use-rotation-shader)
 	fi
 	if portal_steam_gamescope_has_flag '--xwayland-count'; then
-		cmd+=(--xwayland-count 2)
+		PORTAL_STEAM_GAMESCOPE_CMD+=(--xwayland-count 2)
 	fi
 	if portal_steam_gamescope_has_flag '--mangoapp'; then
-		cmd+=(--mangoapp)
+		PORTAL_STEAM_GAMESCOPE_CMD+=(--mangoapp)
 	fi
-	cmd+=(-e -- "$@")
-	exec "${cmd[@]}"
+	PORTAL_STEAM_GAMESCOPE_CMD+=(-e -- "$@")
+}
+
+# Try SDL first (less Vulkan nesting), then wayland; return 0 if Steam session ended cleanly.
+portal_steam_try_gamescope() {
+	local backend
+	for backend in sdl wayland ""; do
+		[[ "${backend}" == "" ]] && ! portal_steam_gamescope_has_flag '--backend' && backend=""
+		portal_steam_gamescope_build_cmd "${backend}" "$@"
+		if [[ -n "${backend}" ]]; then
+			portal_steam_log "Trying gamescope --backend ${backend} (${W}x${H}@${REFRESH_HZ})..."
+		else
+			portal_steam_log "Trying gamescope (${W}x${H}@${REFRESH_HZ})..."
+		fi
+		if "${PORTAL_STEAM_GAMESCOPE_CMD[@]}"; then
+			return 0
+		fi
+		portal_steam_log "gamescope backend '${backend:-default}' failed."
+	done
+	return 1
 }

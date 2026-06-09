@@ -1,0 +1,18 @@
+{
+  "Config": {
+    "RootFS": "Ubuntu_24.04",
+    "ThunkHostLibs": "/usr/lib/fex-emu/HostThunks",
+    "ThunkGuestLibs": "/usr/share/fex-emu/GuestThunks",
+    "TSOEnabled": "1",
+    "Multiblock": "1",
+    "OutputLog": "server",
+    "SilentLog": "1"
+  },
+  "ThunksDB": {
+    "asound": 0,
+    "drm": 0,
+    "Vulkan": 1,
+    "WaylandClient": 0,
+    "GL": 0
+  }
+}

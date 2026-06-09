@@ -8,7 +8,8 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "${SCRIPT_DIR}/portal-steam-common.sh"
 
 MODE="gamepadui"
-USE_GAMESCOPE="${PORTAL_STEAM_GAMESCOPE:-1}"
+# KDE Wayland + Adreno: nested gamescope often hits VK_ERROR_DEVICE_LOST (-4). Default off.
+USE_GAMESCOPE="${PORTAL_STEAM_GAMESCOPE:-0}"
 
 while [[ $# -gt 0 ]]; do
 	case "$1" in
@@ -38,10 +39,11 @@ portal-steam — Valve Steam ARM64 public-beta client (not stable amd64 / not FE
   portal-steam --install       Download ARM64 beta client, beta runtime, Proton ARM64
   portal-steam --gamepadui     Big Picture / gamepad UI (default)
   portal-steam --desktop       Desktop Steam UI
-  portal-steam --no-gamescope  Run inside KDE without gamescope
+  portal-steam --gamescope       Try gamescope (experimental on Portal+KDE)
+  portal-steam --no-gamescope  Run in KDE Wayland (default)
 
 Environment:
-  PORTAL_STEAM_GAMESCOPE=0|1   Default 1 for gamepad UI
+  PORTAL_STEAM_GAMESCOPE=0|1   Default 0 (Adreno + nested gamescope breaks Vulkan)
   PORTAL_STEAM_W / H / REFRESH  Display geometry (default 1920x1080@60)
 HELP
 			exit 0
@@ -76,11 +78,15 @@ else
 	steam_args+=(-nofriendsui)
 fi
 
-# Nested gamescope on KDE Wayland (stock Noble gamescope = fewer flags than ROCKNIX).
+# Gamescope optional: ROCKNIX uses --backend drm; Portal uses KDE (nested Vulkan often fails).
+portal_steam_prepare_libs
+STEAM_LD="$(portal_steam_ld_library_path)"
 if [[ "${USE_GAMESCOPE}" == "1" && "${MODE}" == "gamepadui" ]] && command -v gamescope >/dev/null 2>&1; then
-	portal_steam_log "Launching via gamescope (${W}x${H}@${REFRESH_HZ})..."
-	portal_steam_exec_gamescope env LD_LIBRARY_PATH="${STEAM_LIB}/" "${STEAM_CLIENT}" "${steam_args[@]}"
+	if portal_steam_try_gamescope env LD_LIBRARY_PATH="${STEAM_LD}" "${STEAM_CLIENT}" "${steam_args[@]}"; then
+		exit 0
+	fi
+	portal_steam_log "gamescope failed — launching Steam in KDE Wayland instead."
 fi
 
-portal_steam_log "Launching Steam (${MODE})..."
-exec env LD_LIBRARY_PATH="${STEAM_LIB}/" "${STEAM_CLIENT}" "${steam_args[@]}"
+portal_steam_log "Launching Steam in KDE Wayland (${MODE})..."
+exec env LD_LIBRARY_PATH="${STEAM_LD}" "${STEAM_CLIENT}" "${steam_args[@]}"

@@ -46,9 +46,11 @@ apt-get update
 portal_steam_apt_install() {
 	local required=(
 		gamescope jq unzip wget curl ca-certificates libnss3 libsdl2-2.0-0
-		vulkan-tools libxtst6 libxi6 libgbm1 file
+		vulkan-tools libxtst6 libxi6 libgbm1 file libgtk-3-0 libdbus-1-3
+		libasound2 libpulse0 libudev1 libusb-1.0-0 libegl1 libdrm2
+		libwayland-client0 libva2 libvulkan1
 	)
-	local optional=(mangohud squashfuse libfuse2)
+	local optional=(mangohud squashfuse libfuse2 libvpx9 libminizip1 libminizip1t64)
 
 	apt-get install -y --no-install-recommends "${required[@]}"
 
@@ -69,6 +71,11 @@ install -m755 "${SRC}/portal-steam" /usr/local/bin/portal-steam
 install -m755 "${SRC}/install-steam.sh" /usr/local/bin/portal-install-steam
 install -m755 "${SRC}/portal-steam-common.sh" /usr/local/bin/portal-steam-common.sh
 install -m755 "${SRC}/install-fex.sh" /usr/local/bin/portal-install-fex
+if [[ -f "${SRC}/setup-games.sh" ]]; then
+	install -m755 "${SRC}/setup-games.sh" /usr/local/bin/portal-setup-games
+else
+	echo "[portal-steam] WARN: setup-games.sh missing from bundle — repack with pack-portal-steam.ps1"
+fi
 sed -i 's|SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE\[0\]}")" && pwd)"|SCRIPT_DIR="/usr/local/bin"|' \
 	/usr/local/bin/portal-steam /usr/local/bin/portal-install-steam
 install -m644 "${SRC}/share/applications/portal-steam.desktop" /usr/share/applications/
@@ -77,4 +84,4 @@ echo ""
 echo "Installed. You can delete this folder on the device — commands are in /usr/local/bin."
 echo "  portal-install-steam    # as odin2 — downloads ARM64 public-beta client"
 echo "  portal-steam --gamepadui"
-echo "  sudo portal-install-fex # optional, for x86 Proton games later"
+echo "  sudo portal-install-fex && portal-setup-games   # required for Proton games"

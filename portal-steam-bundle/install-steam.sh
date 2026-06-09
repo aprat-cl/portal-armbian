@@ -46,7 +46,8 @@ install_steam_runtime_arm64() {
 	target="$(echo "${STEAM_DIR}"/steam-runtime-steamrt-arm64/steamrt3c_platform_*/files/lib/aarch64-linux-gnu/libibus-1.0.so.5.* | head -n 1)"
 	[[ -f "${target}" ]] || portal_steam_die "libibus not found in runtime."
 	mkdir -p "${STEAM_LIB}"
-	ln -sf "${target}" "${STEAM_LIB}/libibus-1.0.so.5"
+	portal_steam_link_runtime_libs
+	portal_steam_ensure_libvpx
 }
 
 install_steam_client_arm64() {
@@ -111,13 +112,15 @@ install_proton_cachyos() {
 	if [[ -f "${manifest_file}" ]]; then
 		sed -i '/require_tool_appid/d' "${manifest_file}"
 	fi
+	portal_steam_link_proton_compat
 }
 
 run_steam_first_launch() {
 	portal_steam_log "First-launch bootstrap (native aarch64 client, may flash Steam briefly)..."
 	portal_steam_assert_native_arm64
+	portal_steam_prepare_libs
 	unset MESA_LOADER_DRIVER_OVERRIDE
-	LD_LIBRARY_PATH="${STEAM_LIB}/" "${STEAM_CLIENT}" -steamdeck -exitsteam || true
+	portal_steam_run_once "${STEAM_CLIENT}" -steamdeck -exitsteam || true
 }
 
 install_desktop_stub() {
@@ -134,4 +137,5 @@ install_bundled_proton_files
 install_proton_cachyos
 run_steam_first_launch
 
-portal_steam_log "Done. Launch Big Picture: portal-steam --gamepadui"
+portal_steam_log "Done. Launch: portal-steam --gamepadui"
+portal_steam_log "Before playing games: sudo portal-install-fex && portal-setup-games"

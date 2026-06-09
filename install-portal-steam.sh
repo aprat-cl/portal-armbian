@@ -71,7 +71,11 @@ install -m755 "${SRC}/portal-steam" /usr/local/bin/portal-steam
 install -m755 "${SRC}/install-steam.sh" /usr/local/bin/portal-install-steam
 install -m755 "${SRC}/portal-steam-common.sh" /usr/local/bin/portal-steam-common.sh
 install -m755 "${SRC}/install-fex.sh" /usr/local/bin/portal-install-fex
-install -m755 "${SRC}/setup-games.sh" /usr/local/bin/portal-setup-games
+if [[ -f "${SRC}/setup-games.sh" ]]; then
+	install -m755 "${SRC}/setup-games.sh" /usr/local/bin/portal-setup-games
+else
+	echo "[portal-steam] WARN: setup-games.sh missing from bundle — repack with pack-portal-steam.ps1"
+fi
 sed -i 's|SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE\[0\]}")" && pwd)"|SCRIPT_DIR="/usr/local/bin"|' \
 	/usr/local/bin/portal-steam /usr/local/bin/portal-install-steam
 install -m644 "${SRC}/share/applications/portal-steam.desktop" /usr/share/applications/
