@@ -19,12 +19,15 @@ mkdir -p "${OUT}"
 
 cp "${SCRIPT_DIR}/install-portal-steam.sh" "${OUT}/"
 cp "${SRC}/portal-steam" "${SRC}/install-steam.sh" "${SRC}/portal-steam-common.sh" \
-	"${SRC}/install-fex.sh" "${SRC}/setup-games.sh" \
+	"${SRC}/install-fex.sh" "${SRC}/setup-games.sh" "${SRC}/install-proton-stack.sh" \
+	"${SRC}/install-controller-support.sh" "${SRC}/restore-portal-wayland.sh" \
+	"${SRC}/try-portal-x11-gaming.sh" \
 	"${SRC}/portal-game-launch" "${SRC}/diagnose-game.sh" "${SRC}/reset-prefix.sh" "${OUT}/"
 cp -a "${SRC}/share" "${OUT}/"
 
 chmod 755 "${OUT}/install-portal-steam.sh" "${OUT}/portal-steam" "${OUT}/install-steam.sh" \
 	"${OUT}/portal-steam-common.sh" "${OUT}/install-fex.sh" "${OUT}/setup-games.sh" \
+	"${OUT}/install-proton-stack.sh" \
 	"${OUT}/portal-game-launch" "${OUT}/diagnose-game.sh" "${OUT}/reset-prefix.sh"
 
 tar -czf "${ARCHIVE}" -C "${SCRIPT_DIR}" portal-steam-bundle
@@ -42,4 +45,6 @@ echo "  tar xzf portal-steam-bundle.tar.gz"
 echo "  cd portal-steam-bundle"
 echo "  sudo bash install-portal-steam.sh"
 echo "  portal-install-steam          # as odin2"
-echo "  portal-steam --gamepadui"
+echo "  sudo bash install-proton-stack.sh  # once — Proton env for all games"
+echo "  portal-setup-games"
+echo "  portal-steam --gaming"

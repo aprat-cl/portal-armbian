@@ -1,0 +1,44 @@
+#!/bin/bash
+# Wrap a Proton game in gamescope (wayland backend). Paste into Steam Launch Options:
+#   portal-game-launch %command%
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# shellcheck source=portal-steam-common.sh
+source "${SCRIPT_DIR}/portal-steam-common.sh"
+
+portal_steam_init_paths
+export HOME="${STEAM_HOME}"
+portal_steam_read_display_geometry
+portal_steam_apply_session_env
+portal_steam_prepare_libs
+
+if [[ $# -eq 0 ]]; then
+	cat <<'HELP'
+portal-game-launch — gamescope wrapper for Proton games on KDE Wayland
+
+In Steam: game → Properties → Launch Options:
+  portal-game-launch %command%
+
+Without gamescope (XWayland only):
+  %command%
+
+Debug blank screen:
+  DXVK_HUD=fps PROTON_LOG=1 %command%
+  PROTON_USE_WINED3D=1 %command%
+  PRESSURE_VESSEL_SHELL=instead %command%
+HELP
+	exit 0
+fi
+
+STEAM_LD="$(portal_steam_ld_library_path)"
+
+if command -v gamescope >/dev/null 2>&1; then
+	portal_steam_gamescope_build_cmd wayland "$@"
+	portal_steam_log "Launching game via gamescope (wayland) ${W}x${H}@${REFRESH_HZ}..."
+	exec env LD_LIBRARY_PATH="${STEAM_LD}" "${PORTAL_STEAM_GAMESCOPE_CMD[@]}"
+fi
+
+portal_steam_log "gamescope not installed — running game directly."
+exec env LD_LIBRARY_PATH="${STEAM_LD}" "$@"

@@ -8,8 +8,9 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "${SCRIPT_DIR}/portal-steam-common.sh"
 
 MODE="gamepadui"
-# KDE Wayland + Adreno: nested gamescope often hits VK_ERROR_DEVICE_LOST (-4). Default off.
+# --gaming: gamescope session (ROCKNIX-style; best for Proton/DXVK on Portal).
 USE_GAMESCOPE="${PORTAL_STEAM_GAMESCOPE:-0}"
+GAMING_MODE=0
 
 while [[ $# -gt 0 ]]; do
 	case "$1" in
@@ -24,6 +25,12 @@ while [[ $# -gt 0 ]]; do
 			MODE="gamepadui"
 			shift
 			;;
+		--gaming)
+			GAMING_MODE=1
+			MODE="gamepadui"
+			USE_GAMESCOPE=1
+			shift
+			;;
 		--no-gamescope)
 			USE_GAMESCOPE=0
 			shift
@@ -34,16 +41,21 @@ while [[ $# -gt 0 ]]; do
 			;;
 		-h | --help)
 			cat <<'HELP'
-portal-steam — Valve Steam ARM64 public-beta client (not stable amd64 / not FEX)
+portal-steam — Valve Steam ARM64 public-beta client (FEX for Proton games only)
 
   portal-steam --install       Download ARM64 beta client, beta runtime, Proton ARM64
-  portal-steam --gamepadui     Big Picture / gamepad UI (default)
+  portal-steam --gaming        Recommended: Big Picture + gamescope for Proton games
+  portal-steam --gamepadui     Big Picture without gamescope
   portal-steam --desktop       Desktop Steam UI
-  portal-steam --gamescope       Try gamescope (experimental on Portal+KDE)
-  portal-steam --no-gamescope  Run in KDE Wayland (default)
+  portal-steam --gamescope       Force gamescope
+  portal-steam --no-gamescope  KDE session only
+
+One-time setup (all games, not per-title):
+  sudo bash install-proton-stack.sh   # system env + lib64 + X11 SDDM
+  portal-setup-games                  # FEX + Vulkan guest
 
 Environment:
-  PORTAL_STEAM_GAMESCOPE=0|1   Default 0 (Adreno + nested gamescope breaks Vulkan)
+  PORTAL_STEAM_GAMESCOPE=0|1
   PORTAL_STEAM_W / H / REFRESH  Display geometry (default 1920x1080@60)
 HELP
 			exit 0
@@ -65,6 +77,8 @@ fi
 portal_steam_assert_native_arm64
 portal_steam_read_display_geometry
 portal_steam_launch_flags
+portal_steam_apply_session_env
+portal_steam_install_proton_user_settings
 
 mkdir -p "${PROTON_DIR}/"
 cp -f "${PORTAL_STEAM_SHARE}/toolmanifest.vdf" "${PROTON_DIR}/" 2>/dev/null || true
@@ -78,15 +92,19 @@ else
 	steam_args+=(-nofriendsui)
 fi
 
-# Gamescope optional: ROCKNIX uses --backend drm; Portal uses KDE (nested Vulkan often fails).
+# Gamescope: ROCKNIX runs Steam+games inside gamescope (--gaming / --gamescope).
 portal_steam_prepare_libs
 STEAM_LD="$(portal_steam_ld_library_path)"
 if [[ "${USE_GAMESCOPE}" == "1" && "${MODE}" == "gamepadui" ]] && command -v gamescope >/dev/null 2>&1; then
+	if [[ "${GAMING_MODE}" == "1" ]]; then
+		portal_steam_log "Gaming mode: Steam + Proton inside gamescope (all Windows games)."
+	fi
 	if portal_steam_try_gamescope env LD_LIBRARY_PATH="${STEAM_LD}" "${STEAM_CLIENT}" "${steam_args[@]}"; then
 		exit 0
 	fi
-	portal_steam_log "gamescope failed — launching Steam in KDE Wayland instead."
+	portal_steam_log "gamescope failed — try: sudo bash install-proton-stack.sh && reboot"
+	portal_steam_log "Fallback: plain KDE session (Proton may black-screen)."
 fi
 
-portal_steam_log "Launching Steam in KDE Wayland (${MODE})..."
+portal_steam_log "Launching Steam in KDE (${MODE})..."
 exec env LD_LIBRARY_PATH="${STEAM_LD}" "${STEAM_CLIENT}" "${steam_args[@]}"

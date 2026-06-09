@@ -24,6 +24,10 @@ Copy-Item (Join-Path $Src 'install-steam.sh') $Out
 Copy-Item (Join-Path $Src 'portal-steam-common.sh') $Out
 Copy-Item (Join-Path $Src 'install-fex.sh') $Out
 Copy-Item (Join-Path $Src 'setup-games.sh') $Out
+Copy-Item (Join-Path $Src 'install-proton-stack.sh') $Out
+Copy-Item (Join-Path $Src 'install-controller-support.sh') $Out
+Copy-Item (Join-Path $Src 'restore-portal-wayland.sh') $Out
+Copy-Item (Join-Path $Src 'try-portal-x11-gaming.sh') $Out
 Copy-Item (Join-Path $Src 'portal-game-launch') $Out
 Copy-Item (Join-Path $Src 'diagnose-game.sh') $Out
 Copy-Item (Join-Path $Src 'reset-prefix.sh') $Out
@@ -45,4 +49,5 @@ Write-Host '  unzip portal-steam-bundle.zip -d portal-steam-bundle'
 Write-Host '  cd portal-steam-bundle'
 Write-Host '  sudo bash install-portal-steam.sh'
 Write-Host '  portal-install-steam'
-Write-Host '  portal-steam --gamepadui'
+Write-Host '  sudo portal-install-controller'
+Write-Host '  portal-steam --gaming'

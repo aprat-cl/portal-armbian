@@ -85,6 +85,35 @@ portal_steam_launch_flags() {
 	)
 }
 
+# ROCKNIX ARM64 Steam uses SDL_VIDEODRIVER=x11; Proton/DXVK presents via XWayland on KDE.
+portal_steam_apply_session_env() {
+	if [[ -f "${PORTAL_STEAM_SHARE}/portal-proton.env" ]]; then
+		# shellcheck source=/dev/null
+		source "${PORTAL_STEAM_SHARE}/portal-proton.env"
+	elif [[ -f /usr/share/portal-steam/portal-proton.env ]]; then
+		# shellcheck source=/dev/null
+		source /usr/share/portal-steam/portal-proton.env
+	fi
+	if [[ -f "${STEAM_HOME}/.config/portal-steam/env.sh" ]]; then
+		# shellcheck source=/dev/null
+		source "${STEAM_HOME}/.config/portal-steam/env.sh"
+	fi
+}
+
+# Proton user_settings.py — env for every game using Proton-CachyOS ARM64 (official hook).
+portal_steam_install_proton_user_settings() {
+	local proton_dir
+	proton_dir="$(find "${STEAM_DIR}/compatibilitytools.d" -maxdepth 1 -type d -name 'proton-cachyos-*-arm64' 2>/dev/null | sort -V | tail -n 1)"
+	[[ -n "${proton_dir}" ]] || return 0
+	local dest="${proton_dir}/user_settings.py"
+	[[ -f "${PORTAL_STEAM_SHARE}/proton-user_settings.py" ]] || return 0
+	if [[ -f "${dest}" ]] && grep -q 'PORTAL_PROTON' "${dest}" 2>/dev/null; then
+		return 0
+	fi
+	portal_steam_log "Installing Proton user_settings.py (all games using CachyOS ARM64)..."
+	cp -f "${PORTAL_STEAM_SHARE}/proton-user_settings.py" "${dest}"
+}
+
 portal_steam_runtime_platform_lib() {
 	echo "${STEAM_DIR}"/steam-runtime-steamrt-arm64/steamrt3c_platform_*/files/lib/aarch64-linux-gnu
 }
@@ -174,7 +203,9 @@ portal_steam_gamescope_has_flag() {
 portal_steam_gamescope_build_cmd() {
 	local backend="${1:-}"
 	shift
-	PORTAL_STEAM_GAMESCOPE_CMD=(gamescope -W "${W}" -H "${H}" -r "${REFRESH_HZ}")
+	PORTAL_STEAM_GAMESCOPE_CMD=(
+		gamescope -W "${W}" -H "${H}" -w "${W}" -h "${H}" -r "${REFRESH_HZ}" -f
+	)
 	if [[ -n "${backend}" ]] && portal_steam_gamescope_has_flag '--backend'; then
 		PORTAL_STEAM_GAMESCOPE_CMD+=(--backend "${backend}")
 	fi

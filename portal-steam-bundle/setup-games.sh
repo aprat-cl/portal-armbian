@@ -111,17 +111,49 @@ else
 	exit 1
 fi
 
-# Vulkan guest lib (after FEX may mount rootfs dir)
-if [[ -d "${FEX_ROOTFS_DIR}/usr/lib" ]]; then
+# Vulkan guest lib for FEX thunk path (ROCKNIX copies libvulkan_freedreno into rootfs)
+portal_steam_install_fex_vulkan() {
+	[[ -d "${FEX_GUEST_LIB}" ]] || return 0
 	if [[ -f /usr/share/fex-emu/libvulkan_freedreno.so ]]; then
-		cp -f /usr/share/fex-emu/libvulkan_freedreno.so "${FEX_GUEST_LIB}/" 2>/dev/null || true
-	elif [[ -f /usr/lib/aarch64-linux-gnu/libvulkan.so.1 ]]; then
-		ln -sf /usr/lib/aarch64-linux-gnu/libvulkan.so.1 "${FEX_GUEST_LIB}/libvulkan.so.1" 2>/dev/null || true
+		cp -f /usr/share/fex-emu/libvulkan_freedreno.so "${FEX_GUEST_LIB}/" && \
+			ok "Installed libvulkan_freedreno.so in FEX rootfs (DXVK → turnip)" && return 0
+	fi
+	if [[ -f /usr/lib/aarch64-linux-gnu/libvulkan.so.1 ]]; then
+		ln -sf /usr/lib/aarch64-linux-gnu/libvulkan.so.1 "${FEX_GUEST_LIB}/libvulkan.so.1" 2>/dev/null && \
+			warn "Linked generic libvulkan — install fex-emu package for libvulkan_freedreno.so"
+	fi
+}
+# Mount sqsh once so guest lib path exists (FEX may not extract until first game)
+if [[ -f "${FEX_ROOTFS_SQSH}" && ! -d "${FEX_ROOTFS_DIR}/usr/lib" ]]; then
+	mkdir -p "${FEX_DATA}/RootFS"
+	if command -v squashfuse >/dev/null 2>&1; then
+		squashfuse "${FEX_ROOTFS_SQSH}" "${FEX_ROOTFS_DIR}" 2>/dev/null || true
 	fi
 fi
+portal_steam_install_fex_vulkan
 
 systemctl restart systemd-binfmt 2>/dev/null || true
 ok "binfmt active for game binaries"
+
+# pressure-vessel (Proton) often needs /usr/lib64 on AArch64 Ubuntu; bwrap fails silently otherwise.
+if [[ ! -e /usr/lib64 ]] && [[ -d /usr/lib/aarch64-linux-gnu ]]; then
+	if [[ "$(id -u)" -eq 0 ]]; then
+		ln -sfn /usr/lib/aarch64-linux-gnu /usr/lib64
+		ok "Created /usr/lib64 → aarch64 multiarch (pressure-vessel)"
+	else
+		warn "Run: sudo ln -sf /usr/lib/aarch64-linux-gnu /usr/lib64  (pressure-vessel needs this)"
+	fi
+fi
+
+# FEX rootfs must be "broken" (no /tmp inside sqsh) for some pressure-vessel paths.
+if [[ -d "${FEX_ROOTFS_DIR}" ]] && [[ -d "${FEX_ROOTFS_DIR}/tmp" ]]; then
+	for script in /usr/share/fex-emu/break_chroot.sh "${FEX_ROOTFS_DIR}/break_chroot.sh"; do
+		if [[ -x "${script}" ]]; then
+			portal_steam_log "Running break_chroot on FEX rootfs..."
+			( cd "${FEX_ROOTFS_DIR}" && "${script}" ) && ok "FEX rootfs broken for Proton" && break
+		fi
+	done
+fi
 
 if command -v vulkaninfo >/dev/null 2>&1 && vulkaninfo --summary 2>/dev/null | grep -qi deviceName; then
 	ok "Host Vulkan OK"
@@ -130,10 +162,15 @@ else
 fi
 
 portal_steam_link_proton_compat 2>/dev/null || true
+portal_steam_install_proton_user_settings 2>/dev/null || true
 
 echo ""
-portal_steam_log "Steam game settings:"
-echo "  Compatibility: Proton-CachyOS * ARM64"
-echo "  First launch: wait 2–5 min (pressure-vessel + FEX)"
-echo "  If black screen: game Launch Options →  %command% -windowed"
-echo "  Debug: PROTON_LOG=1 %command%"
+portal_steam_log "Proton stack ready for ALL Windows games (not per-game tweaks)."
+echo ""
+echo "  1) sudo bash install-proton-stack.sh   # once, system-wide (if not done)"
+echo "  2) portal-steam --gaming               # Steam + gamescope (recommended)"
+echo "  3) Steam → Settings → Compatibility → default: Proton-CachyOS ARM64"
+echo ""
+echo "  Verify:  portal-diagnose-game"
+echo "  Reset prefix: portal-reset-prefix <appid>"
+echo "  Debug one title: ./capture-proton-log.sh"
