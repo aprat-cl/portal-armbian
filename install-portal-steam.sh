@@ -71,6 +71,7 @@ install -m755 "${SRC}/portal-steam" /usr/local/bin/portal-steam
 install -m755 "${SRC}/install-steam.sh" /usr/local/bin/portal-install-steam
 install -m755 "${SRC}/portal-steam-common.sh" /usr/local/bin/portal-steam-common.sh
 install -m755 "${SRC}/install-fex.sh" /usr/local/bin/portal-install-fex
+install -m755 "${SRC}/setup-games.sh" /usr/local/bin/portal-setup-games
 sed -i 's|SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE\[0\]}")" && pwd)"|SCRIPT_DIR="/usr/local/bin"|' \
 	/usr/local/bin/portal-steam /usr/local/bin/portal-install-steam
 install -m644 "${SRC}/share/applications/portal-steam.desktop" /usr/share/applications/
@@ -79,4 +80,4 @@ echo ""
 echo "Installed. You can delete this folder on the device — commands are in /usr/local/bin."
 echo "  portal-install-steam    # as odin2 — downloads ARM64 public-beta client"
 echo "  portal-steam --gamepadui"
-echo "  sudo portal-install-fex # optional, for x86 Proton games later"
+echo "  sudo portal-install-fex && portal-setup-games   # required for Proton games"

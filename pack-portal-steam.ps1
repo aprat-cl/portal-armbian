@@ -23,6 +23,11 @@ Copy-Item (Join-Path $Src 'portal-steam') $Out
 Copy-Item (Join-Path $Src 'install-steam.sh') $Out
 Copy-Item (Join-Path $Src 'portal-steam-common.sh') $Out
 Copy-Item (Join-Path $Src 'install-fex.sh') $Out
+Copy-Item (Join-Path $Src 'setup-games.sh') $Out
+if (Test-Path (Join-Path $Src 'share\fex-emu')) {
+    New-Item -ItemType Directory -Path (Join-Path $Out 'share\fex-emu') -Force | Out-Null
+    Copy-Item (Join-Path $Src 'share\fex-emu\*') (Join-Path $Out 'share\fex-emu') -Recurse -Force
+}
 Copy-Item (Join-Path $Src 'share\*') (Join-Path $Out 'share') -Recurse -Force
 
 Compress-Archive -Path (Join-Path $Out '*') -DestinationPath $Zip -Force
