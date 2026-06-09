@@ -1,0 +1,41 @@
+---
+description: Armbian compile.sh conventions for WSL2 + Docker Desktop builds
+alwaysApply: true
+---
+
+# Armbian WSL2 build commands
+
+Target hardware: **Ayn Odin 2 Portal Pro, 12GB RAM**, Snapdragon 8 Gen 2 (SM8550). Use `BOARD=ayn-odin2portal` (same image for 8/12/16GB Portal SKUs).
+
+When suggesting or running `./compile.sh` for this project (Portal / SM8550), always include:
+
+```bash
+export PESTER_TERMINAL=no          # suppress WSL UTF-8 terminal warning
+export DOCKER_USE_HOST_DNS=no      # WSL2: don't inject host resolv.conf into Docker (breaks GitHub DNS)
+```
+
+Use the repo wrapper (includes KDE Plasma Wayland + AYN audio profile):
+
+```bash
+rm -rf ~/armbian_steamos/build/cache/rootfs/*   # fresh rootfs when profile changed
+~/armbian_steamos/build-portal.sh
+```
+
+Portal hooks are **inline** in `build/config/boards/ayn-odin2portal.csc` and `ayn-odin2.csc` (no extensions required).
+Portal Pro is NOT the original Odin2 — do not use `odin2-preset-firstrun` on Portal.
+Default login: user `portal` / password `1234`. UCM audio card: `AYN-Odin2`.
+SDDM: `zz-portal-wayland.conf` forces `DisplayServer=wayland` + `plasma-workspace-wayland`.
+Panel rotation: DTB `rotation=270` + `fbcon=rotate:3` (X11 without Wayland shows sideways).
+**Build host: Ubuntu WSL** at `~/armbian_steamos`. Docker Desktop must be running. Never build on `/mnt/c`.
+
+Cursor edits `c:\source\armbian_steamos` — sync to WSL before building:
+```bash
+bash /mnt/c/source/armbian_steamos/sync-from-source.sh
+rm -rf ~/armbian_steamos/build/cache/rootfs/*
+bash ~/armbian_steamos/build-portal.sh
+```
+Always use `bash build-portal.sh` (not `./` or `sudo`) — avoids Permission denied / CRLF shebang issues.
+
+CachyOS (or other native Linux) can use the same repo in one tree with no sync step.
+
+Build from `~/armbian_steamos` in WSL (not `/mnt/c`). Use Docker (🐳 in logs), not native WSL.

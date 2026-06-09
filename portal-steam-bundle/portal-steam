@@ -1,0 +1,94 @@
+#!/bin/bash
+# Launch Steam on Portal (KDE Wayland). Native aarch64 client (FEX may run games, not Steam).
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# shellcheck source=portal-steam-common.sh
+source "${SCRIPT_DIR}/portal-steam-common.sh"
+
+MODE="gamepadui"
+USE_GAMESCOPE="${PORTAL_STEAM_GAMESCOPE:-1}"
+
+while [[ $# -gt 0 ]]; do
+	case "$1" in
+		--install)
+			exec "${SCRIPT_DIR}/install-steam.sh"
+			;;
+		--desktop)
+			MODE="desktop"
+			shift
+			;;
+		--gamepadui | --bigpicture)
+			MODE="gamepadui"
+			shift
+			;;
+		--no-gamescope)
+			USE_GAMESCOPE=0
+			shift
+			;;
+		--gamescope)
+			USE_GAMESCOPE=1
+			shift
+			;;
+		-h | --help)
+			cat <<'HELP'
+portal-steam — Native ARM64 Steam client (FEX is for games, not Steam)
+
+  portal-steam --install       Download ARM64 client, runtime, Proton (first run)
+  portal-steam --gamepadui     Big Picture / gamepad UI (default)
+  portal-steam --desktop       Desktop Steam UI
+  portal-steam --no-gamescope  Run inside KDE without gamescope
+
+Environment:
+  PORTAL_STEAM_GAMESCOPE=0|1   Default 1 for gamepad UI
+  PORTAL_STEAM_W / H / REFRESH  Display geometry (default 1920x1080@60)
+HELP
+			exit 0
+			;;
+		*)
+			break
+			;;
+	esac
+done
+
+portal_steam_init_paths
+export HOME="${STEAM_HOME}"
+
+if ! portal_steam_client_ready; then
+	portal_steam_log "Steam client not installed. Running installer..."
+	exec "${SCRIPT_DIR}/install-steam.sh"
+fi
+
+portal_steam_assert_native_arm64
+portal_steam_read_display_geometry
+portal_steam_launch_flags
+
+mkdir -p "${PROTON_DIR}/"
+cp -f "${PORTAL_STEAM_SHARE}/toolmanifest.vdf" "${PROTON_DIR}/" 2>/dev/null || true
+
+unset MESA_LOADER_DRIVER_OVERRIDE
+
+steam_args=("${STEAM_LAUNCH_FLAGS[@]}")
+if [[ "${MODE}" == "gamepadui" ]]; then
+	steam_args+=(-gamepadui)
+else
+	steam_args+=(-nofriendsui)
+fi
+
+# Nested gamescope on KDE Wayland (ROCKNIX uses DRM + Sway; Portal stays on KWin).
+if [[ "${USE_GAMESCOPE}" == "1" && "${MODE}" == "gamepadui" ]] && command -v gamescope >/dev/null 2>&1; then
+	portal_steam_log "Launching via gamescope (${W}x${H}@${REFRESH_HZ}, wayland)..."
+	exec gamescope \
+		-W "${W}" -H "${H}" -r "${REFRESH_HZ}" \
+		--backend wayland \
+		--force-orientation left \
+		--use-rotation-shader \
+		--xwayland-count 2 \
+		--mangoapp \
+		-e -- \
+		env LD_LIBRARY_PATH="${STEAM_LIB}/" "${STEAM_CLIENT}" "${steam_args[@]}"
+fi
+
+portal_steam_log "Launching Steam (${MODE})..."
+exec env LD_LIBRARY_PATH="${STEAM_LIB}/" "${STEAM_CLIENT}" "${steam_args[@]}"

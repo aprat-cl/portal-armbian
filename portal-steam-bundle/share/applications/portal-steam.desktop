@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Steam (Portal)
+Comment=Native ARM64 Steam Big Picture (FEX for games only)
+Exec=portal-steam --gamepadui
+Icon=steam
+Terminal=false
+Categories=Game;
+StartupNotify=true
