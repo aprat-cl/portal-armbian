@@ -1,5 +1,6 @@
 #!/bin/bash
-# Install AnyDesk on Portal (ARM64). Run on device: sudo bash install-anydesk.sh
+# Install AnyDesk on Portal (ARM64). Requires KDE **X11** session (not Wayland).
+# Run on device: sudo bash install-anydesk.sh
 set -euo pipefail
 
 DEB_URL="https://deb.anydesk.com/pool/main/a/anydesk/anydesk_8.0.2_arm64.deb"
@@ -30,6 +31,10 @@ rm -f "${TMP_DEB}"
 
 echo ""
 echo "AnyDesk installed."
+echo ""
+echo "IMPORTANT: AnyDesk incoming remote control needs X11, NOT Wayland."
+echo "  On Portal run once:  sudo bash enable-portal-x11-for-remote.sh"
+echo "  Then reboot and log in (SDDM uses X11 automatically)."
+echo ""
 echo "  ID:   $(anydesk --get-id 2>/dev/null || true)"
-echo "  PC:   install AnyDesk from https://anydesk.com and enter that ID"
-echo "  Set unattended password: AnyDesk → Settings → Security on the Portal"
+echo "  Or use RustDesk (better Wayland): sudo bash install-rustdesk.sh"
