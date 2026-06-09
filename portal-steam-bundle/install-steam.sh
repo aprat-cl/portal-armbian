@@ -1,6 +1,6 @@
 #!/bin/bash
-# Install native ARM64 Steam client + runtime + Proton-CachyOS (FEX is separate, for games).
-# Run as odin2 (or set PORTAL_STEAM_USER). Needs network on first run.
+# Install Valve Steam ARM64 *public beta* client (steamrtarm64) + beta runtime + Proton-CachyOS ARM64.
+# Not the stable amd64 launcher. FEX is separate (games only). Run as odin2. Needs network.
 
 set -euo pipefail
 
@@ -8,9 +8,6 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # shellcheck source=portal-steam-common.sh
 source "${SCRIPT_DIR}/portal-steam-common.sh"
 
-RUNTIME_TAR_URL="https://repo.steampowered.com/steamrt3c/images/latest-public-beta/steam-runtime-steamrt-arm64.tar.xz"
-STEAM_MANIFEST_URL="https://client-update.fastly.steamstatic.com/steam_client_publicbeta_linuxarm64"
-STEAM_CDN="https://client-update.steamstatic.com"
 PROTON_CACHYOS_VERSION_FULL="11.0-20260521-slr"
 PROTON_CACHYOS_TAR="proton-cachyos-${PROTON_CACHYOS_VERSION_FULL}-arm64.tar.xz"
 PROTON_CACHYOS_DIR="proton-cachyos-${PROTON_CACHYOS_VERSION_FULL}-arm64"
@@ -39,9 +36,9 @@ install_steam_runtime_arm64() {
 		portal_steam_log "Steam runtime already present."
 		return 0
 	fi
-	portal_steam_log "Downloading Steam ARM64 runtime..."
+	portal_steam_log "Downloading Steam ARM64 public-beta runtime..."
 	local tar_path="${STEAM_DIR}/steam-runtime-steamrt-arm64.tar.xz"
-	wget -c -t 5 -O "${tar_path}" "${RUNTIME_TAR_URL}"
+	wget -c -t 5 -O "${tar_path}" "${PORTAL_STEAM_RUNTIME_URL}"
 	tar xvf "${tar_path}" -C "${STEAM_DIR}"
 	rm -f "${tar_path}"
 
@@ -53,23 +50,23 @@ install_steam_runtime_arm64() {
 }
 
 install_steam_client_arm64() {
-	if [[ -d "${STEAM_DIR}/steamrtarm64" ]]; then
-		portal_steam_log "Steam client already present."
+	if [[ -x "${STEAM_CLIENT}" && -f "${STEAM_DIR}/package/beta" ]] && \
+		grep -qx "${PORTAL_STEAM_BETA_CHANNEL}" "${STEAM_DIR}/package/beta"; then
+		portal_steam_log "Steam ARM64 public-beta client already present."
 		return 0
 	fi
-	portal_steam_log "Downloading Steam ARM64 client..."
+	portal_steam_log "Downloading Steam ARM64 public-beta client..."
 	local manifest target_file zip_path
-	manifest="$(curl -fsSL "${STEAM_MANIFEST_URL}" | strings)"
+	manifest="$(curl -fsSL "${PORTAL_STEAM_MANIFEST_URL}" | strings)"
 	target_file="$(echo "${manifest}" | grep -oP 'bins_linuxarm64_linuxarm64\.zip\.(?!vz\.)[^"]+' | head -n 1)"
-	[[ -n "${target_file}" ]] || portal_steam_die "Could not parse Steam client manifest."
+	[[ -n "${target_file}" ]] || portal_steam_die "Could not parse Steam ARM64 beta manifest."
 	zip_path="${STEAM_DIR}/linuxarm64.zip"
-	wget -c -t 5 -O "${zip_path}" "${STEAM_CDN}/${target_file}"
+	wget -c -t 5 -O "${zip_path}" "${PORTAL_STEAM_CDN}/${target_file}"
 	unzip -o "${zip_path}" -d "${STEAM_DIR}"
 	rm -f "${zip_path}"
 	chmod +x "${STEAM_DIR}/steamrtarm64/steam"
 
-	mkdir -p "${STEAM_DIR}/package"
-	echo publicbeta >"${STEAM_DIR}/package/beta"
+	portal_steam_ensure_beta_channel
 	mkdir -p "${STEAM_DOT}"
 	ln -sfn "${STEAM_DIR}" "${STEAM_DOT}/steam"
 	ln -sfn "${STEAM_DIR}/linuxarm64" "${STEAM_DOT}/sdkarm64"
@@ -128,7 +125,7 @@ install_desktop_stub() {
 	touch "${HOME}/.local/share/applications/Steam.desktop"
 }
 
-portal_steam_log "Starting native ARM64 Steam installation for ${STEAM_USER}..."
+portal_steam_log "Starting Steam ARM64 public-beta install for ${STEAM_USER}..."
 link_steam_library
 install_desktop_stub
 install_steam_runtime_arm64

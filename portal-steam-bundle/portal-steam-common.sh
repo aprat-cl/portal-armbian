@@ -1,5 +1,12 @@
 #!/bin/bash
-# Shared helpers for Portal Steam on Armbian KDE Wayland (paths adapted from ROCKNIX).
+# Shared helpers for Portal Steam on Armbian KDE Wayland.
+# Target: Valve Steam ARM64 *public beta* client (steamrtarm64), not stable amd64/FEX.
+
+# Valve public-beta ARM64 client + steamrt runtime (ROCKNIX / Steam Deck ARM path).
+readonly PORTAL_STEAM_BETA_CHANNEL="publicbeta"
+readonly PORTAL_STEAM_RUNTIME_URL="https://repo.steampowered.com/steamrt3c/images/latest-public-beta/steam-runtime-steamrt-arm64.tar.xz"
+readonly PORTAL_STEAM_MANIFEST_URL="https://client-update.fastly.steamstatic.com/steam_client_publicbeta_linuxarm64"
+readonly PORTAL_STEAM_CDN="https://client-update.steamstatic.com"
 
 portal_steam_init_paths() {
 	STEAM_USER="${PORTAL_STEAM_USER:-${SUDO_USER:-${USER}}}"
@@ -20,16 +27,26 @@ portal_steam_init_paths() {
 portal_steam_log() { echo -e "[\033[1;34mportal-steam\033[0m] $*"; }
 portal_steam_die() { echo -e "[\033[1;31mportal-steam\033[0m] $*" >&2; exit 1; }
 
+portal_steam_ensure_beta_channel() {
+	mkdir -p "${STEAM_DIR}/package"
+	echo "${PORTAL_STEAM_BETA_CHANNEL}" >"${STEAM_DIR}/package/beta"
+}
+
 portal_steam_assert_native_arm64() {
-	[[ -x "${STEAM_CLIENT}" ]] || portal_steam_die "ARM64 client missing at ${STEAM_CLIENT}. Run: portal-install-steam"
+	[[ -x "${STEAM_CLIENT}" ]] || portal_steam_die "ARM64 beta client missing at ${STEAM_CLIENT}. Run: portal-install-steam"
 	case "${STEAM_CLIENT}" in
 		*/steamrtarm64/steam) ;;
-		*) portal_steam_die "Refusing non-native client path: ${STEAM_CLIENT}" ;;
+		*) portal_steam_die "Refusing non-beta ARM64 client path: ${STEAM_CLIENT}" ;;
 	esac
 	if command -v file >/dev/null 2>&1; then
 		file -b "${STEAM_CLIENT}" | grep -qE 'aarch64|ARM' || \
 			portal_steam_die "Refusing non-ARM64 binary: ${STEAM_CLIENT}"
 	fi
+	if [[ -f "${STEAM_DIR}/package/beta" ]]; then
+		grep -qx "${PORTAL_STEAM_BETA_CHANNEL}" "${STEAM_DIR}/package/beta" || \
+			portal_steam_log "Note: resetting Steam channel to ${PORTAL_STEAM_BETA_CHANNEL}"
+	fi
+	portal_steam_ensure_beta_channel
 }
 
 portal_steam_read_display_geometry() {

@@ -41,10 +41,26 @@ echo "[portal-steam] Source: ${SRC}"
 echo "[portal-steam] Installing apt dependencies..."
 export DEBIAN_FRONTEND=noninteractive
 apt-get update
-apt-get install -y --no-install-recommends \
-	gamescope jq mangohud squashfuse-tools libfuse2 unzip \
-	wget curl ca-certificates libnss3 libsdl2-2.0-0 \
-	vulkan-tools libxtst6 libxi6 libgbm1 file
+
+# squashfuse is for FEX later — Noble package is squashfuse (not squashfuse-tools).
+portal_steam_apt_install() {
+	local required=(
+		gamescope jq unzip wget curl ca-certificates libnss3 libsdl2-2.0-0
+		vulkan-tools libxtst6 libxi6 libgbm1 file
+	)
+	local optional=(mangohud squashfuse libfuse2)
+
+	apt-get install -y --no-install-recommends "${required[@]}"
+
+	local pkg
+	for pkg in "${optional[@]}"; do
+		if apt-get install -y --no-install-recommends "${pkg}"; then
+			continue
+		fi
+		echo "[portal-steam] optional package not available: ${pkg} (OK for native Steam)"
+	done
+}
+portal_steam_apt_install
 
 echo "[portal-steam] Installing to /usr/local/bin and /usr/share/portal-steam ..."
 install -d /usr/share/portal-steam /usr/local/bin /usr/share/applications
@@ -59,6 +75,6 @@ install -m644 "${SRC}/share/applications/portal-steam.desktop" /usr/share/applic
 
 echo ""
 echo "Installed. You can delete this folder on the device — commands are in /usr/local/bin."
-echo "  portal-install-steam    # as odin2, needs network"
+echo "  portal-install-steam    # as odin2 — downloads ARM64 public-beta client"
 echo "  portal-steam --gamepadui"
 echo "  sudo portal-install-fex # optional, for x86 Proton games later"

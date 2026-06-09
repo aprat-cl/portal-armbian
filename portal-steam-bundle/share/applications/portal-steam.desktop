@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Steam (Portal)
-Comment=Native ARM64 Steam Big Picture (FEX for games only)
+Comment=Steam ARM64 public-beta Big Picture (native client)
 Exec=portal-steam --gamepadui
 Icon=steam
 Terminal=false

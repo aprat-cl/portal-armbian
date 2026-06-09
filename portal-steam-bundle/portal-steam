@@ -1,5 +1,5 @@
 #!/bin/bash
-# Launch Steam on Portal (KDE Wayland). Native aarch64 client (FEX may run games, not Steam).
+# Launch Steam on Portal (KDE Wayland). Valve ARM64 public-beta client (FEX for games only).
 
 set -euo pipefail
 
@@ -33,9 +33,9 @@ while [[ $# -gt 0 ]]; do
 			;;
 		-h | --help)
 			cat <<'HELP'
-portal-steam — Native ARM64 Steam client (FEX is for games, not Steam)
+portal-steam — Valve Steam ARM64 public-beta client (not stable amd64 / not FEX)
 
-  portal-steam --install       Download ARM64 client, runtime, Proton (first run)
+  portal-steam --install       Download ARM64 beta client, beta runtime, Proton ARM64
   portal-steam --gamepadui     Big Picture / gamepad UI (default)
   portal-steam --desktop       Desktop Steam UI
   portal-steam --no-gamescope  Run inside KDE without gamescope
