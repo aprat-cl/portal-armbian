@@ -38,7 +38,8 @@ portal_fex_find_binary() {
 log "Installing prerequisites..."
 apt-get update
 apt-get install -y software-properties-common curl ca-certificates gnupg \
-	mesa-vulkan-drivers vulkan-tools libvulkan1
+	mesa-vulkan-drivers vulkan-tools libvulkan1 \
+	squashfs-tools squashfuse
 
 if ! apt-cache policy 2>/dev/null | grep -qE 'fex-emu/ubuntu|ppa\.launchpad\.net.*fex-emu'; then
 	log "Adding PPA ppa:fex-emu/fex ..."
@@ -60,8 +61,11 @@ systemctl restart systemd-binfmt 2>/dev/null || true
 FEX_BIN="$(portal_fex_find_binary)" || die "FEX binary not found after package install. Check: dpkg -l ${FEX_PKG}"
 
 log "Installed: ${FEX_BIN}"
-"${FEX_BIN}" /usr/bin/uname -m 2>/dev/null && log "FEX smoke test OK (should print x86_64)" || \
-	warn_smoke="FEX smoke test failed — may still work via binfmt for Steam games"
+if "${FEX_BIN}" /usr/bin/uname -m 2>/dev/null; then
+	log "FEX smoke test OK (uname -m should show x86_64)"
+else
+	log "FEX smoke test inconclusive — binfmt may still work for Steam games"
+fi
 
 echo ""
 echo "FEX is installed. The command is uppercase: FEX  (not 'fex')"

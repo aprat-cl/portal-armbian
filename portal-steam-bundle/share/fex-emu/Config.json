@@ -1,6 +1,6 @@
 {
   "Config": {
-    "RootFS": "Ubuntu_24.04",
+    "RootFS": "Ubuntu_24_04",
     "ThunkHostLibs": "/usr/lib/fex-emu/HostThunks",
     "ThunkGuestLibs": "/usr/share/fex-emu/GuestThunks",
     "TSOEnabled": "1",

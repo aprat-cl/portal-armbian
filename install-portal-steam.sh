@@ -60,7 +60,7 @@ portal_steam_apt_install() {
 	)
 	local -a optional_groups=(
 		"mangohud"
-		"squashfuse"
+		"squashfuse squashfs-tools"
 		"libfuse2"
 		"libvpx9"
 		"libminizip1 libminizip1t64"
