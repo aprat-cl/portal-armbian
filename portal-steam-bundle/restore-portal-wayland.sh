@@ -8,10 +8,19 @@ if [[ "$(id -u)" -ne 0 ]]; then
 fi
 
 STEAM_USER="${SUDO_USER:-aprat}"
-mkdir -p /etc/sddm.conf.d
+mkdir -p /etc/sddm.conf.d /etc/environment.d /etc/xdg/plasma-workspace/env
 
 rm -f /etc/sddm.conf.d/99-portal-gaming-x11.conf
 rm -f /etc/sddm.conf.d/99-portal-x11-remote.conf
+rm -f /etc/sddm.conf.d/zz-portal-gaming-x11.conf
+
+cat >/etc/sddm.conf.d/10-portal-wayland.conf << 'EOF'
+[General]
+DisplayServer=wayland
+
+[Autologin]
+Session=plasma
+EOF
 
 cat >/etc/sddm.conf.d/zz-portal-wayland.conf << EOF
 [General]
@@ -27,6 +36,21 @@ Relogin=true
 Compositor=kwin_wayland
 EOF
 
+cat >/etc/environment.d/50-portal-wayland.conf << 'EOF'
+XDG_SESSION_TYPE=wayland
+GDK_BACKEND=wayland,x11
+QT_QPA_PLATFORM=wayland;xcb
+MOZ_ENABLE_WAYLAND=1
+EOF
+
+cat >/etc/xdg/plasma-workspace/env/portal-wayland.sh << 'EOF'
+#!/bin/sh
+export GDK_BACKEND=wayland,x11
+export QT_QPA_PLATFORM=wayland;xcb
+EOF
+chmod 755 /etc/xdg/plasma-workspace/env/portal-wayland.sh
+
 echo "[OK] SDDM restored to Wayland for ${STEAM_USER}"
-echo "Reboot: sudo reboot"
+echo "Apply now (logs you out):  sudo systemctl restart sddm"
+echo "Or reboot:  sudo reboot"
 echo "Then: echo \$XDG_SESSION_TYPE  →  wayland"

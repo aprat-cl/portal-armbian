@@ -52,18 +52,10 @@ cat > /etc/xdg/plasma-workspace/env/99-portal-proton.sh << 'EOF'
 EOF
 chmod 755 /etc/xdg/plasma-workspace/env/99-portal-proton.sh
 
-# Controller: uinput + gamepad udev (Steam Input / native games).
-if [[ -f "${SCRIPT_DIR}/install-controller-support.sh" ]]; then
-	bash "${SCRIPT_DIR}/install-controller-support.sh" "${STEAM_USER}"
-elif [[ -f /usr/local/bin/portal-install-controller ]]; then
-	bash /usr/local/bin/portal-install-controller "${STEAM_USER}"
-fi
-
-# Keep Wayland desktop by default (X11 caused black-screen KDE on Portal).
-# Optional X11 for Proton experiments: sudo bash try-portal-x11-gaming.sh
-echo "[portal-proton] Desktop stays Wayland (recommended)."
-echo "  Optional X11 try: sudo bash try-portal-x11-gaming.sh"
-echo "  Revert to Wayland: sudo bash restore-portal-wayland.sh"
+# Default desktop stays Wayland unless you opt into X11 (see try-portal-x11-gaming.sh).
+echo "[portal-proton] Proton env installed. Desktop session unchanged (still Wayland until you switch)."
+echo "  Switch to X11 (installs xorg + reboot): sudo portal-try-x11-gaming"
+echo "  Revert to Wayland: sudo portal-restore-wayland"
 
 echo ""
 echo "System stack installed. As ${STEAM_USER}:"
@@ -71,5 +63,4 @@ echo "  portal-setup-games"
 echo "  portal-steam --gaming          # Proton on Wayland + gamescope"
 echo ""
 echo "Native Linux games: disable Force Steam Play in game Properties."
-echo "Controller: log out/in, then evtest. Steam → Controller → enable Steam Input."
 echo "Windows-only library: Steam Settings → Compatibility → Proton-CachyOS ARM64."
