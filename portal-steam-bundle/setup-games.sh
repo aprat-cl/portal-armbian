@@ -21,12 +21,21 @@ FEX_GUEST_LIB="${FEX_DATA}/RootFS/Ubuntu_24.04/usr/lib"
 
 portal_steam_log "Portal game stack check (${STEAM_USER})..."
 
-# --- FEX ---
-if ! command -v FEXInterpreter >/dev/null 2>&1 && ! command -v FEX >/dev/null 2>&1; then
+# --- FEX (binary is uppercase FEX, not fex) ---
+portal_fex_installed() {
+	command -v FEX >/dev/null 2>&1 && return 0
+	command -v FEXInterpreter >/dev/null 2>&1 && return 0
+	[[ -x /usr/bin/FEX ]] && return 0
+	dpkg -l 'fex-emu-armv8.*' 2>/dev/null | grep -q '^ii' && return 0
+	return 1
+}
+
+if ! portal_fex_installed; then
 	fail "FEX not installed. Run: sudo portal-install-fex"
+	echo "  (Command is FEX uppercase — lowercase 'fex' is not a package command)" >&2
 	exit 1
 fi
-ok "FEX installed"
+ok "FEX installed: $(command -v FEX 2>/dev/null || command -v FEXInterpreter 2>/dev/null || echo /usr/bin/FEX)"
 
 if [[ ! -f "${FEX_ROOTFS_UBUNTU}" ]]; then
 	portal_steam_log "Fetching FEX Ubuntu 24.04 rootfs (one-time, large download)..."
