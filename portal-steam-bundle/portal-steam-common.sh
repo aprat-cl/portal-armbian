@@ -124,10 +124,11 @@ portal_steam_install_proton_user_settings() {
 	[[ -n "${proton_dir}" ]] || return 0
 	local dest="${proton_dir}/user_settings.py"
 	[[ -f "${PORTAL_STEAM_SHARE}/proton-user_settings.py" ]] || return 0
-	if [[ -f "${dest}" ]] && grep -q 'PORTAL_PROTON' "${dest}" 2>/dev/null; then
+	# Proton-CachyOS requires user_settings = { ... }; skip only if already correct.
+	if [[ -f "${dest}" ]] && grep -qE '^user_settings\s*=' "${dest}" 2>/dev/null; then
 		return 0
 	fi
-	portal_steam_log "Installing Proton user_settings.py (all games using CachyOS ARM64)..."
+	portal_steam_log "Installing Proton user_settings.py (fixing invalid hook-style file if present)..."
 	cp -f "${PORTAL_STEAM_SHARE}/proton-user_settings.py" "${dest}"
 }
 

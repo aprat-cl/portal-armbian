@@ -15,8 +15,12 @@ if [[ ! -f "${SRC}/portal-steam" ]]; then
 fi
 
 REINSTALL_PROTON=""
+REINSTALL_STEAM=""
 if [[ -f "${SCRIPT_DIR}/portal-steam-bundle/reinstall-proton.sh" ]]; then
 	REINSTALL_PROTON="${SCRIPT_DIR}/portal-steam-bundle/reinstall-proton.sh"
+fi
+if [[ -f "${SCRIPT_DIR}/portal-steam-bundle/reinstall-steam.sh" ]]; then
+	REINSTALL_STEAM="${SCRIPT_DIR}/portal-steam-bundle/reinstall-steam.sh"
 fi
 
 rm -rf "${OUT}"
@@ -30,12 +34,14 @@ cp "${SRC}/portal-steam" "${SRC}/install-steam.sh" "${SRC}/portal-steam-common.s
 	"${SRC}/portal-game-launch" "${SRC}/diagnose-game.sh" "${SRC}/reset-prefix.sh" "${OUT}/"
 cp -a "${SRC}/share" "${OUT}/"
 [[ -n "${REINSTALL_PROTON}" ]] && cp "${REINSTALL_PROTON}" "${OUT}/"
+[[ -n "${REINSTALL_STEAM}" ]] && cp "${REINSTALL_STEAM}" "${OUT}/"
 
 chmod 755 "${OUT}/install-portal-steam.sh" "${OUT}/portal-steam" "${OUT}/install-steam.sh" \
 	"${OUT}/portal-steam-common.sh" "${OUT}/install-fex.sh" "${OUT}/setup-games.sh" \
 	"${OUT}/install-proton-stack.sh" \
 	"${OUT}/portal-game-launch" "${OUT}/diagnose-game.sh" "${OUT}/reset-prefix.sh"
 [[ -f "${OUT}/reinstall-proton.sh" ]] && chmod 755 "${OUT}/reinstall-proton.sh"
+[[ -f "${OUT}/reinstall-steam.sh" ]] && chmod 755 "${OUT}/reinstall-steam.sh"
 
 tar -czf "${ARCHIVE}" -C "${SCRIPT_DIR}" portal-steam-bundle
 
@@ -51,8 +57,5 @@ echo "On device:"
 echo "  tar xzf portal-steam-bundle.tar.gz"
 echo "  cd portal-steam-bundle"
 echo "  sudo bash install-portal-steam.sh"
-echo "  portal-install-steam          # as odin2"
-echo "  sudo bash install-proton-stack.sh  # once — Proton env for all games"
-echo "  portal-setup-games"
-echo "  bash reinstall-proton.sh       # Proton 11 + CachyOS only (as aprat)"
+echo "  sudo bash install-portal-steam.sh --full   # complete reinstall (keeps games)"
 echo "  portal-steam --gaming"

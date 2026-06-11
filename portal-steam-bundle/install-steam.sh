@@ -1,6 +1,9 @@
 #!/bin/bash
 # Install Valve Steam ARM64 *public beta* client (steamrtarm64) + beta runtime + Proton-CachyOS ARM64.
-# Not the stable amd64 launcher. FEX is separate (games only). Run as odin2. Needs network.
+# Not the stable amd64 launcher. FEX is separate (games only). Run as steam user. Needs network.
+#
+#   portal-install-steam              Skip parts already present
+#   portal-install-steam --force      Wipe broken client, re-download everything (keeps game installs)
 
 set -euo pipefail
 
@@ -13,6 +16,19 @@ PROTON_CACHYOS_TAR="proton-cachyos-${PROTON_CACHYOS_VERSION_FULL}-arm64.tar.xz"
 PROTON_CACHYOS_DIR="proton-cachyos-${PROTON_CACHYOS_VERSION_FULL}-arm64"
 PROTON_CACHYOS_URL="https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-${PROTON_CACHYOS_VERSION_FULL}/${PROTON_CACHYOS_TAR}"
 
+FORCE=0
+while [[ $# -gt 0 ]]; do
+	case "$1" in
+		--force) FORCE=1; shift ;;
+		-h | --help)
+			echo "Usage: portal-install-steam [--force]"
+			echo "  --force  Remove broken client/runtime, re-download libvpx6, Proton-CachyOS (keeps games)"
+			exit 0
+			;;
+		*) portal_steam_die "Unknown option: $1" ;;
+	esac
+done
+
 portal_steam_init_paths
 
 if [[ "$(id -un)" != "${STEAM_USER}" ]]; then
@@ -22,9 +38,31 @@ fi
 export HOME="${STEAM_HOME}"
 cd "${HOME}"
 
+portal_steam_stop_steam() {
+	portal_steam_log "Stopping Steam processes..."
+	pkill -f 'steamrtarm64/steam' 2>/dev/null || true
+	pkill -x steam 2>/dev/null || true
+	pkill -f 'steamwebhelper' 2>/dev/null || true
+	sleep 2
+}
+
+portal_steam_clean_client() {
+	portal_steam_log "Removing broken Steam client files (installed games in steamapps/ are kept)..."
+	rm -rf "${STEAM_DIR}/steamrtarm64"
+	rm -rf "${STEAM_RUNTIME_DIR}"
+	rm -rf "${STEAM_DIR}/linuxarm64"
+	rm -f "${STEAM_DIR}/linuxarm64.zip"
+	rm -rf "${STEAM_DIR}/config/htmlcache"
+	rm -rf "${STEAM_DIR}/logs"
+	rm -f "${STEAM_DIR}/.crash"
+	find "${STEAM_DIR}" -maxdepth 3 -name '*.lock' -delete 2>/dev/null || true
+	rm -f "${STEAM_LIB}/libvpx.so.6" "${STEAM_LIB}/libibus-1.0.so.5"
+}
+
 link_steam_library() {
 	portal_steam_log "Linking Steam library at ${STEAM_GAMES_ROOT}"
 	if [[ -d "${STEAM_DIR}" && ! -L "${STEAM_DIR}" ]]; then
+		portal_steam_log "Replacing ${STEAM_DIR} with symlink to ${STEAM_GAMES_ROOT}"
 		rm -rf "${STEAM_DIR}"
 	fi
 	mkdir -p "${STEAM_GAMES_ROOT}/steamapps"
@@ -32,8 +70,11 @@ link_steam_library() {
 }
 
 install_steam_runtime_arm64() {
-	if [[ -d "${STEAM_RUNTIME_DIR}" ]]; then
+	if [[ "${FORCE}" -eq 0 && -d "${STEAM_RUNTIME_DIR}" ]]; then
 		portal_steam_log "Steam runtime already present."
+		mkdir -p "${STEAM_LIB}"
+		portal_steam_link_runtime_libs
+		portal_steam_ensure_libvpx
 		return 0
 	fi
 	portal_steam_log "Downloading Steam ARM64 public-beta runtime..."
@@ -51,7 +92,7 @@ install_steam_runtime_arm64() {
 }
 
 install_steam_client_arm64() {
-	if [[ -x "${STEAM_CLIENT}" && -f "${STEAM_DIR}/package/beta" ]] && \
+	if [[ "${FORCE}" -eq 0 && -x "${STEAM_CLIENT}" && -f "${STEAM_DIR}/package/beta" ]] && \
 		grep -qx "${PORTAL_STEAM_BETA_CHANNEL}" "${STEAM_DIR}/package/beta"; then
 		portal_steam_log "Steam ARM64 public-beta client already present."
 		return 0
@@ -73,7 +114,6 @@ install_steam_client_arm64() {
 	ln -sfn "${STEAM_DIR}/linuxarm64" "${STEAM_DOT}/sdkarm64"
 
 	mkdir -p "${STEAM_DIR}/compatibilitytools.d/"
-	ln -sfn "${PROTON_DIR}/" "${STEAM_DIR}/compatibilitytools.d/Proton11ARM"
 	cp -f "${PORTAL_STEAM_SHARE}/compatibilitytool.vdf" "${STEAM_DIR}/compatibilitytools.d/"
 }
 
@@ -90,7 +130,14 @@ install_proton_cachyos() {
 	local extracted_dir="${dest_dir}/${PROTON_CACHYOS_DIR}"
 	local manifest_file="${extracted_dir}/toolmanifest.vdf"
 
-	if [[ -d "${dest_dir}" ]]; then
+	if [[ "${FORCE}" -eq 1 ]]; then
+		for old_dir in "${dest_dir}"/proton-cachyos-*-arm64; do
+			[[ -d "${old_dir}" ]] || continue
+			portal_steam_log "Removing $(basename "${old_dir}") (--force)"
+			rm -rf "${old_dir}"
+		done
+		rm -f "${tar_path}"
+	elif [[ -d "${dest_dir}" ]]; then
 		for old_dir in "${dest_dir}"/proton-cachyos-*-arm64; do
 			[[ -d "${old_dir}" ]] || continue
 			[[ "${old_dir}" == "${extracted_dir}" ]] && continue
@@ -99,20 +146,22 @@ install_proton_cachyos() {
 		done
 	fi
 
-	if [[ -d "${extracted_dir}" ]]; then
+	if [[ -d "${extracted_dir}" && "${FORCE}" -eq 0 ]]; then
 		portal_steam_log "Proton-CachyOS already installed."
-		return 0
+	else
+		portal_steam_log "Downloading Proton-CachyOS ARM64..."
+		mkdir -p "${dest_dir}"
+		wget -c -t 5 -O "${tar_path}" "${PROTON_CACHYOS_URL}"
+		tar -xvf "${tar_path}" -C "${dest_dir}"
+		rm -f "${tar_path}"
 	fi
 
-	portal_steam_log "Downloading Proton-CachyOS ARM64..."
-	mkdir -p "${dest_dir}"
-	wget -c -t 5 -O "${tar_path}" "${PROTON_CACHYOS_URL}"
-	tar -xvf "${tar_path}" -C "${dest_dir}"
-	rm -f "${tar_path}"
 	if [[ -f "${manifest_file}" ]]; then
 		sed -i '/require_tool_appid/d' "${manifest_file}"
 	fi
-	portal_steam_link_proton_compat
+	chmod +x "${extracted_dir}/proton" 2>/dev/null || true
+	portal_steam_link_proton_compat 2>/dev/null || \
+		ln -sfn "${extracted_dir}" "${dest_dir}/Proton11ARM"
 }
 
 run_steam_first_launch() {
@@ -129,13 +178,28 @@ install_desktop_stub() {
 }
 
 portal_steam_log "Starting Steam ARM64 public-beta install for ${STEAM_USER}..."
+
+if [[ "${FORCE}" -eq 1 ]]; then
+	portal_steam_stop_steam
+fi
+
 link_steam_library
+
+if [[ "${FORCE}" -eq 1 ]]; then
+	portal_steam_clean_client
+fi
+
 install_desktop_stub
 install_steam_runtime_arm64
 install_steam_client_arm64
 install_bundled_proton_files
 install_proton_cachyos
+portal_steam_patch_toolmanifests
+portal_steam_install_proton_user_settings
 run_steam_first_launch
 
-portal_steam_log "Done. Launch: portal-steam --gamepadui"
-portal_steam_log "Before playing games: sudo portal-install-fex && portal-setup-games"
+portal_steam_log "Steam client installed."
+if [[ "${FORCE}" -eq 0 ]]; then
+	portal_steam_log "Before playing games: sudo portal-install-fex && portal-setup-games"
+	portal_steam_log "Valve Proton 11: sudo -u ${STEAM_USER} portal-reinstall-proton"
+fi

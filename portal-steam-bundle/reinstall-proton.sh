@@ -170,10 +170,34 @@ install_cachyos() {
 	rm -f "${tar}"
 	sed -i '/require_tool_appid/d' "${dir}/toolmanifest.vdf" 2>/dev/null || true
 	chmod +x "${dir}/proton"
+	install_cachyos_user_settings "${dir}"
 
 	write_compat_vdf
 	ln -sfn "${dir}" "${COMPAT}/Proton11ARM"
 	log "Proton11ARM → ${PROTON_CACHYOS_DIR}"
+}
+
+install_cachyos_user_settings() {
+	local dir="$1"
+	local src=""
+	for src in \
+		"/usr/share/portal-steam/proton-user_settings.py" \
+		"$(dirname "$0")/share/proton-user_settings.py"; do
+		[[ -f "${src}" ]] || continue
+		cp -f "${src}" "${dir}/user_settings.py"
+		log "Installed user_settings.py from ${src}"
+		return 0
+	done
+	cat >"${dir}/user_settings.py" <<'PY'
+user_settings = {
+	"SDL_VIDEODRIVER": "x11",
+	"GDK_BACKEND": "x11",
+	"QT_QPA_PLATFORM": "xcb",
+	"TU_DEBUG": "deck_emu",
+	"VK_ICD_FILENAMES": "/usr/share/vulkan/icd.d/freedreno_icd.aarch64.json",
+}
+PY
+	log "Installed default user_settings.py"
 }
 
 remove_valve_proton() {
