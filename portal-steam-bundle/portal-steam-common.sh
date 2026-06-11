@@ -100,6 +100,23 @@ portal_steam_apply_session_env() {
 	fi
 }
 
+# Proton toolmanifest.vdf — Steam validation fails on Portal without require_tool_appid removed.
+portal_steam_patch_toolmanifests() {
+	local f
+	if [[ -f "${PORTAL_STEAM_SHARE}/toolmanifest.vdf" && -d "${PROTON_DIR}" ]]; then
+		cp -f "${PORTAL_STEAM_SHARE}/toolmanifest.vdf" "${PROTON_DIR}/"
+	fi
+	for f in \
+		"${PROTON_DIR}/toolmanifest.vdf" \
+		"${STEAM_DIR}"/compatibilitytools.d/proton-cachyos-*-arm64/toolmanifest.vdf; do
+		[[ -f "${f}" ]] || continue
+		if grep -q 'require_tool_appid' "${f}" 2>/dev/null; then
+			sed -i '/require_tool_appid/d' "${f}"
+			portal_steam_log "Patched toolmanifest (removed require_tool_appid): ${f}"
+		fi
+	done
+}
+
 # Proton user_settings.py — env for every game using Proton-CachyOS ARM64 (official hook).
 portal_steam_install_proton_user_settings() {
 	local proton_dir

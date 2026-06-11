@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../armbian_steamos"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

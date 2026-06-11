@@ -12,6 +12,13 @@ if (-not (Test-Path (Join-Path $Src 'portal-steam'))) {
     Write-Error "Not found: $Src\portal-steam"
 }
 
+$ReinstallProton = Join-Path $Root 'portal-steam-bundle\reinstall-proton.sh'
+$ReinstallBackup = $null
+if (Test-Path $ReinstallProton) {
+    $ReinstallBackup = Join-Path $env:TEMP 'reinstall-proton.sh.portal'
+    Copy-Item $ReinstallProton $ReinstallBackup -Force
+}
+
 if (Test-Path $Out) { Remove-Item $Out -Recurse -Force }
 if (Test-Path $Zip) { Remove-Item $Zip -Force }
 
@@ -36,6 +43,9 @@ if (Test-Path (Join-Path $Src 'share\fex-emu')) {
     Copy-Item (Join-Path $Src 'share\fex-emu\*') (Join-Path $Out 'share\fex-emu') -Recurse -Force
 }
 Copy-Item (Join-Path $Src 'share\*') (Join-Path $Out 'share') -Recurse -Force
+if ($ReinstallBackup -and (Test-Path $ReinstallBackup)) {
+    Copy-Item $ReinstallBackup (Join-Path $Out 'reinstall-proton.sh') -Force
+}
 
 Compress-Archive -Path (Join-Path $Out '*') -DestinationPath $Zip -Force
 
@@ -49,5 +59,6 @@ Write-Host '  unzip portal-steam-bundle.zip -d portal-steam-bundle'
 Write-Host '  cd portal-steam-bundle'
 Write-Host '  sudo bash install-portal-steam.sh'
 Write-Host '  portal-install-steam'
+Write-Host '  bash reinstall-proton.sh          # Proton 11 + CachyOS only'
 Write-Host '  sudo portal-install-controller'
 Write-Host '  portal-steam --gaming'
